@@ -4,9 +4,11 @@ import { Badge } from "@/components/ui/badge";
 import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink } from "lucide-react";
 
 type Releases = {
-  tag?: string;
-  name?: string;
-  published_at?: string;
+  sha?: string;
+  short_sha?: string;
+  title?: string;
+  created?: string;
+  run_id?: string;
   linux?: string;
   windows?: string;
   macos?: string;
@@ -21,13 +23,19 @@ type Commit = {
   url: string;
 };
 
+const REPO_URL = "https://github.com/UrubuCode/rts";
+
 const Index = () => {
   const [releases, setReleases] = useState<Releases>({});
   const [commits, setCommits] = useState<Commit[]>([]);
+  const [totalCommits, setTotalCommits] = useState<number>(0);
 
   useEffect(() => {
     fetch("/releases.json").then(r => r.json()).then(setReleases).catch(() => {});
-    fetch("/commits.json").then(r => r.json()).then(setCommits).catch(() => {});
+    fetch("/commits.json").then(r => r.json()).then((d) => {
+      if (Array.isArray(d)) { setCommits(d); }
+      else { setCommits(d.commits || []); setTotalCommits(d.total || 0); }
+    }).catch(() => {});
   }, []);
 
   const downloads = [
@@ -52,11 +60,11 @@ const Index = () => {
             <a href="#install" className="hover:text-foreground transition">Install</a>
             <a href="#benchmarks" className="hover:text-foreground transition">Benchmarks</a>
             <a href="#commits" className="hover:text-foreground transition">Activity</a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-foreground transition">Docs</a>
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer" className="hover:text-foreground transition">Docs</a>
           </nav>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://github.com" target="_blank" rel="noreferrer"><Github className="h-4 w-4" /></a>
+              <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer"><Github className="h-4 w-4" /></a>
             </Button>
             <Button size="sm" asChild className="bg-gradient-to-r from-primary to-[hsl(var(--brand-glow))] hover:opacity-90 border-0">
               <a href="#install">Install</a>
@@ -71,7 +79,7 @@ const Index = () => {
         <div className="container relative py-24 md:py-36 text-center">
           <Badge variant="outline" className="mb-6 border-primary/30 bg-primary/5 text-primary">
             <Sparkles className="h-3 w-3 mr-1.5" />
-            {releases.tag ? `Latest: ${releases.tag}` : "v0.1 — Public preview"}
+            {releases.short_sha ? `Latest: ${releases.short_sha}` : "v0.1 — Public preview"}
           </Badge>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight mb-6">
             <span className="text-gradient">Ultra fast</span>
@@ -87,7 +95,7 @@ const Index = () => {
               <a href="#install"><Download className="h-4 w-4 mr-2" /> Install RTS</a>
             </Button>
             <Button size="lg" variant="outline" asChild className="text-base h-12 px-6 border-border/60">
-              <a href="https://github.com" target="_blank" rel="noreferrer"><Github className="h-4 w-4 mr-2" /> Star on GitHub</a>
+              <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer"><Github className="h-4 w-4 mr-2" /> Star on GitHub</a>
             </Button>
           </div>
           <div className="mx-auto max-w-2xl rounded-xl border border-border/60 bg-card/80 backdrop-blur p-1 shadow-elegant">
@@ -139,7 +147,7 @@ const Index = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Get RTS</h2>
           <p className="text-muted-foreground text-lg">
-            {releases.tag ? `Latest release: ${releases.tag}` : "Pick your platform and start shipping."}
+            {releases.short_sha ? `Latest release: ${releases.short_sha}` : "Pick your platform and start shipping."}
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-4 max-w-5xl mx-auto">
@@ -194,10 +202,12 @@ const Index = () => {
         <div className="flex items-end justify-between mb-10 flex-wrap gap-4">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold mb-2">Latest activity</h2>
-            <p className="text-muted-foreground text-lg">Live from the RTS repository.</p>
+            <p className="text-muted-foreground text-lg">
+              Live from the RTS repository{totalCommits ? ` · ${totalCommits.toLocaleString()} commits total` : ""}.
+            </p>
           </div>
           <Button variant="outline" asChild className="border-border/60">
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer">
               View on GitHub <ArrowRight className="h-4 w-4 ml-2" />
             </a>
           </Button>
@@ -257,7 +267,7 @@ const Index = () => {
             <span>© {new Date().getFullYear()} RTS. MIT Licensed.</span>
           </div>
           <div className="flex items-center gap-6">
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-foreground transition">GitHub</a>
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer" className="hover:text-foreground transition">GitHub</a>
             <a href="#" className="hover:text-foreground transition">Docs</a>
             <a href="#" className="hover:text-foreground transition">Discord</a>
           </div>

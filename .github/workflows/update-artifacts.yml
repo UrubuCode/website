@@ -12,58 +12,77 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      RTS_REPO: ${{ vars.RTS_REPO || 'rts-lang/rts' }}
+      RTS_REPO: UrubuCode/rts
+      RTS_PAGES: https://urubucode.github.io/rts
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch latest release artifacts
+      - name: Fetch latest builds (artifacts) from RTS Pages
         run: |
           set -e
           mkdir -p public
-          curl -sSL -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/$RTS_REPO/releases/latest" > /tmp/release.json || echo '{}' > /tmp/release.json
+          curl -fsSL "$RTS_PAGES/builds.json" -o /tmp/builds.json || echo '[]' > /tmp/builds.json
+
           node -e "
             const fs=require('fs');
-            const data=JSON.parse(fs.readFileSync('/tmp/release.json','utf8')||'{}');
-            const assets=data.assets||[];
-            const find=(re)=>{const a=assets.find(x=>re.test(x.name));return a?a.browser_download_url:'';};
-            const out={
-              tag:data.tag_name||'',
-              name:data.name||'',
-              published_at:data.published_at||'',
+            const pages=process.env.RTS_PAGES;
+            const builds=JSON.parse(fs.readFileSync('/tmp/builds.json','utf8')||'[]');
+            const latest=builds[0]||{};
+            const arts=latest.artifacts||[];
+            const find=(re)=>{const a=arts.find(x=>re.test(x.name));return a?pages+'/'+a.path:'';};
+            const releases={
+              sha:latest.sha||'',
+              short_sha:latest.short_sha||'',
+              title:latest.title||'',
+              created:latest.created||'',
+              run_id:latest.run_id||'',
               linux:find(/linux/i),
-              windows:find(/win|windows|\\.exe/i),
-              macos:find(/darwin|mac|apple/i)
+              windows:find(/win/i),
+              macos:find(/mac|darwin|apple/i)
             };
-            fs.writeFileSync('public/releases.json',JSON.stringify(out,null,2));
+            fs.writeFileSync('public/releases.json',JSON.stringify(releases,null,2));
+
+            const allBuilds=builds.map(b=>({
+              sha:b.sha,short_sha:b.short_sha,title:b.title,created:b.created,run_id:b.run_id,
+              artifacts:(b.artifacts||[]).map(a=>({name:a.name,file:a.file,size_mb:a.size_mb,url:pages+'/'+a.path}))
+            }));
+            fs.writeFileSync('public/builds.json',JSON.stringify(allBuilds,null,2));
           "
 
-      - name: Fetch latest commits
+      - name: Fetch commits (latest 20 + total)
         run: |
           set -e
-          curl -sSL -H "Authorization: Bearer $GH_TOKEN" \
+          curl -fsSL -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/$RTS_REPO/commits?per_page=20" > /tmp/commits.json || echo '[]' > /tmp/commits.json
+
+          # Total commit count via Link header pagination trick
+          TOTAL=$(curl -fsSI -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$RTS_REPO/commits?per_page=1" \
+            | grep -i '^link:' | grep -oP 'page=\K\d+(?=>; rel="last")' | head -1)
+          echo "${TOTAL:-0}" > /tmp/total.txt
+
           node -e "
             const fs=require('fs');
             const arr=JSON.parse(fs.readFileSync('/tmp/commits.json','utf8')||'[]');
-            const out=(Array.isArray(arr)?arr:[]).map(c=>({
+            const total=parseInt(fs.readFileSync('/tmp/total.txt','utf8').trim()||'0',10);
+            const commits=(Array.isArray(arr)?arr:[]).map(c=>({
               sha:c.sha,
               short:(c.sha||'').slice(0,7),
-              message:((c.commit&&c.commit.message)||'').split('\\n')[0],
+              message:((c.commit&&c.commit.message)||'').split('\n')[0],
               author:(c.commit&&c.commit.author&&c.commit.author.name)||'',
               date:(c.commit&&c.commit.author&&c.commit.author.date)||'',
               url:c.html_url
             }));
-            fs.writeFileSync('public/commits.json',JSON.stringify(out,null,2));
+            fs.writeFileSync('public/commits.json',JSON.stringify({total,commits},null,2));
           "
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/releases.json public/commits.json
+          git add public/releases.json public/commits.json public/builds.json
           git diff --cached --quiet || git commit -m "chore: update releases and commits"
           git push

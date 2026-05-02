@@ -1,1 +1,165 @@
-[]
+{
+  "total": 541,
+  "commits": [
+    {
+      "sha": "a58e362e4df2fb10af0951941113476cefeca871",
+      "short": "a58e362",
+      "message": "Add files via upload",
+      "author": "Drysius",
+      "date": "2026-05-02T17:06:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a58e362e4df2fb10af0951941113476cefeca871"
+    },
+    {
+      "sha": "43c7ad86713eee859c77393621b5c2dd333e8707",
+      "short": "43c7ad8",
+      "message": "Add files via upload",
+      "author": "Drysius",
+      "date": "2026-05-02T17:05:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/43c7ad86713eee859c77393621b5c2dd333e8707"
+    },
+    {
+      "sha": "a01393f07d1ea6afccbcfa82ab0909751acdee2c",
+      "short": "a01393f",
+      "message": "feat(pages): lista os ultimos 10 builds, nao so o ultimo (#448)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T16:31:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a01393f07d1ea6afccbcfa82ab0909751acdee2c"
+    },
+    {
+      "sha": "203161e86c7b0ff330a3354d2963aea8b53b4286",
+      "short": "203161e",
+      "message": "feat(ci): pagina GitHub Pages com downloads dos artefatos (#447)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T16:27:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/203161e86c7b0ff330a3354d2963aea8b53b4286"
+    },
+    {
+      "sha": "f63803b70f4841231a269f2ae311bf1d6dd89d17",
+      "short": "f63803b",
+      "message": "Merge pull request #446 from UrubuCode/fix/ci-debug-build-deps-v2",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T16:11:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f63803b70f4841231a269f2ae311bf1d6dd89d17"
+    },
+    {
+      "sha": "b89bedf410e464b31e832f30e8cb15ad71eb9df1",
+      "short": "b89bedf",
+      "message": "fix(ci): adiciona deps do build.rs em [build-dependencies]",
+      "author": "Marcos",
+      "date": "2026-05-02T16:10:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b89bedf410e464b31e832f30e8cb15ad71eb9df1"
+    },
+    {
+      "sha": "60dbffa20dd17dd9582635eb2ff4534991e44c84",
+      "short": "60dbffa",
+      "message": "Merge pull request #445 from UrubuCode/claude/fix-windows-ci-4K1ek",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T15:57:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/60dbffa20dd17dd9582635eb2ff4534991e44c84"
+    },
+    {
+      "sha": "d4abe4e2df1e876d8857f0ba7847079b9bab68d8",
+      "short": "d4abe4e",
+      "message": "fix(ci): harden build.rs rlib lookup + remove unused fltk build-dep",
+      "author": "Claude",
+      "date": "2026-05-02T15:06:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4abe4e2df1e876d8857f0ba7847079b9bab68d8"
+    },
+    {
+      "sha": "0c253f384deca9c9d7a4e39c8bb919d7bdaa5365",
+      "short": "0c253f3",
+      "message": "Merge pull request #443 from UrubuCode/claude/expand-useful-tests-RO4h5",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T14:27:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c253f384deca9c9d7a4e39c8bb919d7bdaa5365"
+    },
+    {
+      "sha": "58e767ffa7bf18406bbb6d164c93e072e0433103",
+      "short": "58e767f",
+      "message": "Merge pull request #442 from UrubuCode/claude/fix-git-ci-errors-5LpSL",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T14:16:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58e767ffa7bf18406bbb6d164c93e072e0433103"
+    },
+    {
+      "sha": "cc040152a3c2900f253351603d96156abdf14aae",
+      "short": "cc04015",
+      "message": "fix(ci): resolve runtime_support build + symlink_mode typo",
+      "author": "Claude",
+      "date": "2026-05-02T14:14:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cc040152a3c2900f253351603d96156abdf14aae"
+    },
+    {
+      "sha": "c69103efb8b012371042485410b8dab543ffcce4",
+      "short": "c69103e",
+      "message": "test: expande 13 testes shallow com edge cases e regressoes",
+      "author": "Claude",
+      "date": "2026-05-02T14:07:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c69103efb8b012371042485410b8dab543ffcce4"
+    },
+    {
+      "sha": "3e3fe4d0bcc0b7f46a08a71567c5e5646ada0daf",
+      "short": "3e3fe4d",
+      "message": "Merge pull request #441 from UrubuCode/feat/method-reify-this-binding",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-02T12:45:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e3fe4d0bcc0b7f46a08a71567c5e5646ada0daf"
+    },
+    {
+      "sha": "d8800416240d5d49c052da506d4675263379fdd4",
+      "short": "d880041",
+      "message": "feat(function): reify method-via-instance with typed dispatch (#359)",
+      "author": "Marcos",
+      "date": "2026-05-02T12:45:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8800416240d5d49c052da506d4675263379fdd4"
+    },
+    {
+      "sha": "455a1742f22578202c74a3eabafc4a44ef0ce274",
+      "short": "455a174",
+      "message": "remove obsolent files",
+      "author": "Daniel",
+      "date": "2026-05-02T03:01:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/455a1742f22578202c74a3eabafc4a44ef0ce274"
+    },
+    {
+      "sha": "81f7f30e25968d9fd097de691b066b8dcb6d74cb",
+      "short": "81f7f30",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-05-02T03:00:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81f7f30e25968d9fd097de691b066b8dcb6d74cb"
+    },
+    {
+      "sha": "f7abc941b6419c1a01ee44a2391d53f39b68d172",
+      "short": "f7abc94",
+      "message": "Merge branch 'fix/concat-repeated-literal'",
+      "author": "Marcos",
+      "date": "2026-05-02T02:53:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7abc941b6419c1a01ee44a2391d53f39b68d172"
+    },
+    {
+      "sha": "2ac3171028e8b67463fd44add94896091217c7c2",
+      "short": "2ac3171",
+      "message": "docs(readme): mascote urubu + readme reformatado",
+      "author": "Marcos",
+      "date": "2026-05-02T02:51:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2ac3171028e8b67463fd44add94896091217c7c2"
+    },
+    {
+      "sha": "130caca90af405c826292187f3dc78182e0e81a8",
+      "short": "130caca",
+      "message": "Support compiled 'this' param in functions",
+      "author": "Daniel",
+      "date": "2026-05-02T02:42:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/130caca90af405c826292187f3dc78182e0e81a8"
+    },
+    {
+      "sha": "e7834dc5d9398e713ee32afd6fdff0df50303ae8",
+      "short": "e7834dc",
+      "message": "Replace logo images with private user images",
+      "author": "Drysius",
+      "date": "2026-05-02T02:38:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7834dc5d9398e713ee32afd6fdff0df50303ae8"
+    }
+  ]
+}
