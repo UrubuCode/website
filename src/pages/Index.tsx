@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink } from "lucide-react";
+import logo from "/logo.png";
 
 type Releases = {
   sha?: string;
@@ -50,9 +51,7 @@ const Index = () => {
       <header className="sticky top-0 z-50 border-b border-border/40 bg-background/70 backdrop-blur-xl">
         <div className="container flex h-16 items-center justify-between">
           <a href="/" className="flex items-center gap-2 font-bold text-lg">
-            <div className="grid h-8 w-8 place-items-center rounded-lg bg-gradient-to-br from-primary to-[hsl(var(--brand-glow))] glow">
-              <Zap className="h-4 w-4 text-primary-foreground" fill="currentColor" />
-            </div>
+            <img src={logo} alt="RTS logo" width={32} height={32} className="h-8 w-8 rounded-lg" />
             <span>RTS</span>
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
@@ -261,9 +260,7 @@ const Index = () => {
       <footer className="border-t border-border/40">
         <div className="container py-10 flex flex-wrap items-center justify-between gap-4 text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
-            <div className="grid h-6 w-6 place-items-center rounded-md bg-gradient-to-br from-primary to-[hsl(var(--brand-glow))]">
-              <Zap className="h-3 w-3 text-primary-foreground" fill="currentColor" />
-            </div>
+            <img src={logo} alt="RTS logo" width={24} height={24} loading="lazy" className="h-6 w-6 rounded-md" />
             <span>© {new Date().getFullYear()} RTS. MIT Licensed.</span>
           </div>
           <div className="flex items-center gap-6">
