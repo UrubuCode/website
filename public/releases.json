@@ -1,5 +1,10 @@
 {
-  "linux": "",
-  "windows": "",
-  "macos": ""
+  "sha": "a01393f07d1ea6afccbcfa82ab0909751acdee2c",
+  "short_sha": "a01393f",
+  "title": "feat(pages): lista os ultimos 10 builds, nao so o ultimo (#448)",
+  "created": "2026-05-02T16:31:54Z",
+  "run_id": "25256520866",
+  "linux": "https://urubucode.github.io/rts/downloads/a01393f/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/a01393f/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/a01393f/rts-macOS-ARM64/rts"
 }
