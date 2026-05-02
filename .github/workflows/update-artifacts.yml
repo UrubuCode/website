@@ -1,0 +1,79 @@
+name: Update RTS artifacts and commits
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      RTS_REPO: ${{ vars.RTS_REPO || 'rts-lang/rts' }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest release artifacts
+        run: |
+          set -e
+          mkdir -p public
+          REPO="$RTS_REPO"
+          echo "Fetching releases from $REPO"
+          REL_JSON=$(curl -sSL -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/releases/latest" || echo '{}')
+
+          node - <<'EOF'
+          const fs = require('fs');
+          const data = JSON.parse(process.env.REL || '{}');
+          const assets = data.assets || [];
+          const find = (re) => {
+            const a = assets.find(x => re.test(x.name));
+            return a ? a.browser_download_url : "";
+          };
+          const out = {
+            tag: data.tag_name || "",
+            name: data.name || "",
+            published_at: data.published_at || "",
+            linux: find(/linux/i),
+            windows: find(/win|windows|\.exe/i),
+            macos: find(/darwin|mac|apple/i),
+          };
+          fs.writeFileSync('public/releases.json', JSON.stringify(out, null, 2));
+          EOF
+        env:
+          REL: ${{ '' }}
+
+      - name: Fetch latest commits
+        run: |
+          set -e
+          REPO="$RTS_REPO"
+          curl -sSL -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/commits?per_page=20" \
+            | node -e "
+              let d='';process.stdin.on('data',c=>d+=c).on('end',()=>{
+                const arr=JSON.parse(d||'[]');
+                const out=arr.map(c=>({
+                  sha:c.sha,
+                  short:c.sha.slice(0,7),
+                  message:(c.commit&&c.commit.message||'').split('\n')[0],
+                  author:c.commit&&c.commit.author&&c.commit.author.name||'',
+                  date:c.commit&&c.commit.author&&c.commit.author.date||'',
+                  url:c.html_url
+                }));
+                require('fs').writeFileSync('public/commits.json',JSON.stringify(out,null,2));
+              });
+            "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/releases.json public/commits.json
+          git diff --cached --quiet || git commit -m "chore: update releases and commits"
+          git push
