@@ -135,10 +135,18 @@ const Index = () => {
               <span className="h-2.5 w-2.5 rounded-full bg-destructive/70" />
               <span className="h-2.5 w-2.5 rounded-full bg-[hsl(var(--brand-glow))]/70" />
               <span className="h-2.5 w-2.5 rounded-full bg-accent/70" />
-              <span className="ml-2 text-xs text-muted-foreground font-mono">terminal</span>
+              <span className="ml-2 text-xs text-muted-foreground font-mono">terminal — {OS_LABEL[os]}</span>
+              <button
+                onClick={copyInstall}
+                className="ml-auto inline-flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground transition"
+                aria-label="Copy install command"
+              >
+                {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-3.5 w-3.5" />}
+                {copied ? "Copied" : "Copy"}
+              </button>
             </div>
             <pre className="p-5 text-left font-mono text-sm overflow-x-auto">
-<span className="text-muted-foreground">$ </span><span className="text-accent">curl</span> -fsSL https://urubucode.github.io/website/install.sh | bash{"\n"}
+<span className="text-muted-foreground">$ </span><span className="text-foreground">{installCmd}</span>{"\n"}
 <span className="text-muted-foreground">$ </span><span className="text-accent">rts</span> run server.ts{"\n"}
 <span className="text-[hsl(var(--brand-glow))]">→ compiled in 12ms · listening on :3000</span>
             </pre>
