@@ -1,8 +1,27 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink } from "lucide-react";
+import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink, Copy, Check } from "lucide-react";
 import logo from "/logo.png";
+
+type OS = "linux" | "macos" | "windows";
+
+function detectOS(): OS {
+  if (typeof navigator === "undefined") return "linux";
+  const ua = `${navigator.userAgent} ${navigator.platform}`.toLowerCase();
+  if (ua.includes("win")) return "windows";
+  if (ua.includes("mac") || ua.includes("iphone") || ua.includes("ipad")) return "macos";
+  return "linux";
+}
+
+const INSTALL_CMD: Record<OS, string> = {
+  linux: "curl -fsSL https://urubucode.github.io/website/install.sh | bash",
+  macos: "curl -fsSL https://urubucode.github.io/website/install.sh | bash",
+  windows: 'powershell -c "irm https://urubucode.github.io/website/install.ps1 | iex"',
+};
+
+const OS_LABEL: Record<OS, string> = { linux: "Linux", macos: "macOS", windows: "Windows" };
+
 
 type Releases = {
   sha?: string;
@@ -30,6 +49,10 @@ const Index = () => {
   const [releases, setReleases] = useState<Releases>({});
   const [commits, setCommits] = useState<Commit[]>([]);
   const [totalCommits, setTotalCommits] = useState<number>(0);
+  const [os, setOs] = useState<OS>("linux");
+  const [copied, setCopied] = useState(false);
+
+  useEffect(() => { setOs(detectOS()); }, []);
 
   useEffect(() => {
     fetch("/releases.json").then(r => r.json()).then(setReleases).catch(() => {});
@@ -39,7 +62,22 @@ const Index = () => {
     }).catch(() => {});
   }, []);
 
-  const downloads = [
+  const installCmd = useMemo(() => INSTALL_CMD[os], [os]);
+
+  const copyInstall = async () => {
+    try {
+      await navigator.clipboard.writeText(installCmd);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    } catch {}
+  };
+
+  const downloads: { os: OS; label: string; url?: string; cmd: string }[] = [
+    { os: "linux",   label: "Linux",   url: releases.linux,   cmd: INSTALL_CMD.linux },
+    { os: "macos",   label: "macOS",   url: releases.macos,   cmd: INSTALL_CMD.macos },
+    { os: "windows", label: "Windows", url: releases.windows, cmd: INSTALL_CMD.windows },
+  ];
+
     { os: "Linux", url: releases.linux, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
     { os: "macOS", url: releases.macos, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
     { os: "Windows", url: releases.windows, cmd: "powershell -c \"irm https://urubucode.github.io/website/install.ps1 | iex\"" },
