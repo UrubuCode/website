@@ -60,11 +60,11 @@ const Index = () => {
             <a href="#install" className="hover:text-foreground transition">Install</a>
             <a href="#benchmarks" className="hover:text-foreground transition">Benchmarks</a>
             <a href="#commits" className="hover:text-foreground transition">Activity</a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-foreground transition">Docs</a>
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer" className="hover:text-foreground transition">Docs</a>
           </nav>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://github.com" target="_blank" rel="noreferrer"><Github className="h-4 w-4" /></a>
+              <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer"><Github className="h-4 w-4" /></a>
             </Button>
             <Button size="sm" asChild className="bg-gradient-to-r from-primary to-[hsl(var(--brand-glow))] hover:opacity-90 border-0">
               <a href="#install">Install</a>
@@ -95,7 +95,7 @@ const Index = () => {
               <a href="#install"><Download className="h-4 w-4 mr-2" /> Install RTS</a>
             </Button>
             <Button size="lg" variant="outline" asChild className="text-base h-12 px-6 border-border/60">
-              <a href="https://github.com" target="_blank" rel="noreferrer"><Github className="h-4 w-4 mr-2" /> Star on GitHub</a>
+              <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer"><Github className="h-4 w-4 mr-2" /> Star on GitHub</a>
             </Button>
           </div>
           <div className="mx-auto max-w-2xl rounded-xl border border-border/60 bg-card/80 backdrop-blur p-1 shadow-elegant">
@@ -205,7 +205,7 @@ const Index = () => {
             <p className="text-muted-foreground text-lg">Live from the RTS repository.</p>
           </div>
           <Button variant="outline" asChild className="border-border/60">
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer">
               View on GitHub <ArrowRight className="h-4 w-4 ml-2" />
             </a>
           </Button>
@@ -265,7 +265,7 @@ const Index = () => {
             <span>© {new Date().getFullYear()} RTS. MIT Licensed.</span>
           </div>
           <div className="flex items-center gap-6">
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-foreground transition">GitHub</a>
+            <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer" className="hover:text-foreground transition">GitHub</a>
             <a href="#" className="hover:text-foreground transition">Docs</a>
             <a href="#" className="hover:text-foreground transition">Discord</a>
           </div>
