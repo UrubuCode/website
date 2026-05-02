@@ -1,10 +1,10 @@
 {
-  "sha": "a01393f07d1ea6afccbcfa82ab0909751acdee2c",
-  "short_sha": "a01393f",
-  "title": "feat(pages): lista os ultimos 10 builds, nao so o ultimo (#448)",
-  "created": "2026-05-02T16:31:54Z",
-  "run_id": "25256520866",
-  "linux": "https://urubucode.github.io/rts/downloads/a01393f/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/a01393f/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/a01393f/rts-macOS-ARM64/rts"
+  "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
+  "short_sha": "8ecd55d",
+  "title": "fix(bench): jsRunners por bench + cria dir do JsonOut + ASCII no erro",
+  "created": "2026-05-02T18:21:25Z",
+  "run_id": "25258681352",
+  "linux": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-macOS-ARM64/rts"
 }

@@ -1,6 +1,78 @@
 {
-  "total": 541,
+  "total": 550,
   "commits": [
+    {
+      "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
+      "short": "8ecd55d",
+      "message": "fix(bench): jsRunners por bench + cria dir do JsonOut + ASCII no erro",
+      "author": "Marcos",
+      "date": "2026-05-02T18:21:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8ecd55df3b04378df059e70e4557390aae67bea7"
+    },
+    {
+      "sha": "cb37762c91772b5babb25b90183d6ec7a71f4ce6",
+      "short": "cb37762",
+      "message": "fix(bench): rts nao tem --version, tornar smoke-test tolerante",
+      "author": "Marcos",
+      "date": "2026-05-02T18:14:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb37762c91772b5babb25b90183d6ec7a71f4ce6"
+    },
+    {
+      "sha": "bd14aed65dd986fc2f6fd9796c4365b6e998ad41",
+      "short": "bd14aed",
+      "message": "refactor(ci): bench reusa rts.exe do Build Artifacts em vez de buildar",
+      "author": "Marcos",
+      "date": "2026-05-02T18:07:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bd14aed65dd986fc2f6fd9796c4365b6e998ad41"
+    },
+    {
+      "sha": "92b3940191a314ef18565cd17b310b083105092b",
+      "short": "92b3940",
+      "message": "fix(bench): renomeia $runs para $runEntries no benchmark.ps1",
+      "author": "Marcos",
+      "date": "2026-05-02T18:06:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/92b3940191a314ef18565cd17b310b083105092b"
+    },
+    {
+      "sha": "586e6a31bbed67709f997738c9776f80db17d789",
+      "short": "586e6a3",
+      "message": "fix(tls): converte TrustAnchor via rustls::pki_types explicitamente",
+      "author": "Marcos",
+      "date": "2026-05-02T17:56:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/586e6a31bbed67709f997738c9776f80db17d789"
+    },
+    {
+      "sha": "2e099f356ce651d839bcf456da9a5ad56c59dea9",
+      "short": "2e099f3",
+      "message": "refactor(ci): benchmarks rodam em windows-latest direto no push",
+      "author": "Marcos",
+      "date": "2026-05-02T17:48:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e099f356ce651d839bcf456da9a5ad56c59dea9"
+    },
+    {
+      "sha": "eaa985aa9d86f8c4a72d51a7120efbe2c28075cd",
+      "short": "eaa985a",
+      "message": "fix(tls): extend RootCertStore via slice, evita ambiguidade de lifetime",
+      "author": "Marcos",
+      "date": "2026-05-02T17:46:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eaa985aa9d86f8c4a72d51a7120efbe2c28075cd"
+    },
+    {
+      "sha": "00ecbbf908f3eeb8de4b6e566a5d246c97cb460d",
+      "short": "00ecbbf",
+      "message": "fix(deps): atualiza webpki-roots para 1.x",
+      "author": "Marcos",
+      "date": "2026-05-02T17:36:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00ecbbf908f3eeb8de4b6e566a5d246c97cb460d"
+    },
+    {
+      "sha": "61a5c916f996702502807fe2f968ef9a0d446108",
+      "short": "61a5c91",
+      "message": "feat(ci): workflow de benchmarks comparando RTS, Bun, Node, Deno",
+      "author": "Marcos",
+      "date": "2026-05-02T17:21:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/61a5c916f996702502807fe2f968ef9a0d446108"
+    },
     {
       "sha": "a58e362e4df2fb10af0951941113476cefeca871",
       "short": "a58e362",
@@ -88,78 +160,6 @@
       "author": "Claude",
       "date": "2026-05-02T14:14:27Z",
       "url": "https://github.com/UrubuCode/rts/commit/cc040152a3c2900f253351603d96156abdf14aae"
-    },
-    {
-      "sha": "c69103efb8b012371042485410b8dab543ffcce4",
-      "short": "c69103e",
-      "message": "test: expande 13 testes shallow com edge cases e regressoes",
-      "author": "Claude",
-      "date": "2026-05-02T14:07:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c69103efb8b012371042485410b8dab543ffcce4"
-    },
-    {
-      "sha": "3e3fe4d0bcc0b7f46a08a71567c5e5646ada0daf",
-      "short": "3e3fe4d",
-      "message": "Merge pull request #441 from UrubuCode/feat/method-reify-this-binding",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T12:45:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3e3fe4d0bcc0b7f46a08a71567c5e5646ada0daf"
-    },
-    {
-      "sha": "d8800416240d5d49c052da506d4675263379fdd4",
-      "short": "d880041",
-      "message": "feat(function): reify method-via-instance with typed dispatch (#359)",
-      "author": "Marcos",
-      "date": "2026-05-02T12:45:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8800416240d5d49c052da506d4675263379fdd4"
-    },
-    {
-      "sha": "455a1742f22578202c74a3eabafc4a44ef0ce274",
-      "short": "455a174",
-      "message": "remove obsolent files",
-      "author": "Daniel",
-      "date": "2026-05-02T03:01:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/455a1742f22578202c74a3eabafc4a44ef0ce274"
-    },
-    {
-      "sha": "81f7f30e25968d9fd097de691b066b8dcb6d74cb",
-      "short": "81f7f30",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-05-02T03:00:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81f7f30e25968d9fd097de691b066b8dcb6d74cb"
-    },
-    {
-      "sha": "f7abc941b6419c1a01ee44a2391d53f39b68d172",
-      "short": "f7abc94",
-      "message": "Merge branch 'fix/concat-repeated-literal'",
-      "author": "Marcos",
-      "date": "2026-05-02T02:53:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f7abc941b6419c1a01ee44a2391d53f39b68d172"
-    },
-    {
-      "sha": "2ac3171028e8b67463fd44add94896091217c7c2",
-      "short": "2ac3171",
-      "message": "docs(readme): mascote urubu + readme reformatado",
-      "author": "Marcos",
-      "date": "2026-05-02T02:51:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ac3171028e8b67463fd44add94896091217c7c2"
-    },
-    {
-      "sha": "130caca90af405c826292187f3dc78182e0e81a8",
-      "short": "130caca",
-      "message": "Support compiled 'this' param in functions",
-      "author": "Daniel",
-      "date": "2026-05-02T02:42:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/130caca90af405c826292187f3dc78182e0e81a8"
-    },
-    {
-      "sha": "e7834dc5d9398e713ee32afd6fdff0df50303ae8",
-      "short": "e7834dc",
-      "message": "Replace logo images with private user images",
-      "author": "Drysius",
-      "date": "2026-05-02T02:38:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7834dc5d9398e713ee32afd6fdff0df50303ae8"
     }
   ]
 }
