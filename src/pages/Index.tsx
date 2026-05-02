@@ -191,20 +191,33 @@ const Index = () => {
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-4 max-w-5xl mx-auto">
-          {downloads.map((d) => (
-            <div key={d.os} className="rounded-2xl border border-border/60 bg-card p-6 flex flex-col">
-              <h3 className="text-xl font-semibold mb-1">{d.os}</h3>
-              <p className="text-xs text-muted-foreground font-mono mb-4">{d.cmd}</p>
-              <div className="mt-auto flex flex-col gap-2">
-                <Button asChild disabled={!d.url} variant="outline" className="border-border/60">
-                  <a href={d.url || "#"} target="_blank" rel="noreferrer">
-                    <Download className="h-4 w-4 mr-2" />
-                    {d.url ? "Download binary" : "Coming soon"}
-                  </a>
-                </Button>
+          {downloads.map((d) => {
+            const active = d.os === os;
+            return (
+              <div
+                key={d.os}
+                className={`rounded-2xl border bg-card p-6 flex flex-col transition ${active ? "border-primary/60 shadow-elegant ring-1 ring-primary/30" : "border-border/60"}`}
+              >
+                <div className="flex items-center justify-between mb-1">
+                  <h3 className="text-xl font-semibold">{d.label}</h3>
+                  {active && (
+                    <Badge variant="outline" className="border-primary/40 bg-primary/10 text-primary text-[10px]">
+                      Detected
+                    </Badge>
+                  )}
+                </div>
+                <p className="text-xs text-muted-foreground font-mono mb-4 break-all">{d.cmd}</p>
+                <div className="mt-auto flex flex-col gap-2">
+                  <Button asChild disabled={!d.url} variant={active ? "default" : "outline"} className={active ? "bg-gradient-to-r from-primary to-[hsl(var(--brand-glow))] hover:opacity-90 border-0" : "border-border/60"}>
+                    <a href={d.url || "#"} target="_blank" rel="noreferrer">
+                      <Download className="h-4 w-4 mr-2" />
+                      {d.url ? "Download binary" : "Coming soon"}
+                    </a>
+                  </Button>
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </section>
 
