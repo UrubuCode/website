@@ -79,7 +79,7 @@ const Index = () => {
         <div className="container relative py-24 md:py-36 text-center">
           <Badge variant="outline" className="mb-6 border-primary/30 bg-primary/5 text-primary">
             <Sparkles className="h-3 w-3 mr-1.5" />
-            {releases.tag ? `Latest: ${releases.tag}` : "v0.1 — Public preview"}
+            {releases.short_sha ? `Latest: ${releases.short_sha}` : "v0.1 — Public preview"}
           </Badge>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight mb-6">
             <span className="text-gradient">Ultra fast</span>
@@ -147,7 +147,7 @@ const Index = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Get RTS</h2>
           <p className="text-muted-foreground text-lg">
-            {releases.tag ? `Latest release: ${releases.tag}` : "Pick your platform and start shipping."}
+            {releases.short_sha ? `Latest release: ${releases.short_sha}` : "Pick your platform and start shipping."}
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-4 max-w-5xl mx-auto">
