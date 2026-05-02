@@ -4,9 +4,11 @@ import { Badge } from "@/components/ui/badge";
 import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink } from "lucide-react";
 
 type Releases = {
-  tag?: string;
-  name?: string;
-  published_at?: string;
+  sha?: string;
+  short_sha?: string;
+  title?: string;
+  created?: string;
+  run_id?: string;
   linux?: string;
   windows?: string;
   macos?: string;
@@ -21,13 +23,19 @@ type Commit = {
   url: string;
 };
 
+const REPO_URL = "https://github.com/UrubuCode/rts";
+
 const Index = () => {
   const [releases, setReleases] = useState<Releases>({});
   const [commits, setCommits] = useState<Commit[]>([]);
+  const [totalCommits, setTotalCommits] = useState<number>(0);
 
   useEffect(() => {
     fetch("/releases.json").then(r => r.json()).then(setReleases).catch(() => {});
-    fetch("/commits.json").then(r => r.json()).then(setCommits).catch(() => {});
+    fetch("/commits.json").then(r => r.json()).then((d) => {
+      if (Array.isArray(d)) { setCommits(d); }
+      else { setCommits(d.commits || []); setTotalCommits(d.total || 0); }
+    }).catch(() => {});
   }, []);
 
   const downloads = [
