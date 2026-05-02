@@ -1,0 +1,111 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      RTS_REPO: UrubuCode/rts
+      RTS_PAGES: https://urubucode.github.io/rts
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install deps
+        run: bun install --frozen-lockfile || bun install
+
+      - name: Refresh artifacts (builds + releases)
+        run: |
+          set -e
+          mkdir -p public
+          curl -fsSL "$RTS_PAGES/builds.json" -o /tmp/builds.json || echo '[]' > /tmp/builds.json
+          node -e "
+            const fs=require('fs');
+            const pages=process.env.RTS_PAGES;
+            const builds=JSON.parse(fs.readFileSync('/tmp/builds.json','utf8')||'[]');
+            const latest=builds[0]||{};
+            const arts=latest.artifacts||[];
+            const find=(re)=>{const a=arts.find(x=>re.test(x.name));return a?pages+'/'+a.path:'';};
+            fs.writeFileSync('public/releases.json',JSON.stringify({
+              sha:latest.sha||'',short_sha:latest.short_sha||'',title:latest.title||'',
+              created:latest.created||'',run_id:latest.run_id||'',
+              linux:find(/linux/i),windows:find(/win/i),macos:find(/mac|darwin|apple/i)
+            },null,2));
+            const allBuilds=builds.map(b=>({
+              sha:b.sha,short_sha:b.short_sha,title:b.title,created:b.created,run_id:b.run_id,
+              artifacts:(b.artifacts||[]).map(a=>({name:a.name,file:a.file,size_mb:a.size_mb,url:pages+'/'+a.path}))
+            }));
+            fs.writeFileSync('public/builds.json',JSON.stringify(allBuilds,null,2));
+          "
+
+      - name: Refresh commits
+        run: |
+          set -e
+          curl -fsSL -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$RTS_REPO/commits?per_page=20" > /tmp/commits.json || echo '[]' > /tmp/commits.json
+          TOTAL=$(curl -fsSI -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$RTS_REPO/commits?per_page=1" \
+            | grep -i '^link:' | grep -oP 'page=\K\d+(?=>; rel="last")' | head -1)
+          echo "${TOTAL:-0}" > /tmp/total.txt
+          node -e "
+            const fs=require('fs');
+            const arr=JSON.parse(fs.readFileSync('/tmp/commits.json','utf8')||'[]');
+            const total=parseInt(fs.readFileSync('/tmp/total.txt','utf8').trim()||'0',10);
+            const commits=(Array.isArray(arr)?arr:[]).map(c=>({
+              sha:c.sha,short:(c.sha||'').slice(0,7),
+              message:((c.commit&&c.commit.message)||'').split('\n')[0],
+              author:(c.commit&&c.commit.author&&c.commit.author.name)||'',
+              date:(c.commit&&c.commit.author&&c.commit.author.date)||'',
+              url:c.html_url
+            }));
+            fs.writeFileSync('public/commits.json',JSON.stringify({total,commits},null,2));
+          "
+
+      - name: Build site
+        run: bun run build
+
+      - name: SPA fallback (404.html)
+        run: cp dist/index.html dist/404.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
