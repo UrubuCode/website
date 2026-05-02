@@ -1,8 +1,27 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink } from "lucide-react";
+import { Zap, Cpu, Download, Github, Terminal, Gauge, Code2, Sparkles, ArrowRight, ExternalLink, Copy, Check } from "lucide-react";
 import logo from "/logo.png";
+
+type OS = "linux" | "macos" | "windows";
+
+function detectOS(): OS {
+  if (typeof navigator === "undefined") return "linux";
+  const ua = `${navigator.userAgent} ${navigator.platform}`.toLowerCase();
+  if (ua.includes("win")) return "windows";
+  if (ua.includes("mac") || ua.includes("iphone") || ua.includes("ipad")) return "macos";
+  return "linux";
+}
+
+const INSTALL_CMD: Record<OS, string> = {
+  linux: "curl -fsSL https://urubucode.github.io/website/install.sh | bash",
+  macos: "curl -fsSL https://urubucode.github.io/website/install.sh | bash",
+  windows: 'powershell -c "irm https://urubucode.github.io/website/install.ps1 | iex"',
+};
+
+const OS_LABEL: Record<OS, string> = { linux: "Linux", macos: "macOS", windows: "Windows" };
+
 
 type Releases = {
   sha?: string;
@@ -30,6 +49,10 @@ const Index = () => {
   const [releases, setReleases] = useState<Releases>({});
   const [commits, setCommits] = useState<Commit[]>([]);
   const [totalCommits, setTotalCommits] = useState<number>(0);
+  const [os, setOs] = useState<OS>("linux");
+  const [copied, setCopied] = useState(false);
+
+  useEffect(() => { setOs(detectOS()); }, []);
 
   useEffect(() => {
     fetch("/releases.json").then(r => r.json()).then(setReleases).catch(() => {});
@@ -39,10 +62,20 @@ const Index = () => {
     }).catch(() => {});
   }, []);
 
-  const downloads = [
-    { os: "Linux", url: releases.linux, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
-    { os: "macOS", url: releases.macos, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
-    { os: "Windows", url: releases.windows, cmd: "powershell -c \"irm https://urubucode.github.io/website/install.ps1 | iex\"" },
+  const installCmd = useMemo(() => INSTALL_CMD[os], [os]);
+
+  const copyInstall = async () => {
+    try {
+      await navigator.clipboard.writeText(installCmd);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    } catch {}
+  };
+
+  const downloads: { os: OS; label: string; url?: string; cmd: string }[] = [
+    { os: "linux",   label: "Linux",   url: releases.linux,   cmd: INSTALL_CMD.linux },
+    { os: "macos",   label: "macOS",   url: releases.macos,   cmd: INSTALL_CMD.macos },
+    { os: "windows", label: "Windows", url: releases.windows, cmd: INSTALL_CMD.windows },
   ];
 
   return (
@@ -102,10 +135,18 @@ const Index = () => {
               <span className="h-2.5 w-2.5 rounded-full bg-destructive/70" />
               <span className="h-2.5 w-2.5 rounded-full bg-[hsl(var(--brand-glow))]/70" />
               <span className="h-2.5 w-2.5 rounded-full bg-accent/70" />
-              <span className="ml-2 text-xs text-muted-foreground font-mono">terminal</span>
+              <span className="ml-2 text-xs text-muted-foreground font-mono">terminal — {OS_LABEL[os]}</span>
+              <button
+                onClick={copyInstall}
+                className="ml-auto inline-flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground transition"
+                aria-label="Copy install command"
+              >
+                {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-3.5 w-3.5" />}
+                {copied ? "Copied" : "Copy"}
+              </button>
             </div>
             <pre className="p-5 text-left font-mono text-sm overflow-x-auto">
-<span className="text-muted-foreground">$ </span><span className="text-accent">curl</span> -fsSL https://urubucode.github.io/website/install.sh | bash{"\n"}
+<span className="text-muted-foreground">$ </span><span className="text-foreground">{installCmd}</span>{"\n"}
 <span className="text-muted-foreground">$ </span><span className="text-accent">rts</span> run server.ts{"\n"}
 <span className="text-[hsl(var(--brand-glow))]">→ compiled in 12ms · listening on :3000</span>
             </pre>
@@ -150,20 +191,33 @@ const Index = () => {
           </p>
         </div>
         <div className="grid md:grid-cols-3 gap-4 max-w-5xl mx-auto">
-          {downloads.map((d) => (
-            <div key={d.os} className="rounded-2xl border border-border/60 bg-card p-6 flex flex-col">
-              <h3 className="text-xl font-semibold mb-1">{d.os}</h3>
-              <p className="text-xs text-muted-foreground font-mono mb-4">{d.cmd}</p>
-              <div className="mt-auto flex flex-col gap-2">
-                <Button asChild disabled={!d.url} variant="outline" className="border-border/60">
-                  <a href={d.url || "#"} target="_blank" rel="noreferrer">
-                    <Download className="h-4 w-4 mr-2" />
-                    {d.url ? "Download binary" : "Coming soon"}
-                  </a>
-                </Button>
+          {downloads.map((d) => {
+            const active = d.os === os;
+            return (
+              <div
+                key={d.os}
+                className={`rounded-2xl border bg-card p-6 flex flex-col transition ${active ? "border-primary/60 shadow-elegant ring-1 ring-primary/30" : "border-border/60"}`}
+              >
+                <div className="flex items-center justify-between mb-1">
+                  <h3 className="text-xl font-semibold">{d.label}</h3>
+                  {active && (
+                    <Badge variant="outline" className="border-primary/40 bg-primary/10 text-primary text-[10px]">
+                      Detected
+                    </Badge>
+                  )}
+                </div>
+                <p className="text-xs text-muted-foreground font-mono mb-4 break-all">{d.cmd}</p>
+                <div className="mt-auto flex flex-col gap-2">
+                  <Button asChild disabled={!d.url} variant={active ? "default" : "outline"} className={active ? "bg-gradient-to-r from-primary to-[hsl(var(--brand-glow))] hover:opacity-90 border-0" : "border-border/60"}>
+                    <a href={d.url || "#"} target="_blank" rel="noreferrer">
+                      <Download className="h-4 w-4 mr-2" />
+                      {d.url ? "Download binary" : "Coming soon"}
+                    </a>
+                  </Button>
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </section>
 
