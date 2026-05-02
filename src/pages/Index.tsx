@@ -78,11 +78,6 @@ const Index = () => {
     { os: "windows", label: "Windows", url: releases.windows, cmd: INSTALL_CMD.windows },
   ];
 
-    { os: "Linux", url: releases.linux, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
-    { os: "macOS", url: releases.macos, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
-    { os: "Windows", url: releases.windows, cmd: "powershell -c \"irm https://urubucode.github.io/website/install.ps1 | iex\"" },
-  ];
-
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Nav */}
