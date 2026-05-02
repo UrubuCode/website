@@ -40,9 +40,9 @@ const Index = () => {
   }, []);
 
   const downloads = [
-    { os: "Linux", url: releases.linux, cmd: "curl -fsSL rts.dev/install.sh | sh" },
-    { os: "macOS", url: releases.macos, cmd: "curl -fsSL rts.dev/install.sh | sh" },
-    { os: "Windows", url: releases.windows, cmd: "powershell -c \"irm rts.dev/install.ps1 | iex\"" },
+    { os: "Linux", url: releases.linux, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
+    { os: "macOS", url: releases.macos, cmd: "curl -fsSL https://urubucode.github.io/website/install.sh | bash" },
+    { os: "Windows", url: releases.windows, cmd: "powershell -c \"irm https://urubucode.github.io/website/install.ps1 | iex\"" },
   ];
 
   return (
@@ -105,7 +105,7 @@ const Index = () => {
               <span className="ml-2 text-xs text-muted-foreground font-mono">terminal</span>
             </div>
             <pre className="p-5 text-left font-mono text-sm overflow-x-auto">
-<span className="text-muted-foreground">$ </span><span className="text-accent">curl</span> -fsSL rts.dev/install.sh | sh{"\n"}
+<span className="text-muted-foreground">$ </span><span className="text-accent">curl</span> -fsSL https://urubucode.github.io/website/install.sh | bash{"\n"}
 <span className="text-muted-foreground">$ </span><span className="text-accent">rts</span> run server.ts{"\n"}
 <span className="text-[hsl(var(--brand-glow))]">→ compiled in 12ms · listening on :3000</span>
             </pre>
