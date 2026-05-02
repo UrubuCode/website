@@ -202,7 +202,9 @@ const Index = () => {
         <div className="flex items-end justify-between mb-10 flex-wrap gap-4">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold mb-2">Latest activity</h2>
-            <p className="text-muted-foreground text-lg">Live from the RTS repository.</p>
+            <p className="text-muted-foreground text-lg">
+              Live from the RTS repository{totalCommits ? ` · ${totalCommits.toLocaleString()} commits total` : ""}.
+            </p>
           </div>
           <Button variant="outline" asChild className="border-border/60">
             <a href="https://github.com/UrubuCode/rts" target="_blank" rel="noreferrer">
