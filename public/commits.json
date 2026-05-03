@@ -1,6 +1,158 @@
 {
-  "total": 552,
+  "total": 571,
   "commits": [
+    {
+      "sha": "7fab2927f7999a3d7595ed0fb5493c67f33ceced",
+      "short": "7fab292",
+      "message": "feat(codegen): proto methods + member access em handle generic com runtime dispatch (#475)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T17:41:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7fab2927f7999a3d7595ed0fb5493c67f33ceced"
+    },
+    {
+      "sha": "fd943a829bfc16dfaa7fc73ac0d33e83c83cb720",
+      "short": "fd943a8",
+      "message": "fix(codegen): (c as Counter).method() nao crasha mais com SIGILL (#474)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T17:17:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd943a829bfc16dfaa7fc73ac0d33e83c83cb720"
+    },
+    {
+      "sha": "9b217fc9707d45559f4cbc352c1c033741db68b5",
+      "short": "9b217fc",
+      "message": "fix(codegen): TsAs em fn.call/.apply/.bind + Function.prototype set (#264) (#473)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T17:10:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b217fc9707d45559f4cbc352c1c033741db68b5"
+    },
+    {
+      "sha": "00be17f922384c170217cbd7bae4587a19a4d7d0",
+      "short": "00be17f",
+      "message": "fix(codegen): destructuring em arrow/fn params hoisted (#472)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T16:57:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00be17f922384c170217cbd7bae4587a19a4d7d0"
+    },
+    {
+      "sha": "a12ff53d9709cd187deed796add799ae66699bfe",
+      "short": "a12ff53",
+      "message": "test(promise): determinismo em race com fast_fail vs ok delayed (#471)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T16:51:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a12ff53d9709cd187deed796add799ae66699bfe"
+    },
+    {
+      "sha": "399925e6ecec089d3862d8aa468526a5273fa74d",
+      "short": "399925e",
+      "message": "feat(codegen): method shorthand em object literal + this binding (#261) (#470)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T16:29:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/399925e6ecec089d3862d8aa468526a5273fa74d"
+    },
+    {
+      "sha": "ab538496dd8e13dc096f32186c82ed46de0b7ab8",
+      "short": "ab53849",
+      "message": "feat(codegen): Object.create + hasOwnProperty + TsAs em method call (#264 PR5) (#469)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T16:09:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab538496dd8e13dc096f32186c82ed46de0b7ab8"
+    },
+    {
+      "sha": "d104dfd1f1c26cc6ab3d82c14fafe9028aae6243",
+      "short": "d104dfd",
+      "message": "feat(codegen): __proto__ chain walk em member access (#264 PR4) (#468)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T15:54:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d104dfd1f1c26cc6ab3d82c14fafe9028aae6243"
+    },
+    {
+      "sha": "c8cfae5ce0da353885d86187ed581a5033d7ce0a",
+      "short": "c8cfae5",
+      "message": "feat(codegen): new UserFn(args) cria Map+this binding (#264 PR3) (#467)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T15:34:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8cfae5ce0da353885d86187ed581a5033d7ce0a"
+    },
+    {
+      "sha": "d4d21247a15bce610bb48f20a29a1f8382692f55",
+      "short": "d4d2124",
+      "message": "feat(function): fn.prototype.x = v persiste + registry estavel (#264 PR2) (#466)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T15:26:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4d21247a15bce610bb48f20a29a1f8382692f55"
+    },
+    {
+      "sha": "7f3da0470f854430d67f83f43df639bb65f9a5d0",
+      "short": "7f3da04",
+      "message": "fix(parser): arrow lift propaga return type da binding ann (#455) (#465)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T15:18:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7f3da0470f854430d67f83f43df639bb65f9a5d0"
+    },
+    {
+      "sha": "330aa982c1d6c9f2f74c6090bad6ed7e57b8abfd",
+      "short": "330aa98",
+      "message": "feat(function): fn.prototype lazy alloc + GC tracing transitivo (#264 PR1) (#464)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T14:56:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/330aa982c1d6c9f2f74c6090bad6ed7e57b8abfd"
+    },
+    {
+      "sha": "37593c91294d80f29f5e585058e664f1375d9c51",
+      "short": "37593c9",
+      "message": "fix(codegen): rest params e spread de var const funcionam em call sites (#463)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T14:35:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/37593c91294d80f29f5e585058e664f1375d9c51"
+    },
+    {
+      "sha": "c00f78bed50fbc20e86d8713bcbb123a61d6b91e",
+      "short": "c00f78b",
+      "message": "fix(globals/number): Number(\"\") e Number(\"   \") retornam NaN (#462)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T14:13:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c00f78bed50fbc20e86d8713bcbb123a61d6b91e"
+    },
+    {
+      "sha": "444f89079fa5877c17f38df2ff19cccd48240e1e",
+      "short": "444f890",
+      "message": "fix(codegen): object literal com TS wrappers nao mais cai em URL.port (#461)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T13:37:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/444f89079fa5877c17f38df2ff19cccd48240e1e"
+    },
+    {
+      "sha": "3ec6d7daaff3d026a8e49c6153c8c581d46fab6d",
+      "short": "3ec6d7d",
+      "message": "fix(codegen): thread.spawn(fp, f64) preserva bit pattern via bitcast (#460)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T13:29:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3ec6d7daaff3d026a8e49c6153c8c581d46fab6d"
+    },
+    {
+      "sha": "c460cb39d11326f4f31c927d2b1cfc13ebd2c4f7",
+      "short": "c460cb3",
+      "message": "fix(nodespace fs): testes node_fs_stat_helpers usam path relativo a cwd (#459)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T13:29:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c460cb39d11326f4f31c927d2b1cfc13ebd2c4f7"
+    },
+    {
+      "sha": "f5c1dfb9881519a16c7465f5fec85488e6041281",
+      "short": "f5c1dfb",
+      "message": "fix(tests): atualiza opt_chain_member para \"undefined\" em obj null (#457) (#458)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T13:29:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5c1dfb9881519a16c7465f5fec85488e6041281"
+    },
+    {
+      "sha": "88f12bf1f014bdbd818f87f8f179839e1b728b3e",
+      "short": "88f12bf",
+      "message": "fix(codegen): optional chain produz 'undefined' em template literal (#432) (#456)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T13:00:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/88f12bf1f014bdbd818f87f8f179839e1b728b3e"
+    },
     {
       "sha": "5d1cc86e57b1fabc4f3d4a0d6f8354205129f8b6",
       "short": "5d1cc86",
@@ -8,158 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-03T12:45:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/5d1cc86e57b1fabc4f3d4a0d6f8354205129f8b6"
-    },
-    {
-      "sha": "0a12562e2726854d4d4e72bfe57a256ff4283d6c",
-      "short": "0a12562",
-      "message": "feat(function): this binding em fn plain via thread-local slot (#449) (#451)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T12:28:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0a12562e2726854d4d4e72bfe57a256ff4283d6c"
-    },
-    {
-      "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
-      "short": "8ecd55d",
-      "message": "fix(bench): jsRunners por bench + cria dir do JsonOut + ASCII no erro",
-      "author": "Marcos",
-      "date": "2026-05-02T18:21:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8ecd55df3b04378df059e70e4557390aae67bea7"
-    },
-    {
-      "sha": "cb37762c91772b5babb25b90183d6ec7a71f4ce6",
-      "short": "cb37762",
-      "message": "fix(bench): rts nao tem --version, tornar smoke-test tolerante",
-      "author": "Marcos",
-      "date": "2026-05-02T18:14:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb37762c91772b5babb25b90183d6ec7a71f4ce6"
-    },
-    {
-      "sha": "bd14aed65dd986fc2f6fd9796c4365b6e998ad41",
-      "short": "bd14aed",
-      "message": "refactor(ci): bench reusa rts.exe do Build Artifacts em vez de buildar",
-      "author": "Marcos",
-      "date": "2026-05-02T18:07:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bd14aed65dd986fc2f6fd9796c4365b6e998ad41"
-    },
-    {
-      "sha": "92b3940191a314ef18565cd17b310b083105092b",
-      "short": "92b3940",
-      "message": "fix(bench): renomeia $runs para $runEntries no benchmark.ps1",
-      "author": "Marcos",
-      "date": "2026-05-02T18:06:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92b3940191a314ef18565cd17b310b083105092b"
-    },
-    {
-      "sha": "586e6a31bbed67709f997738c9776f80db17d789",
-      "short": "586e6a3",
-      "message": "fix(tls): converte TrustAnchor via rustls::pki_types explicitamente",
-      "author": "Marcos",
-      "date": "2026-05-02T17:56:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/586e6a31bbed67709f997738c9776f80db17d789"
-    },
-    {
-      "sha": "2e099f356ce651d839bcf456da9a5ad56c59dea9",
-      "short": "2e099f3",
-      "message": "refactor(ci): benchmarks rodam em windows-latest direto no push",
-      "author": "Marcos",
-      "date": "2026-05-02T17:48:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2e099f356ce651d839bcf456da9a5ad56c59dea9"
-    },
-    {
-      "sha": "eaa985aa9d86f8c4a72d51a7120efbe2c28075cd",
-      "short": "eaa985a",
-      "message": "fix(tls): extend RootCertStore via slice, evita ambiguidade de lifetime",
-      "author": "Marcos",
-      "date": "2026-05-02T17:46:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eaa985aa9d86f8c4a72d51a7120efbe2c28075cd"
-    },
-    {
-      "sha": "00ecbbf908f3eeb8de4b6e566a5d246c97cb460d",
-      "short": "00ecbbf",
-      "message": "fix(deps): atualiza webpki-roots para 1.x",
-      "author": "Marcos",
-      "date": "2026-05-02T17:36:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/00ecbbf908f3eeb8de4b6e566a5d246c97cb460d"
-    },
-    {
-      "sha": "61a5c916f996702502807fe2f968ef9a0d446108",
-      "short": "61a5c91",
-      "message": "feat(ci): workflow de benchmarks comparando RTS, Bun, Node, Deno",
-      "author": "Marcos",
-      "date": "2026-05-02T17:21:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61a5c916f996702502807fe2f968ef9a0d446108"
-    },
-    {
-      "sha": "a58e362e4df2fb10af0951941113476cefeca871",
-      "short": "a58e362",
-      "message": "Add files via upload",
-      "author": "Drysius",
-      "date": "2026-05-02T17:06:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a58e362e4df2fb10af0951941113476cefeca871"
-    },
-    {
-      "sha": "43c7ad86713eee859c77393621b5c2dd333e8707",
-      "short": "43c7ad8",
-      "message": "Add files via upload",
-      "author": "Drysius",
-      "date": "2026-05-02T17:05:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/43c7ad86713eee859c77393621b5c2dd333e8707"
-    },
-    {
-      "sha": "a01393f07d1ea6afccbcfa82ab0909751acdee2c",
-      "short": "a01393f",
-      "message": "feat(pages): lista os ultimos 10 builds, nao so o ultimo (#448)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T16:31:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a01393f07d1ea6afccbcfa82ab0909751acdee2c"
-    },
-    {
-      "sha": "203161e86c7b0ff330a3354d2963aea8b53b4286",
-      "short": "203161e",
-      "message": "feat(ci): pagina GitHub Pages com downloads dos artefatos (#447)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T16:27:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/203161e86c7b0ff330a3354d2963aea8b53b4286"
-    },
-    {
-      "sha": "f63803b70f4841231a269f2ae311bf1d6dd89d17",
-      "short": "f63803b",
-      "message": "Merge pull request #446 from UrubuCode/fix/ci-debug-build-deps-v2",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T16:11:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f63803b70f4841231a269f2ae311bf1d6dd89d17"
-    },
-    {
-      "sha": "b89bedf410e464b31e832f30e8cb15ad71eb9df1",
-      "short": "b89bedf",
-      "message": "fix(ci): adiciona deps do build.rs em [build-dependencies]",
-      "author": "Marcos",
-      "date": "2026-05-02T16:10:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b89bedf410e464b31e832f30e8cb15ad71eb9df1"
-    },
-    {
-      "sha": "60dbffa20dd17dd9582635eb2ff4534991e44c84",
-      "short": "60dbffa",
-      "message": "Merge pull request #445 from UrubuCode/claude/fix-windows-ci-4K1ek",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T15:57:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/60dbffa20dd17dd9582635eb2ff4534991e44c84"
-    },
-    {
-      "sha": "d4abe4e2df1e876d8857f0ba7847079b9bab68d8",
-      "short": "d4abe4e",
-      "message": "fix(ci): harden build.rs rlib lookup + remove unused fltk build-dep",
-      "author": "Claude",
-      "date": "2026-05-02T15:06:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4abe4e2df1e876d8857f0ba7847079b9bab68d8"
-    },
-    {
-      "sha": "0c253f384deca9c9d7a4e39c8bb919d7bdaa5365",
-      "short": "0c253f3",
-      "message": "Merge pull request #443 from UrubuCode/claude/expand-useful-tests-RO4h5",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T14:27:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c253f384deca9c9d7a4e39c8bb919d7bdaa5365"
     }
   ]
 }

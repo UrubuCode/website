@@ -1,10 +1,10 @@
 {
-  "sha": "0a12562e2726854d4d4e72bfe57a256ff4283d6c",
-  "short_sha": "0a12562",
-  "title": "feat(function): this binding em fn plain via thread-local slot (#449)…",
-  "created": "2026-05-03T12:28:44Z",
-  "run_id": "25279179295",
-  "linux": "https://urubucode.github.io/rts/downloads/0a12562/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/0a12562/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/0a12562/rts-macOS-ARM64/rts"
+  "sha": "7fab2927f7999a3d7595ed0fb5493c67f33ceced",
+  "short_sha": "7fab292",
+  "title": "feat(codegen): proto methods + member access em handle generic com ru…",
+  "created": "2026-05-03T17:41:34Z",
+  "run_id": "25286169677",
+  "linux": "https://urubucode.github.io/rts/downloads/7fab292/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/7fab292/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/7fab292/rts-macOS-ARM64/rts"
 }
