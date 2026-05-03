@@ -1,6 +1,22 @@
 {
-  "total": 550,
+  "total": 552,
   "commits": [
+    {
+      "sha": "5d1cc86e57b1fabc4f3d4a0d6f8354205129f8b6",
+      "short": "5d1cc86",
+      "message": "fix(codegen): new Error()/TypeError()/etc sem args nao engole stmt seguinte (#452) (#454)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T12:45:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d1cc86e57b1fabc4f3d4a0d6f8354205129f8b6"
+    },
+    {
+      "sha": "0a12562e2726854d4d4e72bfe57a256ff4283d6c",
+      "short": "0a12562",
+      "message": "feat(function): this binding em fn plain via thread-local slot (#449) (#451)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-03T12:28:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a12562e2726854d4d4e72bfe57a256ff4283d6c"
+    },
     {
       "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
       "short": "8ecd55d",
@@ -144,22 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-02T14:27:45Z",
       "url": "https://github.com/UrubuCode/rts/commit/0c253f384deca9c9d7a4e39c8bb919d7bdaa5365"
-    },
-    {
-      "sha": "58e767ffa7bf18406bbb6d164c93e072e0433103",
-      "short": "58e767f",
-      "message": "Merge pull request #442 from UrubuCode/claude/fix-git-ci-errors-5LpSL",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-02T14:16:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58e767ffa7bf18406bbb6d164c93e072e0433103"
-    },
-    {
-      "sha": "cc040152a3c2900f253351603d96156abdf14aae",
-      "short": "cc04015",
-      "message": "fix(ci): resolve runtime_support build + symlink_mode typo",
-      "author": "Claude",
-      "date": "2026-05-02T14:14:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc040152a3c2900f253351603d96156abdf14aae"
     }
   ]
 }

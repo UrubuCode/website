@@ -1,10 +1,10 @@
 {
-  "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
-  "short_sha": "8ecd55d",
-  "title": "fix(bench): jsRunners por bench + cria dir do JsonOut + ASCII no erro",
-  "created": "2026-05-02T18:21:25Z",
-  "run_id": "25258681352",
-  "linux": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/8ecd55d/rts-macOS-ARM64/rts"
+  "sha": "0a12562e2726854d4d4e72bfe57a256ff4283d6c",
+  "short_sha": "0a12562",
+  "title": "feat(function): this binding em fn plain via thread-local slot (#449)…",
+  "created": "2026-05-03T12:28:44Z",
+  "run_id": "25279179295",
+  "linux": "https://urubucode.github.io/rts/downloads/0a12562/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/0a12562/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/0a12562/rts-macOS-ARM64/rts"
 }

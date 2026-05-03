@@ -1,5 +1,32 @@
 [
   {
+    "sha": "0a12562e2726854d4d4e72bfe57a256ff4283d6c",
+    "short_sha": "0a12562",
+    "title": "feat(function): this binding em fn plain via thread-local slot (#449)…",
+    "created": "2026-05-03T12:28:44Z",
+    "run_id": "25279179295",
+    "artifacts": [
+      {
+        "name": "rts-Linux-X64",
+        "file": "rts",
+        "size_mb": "88.3",
+        "url": "https://urubucode.github.io/rts/downloads/0a12562/rts-Linux-X64/rts"
+      },
+      {
+        "name": "rts-Windows-X64",
+        "file": "rts.exe",
+        "size_mb": "93.0",
+        "url": "https://urubucode.github.io/rts/downloads/0a12562/rts-Windows-X64/rts.exe"
+      },
+      {
+        "name": "rts-macOS-ARM64",
+        "file": "rts",
+        "size_mb": "68.1",
+        "url": "https://urubucode.github.io/rts/downloads/0a12562/rts-macOS-ARM64/rts"
+      }
+    ]
+  },
+  {
     "sha": "8ecd55df3b04378df059e70e4557390aae67bea7",
     "short_sha": "8ecd55d",
     "title": "fix(bench): jsRunners por bench + cria dir do JsonOut + ASCII no erro",
@@ -239,33 +266,6 @@
         "file": "rts",
         "size_mb": "68.1",
         "url": "https://urubucode.github.io/rts/downloads/61a5c91/rts-macOS-ARM64/rts"
-      }
-    ]
-  },
-  {
-    "sha": "a58e362e4df2fb10af0951941113476cefeca871",
-    "short_sha": "a58e362",
-    "title": "Add files via upload",
-    "created": "2026-05-02T17:06:45Z",
-    "run_id": "25257204009",
-    "artifacts": [
-      {
-        "name": "rts-Linux-X64",
-        "file": "rts",
-        "size_mb": "88.3",
-        "url": "https://urubucode.github.io/rts/downloads/a58e362/rts-Linux-X64/rts"
-      },
-      {
-        "name": "rts-Windows-X64",
-        "file": "rts.exe",
-        "size_mb": "93.0",
-        "url": "https://urubucode.github.io/rts/downloads/a58e362/rts-Windows-X64/rts.exe"
-      },
-      {
-        "name": "rts-macOS-ARM64",
-        "file": "rts",
-        "size_mb": "68.1",
-        "url": "https://urubucode.github.io/rts/downloads/a58e362/rts-macOS-ARM64/rts"
       }
     ]
   }
