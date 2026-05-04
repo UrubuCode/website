@@ -1,10 +1,10 @@
 {
-  "sha": "9eb7732bb588f9022bfd67dd565504a95f61f310",
-  "short_sha": "9eb7732",
-  "title": "feat(math): constants extras — SQRT2, SQRT1_2, LN2, LN10, LOG2E, LOG1…",
-  "created": "2026-05-04T01:55:33Z",
-  "run_id": "25297302349",
-  "linux": "https://urubucode.github.io/rts/downloads/9eb7732/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/9eb7732/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/9eb7732/rts-macOS-ARM64/rts"
+  "sha": "6763179ed688886de7f80e6cb13636a27ffb71c0",
+  "short_sha": "6763179",
+  "title": "fix(codegen): arrow callback com destructure no param (#568) (#569)",
+  "created": "2026-05-04T06:04:55Z",
+  "run_id": "25303728140",
+  "linux": "https://urubucode.github.io/rts/downloads/6763179/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/6763179/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/6763179/rts-macOS-ARM64/rts"
 }

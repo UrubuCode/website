@@ -1,165 +1,165 @@
 {
-  "total": 612,
+  "total": 651,
   "commits": [
     {
-      "sha": "658b39e72ef233f81e784a649ed547bef84d05af",
-      "short": "658b39e",
-      "message": "feat(codegen): Object.isExtensible / preventExtensions v0 (#208) (#522)",
+      "sha": "6763179ed688886de7f80e6cb13636a27ffb71c0",
+      "short": "6763179",
+      "message": "fix(codegen): arrow callback com destructure no param (#568) (#569)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T02:00:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/658b39e72ef233f81e784a649ed547bef84d05af"
+      "date": "2026-05-04T06:04:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6763179ed688886de7f80e6cb13636a27ffb71c0"
     },
     {
-      "sha": "9eb7732bb588f9022bfd67dd565504a95f61f310",
-      "short": "9eb7732",
-      "message": "feat(math): constants extras — SQRT2, SQRT1_2, LN2, LN10, LOG2E, LOG10E (#208) (#521)",
+      "sha": "f578e8447efcb6d19820c38b5987533d8f08ad1f",
+      "short": "f578e84",
+      "message": "feat(codegen): arr.splice(start, count, ...items) com insert (#567)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:55:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9eb7732bb588f9022bfd67dd565504a95f61f310"
+      "date": "2026-05-04T05:49:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f578e8447efcb6d19820c38b5987533d8f08ad1f"
     },
     {
-      "sha": "5faa0d2c81ba3eabda6c8b42e422320fa8e00033",
-      "short": "5faa0d2",
-      "message": "test(diag): cobre fix incremental de #383 (#520)",
+      "sha": "de082f884f823a6967fbaaa5f1f9bd017f830638",
+      "short": "de082f8",
+      "message": "fix(codegen): instance_getter fallback no member dispatch (#216) (#566)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:49:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5faa0d2c81ba3eabda6c8b42e422320fa8e00033"
+      "date": "2026-05-04T05:41:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de082f884f823a6967fbaaa5f1f9bd017f830638"
     },
     {
-      "sha": "ebe34ea729471af8d268a2f8d25dd7444fd51e8c",
-      "short": "ebe34ea",
-      "message": "feat(codegen): parseInt JS-spec — radix + tolerancia (#208) (#519)",
+      "sha": "e14f7a5b5aa81ce8e5e6a1aed849bf6303d6c582",
+      "short": "e14f7a5",
+      "message": "feat(globals): Object.freeze bloqueia mutacao; seal bloqueia add de keys (#565)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:47:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ebe34ea729471af8d268a2f8d25dd7444fd51e8c"
+      "date": "2026-05-04T05:37:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e14f7a5b5aa81ce8e5e6a1aed849bf6303d6c582"
     },
     {
-      "sha": "898a70089cacb6b05ab88bb5bdefe4537deff9e0",
-      "short": "898a700",
-      "message": "test(template): cobre acceptance criteria de #434 (#518)",
+      "sha": "a7ec3e8c300ebcd31604a38de67055d6cf0057f9",
+      "short": "a7ec3e8",
+      "message": "fix(codegen): Symbol() chamado como funcao resolve __RTS_FN_GL_SYMBOL_NEW (#564)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:33:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/898a70089cacb6b05ab88bb5bdefe4537deff9e0"
+      "date": "2026-05-04T05:32:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7ec3e8c300ebcd31604a38de67055d6cf0057f9"
     },
     {
-      "sha": "89191167ae43838aabae7efb746684fee1754c61",
-      "short": "8919116",
-      "message": "feat(globals): URLSearchParams append/getAll/keys/values (#373 v0) (#517)",
+      "sha": "f00da9616f1c6c2316f7131836f43c6a3e727129",
+      "short": "f00da96",
+      "message": "feat(json): JSON.stringify para Map/Vec/String entries (#562) (#563)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:32:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89191167ae43838aabae7efb746684fee1754c61"
+      "date": "2026-05-04T05:28:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f00da9616f1c6c2316f7131836f43c6a3e727129"
     },
     {
-      "sha": "ec2b18f2473d1388965c612f9e6ff0457db05c45",
-      "short": "ec2b18f",
-      "message": "feat(globals): URL.searchParams getter — liga URL e URLSearchParams (#373) (#516)",
+      "sha": "f1cff788984942800808162d16fd8abf995623af",
+      "short": "f1cff78",
+      "message": "feat(globals): Object.freeze/seal/isFrozen/isSealed com tracking real (#561)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:28:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ec2b18f2473d1388965c612f9e6ff0457db05c45"
+      "date": "2026-05-04T05:25:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1cff788984942800808162d16fd8abf995623af"
     },
     {
-      "sha": "0cc9c096ba41149473dee4acbd398744492acb08",
-      "short": "0cc9c09",
-      "message": "feat(codegen): encodeURIComponent / decodeURIComponent globais (#208) (#515)",
+      "sha": "64c54e411c478a8cd5a43a82c152c93f0e5f9350",
+      "short": "64c54e4",
+      "message": "fix(codegen): (true).toString()/(false).valueOf() em literal (#550 parte 2) (#560)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:22:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0cc9c096ba41149473dee4acbd398744492acb08"
+      "date": "2026-05-04T05:18:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/64c54e411c478a8cd5a43a82c152c93f0e5f9350"
     },
     {
-      "sha": "3bc8e72d0ca140e8fee79f39ee725b209a50dcfe",
-      "short": "3bc8e72",
-      "message": "feat(codegen): parseInt/parseFloat globais (#208) (#514)",
+      "sha": "d63e9e1a98fac7fd127375f043d068b552f80c2e",
+      "short": "d63e9e1",
+      "message": "fix(codegen): array literal/expr.method() chains funcionam (#549, #553) (#559)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:16:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3bc8e72d0ca140e8fee79f39ee725b209a50dcfe"
+      "date": "2026-05-04T05:15:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d63e9e1a98fac7fd127375f043d068b552f80c2e"
     },
     {
-      "sha": "7b31b3feb89da459eb9634e61bdf881171cbb068",
-      "short": "7b31b3f",
-      "message": "fix(weakmap): get retorna Handle nao I64 (#217) (#513)",
+      "sha": "338cc4e3c598a020018acc2aeeb14a1a59aee368",
+      "short": "338cc4e",
+      "message": "fix(codegen): destructure { key: alias = default } (#551) (#558)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:09:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7b31b3feb89da459eb9634e61bdf881171cbb068"
+      "date": "2026-05-04T05:10:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/338cc4e3c598a020018acc2aeeb14a1a59aee368"
     },
     {
-      "sha": "9a4b14d0c554fa261718d4ead2f9681d6bf9f548",
-      "short": "9a4b14d",
-      "message": "feat(codegen): Reflect.getPrototypeOf/setPrototypeOf/isExtensible/preventExtensions (#218) (#512)",
+      "sha": "5b4cfa26480d96f59e9082da9206c385db0d11bb",
+      "short": "5b4cfa2",
+      "message": "fix(codegen): Boolean('') retorna false (#550 parte 1) (#557)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T01:05:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9a4b14d0c554fa261718d4ead2f9681d6bf9f548"
+      "date": "2026-05-04T05:07:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5b4cfa26480d96f59e9082da9206c385db0d11bb"
     },
     {
-      "sha": "11efabe351c5b9786a4056797c2d59891bc9d9e0",
-      "short": "11efabe",
-      "message": "feat(codegen): Array.values/keys/entries eager + heuristica entries refinada (#208) (#511)",
+      "sha": "289d07b920c22bbcaea1540b8ccf07f864f00a10",
+      "short": "289d07b",
+      "message": "fix(date): toUTCString retorna RFC 1123 em vez de ISO 8601 (#552) (#556)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T23:28:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11efabe351c5b9786a4056797c2d59891bc9d9e0"
+      "date": "2026-05-04T05:03:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/289d07b920c22bbcaea1540b8ccf07f864f00a10"
     },
     {
-      "sha": "7630f334bbaa673d9fd8565531ed213ce3d37d49",
-      "short": "7630f33",
-      "message": "feat(globals): URLSearchParams minimal — get/has/set/delete/toString (#373) (#510)",
+      "sha": "0e8778a12fe78667af56480f324a60b364d60d5f",
+      "short": "0e8778a",
+      "message": "fix(globals): WeakMap/WeakSet has/delete retornam Bool (#554) (#555)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T23:05:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7630f334bbaa673d9fd8565531ed213ce3d37d49"
+      "date": "2026-05-04T04:59:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0e8778a12fe78667af56480f324a60b364d60d5f"
     },
     {
-      "sha": "09d31499e11651957c2715fd1ef06af993c7ef0f",
-      "short": "09d3149",
-      "message": "test(performance): cobre acceptance criteria de #371 (#509)",
+      "sha": "9c69f0be1a96b032e3affa17c27efa95601f3afb",
+      "short": "9c69f0b",
+      "message": "docs: atualiza CLAUDE.md/.claude/rules + spec do epic #226 (#548)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:58:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09d31499e11651957c2715fd1ef06af993c7ef0f"
+      "date": "2026-05-04T04:32:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c69f0be1a96b032e3affa17c27efa95601f3afb"
     },
     {
-      "sha": "ab96a3036c2b146b17e9f794dd3b2199f4d53bf5",
-      "short": "ab96a30",
-      "message": "test(structuredClone): cobre acceptance criteria de #375 (#508)",
+      "sha": "82cfd38b410d9d10dcf08669e2616ed3b42b13b9",
+      "short": "82cfd38",
+      "message": "test(destructure): cobre acceptance criteria de #210 (todos) (#547)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:57:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ab96a3036c2b146b17e9f794dd3b2199f4d53bf5"
+      "date": "2026-05-04T04:26:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/82cfd38b410d9d10dcf08669e2616ed3b42b13b9"
     },
     {
-      "sha": "586d4f257d903456bab3cc6393e10ead8d3bc474",
-      "short": "586d4f2",
-      "message": "test(btoa_atob): cobre acceptance criteria de #372 (#507)",
+      "sha": "ff1fc549b4f0c748138ca2e881ad993f5d1e17cf",
+      "short": "ff1fc54",
+      "message": "feat(string): startsWith/endsWith com offset opcional (#208) (#546)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:56:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/586d4f257d903456bab3cc6393e10ead8d3bc474"
+      "date": "2026-05-04T04:24:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff1fc549b4f0c748138ca2e881ad993f5d1e17cf"
     },
     {
-      "sha": "2b5e8d4ecc7ecf63162a09bf9a78c5268144214f",
-      "short": "2b5e8d4",
-      "message": "fix(textencoding): TextEncoder/TextDecoder instance methods nao corromp memoria (#374) (#506)",
+      "sha": "bcd14938afa0c8ccca7618ef82e7a56dbace4d94",
+      "short": "bcd1493",
+      "message": "feat(codegen): Boolean.prototype.toString/valueOf (#208) (#545)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:54:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b5e8d4ecc7ecf63162a09bf9a78c5268144214f"
+      "date": "2026-05-04T04:18:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bcd14938afa0c8ccca7618ef82e7a56dbace4d94"
     },
     {
-      "sha": "cdced228e879cd6766a13c3e7361ddac37866988",
-      "short": "cdced22",
-      "message": "feat(codegen): lift de arrow inline em Array.from(_, arrow) (#208) (#505)",
+      "sha": "20d1f9048c60954265f623c8e0294746e6c1c53d",
+      "short": "20d1f90",
+      "message": "fix(codegen): Object.keys/values/entries excluem __proto__ (#208) (#544)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:48:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cdced228e879cd6766a13c3e7361ddac37866988"
+      "date": "2026-05-04T03:55:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/20d1f9048c60954265f623c8e0294746e6c1c53d"
     },
     {
-      "sha": "e39fd79576d6a869aaac9f97f5a8a2ac742dcd48",
-      "short": "e39fd79",
-      "message": "feat(codegen): String.matchAll via regex backend (#208) (#504)",
+      "sha": "603769ef5910e626235bba985b7baff3347823d0",
+      "short": "603769e",
+      "message": "feat(codegen): Array.includes com fromIndex (#208) (#543)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:30:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e39fd79576d6a869aaac9f97f5a8a2ac742dcd48"
+      "date": "2026-05-04T03:48:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/603769ef5910e626235bba985b7baff3347823d0"
     },
     {
-      "sha": "4f2693d0ac59ed523dc018e1d2d03255a6ac3c90",
-      "short": "4f2693d",
-      "message": "feat(codegen): Object.seal/isFrozen/isSealed/getPrototypeOf/defineProperty (#208 v0) (#503)",
+      "sha": "ce8e7a4a00d82df6beeed801c13aca57e5362b37",
+      "short": "ce8e7a4",
+      "message": "feat(codegen): Array.lastIndexOf com fromIndex (#208) (#542)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-03T22:25:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f2693d0ac59ed523dc018e1d2d03255a6ac3c90"
+      "date": "2026-05-04T03:44:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce8e7a4a00d82df6beeed801c13aca57e5362b37"
     }
   ]
 }
