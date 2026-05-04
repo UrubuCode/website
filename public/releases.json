@@ -1,10 +1,10 @@
 {
-  "sha": "6763179ed688886de7f80e6cb13636a27ffb71c0",
-  "short_sha": "6763179",
-  "title": "fix(codegen): arrow callback com destructure no param (#568) (#569)",
-  "created": "2026-05-04T06:04:55Z",
-  "run_id": "25303728140",
-  "linux": "https://urubucode.github.io/rts/downloads/6763179/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/6763179/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/6763179/rts-macOS-ARM64/rts"
+  "sha": "ed5c1b6316ba4febbfea5f204a6cf44ec6c35d16",
+  "short_sha": "ed5c1b6",
+  "title": "fix(codegen): typeof <class> = 'function' (JS spec) (#587)",
+  "created": "2026-05-04T13:17:11Z",
+  "run_id": "25321225980",
+  "linux": "https://urubucode.github.io/rts/downloads/ed5c1b6/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/ed5c1b6/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/ed5c1b6/rts-macOS-ARM64/rts"
 }
