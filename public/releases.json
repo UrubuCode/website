@@ -1,10 +1,10 @@
 {
-  "sha": "61a2e36b313274aa6563111c9e9081c6ce33eabc",
-  "short_sha": "61a2e36",
-  "title": "fix(codegen): OptChain Member nao re-avalia obj na lower_member_expr …",
-  "created": "2026-05-04T17:38:16Z",
-  "run_id": "25333695118",
-  "linux": "https://urubucode.github.io/rts/downloads/61a2e36/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/61a2e36/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/61a2e36/rts-macOS-ARM64/rts"
+  "sha": "3831ad6c3f80117a4c6b88d503af8de573cdd7b7",
+  "short_sha": "3831ad6",
+  "title": "fix(codegen): this.name em ctor function nao mais interceptado por Fu…",
+  "created": "2026-05-04T20:17:38Z",
+  "run_id": "25341311029",
+  "linux": "https://urubucode.github.io/rts/downloads/3831ad6/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/3831ad6/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/3831ad6/rts-macOS-ARM64/rts"
 }

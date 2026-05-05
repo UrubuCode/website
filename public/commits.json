@@ -1,6 +1,30 @@
 {
-  "total": 676,
+  "total": 679,
   "commits": [
+    {
+      "sha": "3831ad6c3f80117a4c6b88d503af8de573cdd7b7",
+      "short": "3831ad6",
+      "message": "fix(codegen): this.name em ctor function nao mais interceptado por Function.name (#601) (#605)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-04T20:17:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3831ad6c3f80117a4c6b88d503af8de573cdd7b7"
+    },
+    {
+      "sha": "ad10a41a218b2cfccf3a3b3ed7ca9e504eba5da4",
+      "short": "ad10a41",
+      "message": "fix(codegen): method chain em obj literal (#480 chain) (#604)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-04T20:02:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad10a41a218b2cfccf3a3b3ed7ca9e504eba5da4"
+    },
+    {
+      "sha": "506d95e24ef050ec4a9840edf30720d18b1639cc",
+      "short": "506d95e",
+      "message": "fix(codegen): obj literal method shorthand nao e' interceptado por Set.add (#480) (#603)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-04T19:41:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/506d95e24ef050ec4a9840edf30720d18b1639cc"
+    },
     {
       "sha": "61a2e36b313274aa6563111c9e9081c6ce33eabc",
       "short": "61a2e36",
@@ -136,30 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-04T11:45:26Z",
       "url": "https://github.com/UrubuCode/rts/commit/7ebf5483cd4cff03e9f374272a43c09cccf96b9d"
-    },
-    {
-      "sha": "4273c816672339c4e095c72f3242760612556092",
-      "short": "4273c81",
-      "message": "feat(globals): Object.keys(array) retorna indices como string (#578)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T11:38:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4273c816672339c4e095c72f3242760612556092"
-    },
-    {
-      "sha": "ae68eb29b326dc3481214b9e099e159ebb0bc2ba",
-      "short": "ae68eb2",
-      "message": "feat(json): JSON.parse converte para Map/Vec navegavel (#577)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T11:34:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae68eb29b326dc3481214b9e099e159ebb0bc2ba"
-    },
-    {
-      "sha": "64a39bbc0ef28f7e826f7edadd15d0ff16b11871",
-      "short": "64a39bb",
-      "message": "feat(json): JSON.stringify(value, null, indent) com pretty-print (#576)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T11:30:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/64a39bbc0ef28f7e826f7edadd15d0ff16b11871"
     }
   ]
 }
