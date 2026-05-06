@@ -1,6 +1,70 @@
 {
-  "total": 679,
+  "total": 687,
   "commits": [
+    {
+      "sha": "1276d0aeebe45297e2c0938ed971f6de446fb083",
+      "short": "1276d0a",
+      "message": "fix(codegen): for-of em Map/Set itera entries via MAP_ENTRIES (#610)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-06T00:56:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1276d0aeebe45297e2c0938ed971f6de446fb083"
+    },
+    {
+      "sha": "df956b683d2d781bf130a234b9c7689fd5d9d869",
+      "short": "df956b6",
+      "message": "fix(codegen): cfg?.server?.host e fmt?.format() retornam string correta (#609)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-05T20:29:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df956b683d2d781bf130a234b9c7689fd5d9d869"
+    },
+    {
+      "sha": "5586d58418c57e72d77fe186daddb9f6396015cd",
+      "short": "5586d58",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-05-05T20:24:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5586d58418c57e72d77fe186daddb9f6396015cd"
+    },
+    {
+      "sha": "a7c6fbac01944c9085ef35d7a9734579bf45b205",
+      "short": "a7c6fba",
+      "message": "feat: fase 0 — workspace + crates rts-ast e rts-diagnostics",
+      "author": "Daniel",
+      "date": "2026-05-05T20:23:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7c6fbac01944c9085ef35d7a9734579bf45b205"
+    },
+    {
+      "sha": "dc51685dec58168370996a8cec979d70db33c21e",
+      "short": "dc51685",
+      "message": "fix(codegen): a.toString() em constructor function nao cai em Function builtin (#608)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-05T20:18:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dc51685dec58168370996a8cec979d70db33c21e"
+    },
+    {
+      "sha": "db77234797a7a3b5252a4168873e039a025e27ad",
+      "short": "db77234",
+      "message": "add: rts reactor plan",
+      "author": "Daniel",
+      "date": "2026-05-05T20:12:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db77234797a7a3b5252a4168873e039a025e27ad"
+    },
+    {
+      "sha": "dae1624f496ac3cb25df4cc3992347be32b6b4f8",
+      "short": "dae1624",
+      "message": "fix(codegen): this.cfg.server.host resolve via class meta nested types (#607)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-05T20:01:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dae1624f496ac3cb25df4cc3992347be32b6b4f8"
+    },
+    {
+      "sha": "c2b6540338d44976e3c16467977ccb61460a55d3",
+      "short": "c2b6540",
+      "message": "fix(codegen): cfg.server.host chained direto nao cai em URL.host fallback (#606)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-05T19:52:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2b6540338d44976e3c16467977ccb61460a55d3"
+    },
     {
       "sha": "3831ad6c3f80117a4c6b88d503af8de573cdd7b7",
       "short": "3831ad6",
@@ -96,70 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-04T14:01:54Z",
       "url": "https://github.com/UrubuCode/rts/commit/764d317213ba98e7a02d77c998cf6d110541ef3b"
-    },
-    {
-      "sha": "221a94f36766136255eb3dcdb8c0b5b5a38c3f6b",
-      "short": "221a94f",
-      "message": "fix(codegen): operator ! com strings/NaN/handle 0 (#589)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T13:39:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/221a94f36766136255eb3dcdb8c0b5b5a38c3f6b"
-    },
-    {
-      "sha": "ed5c1b6316ba4febbfea5f204a6cf44ec6c35d16",
-      "short": "ed5c1b6",
-      "message": "fix(codegen): typeof <class> = 'function' (JS spec) (#587)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T13:17:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed5c1b6316ba4febbfea5f204a6cf44ec6c35d16"
-    },
-    {
-      "sha": "9cac2a6faea2bcaf6798f95e93091d376148905d",
-      "short": "9cac2a6",
-      "message": "feat(parser): TypeScript parameter properties (#585) (#586)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T13:03:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9cac2a6faea2bcaf6798f95e93091d376148905d"
-    },
-    {
-      "sha": "f952477ae14d3478b67db5bd15c9ab1bec9d4eed",
-      "short": "f952477",
-      "message": "feat(codegen): arr.flat(depth) recursivo (#583)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T12:48:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f952477ae14d3478b67db5bd15c9ab1bec9d4eed"
-    },
-    {
-      "sha": "50837b81edbc324b2d8b894a1c2015e3d26e35e1",
-      "short": "50837b8",
-      "message": "fix(string,codegen): split('') = chars; Array.from(string) = chars (#582)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T12:43:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50837b81edbc324b2d8b894a1c2015e3d26e35e1"
-    },
-    {
-      "sha": "96b8918ccb3a83cc91f2f15b2a572aac192336fd",
-      "short": "96b8918",
-      "message": "feat(codegen): arr.toSpliced com ...items (insert imutavel) (#581)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T12:38:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96b8918ccb3a83cc91f2f15b2a572aac192336fd"
-    },
-    {
-      "sha": "d243f6c78ccea55375a26111ca7ebede468063a7",
-      "short": "d243f6c",
-      "message": "feat(codegen): new Set([elems]) e new Map([[k,v]...]) com initial (#580)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T12:34:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d243f6c78ccea55375a26111ca7ebede468063a7"
-    },
-    {
-      "sha": "7ebf5483cd4cff03e9f374272a43c09cccf96b9d",
-      "short": "7ebf548",
-      "message": "fix(globals): Number formato JS spec + MIN_VALUE = 5e-324 (#579)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T11:45:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ebf5483cd4cff03e9f374272a43c09cccf96b9d"
     }
   ]
 }
