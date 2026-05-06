@@ -1,6 +1,62 @@
 {
-  "total": 687,
+  "total": 696,
   "commits": [
+    {
+      "sha": "66b95db04fabd6f563344d0fdad4cdd352827d43",
+      "short": "66b95db",
+      "message": "Merge pull request #614 from UrubuCode/refactor/fase-1",
+      "author": "Drysius",
+      "date": "2026-05-06T04:41:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/66b95db04fabd6f563344d0fdad4cdd352827d43"
+    },
+    {
+      "sha": "c68ed6c3a064f88fcdf0cb35e1c81fc2904436ca",
+      "short": "c68ed6c",
+      "message": "fix(runtime): json parse + double-free live count",
+      "author": "Daniel",
+      "date": "2026-05-06T04:38:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c68ed6c3a064f88fcdf0cb35e1c81fc2904436ca"
+    },
+    {
+      "sha": "c2eb724b350f78d627fd1430e987630bce4eb1d4",
+      "short": "c2eb724",
+      "message": "feat(refactor): etapa 2.1 — crate rts-hir (HIR tipado AST→codegen)",
+      "author": "Daniel",
+      "date": "2026-05-06T04:05:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2eb724b350f78d627fd1430e987630bce4eb1d4"
+    },
+    {
+      "sha": "67e2befed84ac44c8b741a53e9fa8bd29aaa7330",
+      "short": "67e2bef",
+      "message": "Merge branch 'refactor/fase-1'",
+      "author": "Daniel",
+      "date": "2026-05-06T02:17:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/67e2befed84ac44c8b741a53e9fa8bd29aaa7330"
+    },
+    {
+      "sha": "6bc1b2d6adffe0c486869e5306920092d71c7a17",
+      "short": "6bc1b2d",
+      "message": "feat(refactor): etapa 1.4 — crate rts-cli + pipeline em rts-codegen",
+      "author": "Daniel",
+      "date": "2026-05-06T02:16:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6bc1b2d6adffe0c486869e5306920092d71c7a17"
+    },
+    {
+      "sha": "324dbacb0c107354dbda015e679bb4499de187e0",
+      "short": "324dbac",
+      "message": "feat(refactor): etapa 1.3 — crate rts-codegen",
+      "author": "Daniel",
+      "date": "2026-05-06T01:37:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/324dbacb0c107354dbda015e679bb4499de187e0"
+    },
+    {
+      "sha": "551569ab34b9ad7092c193f299c367e06ea3cc51",
+      "short": "551569a",
+      "message": "feat(refactor): etapa 1.2 — crates rts-linker e rts-runtime",
+      "author": "Daniel",
+      "date": "2026-05-06T01:16:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/551569ab34b9ad7092c193f299c367e06ea3cc51"
+    },
     {
       "sha": "1276d0aeebe45297e2c0938ed971f6de446fb083",
       "short": "1276d0a",
@@ -8,6 +64,22 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-06T00:56:57Z",
       "url": "https://github.com/UrubuCode/rts/commit/1276d0aeebe45297e2c0938ed971f6de446fb083"
+    },
+    {
+      "sha": "abebf1bf94377c525774385de059ef794e9ba1fd",
+      "short": "abebf1b",
+      "message": "Create fase-1.2.md",
+      "author": "Daniel",
+      "date": "2026-05-05T20:54:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/abebf1bf94377c525774385de059ef794e9ba1fd"
+    },
+    {
+      "sha": "3cca28fe36fe92a195cb04639b2fa6d01367517e",
+      "short": "3cca28f",
+      "message": "feat(refactor): etapa 1.1 — crates rts-abi e rts-parser",
+      "author": "Daniel",
+      "date": "2026-05-05T20:47:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3cca28fe36fe92a195cb04639b2fa6d01367517e"
     },
     {
       "sha": "df956b683d2d781bf130a234b9c7689fd5d9d869",
@@ -88,78 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-04T19:41:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/506d95e24ef050ec4a9840edf30720d18b1639cc"
-    },
-    {
-      "sha": "61a2e36b313274aa6563111c9e9081c6ce33eabc",
-      "short": "61a2e36",
-      "message": "fix(codegen): OptChain Member nao re-avalia obj na lower_member_expr (#600)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T17:38:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61a2e36b313274aa6563111c9e9081c6ce33eabc"
-    },
-    {
-      "sha": "4d16e49a87dff24dbf4fd9ffda1989d1de73ebd9",
-      "short": "4d16e49",
-      "message": "fix(codegen): Object.entries(obj).forEach(([k,v]) =>...) k vira string (#599)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T17:02:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d16e49a87dff24dbf4fd9ffda1989d1de73ebd9"
-    },
-    {
-      "sha": "47cdbc6bbbe32233f75072f5d8022d483bc2ddd8",
-      "short": "47cdbc6",
-      "message": "fix(codegen): nested object via var/optional chain herda field types (#598)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T16:26:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47cdbc6bbbe32233f75072f5d8022d483bc2ddd8"
-    },
-    {
-      "sha": "1b895bee281e1a5fa2cf7f158850047a5f0f8079",
-      "short": "1b895be",
-      "message": "fix(vec): join recursivo em sub-arrays (JS toString spec) (#597)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T16:14:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b895bee281e1a5fa2cf7f158850047a5f0f8079"
-    },
-    {
-      "sha": "036840a3129be3e225099187681db3591eed37ca",
-      "short": "036840a",
-      "message": "fix(codegen): users[i].name direto via local_array_obj_field_types (#592 follow-up) (#596)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T16:06:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/036840a3129be3e225099187681db3591eed37ca"
-    },
-    {
-      "sha": "fb6c36f7c75c014368403079b96e6a05d1a057fc",
-      "short": "fb6c36f",
-      "message": "fix(codegen): users[i].field e for-of u.name funcionam (#592) (#595)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T16:02:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb6c36f7c75c014368403079b96e6a05d1a057fc"
-    },
-    {
-      "sha": "898b18299b55fe76bf9ef102e078c063e29d1502",
-      "short": "898b182",
-      "message": "fix(codegen): lift_arrows + array_methods descem em Tpl/Bin/Cond (#593) (#594)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T15:56:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/898b18299b55fe76bf9ef102e078c063e29d1502"
-    },
-    {
-      "sha": "13605921ed97644c348ab4981555419ed3c2828e",
-      "short": "1360592",
-      "message": "fix(codegen): template literal usa TPL_COERCE_AUTO para Handle ambiguo (#591)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T14:57:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/13605921ed97644c348ab4981555419ed3c2828e"
-    },
-    {
-      "sha": "764d317213ba98e7a02d77c998cf6d110541ef3b",
-      "short": "764d317",
-      "message": "feat(codegen): instanceof para global classes (Array/Date/RegExp/Map/Set/Error*) (#590)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-04T14:01:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/764d317213ba98e7a02d77c998cf6d110541ef3b"
     }
   ]
 }

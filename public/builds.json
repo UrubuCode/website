@@ -1,5 +1,59 @@
 [
   {
+    "sha": "66b95db04fabd6f563344d0fdad4cdd352827d43",
+    "short_sha": "66b95db",
+    "title": "Merge pull request #614 from UrubuCode/refactor/fase-1",
+    "created": "2026-05-06T04:41:28Z",
+    "run_id": "25416846006",
+    "artifacts": [
+      {
+        "name": "rts-Linux-X64",
+        "file": "rts",
+        "size_mb": "88.8",
+        "url": "https://urubucode.github.io/rts/downloads/66b95db/rts-Linux-X64/rts"
+      },
+      {
+        "name": "rts-Windows-X64",
+        "file": "rts.exe",
+        "size_mb": "93.4",
+        "url": "https://urubucode.github.io/rts/downloads/66b95db/rts-Windows-X64/rts.exe"
+      },
+      {
+        "name": "rts-macOS-ARM64",
+        "file": "rts",
+        "size_mb": "68.4",
+        "url": "https://urubucode.github.io/rts/downloads/66b95db/rts-macOS-ARM64/rts"
+      }
+    ]
+  },
+  {
+    "sha": "67e2befed84ac44c8b741a53e9fa8bd29aaa7330",
+    "short_sha": "67e2bef",
+    "title": "Merge branch 'refactor/fase-1'",
+    "created": "2026-05-06T02:18:44Z",
+    "run_id": "25412966185",
+    "artifacts": [
+      {
+        "name": "rts-Linux-X64",
+        "file": "rts",
+        "size_mb": "88.8",
+        "url": "https://urubucode.github.io/rts/downloads/67e2bef/rts-Linux-X64/rts"
+      },
+      {
+        "name": "rts-Windows-X64",
+        "file": "rts.exe",
+        "size_mb": "93.4",
+        "url": "https://urubucode.github.io/rts/downloads/67e2bef/rts-Windows-X64/rts.exe"
+      },
+      {
+        "name": "rts-macOS-ARM64",
+        "file": "rts",
+        "size_mb": "68.4",
+        "url": "https://urubucode.github.io/rts/downloads/67e2bef/rts-macOS-ARM64/rts"
+      }
+    ]
+  },
+  {
     "sha": "1276d0aeebe45297e2c0938ed971f6de446fb083",
     "short_sha": "1276d0a",
     "title": "fix(codegen): for-of em Map/Set itera entries via MAP_ENTRIES (#610)",
@@ -212,60 +266,6 @@
         "file": "rts",
         "size_mb": "68.4",
         "url": "https://urubucode.github.io/rts/downloads/3831ad6/rts-macOS-ARM64/rts"
-      }
-    ]
-  },
-  {
-    "sha": "ad10a41a218b2cfccf3a3b3ed7ca9e504eba5da4",
-    "short_sha": "ad10a41",
-    "title": "fix(codegen): method chain em obj literal (#480 chain) (#604)",
-    "created": "2026-05-04T20:02:18Z",
-    "run_id": "25340591336",
-    "artifacts": [
-      {
-        "name": "rts-Linux-X64",
-        "file": "rts",
-        "size_mb": "88.8",
-        "url": "https://urubucode.github.io/rts/downloads/ad10a41/rts-Linux-X64/rts"
-      },
-      {
-        "name": "rts-Windows-X64",
-        "file": "rts.exe",
-        "size_mb": "93.4",
-        "url": "https://urubucode.github.io/rts/downloads/ad10a41/rts-Windows-X64/rts.exe"
-      },
-      {
-        "name": "rts-macOS-ARM64",
-        "file": "rts",
-        "size_mb": "68.4",
-        "url": "https://urubucode.github.io/rts/downloads/ad10a41/rts-macOS-ARM64/rts"
-      }
-    ]
-  },
-  {
-    "sha": "506d95e24ef050ec4a9840edf30720d18b1639cc",
-    "short_sha": "506d95e",
-    "title": "fix(codegen): obj literal method shorthand nao e' interceptado por Se…",
-    "created": "2026-05-04T19:41:07Z",
-    "run_id": "25339509670",
-    "artifacts": [
-      {
-        "name": "rts-Linux-X64",
-        "file": "rts",
-        "size_mb": "88.8",
-        "url": "https://urubucode.github.io/rts/downloads/506d95e/rts-Linux-X64/rts"
-      },
-      {
-        "name": "rts-Windows-X64",
-        "file": "rts.exe",
-        "size_mb": "93.4",
-        "url": "https://urubucode.github.io/rts/downloads/506d95e/rts-Windows-X64/rts.exe"
-      },
-      {
-        "name": "rts-macOS-ARM64",
-        "file": "rts",
-        "size_mb": "68.4",
-        "url": "https://urubucode.github.io/rts/downloads/506d95e/rts-macOS-ARM64/rts"
       }
     ]
   }

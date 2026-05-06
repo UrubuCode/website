@@ -1,10 +1,10 @@
 {
-  "sha": "1276d0aeebe45297e2c0938ed971f6de446fb083",
-  "short_sha": "1276d0a",
-  "title": "fix(codegen): for-of em Map/Set itera entries via MAP_ENTRIES (#610)",
-  "created": "2026-05-06T00:57:00Z",
-  "run_id": "25410713788",
-  "linux": "https://urubucode.github.io/rts/downloads/1276d0a/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/1276d0a/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/1276d0a/rts-macOS-ARM64/rts"
+  "sha": "66b95db04fabd6f563344d0fdad4cdd352827d43",
+  "short_sha": "66b95db",
+  "title": "Merge pull request #614 from UrubuCode/refactor/fase-1",
+  "created": "2026-05-06T04:41:28Z",
+  "run_id": "25416846006",
+  "linux": "https://urubucode.github.io/rts/downloads/66b95db/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/66b95db/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/66b95db/rts-macOS-ARM64/rts"
 }
