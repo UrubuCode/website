@@ -1,10 +1,10 @@
 {
-  "sha": "66b95db04fabd6f563344d0fdad4cdd352827d43",
-  "short_sha": "66b95db",
-  "title": "Merge pull request #614 from UrubuCode/refactor/fase-1",
-  "created": "2026-05-06T04:41:28Z",
-  "run_id": "25416846006",
-  "linux": "https://urubucode.github.io/rts/downloads/66b95db/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/66b95db/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/66b95db/rts-macOS-ARM64/rts"
+  "sha": "8d01fb69d1a31bcc80b33b0af123a05bccc11ec4",
+  "short_sha": "8d01fb6",
+  "title": "feat(refactor): etapa 3.17 — Intrinsic inlining (sqrt/abs/min/max)",
+  "created": "2026-05-06T18:55:43Z",
+  "run_id": "25454901789",
+  "linux": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-macOS-ARM64/rts"
 }
