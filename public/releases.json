@@ -1,10 +1,10 @@
 {
-  "sha": "00646878c379599759067e27e1a85c345c484352",
-  "short_sha": "0064687",
-  "title": "feat(diagnostics): erros TS/JS estilo Bun com snippet, caret e stack …",
-  "created": "2026-05-07T07:06:06Z",
-  "run_id": "25481308949",
-  "linux": "https://urubucode.github.io/rts/downloads/0064687/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/0064687/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/0064687/rts-macOS-ARM64/rts"
+  "sha": "f398a33f0e6c3fa6e021b8e21a886ea671fe635c",
+  "short_sha": "f398a33",
+  "title": "fix(globals): Number coercion segue JS spec (vazio -> 0, hex/oct/bin)",
+  "created": "2026-05-07T11:43:40Z",
+  "run_id": "25493708170",
+  "linux": "https://urubucode.github.io/rts/downloads/f398a33/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/f398a33/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/f398a33/rts-macOS-ARM64/rts"
 }

@@ -1,6 +1,38 @@
 {
-  "total": 751,
+  "total": 758,
   "commits": [
+    {
+      "sha": "f398a33f0e6c3fa6e021b8e21a886ea671fe635c",
+      "short": "f398a33",
+      "message": "fix(globals): Number coercion segue JS spec (vazio -> 0, hex/oct/bin)",
+      "author": "Marcos",
+      "date": "2026-05-07T11:42:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f398a33f0e6c3fa6e021b8e21a886ea671fe635c"
+    },
+    {
+      "sha": "01d25ceee4e5bee4fcf0755b6b51c37dd1754a96",
+      "short": "01d25ce",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-05-07T11:30:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01d25ceee4e5bee4fcf0755b6b51c37dd1754a96"
+    },
+    {
+      "sha": "4659179b829002411193851232f1bb652753561c",
+      "short": "4659179",
+      "message": "docs(refactor): Fase 4 8/8 entregue — narrow types end-to-end",
+      "author": "Marcos",
+      "date": "2026-05-07T11:29:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4659179b829002411193851232f1bb652753561c"
+    },
+    {
+      "sha": "ffa3af2a109ffd3bde1b9f43d902cc10a24aceee",
+      "short": "ffa3af2",
+      "message": "feat(narrow): i8/i16/u8/u16 first-class end-to-end pelo MIR",
+      "author": "Marcos",
+      "date": "2026-05-07T11:28:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ffa3af2a109ffd3bde1b9f43d902cc10a24aceee"
+    },
     {
       "sha": "00646878c379599759067e27e1a85c345c484352",
       "short": "0064687",
@@ -58,6 +90,30 @@
       "url": "https://github.com/UrubuCode/rts/commit/d4d7b066d2ddb93e84b59920e78afc6d48efef6d"
     },
     {
+      "sha": "a4c57f015a40ed9862c6abee075d319362521db9",
+      "short": "a4c57f0",
+      "message": "docs(refactor): atualiza Fase 4 status (7/8 entregue, escape analysis wont-fix)",
+      "author": "Marcos",
+      "date": "2026-05-07T05:27:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4c57f015a40ed9862c6abee075d319362521db9"
+    },
+    {
+      "sha": "ee4a5396dc3c270c3462876ceeeb9188a4a1f379",
+      "short": "ee4a539",
+      "message": "feat(codegen,rts-mir): ValTy I8/I16/U8/U16 infra + narrow idempotente",
+      "author": "Marcos",
+      "date": "2026-05-07T05:26:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee4a5396dc3c270c3462876ceeeb9188a4a1f379"
+    },
+    {
+      "sha": "4846f93f4d433576bc1b8ddd7cb8b39df6717f32",
+      "short": "4846f93",
+      "message": "feat(simd): V128 lane types + Splat/Extract/Insert/Add/Sub/Mul no MIR",
+      "author": "Marcos",
+      "date": "2026-05-07T04:58:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4846f93f4d433576bc1b8ddd7cb8b39df6717f32"
+    },
+    {
       "sha": "58ff0ca9b50b8cd9270507ba4cb2ad9c1e658199",
       "short": "58ff0ca",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
@@ -104,62 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-07T04:25:30Z",
       "url": "https://github.com/UrubuCode/rts/commit/326a7ae9447031fba625e263475b164ffc2356e7"
-    },
-    {
-      "sha": "bc916bd14cd58ada38b20af563928a51dba52acc",
-      "short": "bc916bd",
-      "message": "docs: atualiza tudo pos Fase 4 parcial (5/8 entregues)",
-      "author": "Marcos",
-      "date": "2026-05-07T04:13:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc916bd14cd58ada38b20af563928a51dba52acc"
-    },
-    {
-      "sha": "e79b8bfe63a057ec5098a74d741dfb78fc499bb3",
-      "short": "e79b8bf",
-      "message": "feat(rts-mir): passes/fma.rs FMA fusion (Fase 4 #5)",
-      "author": "Marcos",
-      "date": "2026-05-07T04:08:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e79b8bfe63a057ec5098a74d741dfb78fc499bb3"
-    },
-    {
-      "sha": "9e96aff45f1dea770069177ca0fd9b1a83c265ca",
-      "short": "9e96aff",
-      "message": "feat(refactor): etapa 4.7 — inline em fixed-point com optimize entre passadas",
-      "author": "Marcos",
-      "date": "2026-05-07T04:00:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9e96aff45f1dea770069177ca0fd9b1a83c265ca"
-    },
-    {
-      "sha": "2236d911a675127dc938e8dcb8c4caf0d1f42648",
-      "short": "2236d91",
-      "message": "feat(rts-mir): suporte a arr[i] = v + helper mark_placeholder taggeado",
-      "author": "Marcos",
-      "date": "2026-05-07T03:55:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2236d911a675127dc938e8dcb8c4caf0d1f42648"
-    },
-    {
-      "sha": "5a6389292b4755569577cbdb025348572cf76d9e",
-      "short": "5a63892",
-      "message": "feat(rts-mir): passes/cse.rs CSE intra-bloco (Fase 4 #4)",
-      "author": "Marcos",
-      "date": "2026-05-07T03:44:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a6389292b4755569577cbdb025348572cf76d9e"
-    },
-    {
-      "sha": "815e1dfd9d2227d622247ded6597559eb6548490",
-      "short": "815e1df",
-      "message": "test(mir_codegen): smoke e2e do inline integrado via compile_program",
-      "author": "Marcos",
-      "date": "2026-05-07T03:36:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/815e1dfd9d2227d622247ded6597559eb6548490"
-    },
-    {
-      "sha": "9c529a90e5f662e2d7b2e51475723b0d8559cbba",
-      "short": "9c529a9",
-      "message": "feat(refactor): etapa 4.3 — inline integrado ao routing default",
-      "author": "Marcos",
-      "date": "2026-05-07T02:30:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c529a90e5f662e2d7b2e51475723b0d8559cbba"
     }
   ]
 }
