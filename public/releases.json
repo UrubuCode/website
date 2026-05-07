@@ -1,10 +1,10 @@
 {
-  "sha": "8d01fb69d1a31bcc80b33b0af123a05bccc11ec4",
-  "short_sha": "8d01fb6",
-  "title": "feat(refactor): etapa 3.17 — Intrinsic inlining (sqrt/abs/min/max)",
-  "created": "2026-05-06T18:55:43Z",
-  "run_id": "25454901789",
-  "linux": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/8d01fb6/rts-macOS-ARM64/rts"
+  "sha": "00646878c379599759067e27e1a85c345c484352",
+  "short_sha": "0064687",
+  "title": "feat(diagnostics): erros TS/JS estilo Bun com snippet, caret e stack …",
+  "created": "2026-05-07T07:06:06Z",
+  "run_id": "25481308949",
+  "linux": "https://urubucode.github.io/rts/downloads/0064687/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/0064687/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/0064687/rts-macOS-ARM64/rts"
 }
