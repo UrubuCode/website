@@ -1,6 +1,22 @@
 {
-  "total": 822,
+  "total": 824,
   "commits": [
+    {
+      "sha": "262c7c9b0167eaa4797eed2e8249870edd7c6f77",
+      "short": "262c7c9",
+      "message": "fix(codegen): comparacao lexicografica de strings (#616)",
+      "author": "Marcos",
+      "date": "2026-05-08T11:10:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/262c7c9b0167eaa4797eed2e8249870edd7c6f77"
+    },
+    {
+      "sha": "75af0c96362f7bf4587aab1817870b558e1d4e92",
+      "short": "75af0c9",
+      "message": "perf(parallel): reativa rayon em parallel.map/reduce",
+      "author": "Marcos",
+      "date": "2026-05-08T10:52:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/75af0c96362f7bf4587aab1817870b558e1d4e92"
+    },
     {
       "sha": "bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c",
       "short": "bade38e",
@@ -144,22 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-08T02:26:52Z",
       "url": "https://github.com/UrubuCode/rts/commit/f17bf1f2bb18af30262f58fabe2d82ff710af40d"
-    },
-    {
-      "sha": "2c3ab938ab1746892d05091e976dfa2834f55072",
-      "short": "2c3ab93",
-      "message": "fix(codegen): this.X = value em classe nao passa pelo setter sentinel",
-      "author": "Marcos",
-      "date": "2026-05-08T02:25:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c3ab938ab1746892d05091e976dfa2834f55072"
-    },
-    {
-      "sha": "fbc30465e159226adabf804b47f68a20bb6cfa25",
-      "short": "fbc3046",
-      "message": "test(net): muda porta 51237 -> 45123 (fora do range Windows excluido)",
-      "author": "Marcos",
-      "date": "2026-05-08T02:04:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fbc30465e159226adabf804b47f68a20bb6cfa25"
     }
   ]
 }

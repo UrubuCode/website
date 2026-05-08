@@ -1,10 +1,10 @@
 {
-  "sha": "bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c",
-  "short_sha": "bade38e",
-  "title": "fix(linker): UniformTypeIdentifiers framework p/ macOS smoke",
-  "created": "2026-05-08T04:35:05Z",
-  "run_id": "25536963236",
-  "linux": "https://urubucode.github.io/rts/downloads/bade38e/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/bade38e/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/bade38e/rts-macOS-ARM64/rts"
+  "sha": "262c7c9b0167eaa4797eed2e8249870edd7c6f77",
+  "short_sha": "262c7c9",
+  "title": "fix(codegen): comparacao lexicografica de strings (#616)",
+  "created": "2026-05-08T11:10:42Z",
+  "run_id": "25552368282",
+  "linux": "https://urubucode.github.io/rts/downloads/262c7c9/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/262c7c9/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/262c7c9/rts-macOS-ARM64/rts"
 }
