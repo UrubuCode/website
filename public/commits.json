@@ -1,165 +1,165 @@
 {
-  "total": 758,
+  "total": 803,
   "commits": [
     {
-      "sha": "f398a33f0e6c3fa6e021b8e21a886ea671fe635c",
-      "short": "f398a33",
-      "message": "fix(globals): Number coercion segue JS spec (vazio -> 0, hex/oct/bin)",
+      "sha": "fbc30465e159226adabf804b47f68a20bb6cfa25",
+      "short": "fbc3046",
+      "message": "test(net): muda porta 51237 -> 45123 (fora do range Windows excluido)",
       "author": "Marcos",
-      "date": "2026-05-07T11:42:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f398a33f0e6c3fa6e021b8e21a886ea671fe635c"
+      "date": "2026-05-08T02:04:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbc30465e159226adabf804b47f68a20bb6cfa25"
     },
     {
-      "sha": "01d25ceee4e5bee4fcf0755b6b51c37dd1754a96",
-      "short": "01d25ce",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "ef714c34cd24d63344690745a4779f3ea5f79258",
+      "short": "ef714c3",
+      "message": "fix(codegen): opt chain method call F64 bitcast + disable generator test",
       "author": "Marcos",
-      "date": "2026-05-07T11:30:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01d25ceee4e5bee4fcf0755b6b51c37dd1754a96"
+      "date": "2026-05-08T01:59:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef714c34cd24d63344690745a4779f3ea5f79258"
     },
     {
-      "sha": "4659179b829002411193851232f1bb652753561c",
-      "short": "4659179",
-      "message": "docs(refactor): Fase 4 8/8 entregue — narrow types end-to-end",
+      "sha": "613b8126376244e88c97ad9d4d260fcb1a1ca6d4",
+      "short": "613b812",
+      "message": "feat(codegen): object literal getter/setter",
       "author": "Marcos",
-      "date": "2026-05-07T11:29:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4659179b829002411193851232f1bb652753561c"
+      "date": "2026-05-08T01:23:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/613b8126376244e88c97ad9d4d260fcb1a1ca6d4"
     },
     {
-      "sha": "ffa3af2a109ffd3bde1b9f43d902cc10a24aceee",
-      "short": "ffa3af2",
-      "message": "feat(narrow): i8/i16/u8/u16 first-class end-to-end pelo MIR",
+      "sha": "0721d73b64b1cce1c0c86405b9169652d26f5647",
+      "short": "0721d73",
+      "message": "feat(map/set): for-of iteration nativa preservando ordem de insercao",
       "author": "Marcos",
-      "date": "2026-05-07T11:28:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ffa3af2a109ffd3bde1b9f43d902cc10a24aceee"
+      "date": "2026-05-08T00:59:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0721d73b64b1cce1c0c86405b9169652d26f5647"
     },
     {
-      "sha": "00646878c379599759067e27e1a85c345c484352",
-      "short": "0064687",
-      "message": "feat(diagnostics): erros TS/JS estilo Bun com snippet, caret e stack trace",
-      "author": "Daniel",
-      "date": "2026-05-07T07:05:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/00646878c379599759067e27e1a85c345c484352"
-    },
-    {
-      "sha": "107b5241e0480d17d71b389dc53099185f96486b",
-      "short": "107b524",
-      "message": "docs: RUST_BACKTRACE=full como padrao obrigatorio ao executar rts.exe",
-      "author": "Daniel",
-      "date": "2026-05-07T06:18:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/107b5241e0480d17d71b389dc53099185f96486b"
-    },
-    {
-      "sha": "7bf264e4af7c092b3e2a5aeca4b8782a7d8cc3b2",
-      "short": "7bf264e",
-      "message": "feat(crash): instala handler de crash com backtrace para segfaults",
-      "author": "Daniel",
-      "date": "2026-05-07T06:11:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7bf264e4af7c092b3e2a5aeca4b8782a7d8cc3b2"
-    },
-    {
-      "sha": "3924aff1c4c74c5e52b4d217e97da7dfe6547a14",
-      "short": "3924aff",
-      "message": "test: this_binding.test.ts — 8 casos cobrindo this em class/arrow/herança",
-      "author": "Daniel",
-      "date": "2026-05-07T05:59:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3924aff1c4c74c5e52b4d217e97da7dfe6547a14"
-    },
-    {
-      "sha": "0482b6aaf8dd1e4ef7b51c687c7f399ccb12eada",
-      "short": "0482b6a",
-      "message": "fix(codegen): emit_function_handle_indirect_call retorna ValTy::I64 sem bitcast",
-      "author": "Daniel",
-      "date": "2026-05-07T05:59:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0482b6aaf8dd1e4ef7b51c687c7f399ccb12eada"
-    },
-    {
-      "sha": "4ac5f20c6db6ea65c5497a828b1c8a6587fece83",
-      "short": "4ac5f20",
-      "message": "fix(runtime): FUNCTION_CALL empurra bound_this ao THIS_SLOT para arrows",
-      "author": "Daniel",
-      "date": "2026-05-07T05:59:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ac5f20c6db6ea65c5497a828b1c8a6587fece83"
-    },
-    {
-      "sha": "d4d7b066d2ddb93e84b59920e78afc6d48efef6d",
-      "short": "d4d7b06",
-      "message": "feat(codegen): distingue arrow vs function() — nomeação e REIFY_BOUND",
-      "author": "Daniel",
-      "date": "2026-05-07T05:59:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4d7b066d2ddb93e84b59920e78afc6d48efef6d"
-    },
-    {
-      "sha": "a4c57f015a40ed9862c6abee075d319362521db9",
-      "short": "a4c57f0",
-      "message": "docs(refactor): atualiza Fase 4 status (7/8 entregue, escape analysis wont-fix)",
+      "sha": "7fa7f517a83e25bf0ad9185d264aec2d99c22d2d",
+      "short": "7fa7f51",
+      "message": "fix(codegen): optional chain nested + forEach ordem JS-spec",
       "author": "Marcos",
-      "date": "2026-05-07T05:27:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4c57f015a40ed9862c6abee075d319362521db9"
+      "date": "2026-05-08T00:44:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7fa7f517a83e25bf0ad9185d264aec2d99c22d2d"
     },
     {
-      "sha": "ee4a5396dc3c270c3462876ceeeb9188a4a1f379",
-      "short": "ee4a539",
-      "message": "feat(codegen,rts-mir): ValTy I8/I16/U8/U16 infra + narrow idempotente",
+      "sha": "f9599bf65918de5c040e5d0c2c4266fa77f7dca7",
+      "short": "f9599bf",
+      "message": "fix(string): str.search(/regex/) com regex literal",
       "author": "Marcos",
-      "date": "2026-05-07T05:26:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ee4a5396dc3c270c3462876ceeeb9188a4a1f379"
+      "date": "2026-05-08T00:26:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9599bf65918de5c040e5d0c2c4266fa77f7dca7"
     },
     {
-      "sha": "4846f93f4d433576bc1b8ddd7cb8b39df6717f32",
-      "short": "4846f93",
-      "message": "feat(simd): V128 lane types + Splat/Extract/Insert/Add/Sub/Mul no MIR",
+      "sha": "bead7a37cac049740a33ea6547ab75e1089dd00f",
+      "short": "bead7a3",
+      "message": "fix(string): str.replace(/regex/, str) com regex literal",
       "author": "Marcos",
-      "date": "2026-05-07T04:58:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4846f93f4d433576bc1b8ddd7cb8b39df6717f32"
+      "date": "2026-05-08T00:21:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bead7a37cac049740a33ea6547ab75e1089dd00f"
     },
     {
-      "sha": "58ff0ca9b50b8cd9270507ba4cb2ad9c1e658199",
-      "short": "58ff0ca",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-05-07T04:57:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58ff0ca9b50b8cd9270507ba4cb2ad9c1e658199"
-    },
-    {
-      "sha": "c5d52f8a86d27aaa8ce81414b7fe603ba959ab8a",
-      "short": "c5d52f8",
-      "message": "test(codegen): suite this_binding cobre arrow vs function() this",
-      "author": "Daniel",
-      "date": "2026-05-07T04:57:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c5d52f8a86d27aaa8ce81414b7fe603ba959ab8a"
-    },
-    {
-      "sha": "2313b0e256f61dbd782a1b2a341bb2eab601369b",
-      "short": "2313b0e",
-      "message": "fix(codegen): distingue arrow vs function() em hoist de expressões",
-      "author": "Daniel",
-      "date": "2026-05-07T04:56:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2313b0e256f61dbd782a1b2a341bb2eab601369b"
-    },
-    {
-      "sha": "ac35d7746da83e722a420280bfa793956bda48f5",
-      "short": "ac35d77",
-      "message": "docs(refactor): atualiza Fase 4 status (6/8 entregue, narrow no optimize)",
+      "sha": "edddc005a8f4e7eb0fafd9839024b02f1b39bc1f",
+      "short": "edddc00",
+      "message": "fix(string): str.match(/regex/) com regex literal",
       "author": "Marcos",
-      "date": "2026-05-07T04:34:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ac35d7746da83e722a420280bfa793956bda48f5"
+      "date": "2026-05-08T00:18:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/edddc005a8f4e7eb0fafd9839024b02f1b39bc1f"
     },
     {
-      "sha": "91517d92b04aeedc88a28572e2b558a14f553a3f",
-      "short": "91517d9",
-      "message": "feat(rts-mir): narrow pass integrado ao optimize() pipeline",
+      "sha": "8701cee8127161e091248cc6185256832841e4ca",
+      "short": "8701cee",
+      "message": "fix(regexp): re.test() / re.exec() dispatch correto (era SIGILL)",
       "author": "Marcos",
-      "date": "2026-05-07T04:32:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/91517d92b04aeedc88a28572e2b558a14f553a3f"
+      "date": "2026-05-08T00:04:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8701cee8127161e091248cc6185256832841e4ca"
     },
     {
-      "sha": "326a7ae9447031fba625e263475b164ffc2356e7",
-      "short": "326a7ae",
-      "message": "feat(mir_codegen): TailCall lowering + cleanup warnings + bench docs",
+      "sha": "dad4f5fb1e1ae314281411bdbf6b4b909d6a5a33",
+      "short": "dad4f5f",
+      "message": "fix(codegen): re-aplica fixes pos-merge PR #615 (refactor func.rs split)",
       "author": "Marcos",
-      "date": "2026-05-07T04:25:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/326a7ae9447031fba625e263475b164ffc2356e7"
+      "date": "2026-05-07T23:57:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dad4f5fb1e1ae314281411bdbf6b4b909d6a5a33"
+    },
+    {
+      "sha": "5ad96f5a81b1ad7ea08461608ad2bacf4168fe4c",
+      "short": "5ad96f5",
+      "message": "Merge branch 'claude/refactor-large-gem-oWYdR' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-05-07T23:52:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ad96f5a81b1ad7ea08461608ad2bacf4168fe4c"
+    },
+    {
+      "sha": "d4ea8d9a4626a5c6a766d390fbcef3df0c7bd5ca",
+      "short": "d4ea8d9",
+      "message": "feat(globals): Boolean class — Boolean(x), b.toString(), b.valueOf()",
+      "author": "Marcos",
+      "date": "2026-05-07T23:48:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4ea8d9a4626a5c6a766d390fbcef3df0c7bd5ca"
+    },
+    {
+      "sha": "156f86255437f7c7125cd2ee6c757a3d05bfafa2",
+      "short": "156f862",
+      "message": "refactor(codegen): extrai calls/indirect.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:48:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/156f86255437f7c7125cd2ee6c757a3d05bfafa2"
+    },
+    {
+      "sha": "6ba4bb0a8de21d43b4094012a0a54a1ed3b5bb36",
+      "short": "6ba4bb0",
+      "message": "refactor(codegen): extrai calls/new_expr.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:25:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ba4bb0a8de21d43b4094012a0a54a1ed3b5bb36"
+    },
+    {
+      "sha": "d66c54ca15319b2555d0a4bcc70f1a2d5dadae76",
+      "short": "d66c54c",
+      "message": "refactor(codegen): extrai calls/ns_call.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:20:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d66c54ca15319b2555d0a4bcc70f1a2d5dadae76"
+    },
+    {
+      "sha": "ab66d90515aada403ec2fe6f5d6b658765dc18ac",
+      "short": "ab66d90",
+      "message": "refactor(codegen): extrai calls/super_calls.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:17:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab66d90515aada403ec2fe6f5d6b658765dc18ac"
+    },
+    {
+      "sha": "1fcd768626509befd5388d44b04d62bfb61dca1a",
+      "short": "1fcd768",
+      "message": "refactor(codegen): extrai calls/builtins.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:11:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1fcd768626509befd5388d44b04d62bfb61dca1a"
+    },
+    {
+      "sha": "f7864d0fa8c184663aaff2bda18dfd6e3de1adfb",
+      "short": "f7864d0",
+      "message": "refactor(codegen): extrai class_dispatch + coerce de calls.rs",
+      "author": "Claude",
+      "date": "2026-05-07T22:07:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7864d0fa8c184663aaff2bda18dfd6e3de1adfb"
+    },
+    {
+      "sha": "f1febf8cd9ab2a7011077ccc1a56b6c75e5dbd39",
+      "short": "f1febf8",
+      "message": "refactor(runtime): factory comum do tokio runtime",
+      "author": "Claude",
+      "date": "2026-05-07T21:51:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1febf8cd9ab2a7011077ccc1a56b6c75e5dbd39"
+    },
+    {
+      "sha": "e4582e472fc268687831aa36c1821ba903ee4dd8",
+      "short": "e4582e4",
+      "message": "refactor(codegen): elimina func.rs, move compile_program e helpers",
+      "author": "Claude",
+      "date": "2026-05-07T21:45:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4582e472fc268687831aa36c1821ba903ee4dd8"
     }
   ]
 }
