@@ -1,6 +1,158 @@
 {
-  "total": 803,
+  "total": 822,
   "commits": [
+    {
+      "sha": "bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c",
+      "short": "bade38e",
+      "message": "fix(linker): UniformTypeIdentifiers framework p/ macOS smoke",
+      "author": "Marcos",
+      "date": "2026-05-08T04:34:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c"
+    },
+    {
+      "sha": "94794858d9e9aa0e6e96e1f1c8415fb16db11b7c",
+      "short": "9479485",
+      "message": "fix(linker): -lc++ -lc++abi para macOS smoke compile",
+      "author": "Marcos",
+      "date": "2026-05-08T04:26:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94794858d9e9aa0e6e96e1f1c8415fb16db11b7c"
+    },
+    {
+      "sha": "b00cdbd21e7143700abce006aa9bf29928feaa27",
+      "short": "b00cdbd",
+      "message": "test(promise.race): normaliza vencedor em race com pre-resolved (CI macOS)",
+      "author": "Marcos",
+      "date": "2026-05-08T04:16:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b00cdbd21e7143700abce006aa9bf29928feaa27"
+    },
+    {
+      "sha": "d0b3a9c42710e592acebc6a5844c882b489438a2",
+      "short": "d0b3a9c",
+      "message": "test: race com gap maior + tls graceful skip total (CI macOS arm64)",
+      "author": "Marcos",
+      "date": "2026-05-08T04:09:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0b3a9c42710e592acebc6a5844c882b489438a2"
+    },
+    {
+      "sha": "4da33638202c774594212f29a7e194dce7997396",
+      "short": "4da3363",
+      "message": "test: thresholds maiores p/ macOS arm64 + race com gap maior",
+      "author": "Marcos",
+      "date": "2026-05-08T04:01:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4da33638202c774594212f29a7e194dce7997396"
+    },
+    {
+      "sha": "85ff7f853b4265129f4003e5ab7265171a015171",
+      "short": "85ff7f8",
+      "message": "fix(linker,test): -lm sempre + tolerancia generosa para CI macOS arm64",
+      "author": "Marcos",
+      "date": "2026-05-08T03:52:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/85ff7f853b4265129f4003e5ab7265171a015171"
+    },
+    {
+      "sha": "629a315b2ffbd2d0462a1b3976a9165c540f7835",
+      "short": "629a315",
+      "message": "fix(linker): -lstdc++ + FLTK libs sempre (compiler driver tambem)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:42:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/629a315b2ffbd2d0462a1b3976a9165c540f7835"
+    },
+    {
+      "sha": "d8411d93558f04a3de9d678b8d1bdb8475c6c9a0",
+      "short": "d8411d9",
+      "message": "fix(gc): skip GC cycle em targets sem stack scanner (arm64)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:38:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8411d93558f04a3de9d678b8d1bdb8475c6c9a0"
+    },
+    {
+      "sha": "97570508c072046864ccabcb5abb10f74933d81c",
+      "short": "9757050",
+      "message": "test: aumenta tolerancia de timing e tls graceful skip (CI macOS arm64)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:34:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/97570508c072046864ccabcb5abb10f74933d81c"
+    },
+    {
+      "sha": "8d27964970c0ef2283320308adb78418d6dca3d7",
+      "short": "8d27964",
+      "message": "fix(linker): wrap objects+libs em --start-group/--end-group para resolver FLTK",
+      "author": "Marcos",
+      "date": "2026-05-08T03:26:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d27964970c0ef2283320308adb78418d6dca3d7"
+    },
+    {
+      "sha": "994b0c3b113341909aa734a2792487ad92ecfc72",
+      "short": "994b0c3",
+      "message": "fix(parallel): map/reduce sequenciais (preserva ordem + evita race em CI)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:22:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/994b0c3b113341909aa734a2792487ad92ecfc72"
+    },
+    {
+      "sha": "71bf5627ae9a2271a1cdf7e0748ed70c0f6de6ca",
+      "short": "71bf562",
+      "message": "fix(linker): adiciona deps FLTK Linux (X11/GL/Pango/Cairo/etc)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:13:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71bf5627ae9a2271a1cdf7e0748ed70c0f6de6ca"
+    },
+    {
+      "sha": "79b26ca7cbd579e2818685a1b5bcab3ed4251d8f",
+      "short": "79b26ca",
+      "message": "fix(codegen): substitui FloatCC::OrderedNotEqual por Equal+xor (aarch64)",
+      "author": "Marcos",
+      "date": "2026-05-08T03:07:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/79b26ca7cbd579e2818685a1b5bcab3ed4251d8f"
+    },
+    {
+      "sha": "6ffa83556650e3c312fba7ac0f94ceb52e0af0b1",
+      "short": "6ffa835",
+      "message": "fix(gc): stack_high_addr usa /proc/self/maps em Linux (era RSP+8MB heuristica)",
+      "author": "Marcos",
+      "date": "2026-05-08T02:58:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ffa83556650e3c312fba7ac0f94ceb52e0af0b1"
+    },
+    {
+      "sha": "549916367984292725ed897c468084868f58be79",
+      "short": "5499163",
+      "message": "fix(codegen): isNaN usa fcmp Equal+xor em vez de Unordered (aarch64)",
+      "author": "Marcos",
+      "date": "2026-05-08T02:53:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/549916367984292725ed897c468084868f58be79"
+    },
+    {
+      "sha": "3d8243e65c8e5d0d5b1423c36a1972ea7bd38c44",
+      "short": "3d8243e",
+      "message": "fix(mir_codegen): build_signature mapeia SystemV/WindowsFastcall para host default",
+      "author": "Marcos",
+      "date": "2026-05-08T02:48:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d8243e65c8e5d0d5b1423c36a1972ea7bd38c44"
+    },
+    {
+      "sha": "403e999d8e07ec00fda2b696cf68f34509b8ee53",
+      "short": "403e999",
+      "message": "fix(mir_codegen): callconv default da plataforma em CallExtern",
+      "author": "Marcos",
+      "date": "2026-05-08T02:43:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/403e999d8e07ec00fda2b696cf68f34509b8ee53"
+    },
+    {
+      "sha": "f17bf1f2bb18af30262f58fabe2d82ff710af40d",
+      "short": "f17bf1f",
+      "message": "examples: demo de inventario com classes flat, Map, regex, optional chain",
+      "author": "Marcos",
+      "date": "2026-05-08T02:26:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f17bf1f2bb18af30262f58fabe2d82ff710af40d"
+    },
+    {
+      "sha": "2c3ab938ab1746892d05091e976dfa2834f55072",
+      "short": "2c3ab93",
+      "message": "fix(codegen): this.X = value em classe nao passa pelo setter sentinel",
+      "author": "Marcos",
+      "date": "2026-05-08T02:25:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c3ab938ab1746892d05091e976dfa2834f55072"
+    },
     {
       "sha": "fbc30465e159226adabf804b47f68a20bb6cfa25",
       "short": "fbc3046",
@@ -8,158 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-08T02:04:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/fbc30465e159226adabf804b47f68a20bb6cfa25"
-    },
-    {
-      "sha": "ef714c34cd24d63344690745a4779f3ea5f79258",
-      "short": "ef714c3",
-      "message": "fix(codegen): opt chain method call F64 bitcast + disable generator test",
-      "author": "Marcos",
-      "date": "2026-05-08T01:59:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef714c34cd24d63344690745a4779f3ea5f79258"
-    },
-    {
-      "sha": "613b8126376244e88c97ad9d4d260fcb1a1ca6d4",
-      "short": "613b812",
-      "message": "feat(codegen): object literal getter/setter",
-      "author": "Marcos",
-      "date": "2026-05-08T01:23:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/613b8126376244e88c97ad9d4d260fcb1a1ca6d4"
-    },
-    {
-      "sha": "0721d73b64b1cce1c0c86405b9169652d26f5647",
-      "short": "0721d73",
-      "message": "feat(map/set): for-of iteration nativa preservando ordem de insercao",
-      "author": "Marcos",
-      "date": "2026-05-08T00:59:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0721d73b64b1cce1c0c86405b9169652d26f5647"
-    },
-    {
-      "sha": "7fa7f517a83e25bf0ad9185d264aec2d99c22d2d",
-      "short": "7fa7f51",
-      "message": "fix(codegen): optional chain nested + forEach ordem JS-spec",
-      "author": "Marcos",
-      "date": "2026-05-08T00:44:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7fa7f517a83e25bf0ad9185d264aec2d99c22d2d"
-    },
-    {
-      "sha": "f9599bf65918de5c040e5d0c2c4266fa77f7dca7",
-      "short": "f9599bf",
-      "message": "fix(string): str.search(/regex/) com regex literal",
-      "author": "Marcos",
-      "date": "2026-05-08T00:26:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9599bf65918de5c040e5d0c2c4266fa77f7dca7"
-    },
-    {
-      "sha": "bead7a37cac049740a33ea6547ab75e1089dd00f",
-      "short": "bead7a3",
-      "message": "fix(string): str.replace(/regex/, str) com regex literal",
-      "author": "Marcos",
-      "date": "2026-05-08T00:21:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bead7a37cac049740a33ea6547ab75e1089dd00f"
-    },
-    {
-      "sha": "edddc005a8f4e7eb0fafd9839024b02f1b39bc1f",
-      "short": "edddc00",
-      "message": "fix(string): str.match(/regex/) com regex literal",
-      "author": "Marcos",
-      "date": "2026-05-08T00:18:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/edddc005a8f4e7eb0fafd9839024b02f1b39bc1f"
-    },
-    {
-      "sha": "8701cee8127161e091248cc6185256832841e4ca",
-      "short": "8701cee",
-      "message": "fix(regexp): re.test() / re.exec() dispatch correto (era SIGILL)",
-      "author": "Marcos",
-      "date": "2026-05-08T00:04:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8701cee8127161e091248cc6185256832841e4ca"
-    },
-    {
-      "sha": "dad4f5fb1e1ae314281411bdbf6b4b909d6a5a33",
-      "short": "dad4f5f",
-      "message": "fix(codegen): re-aplica fixes pos-merge PR #615 (refactor func.rs split)",
-      "author": "Marcos",
-      "date": "2026-05-07T23:57:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dad4f5fb1e1ae314281411bdbf6b4b909d6a5a33"
-    },
-    {
-      "sha": "5ad96f5a81b1ad7ea08461608ad2bacf4168fe4c",
-      "short": "5ad96f5",
-      "message": "Merge branch 'claude/refactor-large-gem-oWYdR' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-05-07T23:52:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ad96f5a81b1ad7ea08461608ad2bacf4168fe4c"
-    },
-    {
-      "sha": "d4ea8d9a4626a5c6a766d390fbcef3df0c7bd5ca",
-      "short": "d4ea8d9",
-      "message": "feat(globals): Boolean class — Boolean(x), b.toString(), b.valueOf()",
-      "author": "Marcos",
-      "date": "2026-05-07T23:48:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4ea8d9a4626a5c6a766d390fbcef3df0c7bd5ca"
-    },
-    {
-      "sha": "156f86255437f7c7125cd2ee6c757a3d05bfafa2",
-      "short": "156f862",
-      "message": "refactor(codegen): extrai calls/indirect.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:48:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/156f86255437f7c7125cd2ee6c757a3d05bfafa2"
-    },
-    {
-      "sha": "6ba4bb0a8de21d43b4094012a0a54a1ed3b5bb36",
-      "short": "6ba4bb0",
-      "message": "refactor(codegen): extrai calls/new_expr.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:25:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ba4bb0a8de21d43b4094012a0a54a1ed3b5bb36"
-    },
-    {
-      "sha": "d66c54ca15319b2555d0a4bcc70f1a2d5dadae76",
-      "short": "d66c54c",
-      "message": "refactor(codegen): extrai calls/ns_call.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:20:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d66c54ca15319b2555d0a4bcc70f1a2d5dadae76"
-    },
-    {
-      "sha": "ab66d90515aada403ec2fe6f5d6b658765dc18ac",
-      "short": "ab66d90",
-      "message": "refactor(codegen): extrai calls/super_calls.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:17:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ab66d90515aada403ec2fe6f5d6b658765dc18ac"
-    },
-    {
-      "sha": "1fcd768626509befd5388d44b04d62bfb61dca1a",
-      "short": "1fcd768",
-      "message": "refactor(codegen): extrai calls/builtins.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:11:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1fcd768626509befd5388d44b04d62bfb61dca1a"
-    },
-    {
-      "sha": "f7864d0fa8c184663aaff2bda18dfd6e3de1adfb",
-      "short": "f7864d0",
-      "message": "refactor(codegen): extrai class_dispatch + coerce de calls.rs",
-      "author": "Claude",
-      "date": "2026-05-07T22:07:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f7864d0fa8c184663aaff2bda18dfd6e3de1adfb"
-    },
-    {
-      "sha": "f1febf8cd9ab2a7011077ccc1a56b6c75e5dbd39",
-      "short": "f1febf8",
-      "message": "refactor(runtime): factory comum do tokio runtime",
-      "author": "Claude",
-      "date": "2026-05-07T21:51:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f1febf8cd9ab2a7011077ccc1a56b6c75e5dbd39"
-    },
-    {
-      "sha": "e4582e472fc268687831aa36c1821ba903ee4dd8",
-      "short": "e4582e4",
-      "message": "refactor(codegen): elimina func.rs, move compile_program e helpers",
-      "author": "Claude",
-      "date": "2026-05-07T21:45:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e4582e472fc268687831aa36c1821ba903ee4dd8"
     }
   ]
 }

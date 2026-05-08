@@ -1,10 +1,10 @@
 {
-  "sha": "fbc30465e159226adabf804b47f68a20bb6cfa25",
-  "short_sha": "fbc3046",
-  "title": "test(net): muda porta 51237 -> 45123 (fora do range Windows excluido)",
-  "created": "2026-05-08T02:04:48Z",
-  "run_id": "25532518943",
-  "linux": "https://urubucode.github.io/rts/downloads/fbc3046/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/fbc3046/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/fbc3046/rts-macOS-ARM64/rts"
+  "sha": "bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c",
+  "short_sha": "bade38e",
+  "title": "fix(linker): UniformTypeIdentifiers framework p/ macOS smoke",
+  "created": "2026-05-08T04:35:05Z",
+  "run_id": "25536963236",
+  "linux": "https://urubucode.github.io/rts/downloads/bade38e/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/bade38e/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/bade38e/rts-macOS-ARM64/rts"
 }
