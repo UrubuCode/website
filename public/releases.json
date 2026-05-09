@@ -1,10 +1,10 @@
 {
-  "sha": "262c7c9b0167eaa4797eed2e8249870edd7c6f77",
-  "short_sha": "262c7c9",
-  "title": "fix(codegen): comparacao lexicografica de strings (#616)",
-  "created": "2026-05-08T11:10:42Z",
-  "run_id": "25552368282",
-  "linux": "https://urubucode.github.io/rts/downloads/262c7c9/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/262c7c9/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/262c7c9/rts-macOS-ARM64/rts"
+  "sha": "5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649",
+  "short_sha": "5571ea7",
+  "title": "Merge #584: divisao  segue JS spec (f64)",
+  "created": "2026-05-09T18:34:56Z",
+  "run_id": "25608742833",
+  "linux": "https://urubucode.github.io/rts/downloads/5571ea7/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/5571ea7/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/5571ea7/rts-macOS-ARM64/rts"
 }

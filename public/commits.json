@@ -1,6 +1,110 @@
 {
-  "total": 824,
+  "total": 837,
   "commits": [
+    {
+      "sha": "5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649",
+      "short": "5571ea7",
+      "message": "Merge #584: divisao  segue JS spec (f64)",
+      "author": "Marcos",
+      "date": "2026-05-09T18:34:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649"
+    },
+    {
+      "sha": "fdd9d4178e25f94ee6b37df39100d0a6ba6a0c92",
+      "short": "fdd9d41",
+      "message": "fix(#584): operador `/` segue JS spec — sempre retorna f64",
+      "author": "Marcos",
+      "date": "2026-05-09T18:34:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fdd9d4178e25f94ee6b37df39100d0a6ba6a0c92"
+    },
+    {
+      "sha": "0ef41bfe842bcbd70d71e7ee8640e5042ef861ff",
+      "short": "0ef41bf",
+      "message": "Merge #617: AOT inclui Function class no archive",
+      "author": "Marcos",
+      "date": "2026-05-09T18:21:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0ef41bfe842bcbd70d71e7ee8640e5042ef861ff"
+    },
+    {
+      "sha": "1e90a7806eb33246f6e60c8f9b459f713ab4304f",
+      "short": "1e90a78",
+      "message": "fix(#617): AOT inclui Function class no archive — classes user linkam",
+      "author": "Marcos",
+      "date": "2026-05-09T18:21:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e90a7806eb33246f6e60c8f9b459f713ab4304f"
+    },
+    {
+      "sha": "829a84b3c367aac37a28f2d7609268d4b076d6de",
+      "short": "829a84b",
+      "message": "Merge #618: export * as ns from ./mod",
+      "author": "Marcos",
+      "date": "2026-05-09T18:07:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/829a84b3c367aac37a28f2d7609268d4b076d6de"
+    },
+    {
+      "sha": "ecce315fbf2b6f651a00046a42d813bdf831d1cd",
+      "short": "ecce315",
+      "message": "feat(#618): export * as ns from \"./mod\"",
+      "author": "Marcos",
+      "date": "2026-05-09T18:06:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ecce315fbf2b6f651a00046a42d813bdf831d1cd"
+    },
+    {
+      "sha": "f7187349e1f526f6286c325a522162645232befd",
+      "short": "f718734",
+      "message": "Merge #619: alias em import/export { x as y }",
+      "author": "Marcos",
+      "date": "2026-05-09T17:53:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7187349e1f526f6286c325a522162645232befd"
+    },
+    {
+      "sha": "ecf3b510475f056988ccb0ece1db9cb4e936ca84",
+      "short": "ecf3b51",
+      "message": "feat(#619): alias em import { x as y } e export { x as y } from \"./mod\"",
+      "author": "Marcos",
+      "date": "2026-05-09T17:53:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ecf3b510475f056988ccb0ece1db9cb4e936ca84"
+    },
+    {
+      "sha": "45fb8a7f979c234c54ea752b675eee7adfef9037",
+      "short": "45fb8a7",
+      "message": "Merge fix/213: AOT resolve module graph (closes #213)",
+      "author": "Marcos",
+      "date": "2026-05-09T17:33:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/45fb8a7f979c234c54ea752b675eee7adfef9037"
+    },
+    {
+      "sha": "1c71e2c4892425671b2c46ace1b9eae0fc425c6f",
+      "short": "1c71e2c",
+      "message": "fix(#213): AOT compile resolve module graph (era so' parser single-file)",
+      "author": "Marcos",
+      "date": "2026-05-09T17:33:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c71e2c4892425671b2c46ace1b9eae0fc425c6f"
+    },
+    {
+      "sha": "ff87eb36e5430d93abd09ce04bdc041b1e4c5892",
+      "short": "ff87eb3",
+      "message": "Merge feat/thread-dispatch: ui.app_wait + json APIs legacy fix",
+      "author": "Marcos",
+      "date": "2026-05-09T17:19:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff87eb36e5430d93abd09ce04bdc041b1e4c5892"
+    },
+    {
+      "sha": "a090e617c16454c4c23e5706ea24b5d4b27f61c4",
+      "short": "a090e61",
+      "message": "feat(ui): app_wait/app_wait_for/app_awake para integracao com servidor async",
+      "author": "Marcos",
+      "date": "2026-05-09T17:19:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a090e617c16454c4c23e5706ea24b5d4b27f61c4"
+    },
+    {
+      "sha": "a114f5b65004a71231dec97a3803b73cb22290a6",
+      "short": "a114f5b",
+      "message": "fix(json): consertar APIs legacy quebradas pelo refator Map/Vec",
+      "author": "Marcos",
+      "date": "2026-05-09T17:19:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a114f5b65004a71231dec97a3803b73cb22290a6"
+    },
     {
       "sha": "262c7c9b0167eaa4797eed2e8249870edd7c6f77",
       "short": "262c7c9",
@@ -56,110 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-08T04:01:32Z",
       "url": "https://github.com/UrubuCode/rts/commit/4da33638202c774594212f29a7e194dce7997396"
-    },
-    {
-      "sha": "85ff7f853b4265129f4003e5ab7265171a015171",
-      "short": "85ff7f8",
-      "message": "fix(linker,test): -lm sempre + tolerancia generosa para CI macOS arm64",
-      "author": "Marcos",
-      "date": "2026-05-08T03:52:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85ff7f853b4265129f4003e5ab7265171a015171"
-    },
-    {
-      "sha": "629a315b2ffbd2d0462a1b3976a9165c540f7835",
-      "short": "629a315",
-      "message": "fix(linker): -lstdc++ + FLTK libs sempre (compiler driver tambem)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:42:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/629a315b2ffbd2d0462a1b3976a9165c540f7835"
-    },
-    {
-      "sha": "d8411d93558f04a3de9d678b8d1bdb8475c6c9a0",
-      "short": "d8411d9",
-      "message": "fix(gc): skip GC cycle em targets sem stack scanner (arm64)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:38:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8411d93558f04a3de9d678b8d1bdb8475c6c9a0"
-    },
-    {
-      "sha": "97570508c072046864ccabcb5abb10f74933d81c",
-      "short": "9757050",
-      "message": "test: aumenta tolerancia de timing e tls graceful skip (CI macOS arm64)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:34:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/97570508c072046864ccabcb5abb10f74933d81c"
-    },
-    {
-      "sha": "8d27964970c0ef2283320308adb78418d6dca3d7",
-      "short": "8d27964",
-      "message": "fix(linker): wrap objects+libs em --start-group/--end-group para resolver FLTK",
-      "author": "Marcos",
-      "date": "2026-05-08T03:26:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d27964970c0ef2283320308adb78418d6dca3d7"
-    },
-    {
-      "sha": "994b0c3b113341909aa734a2792487ad92ecfc72",
-      "short": "994b0c3",
-      "message": "fix(parallel): map/reduce sequenciais (preserva ordem + evita race em CI)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:22:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/994b0c3b113341909aa734a2792487ad92ecfc72"
-    },
-    {
-      "sha": "71bf5627ae9a2271a1cdf7e0748ed70c0f6de6ca",
-      "short": "71bf562",
-      "message": "fix(linker): adiciona deps FLTK Linux (X11/GL/Pango/Cairo/etc)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:13:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71bf5627ae9a2271a1cdf7e0748ed70c0f6de6ca"
-    },
-    {
-      "sha": "79b26ca7cbd579e2818685a1b5bcab3ed4251d8f",
-      "short": "79b26ca",
-      "message": "fix(codegen): substitui FloatCC::OrderedNotEqual por Equal+xor (aarch64)",
-      "author": "Marcos",
-      "date": "2026-05-08T03:07:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/79b26ca7cbd579e2818685a1b5bcab3ed4251d8f"
-    },
-    {
-      "sha": "6ffa83556650e3c312fba7ac0f94ceb52e0af0b1",
-      "short": "6ffa835",
-      "message": "fix(gc): stack_high_addr usa /proc/self/maps em Linux (era RSP+8MB heuristica)",
-      "author": "Marcos",
-      "date": "2026-05-08T02:58:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ffa83556650e3c312fba7ac0f94ceb52e0af0b1"
-    },
-    {
-      "sha": "549916367984292725ed897c468084868f58be79",
-      "short": "5499163",
-      "message": "fix(codegen): isNaN usa fcmp Equal+xor em vez de Unordered (aarch64)",
-      "author": "Marcos",
-      "date": "2026-05-08T02:53:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/549916367984292725ed897c468084868f58be79"
-    },
-    {
-      "sha": "3d8243e65c8e5d0d5b1423c36a1972ea7bd38c44",
-      "short": "3d8243e",
-      "message": "fix(mir_codegen): build_signature mapeia SystemV/WindowsFastcall para host default",
-      "author": "Marcos",
-      "date": "2026-05-08T02:48:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d8243e65c8e5d0d5b1423c36a1972ea7bd38c44"
-    },
-    {
-      "sha": "403e999d8e07ec00fda2b696cf68f34509b8ee53",
-      "short": "403e999",
-      "message": "fix(mir_codegen): callconv default da plataforma em CallExtern",
-      "author": "Marcos",
-      "date": "2026-05-08T02:43:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/403e999d8e07ec00fda2b696cf68f34509b8ee53"
-    },
-    {
-      "sha": "f17bf1f2bb18af30262f58fabe2d82ff710af40d",
-      "short": "f17bf1f",
-      "message": "examples: demo de inventario com classes flat, Map, regex, optional chain",
-      "author": "Marcos",
-      "date": "2026-05-08T02:26:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f17bf1f2bb18af30262f58fabe2d82ff710af40d"
     }
   ]
 }
