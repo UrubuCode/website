@@ -1,10 +1,10 @@
 {
-  "sha": "3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2",
-  "short_sha": "3e5d21c",
-  "title": "Merge #224: ui event loop primitives",
-  "created": "2026-05-09T22:47:32Z",
-  "run_id": "25613767829",
-  "linux": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-macOS-ARM64/rts"
+  "sha": "f46587722d81c52a4ef468444a038f1d89c0d598",
+  "short_sha": "f465877",
+  "title": "Merge #289: streaming hash",
+  "created": "2026-05-10T00:15:50Z",
+  "run_id": "25615318768",
+  "linux": "https://urubucode.github.io/rts/downloads/f465877/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/f465877/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/f465877/rts-macOS-ARM64/rts"
 }
