@@ -1,10 +1,10 @@
 {
-  "sha": "f46587722d81c52a4ef468444a038f1d89c0d598",
-  "short_sha": "f465877",
-  "title": "Merge #289: streaming hash",
-  "created": "2026-05-10T00:15:50Z",
-  "run_id": "25615318768",
-  "linux": "https://urubucode.github.io/rts/downloads/f465877/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/f465877/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/f465877/rts-macOS-ARM64/rts"
+  "sha": "3e9e946f12abbe9c2c9ed720d86d95af4c869cdb",
+  "short_sha": "3e9e946",
+  "title": "ci(cross-runtime): dedup de issues por hash (sig + agregado) (#648)",
+  "created": "2026-05-10T17:52:30Z",
+  "run_id": "25635629099",
+  "linux": "https://urubucode.github.io/rts/downloads/3e9e946/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/3e9e946/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/3e9e946/rts-macOS-ARM64/rts"
 }

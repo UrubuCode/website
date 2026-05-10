@@ -1,6 +1,150 @@
 {
-  "total": 878,
+  "total": 896,
   "commits": [
+    {
+      "sha": "3e9e946f12abbe9c2c9ed720d86d95af4c869cdb",
+      "short": "3e9e946",
+      "message": "ci(cross-runtime): dedup de issues por hash (sig + agregado) (#648)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T17:52:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e9e946f12abbe9c2c9ed720d86d95af4c869cdb"
+    },
+    {
+      "sha": "1484d4b45e1f626711e36b65d845900633ac8c1c",
+      "short": "1484d4b",
+      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-10T17:51:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1484d4b45e1f626711e36b65d845900633ac8c1c"
+    },
+    {
+      "sha": "70abd77358449042bc2c3cf6eac139237d40ee8c",
+      "short": "70abd77",
+      "message": "ci: cross-runtime parity testing + auto-update README com % JS spec (#647)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T17:47:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70abd77358449042bc2c3cf6eac139237d40ee8c"
+    },
+    {
+      "sha": "4492829ece8996de36cbe5294faecfd82cb9435a",
+      "short": "4492829",
+      "message": "fix(#645): String(null)/String(undef) e null==undefined (JS spec) (#646)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T17:34:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4492829ece8996de36cbe5294faecfd82cb9435a"
+    },
+    {
+      "sha": "d081ee04ddd1329dda9bff06741a89200ac55c51",
+      "short": "d081ee0",
+      "message": "fix(#643): logical ||/&& e ternario tratam string vazia como falsy (#644)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T17:20:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d081ee04ddd1329dda9bff06741a89200ac55c51"
+    },
+    {
+      "sha": "c484a881bd926eadc8dfd2c60442db466c20496d",
+      "short": "c484a88",
+      "message": "fix(#641): String.match retorna array [full, ...groups] (JS spec) (#642)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T16:51:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c484a881bd926eadc8dfd2c60442db466c20496d"
+    },
+    {
+      "sha": "c0671a88a1ae5bc2029e4dcb506a3caf8cb66e26",
+      "short": "c0671a8",
+      "message": "fix(#638): switch com strings usa STRING_EQ em vez de icmp (#639)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T16:22:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c0671a88a1ae5bc2029e4dcb506a3caf8cb66e26"
+    },
+    {
+      "sha": "e04f23adffb31b16dd83788945bbdf22804f0481",
+      "short": "e04f23a",
+      "message": "fix(#636): class X extends Error preserva message via super(msg) (#637)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T16:12:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e04f23adffb31b16dd83788945bbdf22804f0481"
+    },
+    {
+      "sha": "8c7893e22732990b312e587f4df4040cf1dcaad8",
+      "short": "8c7893e",
+      "message": "fix(#634): array spread de string [...\"abc\"] retorna chars (#635)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T15:59:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c7893e22732990b312e587f4df4040cf1dcaad8"
+    },
+    {
+      "sha": "80268c890f93658c1b829818031a9c1358192c70",
+      "short": "80268c8",
+      "message": "feat: JSON5 global — superset do JSON com comments/trailing-commas/etc (#633)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T15:44:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80268c890f93658c1b829818031a9c1358192c70"
+    },
+    {
+      "sha": "2fd68eb0aee3fcf081e238754c22febca477ee83",
+      "short": "2fd68eb",
+      "message": "fix(#631): JSON.stringify de literais preserva bool/null/nested (#632)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T15:32:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2fd68eb0aee3fcf081e238754c22febca477ee83"
+    },
+    {
+      "sha": "c47d05059ea5a85b86cd1cfb70eaef4fa39cf516",
+      "short": "c47d050",
+      "message": "fix(#629): JSON.parse(...).length retorna size correto (#630)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T15:22:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c47d05059ea5a85b86cd1cfb70eaef4fa39cf516"
+    },
+    {
+      "sha": "59db2114e4493aee748c5cb813d44184dfc87008",
+      "short": "59db211",
+      "message": "fix(#627): destructuring de param com string em concat preserva tipo (#628)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T15:08:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/59db2114e4493aee748c5cb813d44184dfc87008"
+    },
+    {
+      "sha": "d4552ff893bc31e8457e17c78daef987f731b0f0",
+      "short": "d4552ff",
+      "message": "fix(#625): Bool em string concat nao perde handle apos primeira expr (#626)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T14:49:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4552ff893bc31e8457e17c78daef987f731b0f0"
+    },
+    {
+      "sha": "44aa38b5d0c144a1e0af2cd98df36807ea818f48",
+      "short": "44aa38b",
+      "message": "fix(#623): arr.filter/map/reduce com named user fn callback (#624)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T14:34:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/44aa38b5d0c144a1e0af2cd98df36807ea818f48"
+    },
+    {
+      "sha": "f874391bb7230d911a83d9ff40d98a6fbb300975",
+      "short": "f874391",
+      "message": "fix(#379): response.then() retorna Promise para encadeamento .then().then() (#622)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T14:09:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f874391bb7230d911a83d9ff40d98a6fbb300975"
+    },
+    {
+      "sha": "b94caf47552f87e790989fe3cbb5af4cccac0f3c",
+      "short": "b94caf4",
+      "message": "feat(#195): gc.closure_* ABI (fase 1 — passos 2-3 do plano) (#621)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T13:57:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b94caf47552f87e790989fe3cbb5af4cccac0f3c"
+    },
+    {
+      "sha": "b824cb738420e3d11e75a89725ccbb79d7465eaf",
+      "short": "b824cb7",
+      "message": "chore: zero warnings (unused imports, dead code, deprecated FLTK) (#620)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-10T13:39:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b824cb738420e3d11e75a89725ccbb79d7465eaf"
+    },
     {
       "sha": "f46587722d81c52a4ef468444a038f1d89c0d598",
       "short": "f465877",
@@ -16,150 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-10T00:15:38Z",
       "url": "https://github.com/UrubuCode/rts/commit/6d267b0104f10da355cf4510a2634d674133ccba"
-    },
-    {
-      "sha": "60d518600f1621144b2adc3c2df6421de9cacfa2",
-      "short": "60d5186",
-      "message": "Merge: crypto.randomUUID v4",
-      "author": "Marcos",
-      "date": "2026-05-09T23:58:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/60d518600f1621144b2adc3c2df6421de9cacfa2"
-    },
-    {
-      "sha": "9e32361180f00d36d647daec367aba1a99f1f4ec",
-      "short": "9e32361",
-      "message": "feat(crypto): randomUUID (rts.crypto.random_uuid + node:crypto.randomUUID)",
-      "author": "Marcos",
-      "date": "2026-05-09T23:58:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9e32361180f00d36d647daec367aba1a99f1f4ec"
-    },
-    {
-      "sha": "f93a61bc29f775081f5dc58f8c60de1d1f240ebb",
-      "short": "f93a61b",
-      "message": "Merge: remove app_run bloqueante de teste UI",
-      "author": "Marcos",
-      "date": "2026-05-09T23:49:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f93a61bc29f775081f5dc58f8c60de1d1f240ebb"
-    },
-    {
-      "sha": "da09943e55a775ddc731376b14a494ae99c5d4ac",
-      "short": "da09943",
-      "message": "test(ui): remove ui.app_run() bloqueante de tests/ui_window.test.ts",
-      "author": "Marcos",
-      "date": "2026-05-09T23:49:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da09943e55a775ddc731376b14a494ae99c5d4ac"
-    },
-    {
-      "sha": "c9dfa9dd821ee761d5bf9d6835d8895eefeefdda",
-      "short": "c9dfa9d",
-      "message": "Merge #377: setTimeout/setInterval/setImmediate cobertura",
-      "author": "Marcos",
-      "date": "2026-05-09T23:47:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9dfa9dd821ee761d5bf9d6835d8895eefeefdda"
-    },
-    {
-      "sha": "f9823a7231d0587d9779fc5743e8d86772bf1ef6",
-      "short": "f9823a7",
-      "message": "test(#377): cobertura formal setTimeout/setInterval/setImmediate",
-      "author": "Marcos",
-      "date": "2026-05-09T23:46:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9823a7231d0587d9779fc5743e8d86772bf1ef6"
-    },
-    {
-      "sha": "bb0cb78558828b8d619190a692c9df2a1b792774",
-      "short": "bb0cb78",
-      "message": "Merge #407: cobertura de globals como GC roots",
-      "author": "Marcos",
-      "date": "2026-05-09T23:42:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb0cb78558828b8d619190a692c9df2a1b792774"
-    },
-    {
-      "sha": "49faf43d05a531a2ae93ea24daa57959dbdeac2f",
-      "short": "49faf43",
-      "message": "test(#407): cobertura de globals com handles como GC roots",
-      "author": "Marcos",
-      "date": "2026-05-09T23:42:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49faf43d05a531a2ae93ea24daa57959dbdeac2f"
-    },
-    {
-      "sha": "72320a0e2461a039d89297c28c1f702ba787a28d",
-      "short": "72320a0",
-      "message": "Merge #398: GC transitive marking",
-      "author": "Marcos",
-      "date": "2026-05-09T23:32:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/72320a0e2461a039d89297c28c1f702ba787a28d"
-    },
-    {
-      "sha": "d98927a335b214c82a9e9b5ecd4fbadd39eb20b4",
-      "short": "d98927a",
-      "message": "fix(#398): GC scanner propaga marca transitiva em Map/Vec/Function/Proxy",
-      "author": "Marcos",
-      "date": "2026-05-09T23:32:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d98927a335b214c82a9e9b5ecd4fbadd39eb20b4"
-    },
-    {
-      "sha": "908447d92cb30eb44b81b29e9e4d6e8b18fca2c0",
-      "short": "908447d",
-      "message": "Merge docs: atualiza README/CLAUDE/specs com estado 977/977",
-      "author": "Marcos",
-      "date": "2026-05-09T23:17:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/908447d92cb30eb44b81b29e9e4d6e8b18fca2c0"
-    },
-    {
-      "sha": "4c1a27ac420160f50bb859edfe68447d3900d9c4",
-      "short": "4c1a27a",
-      "message": "docs: atualiza README/CLAUDE/specs com estado atual (977/977)",
-      "author": "Marcos",
-      "date": "2026-05-09T23:17:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c1a27ac420160f50bb859edfe68447d3900d9c4"
-    },
-    {
-      "sha": "ca27beb27554a74e4d23cbed414735776ba0a5b3",
-      "short": "ca27beb",
-      "message": "Merge #450: arguments.length + arrow VarDecl return fix",
-      "author": "Marcos",
-      "date": "2026-05-09T23:09:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca27beb27554a74e4d23cbed414735776ba0a5b3"
-    },
-    {
-      "sha": "c96cdc6428324fd6c63aad6a69551de5dc66cd86",
-      "short": "c96cdc6",
-      "message": "feat(#450): arguments.length em fn user + fix bug pre-existente em arrow VarDecl",
-      "author": "Marcos",
-      "date": "2026-05-09T23:09:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c96cdc6428324fd6c63aad6a69551de5dc66cd86"
-    },
-    {
-      "sha": "3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2",
-      "short": "3e5d21c",
-      "message": "Merge #224: ui event loop primitives",
-      "author": "Marcos",
-      "date": "2026-05-09T22:47:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2"
-    },
-    {
-      "sha": "af0d7baeacffbbaf597d1c53620a42eddea34af5",
-      "short": "af0d7ba",
-      "message": "feat(#224): ui.app_check + add_timeout + repeat_timeout + add_idle",
-      "author": "Marcos",
-      "date": "2026-05-09T22:47:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af0d7baeacffbbaf597d1c53620a42eddea34af5"
-    },
-    {
-      "sha": "1f5fae91b2f22523dc71119d6c675f3bf94e3d53",
-      "short": "1f5fae9",
-      "message": "Merge #287: node:fs.readFileSync funcional",
-      "author": "Marcos",
-      "date": "2026-05-09T22:33:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f5fae91b2f22523dc71119d6c675f3bf94e3d53"
-    },
-    {
-      "sha": "14cc22918afefff6d2ded842731af66ff7f762e9",
-      "short": "14cc229",
-      "message": "feat(#287): node:fs.readFileSync funcional via __RTS_FN_NS_FS_READ_TEXT",
-      "author": "Marcos",
-      "date": "2026-05-09T22:33:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/14cc22918afefff6d2ded842731af66ff7f762e9"
     }
   ]
 }
