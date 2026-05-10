@@ -1,10 +1,10 @@
 {
-  "sha": "5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649",
-  "short_sha": "5571ea7",
-  "title": "Merge #584: divisao  segue JS spec (f64)",
-  "created": "2026-05-09T18:34:56Z",
-  "run_id": "25608742833",
-  "linux": "https://urubucode.github.io/rts/downloads/5571ea7/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/5571ea7/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/5571ea7/rts-macOS-ARM64/rts"
+  "sha": "3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2",
+  "short_sha": "3e5d21c",
+  "title": "Merge #224: ui event loop primitives",
+  "created": "2026-05-09T22:47:32Z",
+  "run_id": "25613767829",
+  "linux": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/3e5d21c/rts-macOS-ARM64/rts"
 }

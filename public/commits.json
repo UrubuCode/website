@@ -1,165 +1,165 @@
 {
-  "total": 837,
+  "total": 878,
   "commits": [
     {
-      "sha": "5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649",
-      "short": "5571ea7",
-      "message": "Merge #584: divisao  segue JS spec (f64)",
+      "sha": "f46587722d81c52a4ef468444a038f1d89c0d598",
+      "short": "f465877",
+      "message": "Merge #289: streaming hash",
       "author": "Marcos",
-      "date": "2026-05-09T18:34:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5571ea79b7f7ccaa3d0b38864a2dc1a3faaa2649"
+      "date": "2026-05-10T00:15:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f46587722d81c52a4ef468444a038f1d89c0d598"
     },
     {
-      "sha": "fdd9d4178e25f94ee6b37df39100d0a6ba6a0c92",
-      "short": "fdd9d41",
-      "message": "fix(#584): operador `/` segue JS spec — sempre retorna f64",
+      "sha": "6d267b0104f10da355cf4510a2634d674133ccba",
+      "short": "6d267b0",
+      "message": "feat(#289): streaming hash via sha2 crate (createHash builder pattern)",
       "author": "Marcos",
-      "date": "2026-05-09T18:34:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fdd9d4178e25f94ee6b37df39100d0a6ba6a0c92"
+      "date": "2026-05-10T00:15:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6d267b0104f10da355cf4510a2634d674133ccba"
     },
     {
-      "sha": "0ef41bfe842bcbd70d71e7ee8640e5042ef861ff",
-      "short": "0ef41bf",
-      "message": "Merge #617: AOT inclui Function class no archive",
+      "sha": "60d518600f1621144b2adc3c2df6421de9cacfa2",
+      "short": "60d5186",
+      "message": "Merge: crypto.randomUUID v4",
       "author": "Marcos",
-      "date": "2026-05-09T18:21:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0ef41bfe842bcbd70d71e7ee8640e5042ef861ff"
+      "date": "2026-05-09T23:58:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/60d518600f1621144b2adc3c2df6421de9cacfa2"
     },
     {
-      "sha": "1e90a7806eb33246f6e60c8f9b459f713ab4304f",
-      "short": "1e90a78",
-      "message": "fix(#617): AOT inclui Function class no archive — classes user linkam",
+      "sha": "9e32361180f00d36d647daec367aba1a99f1f4ec",
+      "short": "9e32361",
+      "message": "feat(crypto): randomUUID (rts.crypto.random_uuid + node:crypto.randomUUID)",
       "author": "Marcos",
-      "date": "2026-05-09T18:21:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e90a7806eb33246f6e60c8f9b459f713ab4304f"
+      "date": "2026-05-09T23:58:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e32361180f00d36d647daec367aba1a99f1f4ec"
     },
     {
-      "sha": "829a84b3c367aac37a28f2d7609268d4b076d6de",
-      "short": "829a84b",
-      "message": "Merge #618: export * as ns from ./mod",
+      "sha": "f93a61bc29f775081f5dc58f8c60de1d1f240ebb",
+      "short": "f93a61b",
+      "message": "Merge: remove app_run bloqueante de teste UI",
       "author": "Marcos",
-      "date": "2026-05-09T18:07:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/829a84b3c367aac37a28f2d7609268d4b076d6de"
+      "date": "2026-05-09T23:49:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f93a61bc29f775081f5dc58f8c60de1d1f240ebb"
     },
     {
-      "sha": "ecce315fbf2b6f651a00046a42d813bdf831d1cd",
-      "short": "ecce315",
-      "message": "feat(#618): export * as ns from \"./mod\"",
+      "sha": "da09943e55a775ddc731376b14a494ae99c5d4ac",
+      "short": "da09943",
+      "message": "test(ui): remove ui.app_run() bloqueante de tests/ui_window.test.ts",
       "author": "Marcos",
-      "date": "2026-05-09T18:06:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ecce315fbf2b6f651a00046a42d813bdf831d1cd"
+      "date": "2026-05-09T23:49:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/da09943e55a775ddc731376b14a494ae99c5d4ac"
     },
     {
-      "sha": "f7187349e1f526f6286c325a522162645232befd",
-      "short": "f718734",
-      "message": "Merge #619: alias em import/export { x as y }",
+      "sha": "c9dfa9dd821ee761d5bf9d6835d8895eefeefdda",
+      "short": "c9dfa9d",
+      "message": "Merge #377: setTimeout/setInterval/setImmediate cobertura",
       "author": "Marcos",
-      "date": "2026-05-09T17:53:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f7187349e1f526f6286c325a522162645232befd"
+      "date": "2026-05-09T23:47:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c9dfa9dd821ee761d5bf9d6835d8895eefeefdda"
     },
     {
-      "sha": "ecf3b510475f056988ccb0ece1db9cb4e936ca84",
-      "short": "ecf3b51",
-      "message": "feat(#619): alias em import { x as y } e export { x as y } from \"./mod\"",
+      "sha": "f9823a7231d0587d9779fc5743e8d86772bf1ef6",
+      "short": "f9823a7",
+      "message": "test(#377): cobertura formal setTimeout/setInterval/setImmediate",
       "author": "Marcos",
-      "date": "2026-05-09T17:53:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ecf3b510475f056988ccb0ece1db9cb4e936ca84"
+      "date": "2026-05-09T23:46:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9823a7231d0587d9779fc5743e8d86772bf1ef6"
     },
     {
-      "sha": "45fb8a7f979c234c54ea752b675eee7adfef9037",
-      "short": "45fb8a7",
-      "message": "Merge fix/213: AOT resolve module graph (closes #213)",
+      "sha": "bb0cb78558828b8d619190a692c9df2a1b792774",
+      "short": "bb0cb78",
+      "message": "Merge #407: cobertura de globals como GC roots",
       "author": "Marcos",
-      "date": "2026-05-09T17:33:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45fb8a7f979c234c54ea752b675eee7adfef9037"
+      "date": "2026-05-09T23:42:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb0cb78558828b8d619190a692c9df2a1b792774"
     },
     {
-      "sha": "1c71e2c4892425671b2c46ace1b9eae0fc425c6f",
-      "short": "1c71e2c",
-      "message": "fix(#213): AOT compile resolve module graph (era so' parser single-file)",
+      "sha": "49faf43d05a531a2ae93ea24daa57959dbdeac2f",
+      "short": "49faf43",
+      "message": "test(#407): cobertura de globals com handles como GC roots",
       "author": "Marcos",
-      "date": "2026-05-09T17:33:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c71e2c4892425671b2c46ace1b9eae0fc425c6f"
+      "date": "2026-05-09T23:42:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49faf43d05a531a2ae93ea24daa57959dbdeac2f"
     },
     {
-      "sha": "ff87eb36e5430d93abd09ce04bdc041b1e4c5892",
-      "short": "ff87eb3",
-      "message": "Merge feat/thread-dispatch: ui.app_wait + json APIs legacy fix",
+      "sha": "72320a0e2461a039d89297c28c1f702ba787a28d",
+      "short": "72320a0",
+      "message": "Merge #398: GC transitive marking",
       "author": "Marcos",
-      "date": "2026-05-09T17:19:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff87eb36e5430d93abd09ce04bdc041b1e4c5892"
+      "date": "2026-05-09T23:32:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/72320a0e2461a039d89297c28c1f702ba787a28d"
     },
     {
-      "sha": "a090e617c16454c4c23e5706ea24b5d4b27f61c4",
-      "short": "a090e61",
-      "message": "feat(ui): app_wait/app_wait_for/app_awake para integracao com servidor async",
+      "sha": "d98927a335b214c82a9e9b5ecd4fbadd39eb20b4",
+      "short": "d98927a",
+      "message": "fix(#398): GC scanner propaga marca transitiva em Map/Vec/Function/Proxy",
       "author": "Marcos",
-      "date": "2026-05-09T17:19:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a090e617c16454c4c23e5706ea24b5d4b27f61c4"
+      "date": "2026-05-09T23:32:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d98927a335b214c82a9e9b5ecd4fbadd39eb20b4"
     },
     {
-      "sha": "a114f5b65004a71231dec97a3803b73cb22290a6",
-      "short": "a114f5b",
-      "message": "fix(json): consertar APIs legacy quebradas pelo refator Map/Vec",
+      "sha": "908447d92cb30eb44b81b29e9e4d6e8b18fca2c0",
+      "short": "908447d",
+      "message": "Merge docs: atualiza README/CLAUDE/specs com estado 977/977",
       "author": "Marcos",
-      "date": "2026-05-09T17:19:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a114f5b65004a71231dec97a3803b73cb22290a6"
+      "date": "2026-05-09T23:17:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/908447d92cb30eb44b81b29e9e4d6e8b18fca2c0"
     },
     {
-      "sha": "262c7c9b0167eaa4797eed2e8249870edd7c6f77",
-      "short": "262c7c9",
-      "message": "fix(codegen): comparacao lexicografica de strings (#616)",
+      "sha": "4c1a27ac420160f50bb859edfe68447d3900d9c4",
+      "short": "4c1a27a",
+      "message": "docs: atualiza README/CLAUDE/specs com estado atual (977/977)",
       "author": "Marcos",
-      "date": "2026-05-08T11:10:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/262c7c9b0167eaa4797eed2e8249870edd7c6f77"
+      "date": "2026-05-09T23:17:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c1a27ac420160f50bb859edfe68447d3900d9c4"
     },
     {
-      "sha": "75af0c96362f7bf4587aab1817870b558e1d4e92",
-      "short": "75af0c9",
-      "message": "perf(parallel): reativa rayon em parallel.map/reduce",
+      "sha": "ca27beb27554a74e4d23cbed414735776ba0a5b3",
+      "short": "ca27beb",
+      "message": "Merge #450: arguments.length + arrow VarDecl return fix",
       "author": "Marcos",
-      "date": "2026-05-08T10:52:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75af0c96362f7bf4587aab1817870b558e1d4e92"
+      "date": "2026-05-09T23:09:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca27beb27554a74e4d23cbed414735776ba0a5b3"
     },
     {
-      "sha": "bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c",
-      "short": "bade38e",
-      "message": "fix(linker): UniformTypeIdentifiers framework p/ macOS smoke",
+      "sha": "c96cdc6428324fd6c63aad6a69551de5dc66cd86",
+      "short": "c96cdc6",
+      "message": "feat(#450): arguments.length em fn user + fix bug pre-existente em arrow VarDecl",
       "author": "Marcos",
-      "date": "2026-05-08T04:34:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bade38eb1ae2f85e3671ff19a99bbf292c8e2d2c"
+      "date": "2026-05-09T23:09:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c96cdc6428324fd6c63aad6a69551de5dc66cd86"
     },
     {
-      "sha": "94794858d9e9aa0e6e96e1f1c8415fb16db11b7c",
-      "short": "9479485",
-      "message": "fix(linker): -lc++ -lc++abi para macOS smoke compile",
+      "sha": "3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2",
+      "short": "3e5d21c",
+      "message": "Merge #224: ui event loop primitives",
       "author": "Marcos",
-      "date": "2026-05-08T04:26:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94794858d9e9aa0e6e96e1f1c8415fb16db11b7c"
+      "date": "2026-05-09T22:47:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e5d21cf8447aaf0db28fa098f1fa54b0ca99ea2"
     },
     {
-      "sha": "b00cdbd21e7143700abce006aa9bf29928feaa27",
-      "short": "b00cdbd",
-      "message": "test(promise.race): normaliza vencedor em race com pre-resolved (CI macOS)",
+      "sha": "af0d7baeacffbbaf597d1c53620a42eddea34af5",
+      "short": "af0d7ba",
+      "message": "feat(#224): ui.app_check + add_timeout + repeat_timeout + add_idle",
       "author": "Marcos",
-      "date": "2026-05-08T04:16:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b00cdbd21e7143700abce006aa9bf29928feaa27"
+      "date": "2026-05-09T22:47:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af0d7baeacffbbaf597d1c53620a42eddea34af5"
     },
     {
-      "sha": "d0b3a9c42710e592acebc6a5844c882b489438a2",
-      "short": "d0b3a9c",
-      "message": "test: race com gap maior + tls graceful skip total (CI macOS arm64)",
+      "sha": "1f5fae91b2f22523dc71119d6c675f3bf94e3d53",
+      "short": "1f5fae9",
+      "message": "Merge #287: node:fs.readFileSync funcional",
       "author": "Marcos",
-      "date": "2026-05-08T04:09:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0b3a9c42710e592acebc6a5844c882b489438a2"
+      "date": "2026-05-09T22:33:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f5fae91b2f22523dc71119d6c675f3bf94e3d53"
     },
     {
-      "sha": "4da33638202c774594212f29a7e194dce7997396",
-      "short": "4da3363",
-      "message": "test: thresholds maiores p/ macOS arm64 + race com gap maior",
+      "sha": "14cc22918afefff6d2ded842731af66ff7f762e9",
+      "short": "14cc229",
+      "message": "feat(#287): node:fs.readFileSync funcional via __RTS_FN_NS_FS_READ_TEXT",
       "author": "Marcos",
-      "date": "2026-05-08T04:01:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4da33638202c774594212f29a7e194dce7997396"
+      "date": "2026-05-09T22:33:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/14cc22918afefff6d2ded842731af66ff7f762e9"
     }
   ]
 }
