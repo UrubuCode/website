@@ -1,10 +1,10 @@
 {
-  "sha": "3e9e946f12abbe9c2c9ed720d86d95af4c869cdb",
-  "short_sha": "3e9e946",
-  "title": "ci(cross-runtime): dedup de issues por hash (sig + agregado) (#648)",
-  "created": "2026-05-10T17:52:30Z",
-  "run_id": "25635629099",
-  "linux": "https://urubucode.github.io/rts/downloads/3e9e946/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/3e9e946/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/3e9e946/rts-macOS-ARM64/rts"
+  "sha": "7e66f3e895cd90444a6900b43bc19dd27fd75a9b",
+  "short_sha": "7e66f3e",
+  "title": "Add MIT License to the project",
+  "created": "2026-05-11T01:43:11Z",
+  "run_id": "25645962991",
+  "linux": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-macOS-ARM64/rts"
 }
