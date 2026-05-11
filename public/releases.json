@@ -1,10 +1,10 @@
 {
-  "sha": "7e66f3e895cd90444a6900b43bc19dd27fd75a9b",
-  "short_sha": "7e66f3e",
-  "title": "Add MIT License to the project",
-  "created": "2026-05-11T01:43:11Z",
-  "run_id": "25645962991",
-  "linux": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/7e66f3e/rts-macOS-ARM64/rts"
+  "sha": "047d940c54d8299d294d37a7cfa6cfe2d171dfb9",
+  "short_sha": "047d940",
+  "title": "Change cron schedule to daily execution",
+  "created": "2026-05-11T03:40:57Z",
+  "run_id": "25649063074",
+  "linux": "https://urubucode.github.io/rts/downloads/047d940/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/047d940/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/047d940/rts-macOS-ARM64/rts"
 }

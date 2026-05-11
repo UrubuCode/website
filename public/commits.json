@@ -1,6 +1,70 @@
 {
-  "total": 916,
+  "total": 924,
   "commits": [
+    {
+      "sha": "53d533eb33fc1b601b43db54be6ff39a15875644",
+      "short": "53d533e",
+      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T03:43:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/53d533eb33fc1b601b43db54be6ff39a15875644"
+    },
+    {
+      "sha": "047d940c54d8299d294d37a7cfa6cfe2d171dfb9",
+      "short": "047d940",
+      "message": "Change cron schedule to daily execution",
+      "author": "Drysius",
+      "date": "2026-05-11T03:40:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/047d940c54d8299d294d37a7cfa6cfe2d171dfb9"
+    },
+    {
+      "sha": "00d56e5374dc9fccbe7db3de3885fff408e450c5",
+      "short": "00d56e5",
+      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T03:29:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00d56e5374dc9fccbe7db3de3885fff408e450c5"
+    },
+    {
+      "sha": "399e7d00ee4eba5f9c216f2c6b59ae96cc2a1a74",
+      "short": "399e7d0",
+      "message": "ci(cross-runtime): hash estavel — normaliza handles GC antes de hashear (#739)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-11T03:27:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/399e7d00ee4eba5f9c216f2c6b59ae96cc2a1a74"
+    },
+    {
+      "sha": "3c59ab46dae550885762a7ca580f59301b527cad",
+      "short": "3c59ab4",
+      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T03:26:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c59ab46dae550885762a7ca580f59301b527cad"
+    },
+    {
+      "sha": "14c7d100ffccb8530335dd74200108662b6c1452",
+      "short": "14c7d10",
+      "message": "ci(cross-runtime): 1 issue por fixture + codigo-fonte no body (#688)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-11T03:24:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/14c7d100ffccb8530335dd74200108662b6c1452"
+    },
+    {
+      "sha": "0343882b867f4296ce522707fd319999299224da",
+      "short": "0343882",
+      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T03:17:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0343882b867f4296ce522707fd319999299224da"
+    },
+    {
+      "sha": "9bf2f95c46101bc6e047204bf57447f81a76edbb",
+      "short": "9bf2f95",
+      "message": "ci(cross-runtime): workflow_dispatch também cria issues (testar sem esperar schedule) (#658)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-11T03:14:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9bf2f95c46101bc6e047204bf57447f81a76edbb"
+    },
     {
       "sha": "973284d8b08efea16036fce161684dd310016fce",
       "short": "973284d",
@@ -96,70 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-10T20:26:19Z",
       "url": "https://github.com/UrubuCode/rts/commit/6fb153a953a8f3ac505ed895a89e2b463b21f327"
-    },
-    {
-      "sha": "b66f9b2001a3335d9497efb15288925fe7a0deed",
-      "short": "b66f9b2",
-      "message": "docs: auto-update cross-runtime parity badge (32.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T20:19:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b66f9b2001a3335d9497efb15288925fe7a0deed"
-    },
-    {
-      "sha": "ec68c3808b8d5394c8b359936990080077b35c21",
-      "short": "ec68c38",
-      "message": "test: +73 fixtures cross-runtime (kiro batch 2) — 233 total, 32.2% paridade (#652)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T20:16:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ec68c3808b8d5394c8b359936990080077b35c21"
-    },
-    {
-      "sha": "1a242f86e8a04d30fd7d361d1defce7fb1260027",
-      "short": "1a242f8",
-      "message": "docs: auto-update cross-runtime parity badge (36.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T19:52:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1a242f86e8a04d30fd7d361d1defce7fb1260027"
-    },
-    {
-      "sha": "cf119b732a9efef18b4885ed5b30a5aa801457ee",
-      "short": "cf119b7",
-      "message": "test: +53 fixtures cross-runtime (kiro batch) — 160 total, 36.7% paridade (#651)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T19:49:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf119b732a9efef18b4885ed5b30a5aa801457ee"
-    },
-    {
-      "sha": "7c4c41cf9b33db6e4391e5e6c47980a08ecfa2b2",
-      "short": "7c4c41c",
-      "message": "docs: auto-update cross-runtime parity badge (37.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T19:18:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7c4c41cf9b33db6e4391e5e6c47980a08ecfa2b2"
-    },
-    {
-      "sha": "6d9fc949cc23ae93727a422ea4746ae0f64e5e5f",
-      "short": "6d9fc94",
-      "message": "ci: categorizar issues + historico semanal + dashboard Pages (#650)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T19:15:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6d9fc949cc23ae93727a422ea4746ae0f64e5e5f"
-    },
-    {
-      "sha": "85b577b51b0d64f3efcd2705db4ef2dae38a1515",
-      "short": "85b577b",
-      "message": "docs: auto-update cross-runtime parity badge (37.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T18:59:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85b577b51b0d64f3efcd2705db4ef2dae38a1515"
-    },
-    {
-      "sha": "173f072eb8392ffeeb853fd9fc7824cbe4ab91d1",
-      "short": "173f072",
-      "message": "test: 93 fixtures cross-runtime novas + barra de progresso README + report JSON publico (#649)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T18:57:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/173f072eb8392ffeeb853fd9fc7824cbe4ab91d1"
     }
   ]
 }
