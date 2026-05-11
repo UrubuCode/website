@@ -222,6 +222,7 @@ const Index = () => {
       </section>
 
       {/* Benchmarks */}
+      {/*
       <section id="benchmarks" className="container py-24">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Benchmarks</h2>
@@ -249,7 +250,7 @@ const Index = () => {
           ))}
         </div>
       </section>
-
+      */}
       {/* Commits */}
       <section id="commits" className="container py-24">
         <div className="flex items-end justify-between mb-10 flex-wrap gap-4">
