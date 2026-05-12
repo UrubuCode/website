@@ -1,6 +1,14 @@
 {
-  "total": 932,
+  "total": 933,
   "commits": [
+    {
+      "sha": "54cb1346e6a068c6b5550f16be358e16af86e985",
+      "short": "54cb134",
+      "message": "docs: cross-runtime parity 29.8% + history snapshot 2026-05-12",
+      "author": "github-actions[bot]",
+      "date": "2026-05-12T06:01:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54cb1346e6a068c6b5550f16be358e16af86e985"
+    },
     {
       "sha": "dbc931205d94c43d755ca1d61f5016a4f91fe351",
       "short": "dbc9312",
@@ -152,14 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-11T01:42:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/62b4749b34787f4304ecc66090e6359b100fc8cb"
-    },
-    {
-      "sha": "767e4f880fa00f9ba7659194b19e694da394d0c2",
-      "short": "767e4f8",
-      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T22:04:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/767e4f880fa00f9ba7659194b19e694da394d0c2"
     }
   ]
 }
