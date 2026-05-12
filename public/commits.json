@@ -1,6 +1,70 @@
 {
-  "total": 924,
+  "total": 932,
   "commits": [
+    {
+      "sha": "dbc931205d94c43d755ca1d61f5016a4f91fe351",
+      "short": "dbc9312",
+      "message": "docs: auto-update cross-runtime parity badge (29.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-12T00:13:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dbc931205d94c43d755ca1d61f5016a4f91fe351"
+    },
+    {
+      "sha": "ed24d25fa6e9fb181f72de41d9203cabea0bd832",
+      "short": "ed24d25",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-05-12T00:10:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed24d25fa6e9fb181f72de41d9203cabea0bd832"
+    },
+    {
+      "sha": "f1bb97b5f8da70bc9a01aacd4c8db70259867eb9",
+      "short": "f1bb97b",
+      "message": "fix(runtime): resolve rts_diverge #780 Array.of and new Array()",
+      "author": "Marcos",
+      "date": "2026-05-12T00:08:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1bb97b5f8da70bc9a01aacd4c8db70259867eb9"
+    },
+    {
+      "sha": "ba0632b3effddb23f02457c405b116a5b850579f",
+      "short": "ba0632b",
+      "message": "fix(runtime): resolve rts_diverge in Number.prototype.toExponential",
+      "author": "Marcos",
+      "date": "2026-05-11T23:20:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba0632b3effddb23f02457c405b116a5b850579f"
+    },
+    {
+      "sha": "3c4e32189ee11b77959a7315ba95e8398d64ad5e",
+      "short": "3c4e321",
+      "message": "docs: auto-update cross-runtime parity badge (28.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T22:11:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c4e32189ee11b77959a7315ba95e8398d64ad5e"
+    },
+    {
+      "sha": "941e11fcb9b3974d1be3c2c322dde5fb2a2c9c1a",
+      "short": "941e11f",
+      "message": "fix: parseInt returns NaN for invalid input instead of i64::MIN (#768) (#791)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-11T22:08:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/941e11fcb9b3974d1be3c2c322dde5fb2a2c9c1a"
+    },
+    {
+      "sha": "4f1c1930a589176cd706a7fbba4fdfa3da6a90c9",
+      "short": "4f1c193",
+      "message": "docs: auto-update cross-runtime parity badge (28.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-11T21:50:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f1c1930a589176cd706a7fbba4fdfa3da6a90c9"
+    },
+    {
+      "sha": "a796e888d574980cd2a90511f31bcc7caef4c341",
+      "short": "a796e88",
+      "message": "fix: implement variadic Math.hypot with correct precision (#760) (#790)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-11T21:47:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a796e888d574980cd2a90511f31bcc7caef4c341"
+    },
     {
       "sha": "53d533eb33fc1b601b43db54be6ff39a15875644",
       "short": "53d533e",
@@ -96,70 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-05-10T22:04:33Z",
       "url": "https://github.com/UrubuCode/rts/commit/767e4f880fa00f9ba7659194b19e694da394d0c2"
-    },
-    {
-      "sha": "6d523aceac8424fec271c84cb992c44dd457d291",
-      "short": "6d523ac",
-      "message": "ci(cross-runtime): schedule passa para 00:00 BRT (03:00 UTC) segunda (#657)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T22:01:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6d523aceac8424fec271c84cb992c44dd457d291"
-    },
-    {
-      "sha": "b67263d7efba91efab68a18c2edbfb0139ec3f2d",
-      "short": "b67263d",
-      "message": "ci(cross-runtime): refina categorize() de 17 para 29 categorias (#656)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T22:00:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b67263d7efba91efab68a18c2edbfb0139ec3f2d"
-    },
-    {
-      "sha": "1ac57a937de3e946c59932ed6738a7343a9f53f2",
-      "short": "1ac57a9",
-      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T21:49:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1ac57a937de3e946c59932ed6738a7343a9f53f2"
-    },
-    {
-      "sha": "532ef66c01e471b1bf5f453e49e457ec752c60f5",
-      "short": "532ef66",
-      "message": "test+ci: 69 fixtures codex final + timeout no script (27.8% paridade) (#655)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T21:47:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/532ef66c01e471b1bf5f453e49e457ec752c60f5"
-    },
-    {
-      "sha": "0b28b8ef705f8505cd114e6f9c5e62b87073ceb3",
-      "short": "0b28b8e",
-      "message": "docs: auto-update cross-runtime parity badge (32.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T20:58:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b28b8ef705f8505cd114e6f9c5e62b87073ceb3"
-    },
-    {
-      "sha": "b4d3990f585efa4b30db00b3a20e618e75e5645f",
-      "short": "b4d3990",
-      "message": "docs: cross-runtime coverage roadmap (lista viva de fixtures planejadas) (#654)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T20:55:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4d3990f585efa4b30db00b3a20e618e75e5645f"
-    },
-    {
-      "sha": "226041c4a746f84c5db98e0212c07e8e9403fdfc",
-      "short": "226041c",
-      "message": "docs: auto-update cross-runtime parity badge (32.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-10T20:28:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/226041c4a746f84c5db98e0212c07e8e9403fdfc"
-    },
-    {
-      "sha": "6fb153a953a8f3ac505ed895a89e2b463b21f327",
-      "short": "6fb153a",
-      "message": "perf: paraleliza cross_runtime_check.sh (5min -> 50s, ~6x speedup) (#653)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-10T20:26:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6fb153a953a8f3ac505ed895a89e2b463b21f327"
     }
   ]
 }

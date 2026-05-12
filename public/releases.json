@@ -1,10 +1,10 @@
 {
-  "sha": "047d940c54d8299d294d37a7cfa6cfe2d171dfb9",
-  "short_sha": "047d940",
-  "title": "Change cron schedule to daily execution",
-  "created": "2026-05-11T03:40:57Z",
-  "run_id": "25649063074",
-  "linux": "https://urubucode.github.io/rts/downloads/047d940/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/047d940/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/047d940/rts-macOS-ARM64/rts"
+  "sha": "ed24d25fa6e9fb181f72de41d9203cabea0bd832",
+  "short_sha": "ed24d25",
+  "title": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+  "created": "2026-05-12T00:11:03Z",
+  "run_id": "25704965125",
+  "linux": "https://urubucode.github.io/rts/downloads/ed24d25/rts-Linux-X64/rts",
+  "windows": "https://urubucode.github.io/rts/downloads/ed24d25/rts-Windows-X64/rts.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/ed24d25/rts-macOS-ARM64/rts"
 }
