@@ -1,10 +1,10 @@
 {
-  "sha": "ed24d25fa6e9fb181f72de41d9203cabea0bd832",
-  "short_sha": "ed24d25",
-  "title": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-  "created": "2026-05-12T00:11:03Z",
-  "run_id": "25704965125",
-  "linux": "https://urubucode.github.io/rts/downloads/ed24d25/rts-Linux-X64/rts",
-  "windows": "https://urubucode.github.io/rts/downloads/ed24d25/rts-Windows-X64/rts.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/ed24d25/rts-macOS-ARM64/rts"
+  "sha": "3cbacc78cd6d35e8c4660b1aa3cf6802c9993381",
+  "short_sha": "3cbacc7",
+  "title": "ci(cross-runtime): GraphQL + sync bidirecional de estado das issues (…",
+  "created": "2026-05-12T19:06:16Z",
+  "run_id": "25756162250",
+  "linux": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-Linux-X64/rts-v0.0-202605121906-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-Windows-X64/rts-v0.0-202605121906-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-macOS-ARM64/rts-v0.0-202605121906-macOS-ARM64"
 }
