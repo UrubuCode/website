@@ -1,6 +1,30 @@
 {
-  "total": 1009,
+  "total": 1012,
   "commits": [
+    {
+      "sha": "ccdf60d36f2ebc72859925e418a49e71f9645bb9",
+      "short": "ccdf60d",
+      "message": "docs: auto-update cross-runtime parity badge (42.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-13T03:05:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccdf60d36f2ebc72859925e418a49e71f9645bb9"
+    },
+    {
+      "sha": "9bc99d948610ed453876e5424718be62842f5728",
+      "short": "9bc99d9",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-05-13T03:02:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9bc99d948610ed453876e5424718be62842f5728"
+    },
+    {
+      "sha": "64b9e658a8c7097fe1ce12fa8e70ddce13a7dc35",
+      "short": "64b9e65",
+      "message": "fix(codegen+runtime): String methods — normalize, includes_pos, split/regex/limit, replace/fn, matchAll, localeCompare (#849)",
+      "author": "Daniel",
+      "date": "2026-05-13T01:32:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/64b9e658a8c7097fe1ce12fa8e70ddce13a7dc35"
+    },
     {
       "sha": "79b31bbccfdaa8f2d86367fbeca351cd7de48f23",
       "short": "79b31bb",
@@ -136,30 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-05-12T21:36:39Z",
       "url": "https://github.com/UrubuCode/rts/commit/a851b528ec38996e942dcc9ea3fd683fd86e10cc"
-    },
-    {
-      "sha": "03b2ddca1204363576a7117443504ba62d48523b",
-      "short": "03b2ddc",
-      "message": "fix(array): suportar Array() como função (sem new) (#893)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-12T21:33:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03b2ddca1204363576a7117443504ba62d48523b"
-    },
-    {
-      "sha": "92bb5672dd8983cc0caf7c985d13c94ba791ba0c",
-      "short": "92bb567",
-      "message": "docs: auto-update cross-runtime parity badge (37.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-12T21:32:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92bb5672dd8983cc0caf7c985d13c94ba791ba0c"
-    },
-    {
-      "sha": "07881a18bf2c1f15d65654eab9850c164793bdb8",
-      "short": "07881a1",
-      "message": "fix(array): indexOf/lastIndexOf de NaN sempre -1 (JS spec) (#892)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-12T21:30:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07881a18bf2c1f15d65654eab9850c164793bdb8"
     }
   ]
 }
