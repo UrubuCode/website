@@ -1,10 +1,10 @@
 {
-  "sha": "3cbacc78cd6d35e8c4660b1aa3cf6802c9993381",
-  "short_sha": "3cbacc7",
-  "title": "ci(cross-runtime): GraphQL + sync bidirecional de estado das issues (…",
-  "created": "2026-05-12T19:06:16Z",
-  "run_id": "25756162250",
-  "linux": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-Linux-X64/rts-v0.0-202605121906-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-Windows-X64/rts-v0.0-202605121906-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/3cbacc7/rts-v0.0-202605121906-macOS-ARM64/rts-v0.0-202605121906-macOS-ARM64"
+  "sha": "c3cf355ba0f41be7a97cbe73a99881e9ad5838f3",
+  "short_sha": "c3cf355",
+  "title": "fix(codegen): lift arrow com block sem return final (#903)",
+  "created": "2026-05-12T23:56:29Z",
+  "run_id": "25769312686",
+  "linux": "https://urubucode.github.io/rts/downloads/c3cf355/rts-v0.0-202605122357-Linux-X64/rts-v0.0-202605122357-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/c3cf355/rts-v0.0-202605122357-Windows-X64/rts-v0.0-202605122357-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/c3cf355/rts-v0.0-202605122357-macOS-ARM64/rts-v0.0-202605122357-macOS-ARM64"
 }
