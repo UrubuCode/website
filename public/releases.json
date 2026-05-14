@@ -1,10 +1,10 @@
 {
-  "sha": "9bc99d948610ed453876e5424718be62842f5728",
-  "short_sha": "9bc99d9",
-  "title": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-  "created": "2026-05-13T03:02:44Z",
-  "run_id": "25775641113",
-  "linux": "https://urubucode.github.io/rts/downloads/9bc99d9/rts-v0.0-202605130302-Linux-X64/rts-v0.0-202605130302-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/9bc99d9/rts-v0.0-202605130302-Windows-X64/rts-v0.0-202605130302-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/9bc99d9/rts-v0.0-202605130302-macOS-ARM64/rts-v0.0-202605130302-macOS-ARM64"
+  "sha": "9194e806fb701fc094ef5fe39e6f705ffac822b5",
+  "short_sha": "9194e80",
+  "title": "feat(regexp): flags/global/ignoreCase/multiline getters (#781) (#931)",
+  "created": "2026-05-14T04:18:20Z",
+  "run_id": "25841382928",
+  "linux": "https://urubucode.github.io/rts/downloads/9194e80/rts-v0.0-202605140418-Linux-X64/rts-v0.0-202605140418-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/9194e80/rts-v0.0-202605140418-Windows-X64/rts-v0.0-202605140418-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/9194e80/rts-v0.0-202605140418-macOS-ARM64/rts-v0.0-202605140418-macOS-ARM64"
 }
