@@ -1,10 +1,10 @@
 {
-  "sha": "ea870ff5d09d36f1d41f220e5d239acc6c0fdf74",
-  "short_sha": "ea870ff",
-  "title": "fix(reflect): defineProperty preserva writable/enumerable flags (#795…",
-  "created": "2026-05-14T19:06:49Z",
-  "run_id": "25879835236",
-  "linux": "https://urubucode.github.io/rts/downloads/ea870ff/rts-v0.0-202605141906-Linux-X64/rts-v0.0-202605141906-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/ea870ff/rts-v0.0-202605141906-Windows-X64/rts-v0.0-202605141906-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/ea870ff/rts-v0.0-202605141906-macOS-ARM64/rts-v0.0-202605141906-macOS-ARM64"
+  "sha": "2ebc4aed235d68b43f8f8db1c91f78560adb5c5a",
+  "short_sha": "2ebc4ae",
+  "title": "feat(errors): typed JS error display with kind, frames, and cause chain",
+  "created": "2026-05-15T00:18:57Z",
+  "run_id": "25893185588",
+  "linux": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-Linux-X64/rts-v0.0-202605150019-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-Windows-X64/rts-v0.0-202605150019-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-macOS-ARM64/rts-v0.0-202605150019-macOS-ARM64"
 }
