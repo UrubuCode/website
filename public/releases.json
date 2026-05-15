@@ -1,10 +1,10 @@
 {
-  "sha": "2ebc4aed235d68b43f8f8db1c91f78560adb5c5a",
-  "short_sha": "2ebc4ae",
-  "title": "feat(errors): typed JS error display with kind, frames, and cause chain",
-  "created": "2026-05-15T00:18:57Z",
-  "run_id": "25893185588",
-  "linux": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-Linux-X64/rts-v0.0-202605150019-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-Windows-X64/rts-v0.0-202605150019-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/2ebc4ae/rts-v0.0-202605150019-macOS-ARM64/rts-v0.0-202605150019-macOS-ARM64"
+  "sha": "f596db0ad9862fe3638a927baacd2b9d9867614c",
+  "short_sha": "f596db0",
+  "title": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+  "created": "2026-05-15T06:28:28Z",
+  "run_id": "25903914953",
+  "linux": "https://urubucode.github.io/rts/downloads/f596db0/rts-v0.0-202605150628-Linux-X64/rts-v0.0-202605150628-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/f596db0/rts-v0.0-202605150628-Windows-X64/rts-v0.0-202605150628-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/f596db0/rts-v0.0-202605150628-macOS-ARM64/rts-v0.0-202605150628-macOS-ARM64"
 }
