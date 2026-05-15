@@ -1,6 +1,126 @@
 {
-  "total": 1148,
+  "total": 1163,
   "commits": [
+    {
+      "sha": "96b80fab708ffff4f59f6461b2007079061c7417",
+      "short": "96b80fa",
+      "message": "docs: auto-update cross-runtime parity badge (60.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T13:45:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96b80fab708ffff4f59f6461b2007079061c7417"
+    },
+    {
+      "sha": "3ffc56945b3ccdcdcc41fe5fcd740973079f3327",
+      "short": "3ffc569",
+      "message": "feat(collections): Object.groupBy + Map.groupBy ES2024 (#678/89/301) (#992)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:43:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3ffc56945b3ccdcdcc41fe5fcd740973079f3327"
+    },
+    {
+      "sha": "585ad544b7b5a8df4c74336cfa369acfc0f96dd7",
+      "short": "585ad54",
+      "message": "docs: auto-update cross-runtime parity badge (60.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T13:40:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/585ad544b7b5a8df4c74336cfa369acfc0f96dd7"
+    },
+    {
+      "sha": "bb3a29dc2a1860bf915ae0e40095bfb909825312",
+      "short": "bb3a29d",
+      "message": "feat(collections): Set symmetricDifference + isSubsetOf/Superset/Disjoint (#678/302) (#991)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:37:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb3a29dc2a1860bf915ae0e40095bfb909825312"
+    },
+    {
+      "sha": "afd8c4a102139641470c24208f34fa39b7c74ad9",
+      "short": "afd8c4a",
+      "message": "fix(decls): init undefined/null mantem I64 mesmo com tipo number (#752 fixture 119) (#990)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:36:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/afd8c4a102139641470c24208f34fa39b7c74ad9"
+    },
+    {
+      "sha": "09bb8f341ca37720ceaf810839b84223fde1cb11",
+      "short": "09bb8f3",
+      "message": "docs: auto-update cross-runtime parity badge (60.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T13:23:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/09bb8f341ca37720ceaf810839b84223fde1cb11"
+    },
+    {
+      "sha": "de929b56e5371059e0b24e7d470b8600ca4fa05c",
+      "short": "de929b5",
+      "message": "fix(gc): split STRING_FROM_I64 (raw) vs STRING_FROM_I64_TPL (sentinel-aware) (#988)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:21:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de929b56e5371059e0b24e7d470b8600ca4fa05c"
+    },
+    {
+      "sha": "6e0ad8cdb36354ed71dbfb0820f192f7a72748c4",
+      "short": "6e0ad8c",
+      "message": "docs: auto-update cross-runtime parity badge (60.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T13:17:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e0ad8cdb36354ed71dbfb0820f192f7a72748c4"
+    },
+    {
+      "sha": "b2f066686260fdbfbd50d4a08962c8da064718c1",
+      "short": "b2f0666",
+      "message": "feat(collections): Set.prototype.union/intersection/difference (#678/90) (#987)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:14:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b2f066686260fdbfbd50d4a08962c8da064718c1"
+    },
+    {
+      "sha": "88c32fe4383abfa27874e4fa435b9e3c6ca1853b",
+      "short": "88c32fe",
+      "message": "docs: auto-update cross-runtime parity badge (60.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T13:07:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/88c32fe4383abfa27874e4fa435b9e3c6ca1853b"
+    },
+    {
+      "sha": "19df268f6dc38ec5dd99de864ddac504d6b7fbf4",
+      "short": "19df268",
+      "message": "feat(globals): URL.canParse(href, base?) + static method overload by arity (#746) (#986)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T13:04:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/19df268f6dc38ec5dd99de864ddac504d6b7fbf4"
+    },
+    {
+      "sha": "4aa2b4280c6c9e84ec97a93c81d78a291c5e026e",
+      "short": "4aa2b42",
+      "message": "docs: auto-update cross-runtime parity badge (59.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T12:57:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4aa2b4280c6c9e84ec97a93c81d78a291c5e026e"
+    },
+    {
+      "sha": "a28e551a4a1ac7bb1284b5f638923a66bb4cb4a9",
+      "short": "a28e551",
+      "message": "fix(Map.get): result stringifica via TPL_COERCE_AUTO (#872 fixture 95) (#984)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T12:54:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a28e551a4a1ac7bb1284b5f638923a66bb4cb4a9"
+    },
+    {
+      "sha": "5635009862950a5a0b296be66f5a8f497ba21f86",
+      "short": "5635009",
+      "message": "docs: auto-update cross-runtime parity badge (59.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-15T12:51:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5635009862950a5a0b296be66f5a8f497ba21f86"
+    },
+    {
+      "sha": "1ded0ec7ee630212768e14915441e7cb90d65468",
+      "short": "1ded0ec",
+      "message": "feat(globals): AggregateError class (#748) (#985)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-15T12:48:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1ded0ec7ee630212768e14915441e7cb90d65468"
+    },
     {
       "sha": "e49d775699850e38e7b508affddcc04b8c79da7e",
       "short": "e49d775",
@@ -40,126 +160,6 @@
       "author": "Daniel",
       "date": "2026-05-15T06:27:27Z",
       "url": "https://github.com/UrubuCode/rts/commit/016b42d4c486bd59e60f208a59b63e43e21beb60"
-    },
-    {
-      "sha": "d302b7cc60f74e696f0d90154f5b7de76d9035c2",
-      "short": "d302b7c",
-      "message": "docs: auto-update cross-runtime parity badge (58.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T05:58:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d302b7cc60f74e696f0d90154f5b7de76d9035c2"
-    },
-    {
-      "sha": "e952df3b3d80990aa580968623f098caec30a275",
-      "short": "e952df3",
-      "message": "fix(test): try_catch_trace usa delta de depth() em vez de valor absoluto",
-      "author": "Daniel",
-      "date": "2026-05-15T05:55:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e952df3b3d80990aa580968623f098caec30a275"
-    },
-    {
-      "sha": "357ec0bb8e17b0f666b15599ec326d2136821c67",
-      "short": "357ec0b",
-      "message": "feat(trace): auto-instrumentação de stack frames em todas as user fns",
-      "author": "Daniel",
-      "date": "2026-05-15T05:53:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/357ec0bb8e17b0f666b15599ec326d2136821c67"
-    },
-    {
-      "sha": "d7312ed17798faf218817712236359290107f8b2",
-      "short": "d7312ed",
-      "message": "docs: auto-update cross-runtime parity badge (58.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T02:58:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7312ed17798faf218817712236359290107f8b2"
-    },
-    {
-      "sha": "cd916ee95c6e58b3b765ade672523aad5d746be5",
-      "short": "cd916ee",
-      "message": "fix(reflect): getOwnPropertyDescriptor bools usam sentinel JS (#795/110) (#983)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:55:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd916ee95c6e58b3b765ade672523aad5d746be5"
-    },
-    {
-      "sha": "af228f78d8b69bdceac484435d044e1e38e3df51",
-      "short": "af228f7",
-      "message": "docs: auto-update cross-runtime parity badge (58.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T02:53:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af228f78d8b69bdceac484435d044e1e38e3df51"
-    },
-    {
-      "sha": "070ee59f7b406c6a6c366b883a6022504a810caa",
-      "short": "070ee59",
-      "message": "feat(object): bool em obj literal vira sentinel JS — JSON.stringify true/false (#680/50) (#982)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:50:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/070ee59f7b406c6a6c366b883a6022504a810caa"
-    },
-    {
-      "sha": "b027dbc01807c96b339ed63bda802bc7a1019bab",
-      "short": "b027dbc",
-      "message": "docs: auto-update cross-runtime parity badge (58.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T02:42:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b027dbc01807c96b339ed63bda802bc7a1019bab"
-    },
-    {
-      "sha": "4b64796d0f73abd053ca5c2290e73114047d8f26",
-      "short": "4b64796",
-      "message": "feat(object): getPrototypeOf retorna Object.prototype/Array.prototype default (#772/155) (#981)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:39:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b64796d0f73abd053ca5c2290e73114047d8f26"
-    },
-    {
-      "sha": "52c7e04f19e2c53d7ac55204bbd13961fcf16978",
-      "short": "52c7e04",
-      "message": "fix(codegen): new GlobalClass(x) preserva tipo Cranelift do constructor (#980)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:38:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52c7e04f19e2c53d7ac55204bbd13961fcf16978"
-    },
-    {
-      "sha": "0cd33ecc93501f928b1e7473b2b2b978f9f53396",
-      "short": "0cd33ec",
-      "message": "docs: auto-update cross-runtime parity badge (58.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T02:29:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0cd33ecc93501f928b1e7473b2b2b978f9f53396"
-    },
-    {
-      "sha": "ffdc4620ab6ed317d4551d21a8e8a098be4fda0a",
-      "short": "ffdc462",
-      "message": "feat(object): Object.fromEntries aceita Map direto (#666/265) (#978)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:27:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ffdc4620ab6ed317d4551d21a8e8a098be4fda0a"
-    },
-    {
-      "sha": "ce0e3b0e79d8c38af66191572b2127bd86471a61",
-      "short": "ce0e3b0",
-      "message": "feat(object): Object.setPrototypeOf (#772) (#979)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-15T02:27:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce0e3b0e79d8c38af66191572b2127bd86471a61"
-    },
-    {
-      "sha": "d5081a9005dd3bf04395407acd47d5213097126a",
-      "short": "d5081a9",
-      "message": "docs: auto-update cross-runtime parity badge (58.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-15T00:21:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5081a9005dd3bf04395407acd47d5213097126a"
-    },
-    {
-      "sha": "2ebc4aed235d68b43f8f8db1c91f78560adb5c5a",
-      "short": "2ebc4ae",
-      "message": "feat(errors): typed JS error display with kind, frames, and cause chain",
-      "author": "Daniel",
-      "date": "2026-05-14T23:57:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ebc4aed235d68b43f8f8db1c91f78560adb5c5a"
     }
   ]
 }
