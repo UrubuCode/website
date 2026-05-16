@@ -1,10 +1,10 @@
 {
-  "sha": "0bb3ae315c1285595c3b7505d8676d32596b08a6",
-  "short_sha": "0bb3ae3",
-  "title": "feat(console): stub methods (table/group/count/time/etc.) (#310 #311)…",
-  "created": "2026-05-15T15:22:05Z",
-  "run_id": "25925910446",
-  "linux": "https://urubucode.github.io/rts/downloads/0bb3ae3/rts-v0.0-202605151522-Linux-X64/rts-v0.0-202605151522-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/0bb3ae3/rts-v0.0-202605151522-Windows-X64/rts-v0.0-202605151522-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/0bb3ae3/rts-v0.0-202605151522-macOS-ARM64/rts-v0.0-202605151522-macOS-ARM64"
+  "sha": "90a541f0880c5cc2d10757a21132284bd23d7ad2",
+  "short_sha": "90a541f",
+  "title": "fix(codegen): global instance call passa recv como F64 quando ABI esp…",
+  "created": "2026-05-16T01:39:15Z",
+  "run_id": "25949466542",
+  "linux": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-Linux-X64/rts-v0.0-202605160139-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-Windows-X64/rts-v0.0-202605160139-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-macOS-ARM64/rts-v0.0-202605160139-macOS-ARM64"
 }
