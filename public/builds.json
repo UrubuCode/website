@@ -1,271 +1,271 @@
 [
   {
-    "sha": "90a541f0880c5cc2d10757a21132284bd23d7ad2",
-    "short_sha": "90a541f",
-    "title": "fix(codegen): global instance call passa recv como F64 quando ABI esp…",
-    "created": "2026-05-16T01:39:15Z",
-    "run_id": "25949466542",
+    "sha": "3245be0ae8a427a2bee4aa5beba0c3c46a84f933",
+    "short_sha": "3245be0",
+    "title": "fix(runtime+codegen): structuredClone deep + chain method calls (#97/…",
+    "created": "2026-05-16T05:37:15Z",
+    "run_id": "25954044336",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605160139-Linux-X64",
-        "file": "rts-v0.0-202605160139-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-Linux-X64/rts-v0.0-202605160139-Linux-X64"
+        "name": "rts-v0.0-202605160537-Linux-X64",
+        "file": "rts-v0.0-202605160537-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-Linux-X64/rts-v0.0-202605160537-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605160139-Windows-X64",
-        "file": "rts-v0.0-202605160139-Windows-X64.exe",
+        "name": "rts-v0.0-202605160537-Windows-X64",
+        "file": "rts-v0.0-202605160537-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-Windows-X64/rts-v0.0-202605160139-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-Windows-X64/rts-v0.0-202605160537-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605160139-macOS-ARM64",
-        "file": "rts-v0.0-202605160139-macOS-ARM64",
+        "name": "rts-v0.0-202605160537-macOS-ARM64",
+        "file": "rts-v0.0-202605160537-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/90a541f/rts-v0.0-202605160139-macOS-ARM64/rts-v0.0-202605160139-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-macOS-ARM64/rts-v0.0-202605160537-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "53856b557c5886aeec2f062bdcbbbaf71abb0305",
-    "short_sha": "53856b5",
-    "title": "fix(codegen): default param que referencia outro param (#640) (#1009)",
-    "created": "2026-05-16T00:31:34Z",
-    "run_id": "25947921456",
+    "sha": "68126387c421ae04eb51890bba3ce9ff5ea47bdf",
+    "short_sha": "6812638",
+    "title": "fix(codegen): namespace.x lookup skip quando root eh var local (#55)",
+    "created": "2026-05-16T05:19:55Z",
+    "run_id": "25953719893",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605160031-Linux-X64",
-        "file": "rts-v0.0-202605160031-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/53856b5/rts-v0.0-202605160031-Linux-X64/rts-v0.0-202605160031-Linux-X64"
+        "name": "rts-v0.0-202605160519-Linux-X64",
+        "file": "rts-v0.0-202605160519-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/6812638/rts-v0.0-202605160519-Linux-X64/rts-v0.0-202605160519-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605160031-Windows-X64",
-        "file": "rts-v0.0-202605160031-Windows-X64.exe",
+        "name": "rts-v0.0-202605160519-Windows-X64",
+        "file": "rts-v0.0-202605160519-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/53856b5/rts-v0.0-202605160031-Windows-X64/rts-v0.0-202605160031-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/6812638/rts-v0.0-202605160519-Windows-X64/rts-v0.0-202605160519-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605160031-macOS-ARM64",
-        "file": "rts-v0.0-202605160031-macOS-ARM64",
+        "name": "rts-v0.0-202605160519-macOS-ARM64",
+        "file": "rts-v0.0-202605160519-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/53856b5/rts-v0.0-202605160031-macOS-ARM64/rts-v0.0-202605160031-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/6812638/rts-v0.0-202605160519-macOS-ARM64/rts-v0.0-202605160519-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "19568d3a37dc7f09b97497bae80f6b7061c3613a",
-    "short_sha": "19568d3",
-    "title": "fix(stack): merge PRs #998/#999/#1001/#1003/#1005 stack — Symbol keys…",
-    "created": "2026-05-16T00:26:52Z",
-    "run_id": "25947804665",
+    "sha": "0e661d6f1e5a6b7c93b788367a56cb77249a938e",
+    "short_sha": "0e661d6",
+    "title": "fix(collections): Set.values retorna elementos, nao marker (#316) (#1…",
+    "created": "2026-05-16T05:11:43Z",
+    "run_id": "25953561652",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605160026-Linux-X64",
-        "file": "rts-v0.0-202605160026-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/19568d3/rts-v0.0-202605160026-Linux-X64/rts-v0.0-202605160026-Linux-X64"
+        "name": "rts-v0.0-202605160512-Linux-X64",
+        "file": "rts-v0.0-202605160512-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/0e661d6/rts-v0.0-202605160512-Linux-X64/rts-v0.0-202605160512-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605160026-Windows-X64",
-        "file": "rts-v0.0-202605160026-Windows-X64.exe",
+        "name": "rts-v0.0-202605160512-Windows-X64",
+        "file": "rts-v0.0-202605160512-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/19568d3/rts-v0.0-202605160026-Windows-X64/rts-v0.0-202605160026-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/0e661d6/rts-v0.0-202605160512-Windows-X64/rts-v0.0-202605160512-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605160026-macOS-ARM64",
-        "file": "rts-v0.0-202605160026-macOS-ARM64",
+        "name": "rts-v0.0-202605160512-macOS-ARM64",
+        "file": "rts-v0.0-202605160512-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/19568d3/rts-v0.0-202605160026-macOS-ARM64/rts-v0.0-202605160026-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/0e661d6/rts-v0.0-202605160512-macOS-ARM64/rts-v0.0-202605160512-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "e44531697ba5cf39f398c26c71038f50abddaa51",
-    "short_sha": "e445316",
-    "title": "fix(#753): Symbol como key em obj literal/computed access/in (#998)",
-    "created": "2026-05-16T00:21:16Z",
-    "run_id": "25947674353",
+    "sha": "e72a32a2cb9fc180b8ecdfc30d137a8b5526a1b8",
+    "short_sha": "e72a32a",
+    "title": "fix(codegen): propaga class type via instance member ts_signature (#107)",
+    "created": "2026-05-16T05:10:32Z",
+    "run_id": "25953539450",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605160021-Linux-X64",
-        "file": "rts-v0.0-202605160021-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/e445316/rts-v0.0-202605160021-Linux-X64/rts-v0.0-202605160021-Linux-X64"
+        "name": "rts-v0.0-202605160510-Linux-X64",
+        "file": "rts-v0.0-202605160510-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/e72a32a/rts-v0.0-202605160510-Linux-X64/rts-v0.0-202605160510-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605160021-Windows-X64",
-        "file": "rts-v0.0-202605160021-Windows-X64.exe",
+        "name": "rts-v0.0-202605160510-Windows-X64",
+        "file": "rts-v0.0-202605160510-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/e445316/rts-v0.0-202605160021-Windows-X64/rts-v0.0-202605160021-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/e72a32a/rts-v0.0-202605160510-Windows-X64/rts-v0.0-202605160510-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605160021-macOS-ARM64",
-        "file": "rts-v0.0-202605160021-macOS-ARM64",
+        "name": "rts-v0.0-202605160510-macOS-ARM64",
+        "file": "rts-v0.0-202605160510-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/e445316/rts-v0.0-202605160021-macOS-ARM64/rts-v0.0-202605160021-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/e72a32a/rts-v0.0-202605160510-macOS-ARM64/rts-v0.0-202605160510-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "9cad50b0e9e96ac749ebb191faa64ee6a9f7e7cb",
-    "short_sha": "9cad50b",
-    "title": "fix(codegen): String(x).method nao trata receiver como array (#106)",
-    "created": "2026-05-15T23:20:34Z",
-    "run_id": "25946033980",
+    "sha": "80fe3999bcc64a19e67533e0b630ce61d5432b19",
+    "short_sha": "80fe399",
+    "title": "fix(codegen): in operator aceita I64/U64 lhs em callback (#83) (#1020)",
+    "created": "2026-05-16T04:57:01Z",
+    "run_id": "25953282832",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152320-Linux-X64",
-        "file": "rts-v0.0-202605152320-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/9cad50b/rts-v0.0-202605152320-Linux-X64/rts-v0.0-202605152320-Linux-X64"
+        "name": "rts-v0.0-202605160457-Linux-X64",
+        "file": "rts-v0.0-202605160457-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/80fe399/rts-v0.0-202605160457-Linux-X64/rts-v0.0-202605160457-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152320-Windows-X64",
-        "file": "rts-v0.0-202605152320-Windows-X64.exe",
+        "name": "rts-v0.0-202605160457-Windows-X64",
+        "file": "rts-v0.0-202605160457-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/9cad50b/rts-v0.0-202605152320-Windows-X64/rts-v0.0-202605152320-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/80fe399/rts-v0.0-202605160457-Windows-X64/rts-v0.0-202605160457-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152320-macOS-ARM64",
-        "file": "rts-v0.0-202605152320-macOS-ARM64",
+        "name": "rts-v0.0-202605160457-macOS-ARM64",
+        "file": "rts-v0.0-202605160457-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/9cad50b/rts-v0.0-202605152320-macOS-ARM64/rts-v0.0-202605152320-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/80fe399/rts-v0.0-202605160457-macOS-ARM64/rts-v0.0-202605160457-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "49c218a91c34b642d0a9429f831d3961eb3fac42",
-    "short_sha": "49c218a",
-    "title": "fix(codegen): Number(I64 ambiguo) usa NUMBER_FROM_STR em vez de fcvt …",
-    "created": "2026-05-15T23:10:37Z",
-    "run_id": "25945737910",
+    "sha": "a278cec28082be58555bc1a319cd226cb981cbb6",
+    "short_sha": "a278cec",
+    "title": "fix(codegen): new Map/Set().method() inline rotea para map_set_builti…",
+    "created": "2026-05-16T04:38:28Z",
+    "run_id": "25952938453",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152310-Linux-X64",
-        "file": "rts-v0.0-202605152310-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/49c218a/rts-v0.0-202605152310-Linux-X64/rts-v0.0-202605152310-Linux-X64"
+        "name": "rts-v0.0-202605160438-Linux-X64",
+        "file": "rts-v0.0-202605160438-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/a278cec/rts-v0.0-202605160438-Linux-X64/rts-v0.0-202605160438-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152310-Windows-X64",
-        "file": "rts-v0.0-202605152310-Windows-X64.exe",
+        "name": "rts-v0.0-202605160438-Windows-X64",
+        "file": "rts-v0.0-202605160438-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/49c218a/rts-v0.0-202605152310-Windows-X64/rts-v0.0-202605152310-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/a278cec/rts-v0.0-202605160438-Windows-X64/rts-v0.0-202605160438-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152310-macOS-ARM64",
-        "file": "rts-v0.0-202605152310-macOS-ARM64",
+        "name": "rts-v0.0-202605160438-macOS-ARM64",
+        "file": "rts-v0.0-202605160438-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/49c218a/rts-v0.0-202605152310-macOS-ARM64/rts-v0.0-202605152310-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/a278cec/rts-v0.0-202605160438-macOS-ARM64/rts-v0.0-202605160438-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "041ea331a7876dcfd682a90c8b1c50ea21d2ca20",
-    "short_sha": "041ea33",
-    "title": "fix(codegen): Number() coerce com sentinel check usa default_block (#…",
-    "created": "2026-05-15T23:06:49Z",
-    "run_id": "25945628455",
+    "sha": "3abb2469aff1405fb42f5ba77934ea246fe2b2eb",
+    "short_sha": "3abb246",
+    "title": "feat(codegen): propaga local_array_vars em chains Array methods (#808)",
+    "created": "2026-05-16T04:27:56Z",
+    "run_id": "25952734495",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152306-Linux-X64",
-        "file": "rts-v0.0-202605152306-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/041ea33/rts-v0.0-202605152306-Linux-X64/rts-v0.0-202605152306-Linux-X64"
+        "name": "rts-v0.0-202605160427-Linux-X64",
+        "file": "rts-v0.0-202605160427-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/3abb246/rts-v0.0-202605160427-Linux-X64/rts-v0.0-202605160427-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152306-Windows-X64",
-        "file": "rts-v0.0-202605152306-Windows-X64.exe",
+        "name": "rts-v0.0-202605160427-Windows-X64",
+        "file": "rts-v0.0-202605160427-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/041ea33/rts-v0.0-202605152306-Windows-X64/rts-v0.0-202605152306-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/3abb246/rts-v0.0-202605160427-Windows-X64/rts-v0.0-202605160427-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152306-macOS-ARM64",
-        "file": "rts-v0.0-202605152306-macOS-ARM64",
+        "name": "rts-v0.0-202605160427-macOS-ARM64",
+        "file": "rts-v0.0-202605160427-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/041ea33/rts-v0.0-202605152306-macOS-ARM64/rts-v0.0-202605152306-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/3abb246/rts-v0.0-202605160427-macOS-ARM64/rts-v0.0-202605160427-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "dbfa5c90fe5c2ec512744a81b0370f8da59998c6",
-    "short_sha": "dbfa5c9",
-    "title": "fix(codegen): instanceof em I64 ambiguo permite check via runtime (#278)",
-    "created": "2026-05-15T22:57:32Z",
-    "run_id": "25945346352",
+    "sha": "39893a8d33edc61c5f997a0f47e6ff4b645fa7ef",
+    "short_sha": "39893a8",
+    "title": "chore(string): remove enum MatchResult dead — usado apenas MatchResul…",
+    "created": "2026-05-16T04:03:27Z",
+    "run_id": "25952271084",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152257-Linux-X64",
-        "file": "rts-v0.0-202605152257-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/dbfa5c9/rts-v0.0-202605152257-Linux-X64/rts-v0.0-202605152257-Linux-X64"
+        "name": "rts-v0.0-202605160403-Linux-X64",
+        "file": "rts-v0.0-202605160403-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/39893a8/rts-v0.0-202605160403-Linux-X64/rts-v0.0-202605160403-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152257-Windows-X64",
-        "file": "rts-v0.0-202605152257-Windows-X64.exe",
+        "name": "rts-v0.0-202605160403-Windows-X64",
+        "file": "rts-v0.0-202605160403-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/dbfa5c9/rts-v0.0-202605152257-Windows-X64/rts-v0.0-202605152257-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/39893a8/rts-v0.0-202605160403-Windows-X64/rts-v0.0-202605160403-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152257-macOS-ARM64",
-        "file": "rts-v0.0-202605152257-macOS-ARM64",
+        "name": "rts-v0.0-202605160403-macOS-ARM64",
+        "file": "rts-v0.0-202605160403-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/dbfa5c9/rts-v0.0-202605152257-macOS-ARM64/rts-v0.0-202605152257-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/39893a8/rts-v0.0-202605160403-macOS-ARM64/rts-v0.0-202605160403-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "7001d1a025cad813d08f718ed8c28e65002f94a3",
-    "short_sha": "7001d1a",
-    "title": "refactor(error): IS_ERROR_NAMED em 2 fases evita deadlock potencial",
-    "created": "2026-05-15T22:53:10Z",
-    "run_id": "25945213732",
+    "sha": "91d0a6b1c4dcd0a7417ecb89d5bbf028992bc2ef",
+    "short_sha": "91d0a6b",
+    "title": "fix(codegen): Buffer indexing direto retorna byte (#58) (#1019)",
+    "created": "2026-05-16T03:59:34Z",
+    "run_id": "25952193340",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152253-Linux-X64",
-        "file": "rts-v0.0-202605152253-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/7001d1a/rts-v0.0-202605152253-Linux-X64/rts-v0.0-202605152253-Linux-X64"
+        "name": "rts-v0.0-202605160359-Linux-X64",
+        "file": "rts-v0.0-202605160359-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/91d0a6b/rts-v0.0-202605160359-Linux-X64/rts-v0.0-202605160359-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152253-Windows-X64",
-        "file": "rts-v0.0-202605152253-Windows-X64.exe",
+        "name": "rts-v0.0-202605160359-Windows-X64",
+        "file": "rts-v0.0-202605160359-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/7001d1a/rts-v0.0-202605152253-Windows-X64/rts-v0.0-202605152253-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/91d0a6b/rts-v0.0-202605160359-Windows-X64/rts-v0.0-202605160359-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152253-macOS-ARM64",
-        "file": "rts-v0.0-202605152253-macOS-ARM64",
+        "name": "rts-v0.0-202605160359-macOS-ARM64",
+        "file": "rts-v0.0-202605160359-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/7001d1a/rts-v0.0-202605152253-macOS-ARM64/rts-v0.0-202605152253-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/91d0a6b/rts-v0.0-202605160359-macOS-ARM64/rts-v0.0-202605160359-macOS-ARM64"
       }
     ]
   },
   {
-    "sha": "89566812ac9c6629441e5658a0c8f5c338c0b922",
-    "short_sha": "8956681",
-    "title": "fix(bigint): `Nn / Mn` literal pair faz sdiv trunc i64 (#102)",
-    "created": "2026-05-15T22:28:02Z",
-    "run_id": "25944408416",
+    "sha": "61b00aef5bf24cef96f5bb19b8c02e95b45411a8",
+    "short_sha": "61b00ae",
+    "title": "fix(codegen): String.match aceita regex em var/new (#39) (#1018)",
+    "created": "2026-05-16T03:50:41Z",
+    "run_id": "25952033448",
     "artifacts": [
       {
-        "name": "rts-v0.0-202605152228-Linux-X64",
-        "file": "rts-v0.0-202605152228-Linux-X64",
-        "size_mb": "113.1",
-        "url": "https://urubucode.github.io/rts/downloads/8956681/rts-v0.0-202605152228-Linux-X64/rts-v0.0-202605152228-Linux-X64"
+        "name": "rts-v0.0-202605160350-Linux-X64",
+        "file": "rts-v0.0-202605160350-Linux-X64",
+        "size_mb": "113.2",
+        "url": "https://urubucode.github.io/rts/downloads/61b00ae/rts-v0.0-202605160350-Linux-X64/rts-v0.0-202605160350-Linux-X64"
       },
       {
-        "name": "rts-v0.0-202605152228-Windows-X64",
-        "file": "rts-v0.0-202605152228-Windows-X64.exe",
+        "name": "rts-v0.0-202605160350-Windows-X64",
+        "file": "rts-v0.0-202605160350-Windows-X64.exe",
         "size_mb": "94.1",
-        "url": "https://urubucode.github.io/rts/downloads/8956681/rts-v0.0-202605152228-Windows-X64/rts-v0.0-202605152228-Windows-X64.exe"
+        "url": "https://urubucode.github.io/rts/downloads/61b00ae/rts-v0.0-202605160350-Windows-X64/rts-v0.0-202605160350-Windows-X64.exe"
       },
       {
-        "name": "rts-v0.0-202605152228-macOS-ARM64",
-        "file": "rts-v0.0-202605152228-macOS-ARM64",
+        "name": "rts-v0.0-202605160350-macOS-ARM64",
+        "file": "rts-v0.0-202605160350-macOS-ARM64",
         "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/8956681/rts-v0.0-202605152228-macOS-ARM64/rts-v0.0-202605152228-macOS-ARM64"
+        "url": "https://urubucode.github.io/rts/downloads/61b00ae/rts-v0.0-202605160350-macOS-ARM64/rts-v0.0-202605160350-macOS-ARM64"
       }
     ]
   }
