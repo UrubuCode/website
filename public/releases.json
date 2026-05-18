@@ -1,10 +1,10 @@
 {
-  "sha": "3245be0ae8a427a2bee4aa5beba0c3c46a84f933",
-  "short_sha": "3245be0",
-  "title": "fix(runtime+codegen): structuredClone deep + chain method calls (#97/…",
-  "created": "2026-05-16T05:37:15Z",
-  "run_id": "25954044336",
-  "linux": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-Linux-X64/rts-v0.0-202605160537-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-Windows-X64/rts-v0.0-202605160537-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/3245be0/rts-v0.0-202605160537-macOS-ARM64/rts-v0.0-202605160537-macOS-ARM64"
+  "sha": "bf6fe6f44a1ba1f04fd732d26682d04580771746",
+  "short_sha": "bf6fe6f",
+  "title": "feat(globals): implementa EventTarget + Event (#63)",
+  "created": "2026-05-18T02:24:33Z",
+  "run_id": "26010184494",
+  "linux": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-Linux-X64/rts-v0.0-202605180224-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-Windows-X64/rts-v0.0-202605180224-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-macOS-ARM64/rts-v0.0-202605180224-macOS-ARM64"
 }
