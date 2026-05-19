@@ -1,10 +1,10 @@
 {
-  "sha": "bf6fe6f44a1ba1f04fd732d26682d04580771746",
-  "short_sha": "bf6fe6f",
-  "title": "feat(globals): implementa EventTarget + Event (#63)",
-  "created": "2026-05-18T02:24:33Z",
-  "run_id": "26010184494",
-  "linux": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-Linux-X64/rts-v0.0-202605180224-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-Windows-X64/rts-v0.0-202605180224-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/bf6fe6f/rts-v0.0-202605180224-macOS-ARM64/rts-v0.0-202605180224-macOS-ARM64"
+  "sha": "fa4951342b9f3fa53e4d104490848624bb349a03",
+  "short_sha": "fa49513",
+  "title": "feat(codegen): reify namespaces globais (console, math, etc.) como id…",
+  "created": "2026-05-19T05:10:06Z",
+  "run_id": "26077567280",
+  "linux": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-Linux-X64/rts-v0.0-202605190510-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-Windows-X64/rts-v0.0-202605190510-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-macOS-ARM64/rts-v0.0-202605190510-macOS-ARM64"
 }
