@@ -1,10 +1,10 @@
 {
-  "sha": "fa4951342b9f3fa53e4d104490848624bb349a03",
-  "short_sha": "fa49513",
-  "title": "feat(codegen): reify namespaces globais (console, math, etc.) como id…",
-  "created": "2026-05-19T05:10:06Z",
-  "run_id": "26077567280",
-  "linux": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-Linux-X64/rts-v0.0-202605190510-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-Windows-X64/rts-v0.0-202605190510-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/fa49513/rts-v0.0-202605190510-macOS-ARM64/rts-v0.0-202605190510-macOS-ARM64"
+  "sha": "22cb47a511df7435e3c11821d4291d85adef09ae",
+  "short_sha": "22cb47a",
+  "title": "feat(codegen): SLICE_AUTO + INCLUDES_AUTO + VEC_INCLUDES string-compare",
+  "created": "2026-05-19T13:15:22Z",
+  "run_id": "26099607975",
+  "linux": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-Linux-X64/rts-v0.0-202605191315-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-Windows-X64/rts-v0.0-202605191315-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-macOS-ARM64/rts-v0.0-202605191315-macOS-ARM64"
 }

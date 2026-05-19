@@ -1,6 +1,78 @@
 {
-  "total": 1352,
+  "total": 1361,
   "commits": [
+    {
+      "sha": "02c75ecb7d48ee6afdae24dc7427b109ac65a40e",
+      "short": "02c75ec",
+      "message": "docs: auto-update cross-runtime parity badge (79.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-19T13:17:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/02c75ecb7d48ee6afdae24dc7427b109ac65a40e"
+    },
+    {
+      "sha": "22cb47a511df7435e3c11821d4291d85adef09ae",
+      "short": "22cb47a",
+      "message": "feat(codegen): SLICE_AUTO + INCLUDES_AUTO + VEC_INCLUDES string-compare",
+      "author": "Marcos",
+      "date": "2026-05-19T13:15:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22cb47a511df7435e3c11821d4291d85adef09ae"
+    },
+    {
+      "sha": "6022986234422d3edf3c7e063d1f660c5a6a4974",
+      "short": "6022986",
+      "message": "docs: auto-update cross-runtime parity badge (79.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-19T12:59:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6022986234422d3edf3c7e063d1f660c5a6a4974"
+    },
+    {
+      "sha": "90cd4f467a938bf5d26fde4511892c5c1a16fd61",
+      "short": "90cd4f4",
+      "message": "fix(codegen): arr.concat(x) em captured Vec usa CONCAT_AUTO",
+      "author": "Marcos",
+      "date": "2026-05-19T12:57:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90cd4f467a938bf5d26fde4511892c5c1a16fd61"
+    },
+    {
+      "sha": "54e35862315ed932d240473b01b425b04abfb446",
+      "short": "54e3586",
+      "message": "docs: auto-update cross-runtime parity badge (79.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-19T12:42:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54e35862315ed932d240473b01b425b04abfb446"
+    },
+    {
+      "sha": "063dfb36f3fc60d8fe84db2bddd3eafc5a984a02",
+      "short": "063dfb3",
+      "message": "fix(codegen): array literal handle marcado como GC stack root",
+      "author": "Marcos",
+      "date": "2026-05-19T12:40:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/063dfb36f3fc60d8fe84db2bddd3eafc5a984a02"
+    },
+    {
+      "sha": "06c1ebed1c2810bb0027fa3fbdb7ac47f967cbe7",
+      "short": "06c1ebe",
+      "message": "docs: auto-update cross-runtime parity badge (79%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-19T12:10:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06c1ebed1c2810bb0027fa3fbdb7ac47f967cbe7"
+    },
+    {
+      "sha": "bae16981e38333e6a86651176820132e5df9702e",
+      "short": "bae1698",
+      "message": "fix(codegen): typeof em ValTy::U64 dispatcha runtime helper",
+      "author": "Marcos",
+      "date": "2026-05-19T12:08:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bae16981e38333e6a86651176820132e5df9702e"
+    },
+    {
+      "sha": "7528d05ca2dc6fb76f9e781059126145090fe54a",
+      "short": "7528d05",
+      "message": "fix(codegen): new.target marca result como var_member_call_values",
+      "author": "Marcos",
+      "date": "2026-05-19T12:06:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7528d05ca2dc6fb76f9e781059126145090fe54a"
+    },
     {
       "sha": "da8f8a166ea421fd5a9eafc8afce2eeaa38eef30",
       "short": "da8f8a1",
@@ -88,78 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-05-19T03:39:50Z",
       "url": "https://github.com/UrubuCode/rts/commit/edf87476ac2cc64d3f59e533b7b499962cfd7aa1"
-    },
-    {
-      "sha": "163b712c851f901233d9c92c4f537242d01d2649",
-      "short": "163b712",
-      "message": "fix(codegen): arr[i]=0 via Vec slot nao vira null em concat/template",
-      "author": "Marcos",
-      "date": "2026-05-19T03:37:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/163b712c851f901233d9c92c4f537242d01d2649"
-    },
-    {
-      "sha": "fb5b877236d261bc79bc66393c8affe317299723",
-      "short": "fb5b877",
-      "message": "docs: auto-update cross-runtime parity badge (78.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-19T03:07:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb5b877236d261bc79bc66393c8affe317299723"
-    },
-    {
-      "sha": "990c3346ccc7c77196ad6f812a8cd6df64b60848",
-      "short": "990c334",
-      "message": "feat(string): matchAll(regex) retorna Map com index/input/groups por match",
-      "author": "Marcos",
-      "date": "2026-05-19T03:04:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/990c3346ccc7c77196ad6f812a8cd6df64b60848"
-    },
-    {
-      "sha": "299876ac5aa357163adbdabe5e40e739077b6469",
-      "short": "299876a",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-19T02:58:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/299876ac5aa357163adbdabe5e40e739077b6469"
-    },
-    {
-      "sha": "d4822130f048c82118b3c31e73c9ca7710773b98",
-      "short": "d482213",
-      "message": "feat(regexp): exec result include indices quando flag 'd' setada",
-      "author": "Marcos",
-      "date": "2026-05-19T02:56:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4822130f048c82118b3c31e73c9ca7710773b98"
-    },
-    {
-      "sha": "a6f8e9b1af3b47af15c85d11ed1fe07c2cdcb28f",
-      "short": "a6f8e9b",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-19T02:49:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a6f8e9b1af3b47af15c85d11ed1fe07c2cdcb28f"
-    },
-    {
-      "sha": "09f82275e162a69f37e918b0a2693251f248b2f0",
-      "short": "09f8227",
-      "message": "feat(codegen): hoist nested function declarations para Item::Function",
-      "author": "Marcos",
-      "date": "2026-05-19T02:47:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09f82275e162a69f37e918b0a2693251f248b2f0"
-    },
-    {
-      "sha": "245e208d52be9332c6b1af1a22604315d4463cb4",
-      "short": "245e208",
-      "message": "docs: cross-runtime parity 77.7% + history snapshot 2026-05-18",
-      "author": "github-actions[bot]",
-      "date": "2026-05-18T06:59:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/245e208d52be9332c6b1af1a22604315d4463cb4"
-    },
-    {
-      "sha": "527b8c6b701c63d4a7eb399b55e525426c1e722c",
-      "short": "527b8c6",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-18T04:08:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/527b8c6b701c63d4a7eb399b55e525426c1e722c"
     }
   ]
 }
