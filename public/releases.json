@@ -1,10 +1,10 @@
 {
-  "sha": "22cb47a511df7435e3c11821d4291d85adef09ae",
-  "short_sha": "22cb47a",
-  "title": "feat(codegen): SLICE_AUTO + INCLUDES_AUTO + VEC_INCLUDES string-compare",
-  "created": "2026-05-19T13:15:22Z",
-  "run_id": "26099607975",
-  "linux": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-Linux-X64/rts-v0.0-202605191315-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-Windows-X64/rts-v0.0-202605191315-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/22cb47a/rts-v0.0-202605191315-macOS-ARM64/rts-v0.0-202605191315-macOS-ARM64"
+  "sha": "b295d879c5eb2f27716bef7d5e7a5e2c5a30d427",
+  "short_sha": "b295d87",
+  "title": "feat(static): static blocks + static private fields suportados (#269)…",
+  "created": "2026-05-22T19:08:32Z",
+  "run_id": "26306884275",
+  "linux": "https://urubucode.github.io/rts/downloads/b295d87/rts-v0.0-202605221908-Linux-X64/rts-v0.0-202605221908-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/b295d87/rts-v0.0-202605221908-Windows-X64/rts-v0.0-202605221908-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/b295d87/rts-v0.0-202605221908-macOS-ARM64/rts-v0.0-202605221908-macOS-ARM64"
 }
