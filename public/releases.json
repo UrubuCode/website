@@ -1,10 +1,10 @@
 {
-  "sha": "94448f69700e9a0099929a56acf0874f1c6d4e06",
-  "short_sha": "94448f6",
-  "title": "Merge pull request #1115 from UrubuCode/fix/1051-f64-setter-path",
-  "created": "2026-05-23T02:02:20Z",
-  "run_id": "26320538524",
-  "linux": "https://urubucode.github.io/rts/downloads/94448f6/rts-v0.0-202605230202-Linux-X64/rts-v0.0-202605230202-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/94448f6/rts-v0.0-202605230202-Windows-X64/rts-v0.0-202605230202-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/94448f6/rts-v0.0-202605230202-macOS-ARM64/rts-v0.0-202605230202-macOS-ARM64"
+  "sha": "63c07d0d6ac8c772529c546edbb4b1a0c8e54e72",
+  "short_sha": "63c07d0",
+  "title": "Merge pull request #1143 from UrubuCode/fix/1125-globalthis-write-in",
+  "created": "2026-05-23T07:36:20Z",
+  "run_id": "26327101774",
+  "linux": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-Linux-X64/rts-v0.0-202605230736-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-Windows-X64/rts-v0.0-202605230736-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-macOS-ARM64/rts-v0.0-202605230736-macOS-ARM64"
 }
