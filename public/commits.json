@@ -1,165 +1,165 @@
 {
-  "total": 1554,
+  "total": 1577,
   "commits": [
     {
-      "sha": "69ff6b08436652ff2501026249a5d5441901b55d",
-      "short": "69ff6b0",
-      "message": "Merge pull request #1146 from UrubuCode/feat/1067-spread-in-indirect-call",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T08:05:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/69ff6b08436652ff2501026249a5d5441901b55d"
-    },
-    {
-      "sha": "c88cd073b62762ed7d9bd1fc906fa79134371780",
-      "short": "c88cd07",
-      "message": "feat(codegen+runtime): spread (...args) em indirect/handle Function calls (#1067)",
-      "author": "Marcos",
-      "date": "2026-05-23T08:05:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c88cd073b62762ed7d9bd1fc906fa79134371780"
-    },
-    {
-      "sha": "030dd978630ebeff992c87628dedd9533d3cd63b",
-      "short": "030dd97",
-      "message": "docs: auto-update cross-runtime parity badge (77.1%)",
+      "sha": "a78d92f328bb4c0acc2e413c0c32b545e28532e8",
+      "short": "a78d92f",
+      "message": "docs: auto-update cross-runtime parity badge (78.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-23T08:01:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/030dd978630ebeff992c87628dedd9533d3cd63b"
+      "date": "2026-05-23T12:51:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a78d92f328bb4c0acc2e413c0c32b545e28532e8"
     },
     {
-      "sha": "6adb04f71c22876676388b212e3379f80bb7fa91",
-      "short": "6adb04f",
-      "message": "Merge pull request #1145 from UrubuCode/feat/1067-computed-member-call",
+      "sha": "20d6b40a61e474910227a8207b3435c32cfa0ae0",
+      "short": "20d6b40",
+      "message": "feat(array): Array.fromAsync parcial — sync iter de promises (refs #861) (#1158)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T07:59:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6adb04f71c22876676388b212e3379f80bb7fa91"
+      "date": "2026-05-23T12:49:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/20d6b40a61e474910227a8207b3435c32cfa0ae0"
     },
     {
-      "sha": "09fbb6f94dc5bae06da5778a7efefd9190c41263",
-      "short": "09fbb6f",
-      "message": "feat(codegen): obj[k](args) computed member call via indirect (parcial #1067)",
+      "sha": "8dfe5148a8fe9d405c306192699b62f0444d0c54",
+      "short": "8dfe514",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T12:31:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8dfe5148a8fe9d405c306192699b62f0444d0c54"
+    },
+    {
+      "sha": "d41a756175a3b88870d1950b7dbfb118e632eb58",
+      "short": "d41a756",
+      "message": "fix(codegen): optchain em arrow inline `.map()` agora lifta (fecha #860) (#1157)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T12:29:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d41a756175a3b88870d1950b7dbfb118e632eb58"
+    },
+    {
+      "sha": "a0f5cebf7a9bb3381b42b5dc1a75510ff6aa42f9",
+      "short": "a0f5ceb",
+      "message": "fix(json): reviver `this` binding e typeof em params hoisted (fecha #862) (#1156)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T12:16:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a0f5cebf7a9bb3381b42b5dc1a75510ff6aa42f9"
+    },
+    {
+      "sha": "62baed8d233fa8e7d191d867d3dc0bf57db3f6dd",
+      "short": "62baed8",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T09:53:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62baed8d233fa8e7d191d867d3dc0bf57db3f6dd"
+    },
+    {
+      "sha": "df585456ec461f1c33cbdae9a9d3de5c9b6c3f80",
+      "short": "df58545",
+      "message": "Merge pull request #1155 from UrubuCode/feat/1052-string-array-constant-propagation",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T09:51:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df585456ec461f1c33cbdae9a9d3de5c9b6c3f80"
+    },
+    {
+      "sha": "0b255af9c24def6602aa25ef3efbd5fb409899df",
+      "short": "0b255af",
+      "message": "feat(codegen): constant propagation de string-array `k[N]` + array prop access (fecha #1052)",
       "author": "Marcos",
-      "date": "2026-05-23T07:58:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09fbb6f94dc5bae06da5778a7efefd9190c41263"
+      "date": "2026-05-23T09:51:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b255af9c24def6602aa25ef3efbd5fb409899df"
     },
     {
-      "sha": "89eebbfdabca93d87f1717a0e0868c2c0e24ad84",
-      "short": "89eebbf",
+      "sha": "30ad8222457e6aead5848cb3e885ca6583ab87bf",
+      "short": "30ad822",
+      "message": "docs: auto-update cross-runtime parity badge (77.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T09:38:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30ad8222457e6aead5848cb3e885ca6583ab87bf"
+    },
+    {
+      "sha": "9c38a54167a83936b1b4ccc4e30d23f83630d8aa",
+      "short": "9c38a54",
+      "message": "Merge pull request #1154 from UrubuCode/feat/1052-arr-method-literal-key",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T09:36:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c38a54167a83936b1b4ccc4e30d23f83630d8aa"
+    },
+    {
+      "sha": "1eb3b7b9a10b9b8731abf8a8bc25946a083b581b",
+      "short": "1eb3b7b",
+      "message": "feat(codegen): arr[\"method\"](args) literal key reescreve para arr.method(args) (parcial #1052)",
+      "author": "Marcos",
+      "date": "2026-05-23T09:36:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1eb3b7b9a10b9b8731abf8a8bc25946a083b581b"
+    },
+    {
+      "sha": "9acd10fa4648ec6b8a1dffbff82634f766ba0e16",
+      "short": "9acd10f",
+      "message": "docs: auto-update cross-runtime parity badge (77.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T09:27:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9acd10fa4648ec6b8a1dffbff82634f766ba0e16"
+    },
+    {
+      "sha": "8b9668621089c39b5195ee5c6b5470fec2d411ab",
+      "short": "8b96686",
+      "message": "Merge pull request #1153 from UrubuCode/fix/1067-invoke-auto-marks-handle",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T09:24:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b9668621089c39b5195ee5c6b5470fec2d411ab"
+    },
+    {
+      "sha": "6c7633a6a2e21d2aaae90290f181a80299529a51",
+      "short": "6c7633a",
+      "message": "fix(codegen): INVOKE_AUTO retorno marcado como var_member_call_value (fecha #1067)",
+      "author": "Marcos",
+      "date": "2026-05-23T09:24:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c7633a6a2e21d2aaae90290f181a80299529a51"
+    },
+    {
+      "sha": "004762cbd09619d7f5d8fede39f776f578fe6b6b",
+      "short": "004762c",
+      "message": "Merge pull request #1152 from UrubuCode/feat/1064-array-prototype-call-rewrite",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T09:20:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/004762cbd09619d7f5d8fede39f776f578fe6b6b"
+    },
+    {
+      "sha": "bbeb45674f0af9d7251eaf3dd48486d09e08d99b",
+      "short": "bbeb456",
+      "message": "feat(codegen): Array.prototype.<m>.call(obj, ...args) rewrite + slice() arg opcional (parcial #1064)",
+      "author": "Marcos",
+      "date": "2026-05-23T09:20:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bbeb45674f0af9d7251eaf3dd48486d09e08d99b"
+    },
+    {
+      "sha": "850f718c4d607e62f84f59598bdd489fbf253e98",
+      "short": "850f718",
       "message": "docs: auto-update cross-runtime parity badge (76.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-23T07:38:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89eebbfdabca93d87f1717a0e0868c2c0e24ad84"
+      "date": "2026-05-23T08:37:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/850f718c4d607e62f84f59598bdd489fbf253e98"
     },
     {
-      "sha": "63c07d0d6ac8c772529c546edbb4b1a0c8e54e72",
-      "short": "63c07d0",
-      "message": "Merge pull request #1143 from UrubuCode/fix/1125-globalthis-write-in",
+      "sha": "d1b03564e8c9ad253fa879652d88914ac9c94882",
+      "short": "d1b0356",
+      "message": "Merge pull request #1148 from UrubuCode/fix/1055-infer-bool-from-logical-ops",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T07:36:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63c07d0d6ac8c772529c546edbb4b1a0c8e54e72"
+      "date": "2026-05-23T08:35:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1b03564e8c9ad253fa879652d88914ac9c94882"
     },
     {
-      "sha": "f9b69587fb0f55afb2d54f988c9085a5b309469e",
-      "short": "f9b6958",
-      "message": "feat(codegen): globalThis[k] write/read/in operator via Map singleton (parcial #1125)",
+      "sha": "4d77e3ab10be1aafbd5c7c782d3f020fd3c89b7c",
+      "short": "4d77e3a",
+      "message": "fix(codegen): inferencia de Bool ret via &&/||/?: recursivo (fecha #1055)",
       "author": "Marcos",
-      "date": "2026-05-23T07:35:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9b69587fb0f55afb2d54f988c9085a5b309469e"
+      "date": "2026-05-23T08:34:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d77e3ab10be1aafbd5c7c782d3f020fd3c89b7c"
     },
     {
-      "sha": "d8bb223530a7aeba82257d659158753aa71af1ea",
-      "short": "d8bb223",
-      "message": "docs: auto-update cross-runtime parity badge (76.9%)",
+      "sha": "0f48814d7a27d057682cf38f3a9d601372dfb07c",
+      "short": "0f48814",
+      "message": "docs: auto-update cross-runtime parity badge (76.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-23T07:19:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8bb223530a7aeba82257d659158753aa71af1ea"
-    },
-    {
-      "sha": "9af7ed0ad17f7e8bc581126307ae32df962b9bb1",
-      "short": "9af7ed0",
-      "message": "Merge pull request #1142 from UrubuCode/fix/1057-super-init-inherited-params",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T07:16:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9af7ed0ad17f7e8bc581126307ae32df962b9bb1"
-    },
-    {
-      "sha": "6c8434f13510139f120c3db9dfa369f275897bca",
-      "short": "6c8434f",
-      "message": "fix(codegen): subclasse sem ctor propaga params herdados (parcial #1057)",
-      "author": "Marcos",
-      "date": "2026-05-23T07:16:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c8434f13510139f120c3db9dfa369f275897bca"
-    },
-    {
-      "sha": "325ade239303ad03f9736a953cdf8029188dca52",
-      "short": "325ade2",
-      "message": "docs: auto-update cross-runtime parity badge (77.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T06:50:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/325ade239303ad03f9736a953cdf8029188dca52"
-    },
-    {
-      "sha": "e102d8c4b3d608af64f4eb89c97eb9ccf1742b9f",
-      "short": "e102d8c",
-      "message": "Merge pull request #1140 from UrubuCode/fix/1127-reflect-construct-user-class",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T06:48:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e102d8c4b3d608af64f4eb89c97eb9ccf1742b9f"
-    },
-    {
-      "sha": "8618867e48de1b2c9a88b8e362dc07f998fd2fe5",
-      "short": "8618867",
-      "message": "fix(codegen): Reflect.construct(UserClass, args) usa path new (#1127 + #1072)",
-      "author": "Marcos",
-      "date": "2026-05-23T06:47:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8618867e48de1b2c9a88b8e362dc07f998fd2fe5"
-    },
-    {
-      "sha": "4fb463432b7d6205084ef8dc4d9dafe9918cd56a",
-      "short": "4fb4634",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T06:39:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4fb463432b7d6205084ef8dc4d9dafe9918cd56a"
-    },
-    {
-      "sha": "377ebbb89ff6247645feba8525b6ad2780117b10",
-      "short": "377ebbb",
-      "message": "Merge pull request #1139 from UrubuCode/fix/1048-class-static-getter-member-access",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T06:37:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/377ebbb89ff6247645feba8525b6ad2780117b10"
-    },
-    {
-      "sha": "379c77d069033b102237d0d82ff4798707425472",
-      "short": "379c77d",
-      "message": "fix(codegen): Class.staticGetter sem call retorna valor (parcial #1048)",
-      "author": "Marcos",
-      "date": "2026-05-23T06:36:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/379c77d069033b102237d0d82ff4798707425472"
-    },
-    {
-      "sha": "25aef10bd6521d5e1249c173b4d16c62b3e02de9",
-      "short": "25aef10",
-      "message": "docs: auto-update cross-runtime parity badge (76.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T06:30:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/25aef10bd6521d5e1249c173b4d16c62b3e02de9"
-    },
-    {
-      "sha": "be6eb6a04b2ef487d4471c6c01099e275c897c92",
-      "short": "be6eb6a",
-      "message": "Merge pull request #1138 from UrubuCode/fix/1137-coerce-fn-as-callback",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T06:27:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be6eb6a04b2ef487d4471c6c01099e275c897c92"
-    },
-    {
-      "sha": "5bf4a0ce349e3d55d04c4379d06eb060613c5870",
-      "short": "5bf4a0c",
-      "message": "fix(codegen): Boolean/Number/String como callback em array methods (#1137)",
-      "author": "Marcos",
-      "date": "2026-05-23T06:27:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5bf4a0ce349e3d55d04c4379d06eb060613c5870"
+      "date": "2026-05-23T08:27:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0f48814d7a27d057682cf38f3a9d601372dfb07c"
     }
   ]
 }

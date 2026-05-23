@@ -1,10 +1,10 @@
 {
-  "sha": "63c07d0d6ac8c772529c546edbb4b1a0c8e54e72",
-  "short_sha": "63c07d0",
-  "title": "Merge pull request #1143 from UrubuCode/fix/1125-globalthis-write-in",
-  "created": "2026-05-23T07:36:20Z",
-  "run_id": "26327101774",
-  "linux": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-Linux-X64/rts-v0.0-202605230736-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-Windows-X64/rts-v0.0-202605230736-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/63c07d0/rts-v0.0-202605230736-macOS-ARM64/rts-v0.0-202605230736-macOS-ARM64"
+  "sha": "20d6b40a61e474910227a8207b3435c32cfa0ae0",
+  "short_sha": "20d6b40",
+  "title": "feat(array): Array.fromAsync parcial — sync iter de promises (refs #8…",
+  "created": "2026-05-23T12:49:15Z",
+  "run_id": "26333130622",
+  "linux": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-Linux-X64/rts-v0.0-202605231249-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-Windows-X64/rts-v0.0-202605231249-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-macOS-ARM64/rts-v0.0-202605231249-macOS-ARM64"
 }
