@@ -1,10 +1,10 @@
 {
-  "sha": "20d6b40a61e474910227a8207b3435c32cfa0ae0",
-  "short_sha": "20d6b40",
-  "title": "feat(array): Array.fromAsync parcial — sync iter de promises (refs #8…",
-  "created": "2026-05-23T12:49:15Z",
-  "run_id": "26333130622",
-  "linux": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-Linux-X64/rts-v0.0-202605231249-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-Windows-X64/rts-v0.0-202605231249-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/20d6b40/rts-v0.0-202605231249-macOS-ARM64/rts-v0.0-202605231249-macOS-ARM64"
+  "sha": "1b366165fb3b19dfc96ace93cb0d6dcd524516d2",
+  "short_sha": "1b36616",
+  "title": "fix(codegen): preserva precisao f64 em this.field = c + LIT_FLOAT (fe…",
+  "created": "2026-05-23T18:33:44Z",
+  "run_id": "26340392570",
+  "linux": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-Linux-X64/rts-v0.0-202605231833-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-Windows-X64/rts-v0.0-202605231833-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-macOS-ARM64/rts-v0.0-202605231833-macOS-ARM64"
 }
