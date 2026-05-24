@@ -1,10 +1,10 @@
 {
-  "sha": "40318f567fff8278a3e495957e3eae4ea708e799",
-  "short_sha": "40318f5",
-  "title": "fix(json): JSON.parse preserva ordem de insercao (preserve_order feat…",
-  "created": "2026-05-24T12:51:45Z",
-  "run_id": "26361755544",
-  "linux": "https://urubucode.github.io/rts/downloads/40318f5/rts-v0.0-202605241251-Linux-X64/rts-v0.0-202605241251-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/40318f5/rts-v0.0-202605241251-Windows-X64/rts-v0.0-202605241251-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/40318f5/rts-v0.0-202605241251-macOS-ARM64/rts-v0.0-202605241251-macOS-ARM64"
+  "sha": "5fb1f2304091a17fe10e4d13c96f3b34f000daa4",
+  "short_sha": "5fb1f23",
+  "title": "feat(inspect): Map(N)/Set(N) tag em inspect_handle (Node/Bun-compat) …",
+  "created": "2026-05-24T13:40:57Z",
+  "run_id": "26362844841",
+  "linux": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-Linux-X64/rts-v0.0-202605241341-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-Windows-X64/rts-v0.0-202605241341-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-macOS-ARM64/rts-v0.0-202605241341-macOS-ARM64"
 }
