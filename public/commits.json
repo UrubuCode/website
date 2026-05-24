@@ -1,6 +1,70 @@
 {
-  "total": 1628,
+  "total": 1636,
   "commits": [
+    {
+      "sha": "2e46c7aa433e7cba69d7e706f6a0e612fb8184c2",
+      "short": "2e46c7a",
+      "message": "docs: auto-update cross-runtime parity badge (80.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T19:51:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e46c7aa433e7cba69d7e706f6a0e612fb8184c2"
+    },
+    {
+      "sha": "ab05caf200ccf2e210d95dc83649dafa3bc742f5",
+      "short": "ab05caf",
+      "message": "fix(codegen): unary `+` implementa ToNumber para handle/sentinels (#1190)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T19:48:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab05caf200ccf2e210d95dc83649dafa3bc742f5"
+    },
+    {
+      "sha": "27853bdc1a676fe8a7c4ab667f1de98f22ef91e4",
+      "short": "27853bd",
+      "message": "docs: auto-update cross-runtime parity badge (80.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T19:40:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27853bdc1a676fe8a7c4ab667f1de98f22ef91e4"
+    },
+    {
+      "sha": "c78ef34a8d592f79780c68d2cfc29742103652f7",
+      "short": "c78ef34",
+      "message": "fix(runtime): Boolean(x) trata sentinels JS null/undefined/false + empty string (#1189)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T19:37:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c78ef34a8d592f79780c68d2cfc29742103652f7"
+    },
+    {
+      "sha": "ae9560669ca9598c4f498400cdd640a62feeb9df",
+      "short": "ae95606",
+      "message": "docs: auto-update cross-runtime parity badge (80.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T19:19:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae9560669ca9598c4f498400cdd640a62feeb9df"
+    },
+    {
+      "sha": "124ebb32066b0a95bcf6e7d08c57ec0d0f1fe7a4",
+      "short": "124ebb3",
+      "message": "fix(runtime): Object.create descriptors respeita enumerable:false (#1188)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T19:17:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/124ebb32066b0a95bcf6e7d08c57ec0d0f1fe7a4"
+    },
+    {
+      "sha": "1baacb04ef443b3298b1824e9b2bea08135f2243",
+      "short": "1baacb0",
+      "message": "docs: auto-update cross-runtime parity badge (80.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-23T19:12:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1baacb04ef443b3298b1824e9b2bea08135f2243"
+    },
+    {
+      "sha": "5cad2fe72efdf059fb07fea716a21305b9f67f1c",
+      "short": "5cad2fe",
+      "message": "fix(parser): arrow `() => String(x)` infere return type string (#1187)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-23T19:10:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5cad2fe72efdf059fb07fea716a21305b9f67f1c"
+    },
     {
       "sha": "121c0af6049667b5e2a939cc3bfc4f985c9800e2",
       "short": "121c0af",
@@ -96,70 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-23T17:35:35Z",
       "url": "https://github.com/UrubuCode/rts/commit/683edd388b641fcd7de8862a4a7064589a3bc55c"
-    },
-    {
-      "sha": "41bdfd60fa82f4d43c2f44e5a973d8deef997575",
-      "short": "41bdfd6",
-      "message": "docs: auto-update cross-runtime parity badge (80.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T17:31:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/41bdfd60fa82f4d43c2f44e5a973d8deef997575"
-    },
-    {
-      "sha": "a4704585fb95c573fc7a00ae08e35cba493f13f0",
-      "short": "a470458",
-      "message": "fix(codegen): BigInt === Number sempre false (fecha #317) (#1179)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T17:29:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4704585fb95c573fc7a00ae08e35cba493f13f0"
-    },
-    {
-      "sha": "121ad629b63a0c98b4c381ae0db344d4983c9d89",
-      "short": "121ad62",
-      "message": "docs: auto-update cross-runtime parity badge (80.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T17:25:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/121ad629b63a0c98b4c381ae0db344d4983c9d89"
-    },
-    {
-      "sha": "d274b331161b5117c158203faa63c3c9927844e9",
-      "short": "d274b33",
-      "message": "fix(concat): TPL_COERCE_NUM_BIAS em ambig I64 — value=0 vira \"0\" (fecha #41 parcial) (#1178)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T17:23:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d274b331161b5117c158203faa63c3c9927844e9"
-    },
-    {
-      "sha": "dd503f7bfdfe665f8f3ac3f12584166414890c45",
-      "short": "dd503f7",
-      "message": "docs: auto-update cross-runtime parity badge (80.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T17:05:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dd503f7bfdfe665f8f3ac3f12584166414890c45"
-    },
-    {
-      "sha": "741e957d1e83b49bd129e1559d512999000259f2",
-      "short": "741e957",
-      "message": "feat(codegen): user fn aceita args extras (ignora silenciosamente) (#1177)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T17:02:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/741e957d1e83b49bd129e1559d512999000259f2"
-    },
-    {
-      "sha": "cb2bef4125acb2bd15641be6a368e3db5b87265b",
-      "short": "cb2bef4",
-      "message": "docs: auto-update cross-runtime parity badge (80.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-23T16:58:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb2bef4125acb2bd15641be6a368e3db5b87265b"
-    },
-    {
-      "sha": "066c6177ef257e7ecb277d769518035ad6d7f303",
-      "short": "066c617",
-      "message": "fix(codegen): loose `==` com Array literal aplica ToPrimitive (fecha #51) (#1176)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-23T16:55:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/066c6177ef257e7ecb277d769518035ad6d7f303"
     }
   ]
 }

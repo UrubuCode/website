@@ -1,10 +1,10 @@
 {
-  "sha": "1b366165fb3b19dfc96ace93cb0d6dcd524516d2",
-  "short_sha": "1b36616",
-  "title": "fix(codegen): preserva precisao f64 em this.field = c + LIT_FLOAT (fe…",
-  "created": "2026-05-23T18:33:44Z",
-  "run_id": "26340392570",
-  "linux": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-Linux-X64/rts-v0.0-202605231833-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-Windows-X64/rts-v0.0-202605231833-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/1b36616/rts-v0.0-202605231833-macOS-ARM64/rts-v0.0-202605231833-macOS-ARM64"
+  "sha": "c78ef34a8d592f79780c68d2cfc29742103652f7",
+  "short_sha": "c78ef34",
+  "title": "fix(runtime): Boolean(x) trata sentinels JS null/undefined/false + em…",
+  "created": "2026-05-23T19:37:53Z",
+  "run_id": "26341712972",
+  "linux": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-Linux-X64/rts-v0.0-202605231937-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-Windows-X64/rts-v0.0-202605231937-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-macOS-ARM64/rts-v0.0-202605231937-macOS-ARM64"
 }
