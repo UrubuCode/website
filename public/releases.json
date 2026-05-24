@@ -1,10 +1,10 @@
 {
-  "sha": "c78ef34a8d592f79780c68d2cfc29742103652f7",
-  "short_sha": "c78ef34",
-  "title": "fix(runtime): Boolean(x) trata sentinels JS null/undefined/false + em…",
-  "created": "2026-05-23T19:37:53Z",
-  "run_id": "26341712972",
-  "linux": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-Linux-X64/rts-v0.0-202605231937-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-Windows-X64/rts-v0.0-202605231937-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/c78ef34/rts-v0.0-202605231937-macOS-ARM64/rts-v0.0-202605231937-macOS-ARM64"
+  "sha": "374c44876b800d17e139c044cf40eeaf89873e9e",
+  "short_sha": "374c448",
+  "title": "chore: limpa warnings do workspace — zero warnings agora (#1195)",
+  "created": "2026-05-24T08:02:15Z",
+  "run_id": "26355833347",
+  "linux": "https://urubucode.github.io/rts/downloads/374c448/rts-v0.0-202605240802-Linux-X64/rts-v0.0-202605240802-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/374c448/rts-v0.0-202605240802-Windows-X64/rts-v0.0-202605240802-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/374c448/rts-v0.0-202605240802-macOS-ARM64/rts-v0.0-202605240802-macOS-ARM64"
 }
