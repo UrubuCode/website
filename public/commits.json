@@ -1,6 +1,54 @@
 {
-  "total": 1687,
+  "total": 1693,
   "commits": [
+    {
+      "sha": "939ec1812fd2903cfc2a41aa5df383011a9787a1",
+      "short": "939ec18",
+      "message": "docs: auto-update cross-runtime parity badge (81.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-26T17:01:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/939ec1812fd2903cfc2a41aa5df383011a9787a1"
+    },
+    {
+      "sha": "00e2956caba22ba44e96c4848c5728d5d6fbc20b",
+      "short": "00e2956",
+      "message": "feat(codegen): captura de variaveis livres por valor em arrows (#195 parcial) (#1221)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-26T16:58:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00e2956caba22ba44e96c4848c5728d5d6fbc20b"
+    },
+    {
+      "sha": "95e084eb3e81cd8637175ba8f81a7ddb6b69162a",
+      "short": "95e084e",
+      "message": "docs: auto-update cross-runtime parity badge (81.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-26T16:01:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/95e084eb3e81cd8637175ba8f81a7ddb6b69162a"
+    },
+    {
+      "sha": "33067f8bdc5614132a0a0fc287cc636b4031728f",
+      "short": "33067f8",
+      "message": "fix(codegen): arrow liftada preserva seus proprios parametros (#195 parcial) (#1220)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-26T15:57:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33067f8bdc5614132a0a0fc287cc636b4031728f"
+    },
+    {
+      "sha": "7c7d14731a91e01d346bc1925a62cba641412339",
+      "short": "7c7d147",
+      "message": "docs: auto-update cross-runtime parity badge (81.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-26T15:34:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7c7d14731a91e01d346bc1925a62cba641412339"
+    },
+    {
+      "sha": "4ef9020dbd32fafc4c4b69dcd036e4fffc170c1b",
+      "short": "4ef9020",
+      "message": "fix(codegen): private static Map + new Map(tuplas) sem crash (#1056 parcial) (#1219)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-26T15:31:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4ef9020dbd32fafc4c4b69dcd036e4fffc170c1b"
+    },
     {
       "sha": "49a0fb78c4e62629b6ecdad40b126066335beb7a",
       "short": "49a0fb7",
@@ -112,54 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-24T13:01:51Z",
       "url": "https://github.com/UrubuCode/rts/commit/b6997b9bccb0d2b2bb5ce08b305a881d8d3edce4"
-    },
-    {
-      "sha": "a4f65626c2fb0e2f718332bef5ac306124033e9e",
-      "short": "a4f6562",
-      "message": "docs: auto-update cross-runtime parity badge (81.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-24T12:54:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4f65626c2fb0e2f718332bef5ac306124033e9e"
-    },
-    {
-      "sha": "40318f567fff8278a3e495957e3eae4ea708e799",
-      "short": "40318f5",
-      "message": "fix(json): JSON.parse preserva ordem de insercao (preserve_order feature) (#1210)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-24T12:51:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40318f567fff8278a3e495957e3eae4ea708e799"
-    },
-    {
-      "sha": "7af680c45af699db8394dd7a5e19567d437ac671",
-      "short": "7af680c",
-      "message": "docs: auto-update cross-runtime parity badge (81.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-24T12:38:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7af680c45af699db8394dd7a5e19567d437ac671"
-    },
-    {
-      "sha": "f982411de2da51678382ac5ba3a5b6870cf73870",
-      "short": "f982411",
-      "message": "style(inspect): aspas duplas em inspect de strings (Bun-compat) (#1209)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-24T12:36:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f982411de2da51678382ac5ba3a5b6870cf73870"
-    },
-    {
-      "sha": "d46bdc948b8218e54d0b6e6c0b00025902a99934",
-      "short": "d46bdc9",
-      "message": "docs: auto-update cross-runtime parity badge (81.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-24T12:09:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d46bdc948b8218e54d0b6e6c0b00025902a99934"
-    },
-    {
-      "sha": "e6d2fa0db12191c6549d7118eedc2d12f5b3312d",
-      "short": "e6d2fa0",
-      "message": "test(edge_json5): valida nested bool em JSON.parse com toBe real (#1208)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-24T12:06:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6d2fa0db12191c6549d7118eedc2d12f5b3312d"
     }
   ]
 }

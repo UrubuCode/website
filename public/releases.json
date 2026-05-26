@@ -1,10 +1,10 @@
 {
-  "sha": "5c41f8d56c007f423dab239654c57da0e722578f",
-  "short_sha": "5c41f8d",
-  "title": "fix(codegen): private inheritance + default params em constructor/sup…",
-  "created": "2026-05-26T14:38:41Z",
-  "run_id": "26455070952",
-  "linux": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-Linux-X64/rts-v0.0-202605261438-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-Windows-X64/rts-v0.0-202605261438-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-macOS-ARM64/rts-v0.0-202605261438-macOS-ARM64"
+  "sha": "00e2956caba22ba44e96c4848c5728d5d6fbc20b",
+  "short_sha": "00e2956",
+  "title": "feat(codegen): captura de variaveis livres por valor em arrows (#195 …",
+  "created": "2026-05-26T16:58:45Z",
+  "run_id": "26462743986",
+  "linux": "https://urubucode.github.io/rts/downloads/00e2956/rts-v0.0-202605261658-Linux-X64/rts-v0.0-202605261658-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/00e2956/rts-v0.0-202605261658-Windows-X64/rts-v0.0-202605261658-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/00e2956/rts-v0.0-202605261658-macOS-ARM64/rts-v0.0-202605261658-macOS-ARM64"
 }
