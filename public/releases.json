@@ -1,10 +1,10 @@
 {
-  "sha": "5fb1f2304091a17fe10e4d13c96f3b34f000daa4",
-  "short_sha": "5fb1f23",
-  "title": "feat(inspect): Map(N)/Set(N) tag em inspect_handle (Node/Bun-compat) …",
-  "created": "2026-05-24T13:40:57Z",
-  "run_id": "26362844841",
-  "linux": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-Linux-X64/rts-v0.0-202605241341-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-Windows-X64/rts-v0.0-202605241341-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/5fb1f23/rts-v0.0-202605241341-macOS-ARM64/rts-v0.0-202605241341-macOS-ARM64"
+  "sha": "5c41f8d56c007f423dab239654c57da0e722578f",
+  "short_sha": "5c41f8d",
+  "title": "fix(codegen): private inheritance + default params em constructor/sup…",
+  "created": "2026-05-26T14:38:41Z",
+  "run_id": "26455070952",
+  "linux": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-Linux-X64/rts-v0.0-202605261438-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-Windows-X64/rts-v0.0-202605261438-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/5c41f8d/rts-v0.0-202605261438-macOS-ARM64/rts-v0.0-202605261438-macOS-ARM64"
 }
