@@ -1,10 +1,10 @@
 {
-  "sha": "74c5b5fea8424e9467ad6db819e6038754e3e694",
-  "short_sha": "74c5b5f",
-  "title": "fix(codegen): const s = arr.sort(cmp); s.map() nao crasha (#1237)",
-  "created": "2026-05-27T14:28:49Z",
-  "run_id": "26517582178",
-  "linux": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-Linux-X64/rts-v0.0-202605271428-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-Windows-X64/rts-v0.0-202605271428-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-macOS-ARM64/rts-v0.0-202605271428-macOS-ARM64"
+  "sha": "400a04bb30c4cd645d4293343e4acf5020dbc150",
+  "short_sha": "400a04b",
+  "title": "fix(codegen): sentinel bool false (i64::MIN) eh falsy em if/while/! (…",
+  "created": "2026-05-27T19:43:54Z",
+  "run_id": "26534580058",
+  "linux": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-Linux-X64/rts-v0.0-202605271943-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-Windows-X64/rts-v0.0-202605271943-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-macOS-ARM64/rts-v0.0-202605271943-macOS-ARM64"
 }
