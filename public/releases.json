@@ -1,10 +1,10 @@
 {
-  "sha": "0034b28d657b19f25993b50712eff08ad8e574a2",
-  "short_sha": "0034b28",
-  "title": "Merge feat/dataview-arraybuffer-206: ArrayBuffer + DataView basicos (…",
-  "created": "2026-05-27T07:10:33Z",
-  "run_id": "26496495843",
-  "linux": "https://urubucode.github.io/rts/downloads/0034b28/rts-v0.0-202605270710-Linux-X64/rts-v0.0-202605270710-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/0034b28/rts-v0.0-202605270710-Windows-X64/rts-v0.0-202605270710-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/0034b28/rts-v0.0-202605270710-macOS-ARM64/rts-v0.0-202605270710-macOS-ARM64"
+  "sha": "74c5b5fea8424e9467ad6db819e6038754e3e694",
+  "short_sha": "74c5b5f",
+  "title": "fix(codegen): const s = arr.sort(cmp); s.map() nao crasha (#1237)",
+  "created": "2026-05-27T14:28:49Z",
+  "run_id": "26517582178",
+  "linux": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-Linux-X64/rts-v0.0-202605271428-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-Windows-X64/rts-v0.0-202605271428-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/74c5b5f/rts-v0.0-202605271428-macOS-ARM64/rts-v0.0-202605271428-macOS-ARM64"
 }
