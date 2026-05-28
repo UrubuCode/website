@@ -1,10 +1,10 @@
 {
-  "sha": "bb8a2456a8c30d66f30d69bd9cd7ac533eae6dd0",
-  "short_sha": "bb8a245",
-  "title": "fix(parser/codegen): arrow `s||\"x\"` / `s??\"x\"` infere retorno string",
-  "created": "2026-05-28T02:07:40Z",
-  "run_id": "26550264346",
-  "linux": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-Linux-X64/rts-v0.0-202605280207-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-Windows-X64/rts-v0.0-202605280207-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-macOS-ARM64/rts-v0.0-202605280207-macOS-ARM64"
+  "sha": "46161ce4d7ba0e34f630c2cc1126028e6e2bb8f9",
+  "short_sha": "46161ce",
+  "title": "feat(closures): captura por-valor em reduce via bound_args (#195)",
+  "created": "2026-05-28T04:36:28Z",
+  "run_id": "26554943200",
+  "linux": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-Linux-X64/rts-v0.0-202605280436-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-Windows-X64/rts-v0.0-202605280436-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-macOS-ARM64/rts-v0.0-202605280436-macOS-ARM64"
 }
