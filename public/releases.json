@@ -1,10 +1,10 @@
 {
-  "sha": "400a04bb30c4cd645d4293343e4acf5020dbc150",
-  "short_sha": "400a04b",
-  "title": "fix(codegen): sentinel bool false (i64::MIN) eh falsy em if/while/! (…",
-  "created": "2026-05-27T19:43:54Z",
-  "run_id": "26534580058",
-  "linux": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-Linux-X64/rts-v0.0-202605271943-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-Windows-X64/rts-v0.0-202605271943-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/400a04b/rts-v0.0-202605271943-macOS-ARM64/rts-v0.0-202605271943-macOS-ARM64"
+  "sha": "bb8a2456a8c30d66f30d69bd9cd7ac533eae6dd0",
+  "short_sha": "bb8a245",
+  "title": "fix(parser/codegen): arrow `s||\"x\"` / `s??\"x\"` infere retorno string",
+  "created": "2026-05-28T02:07:40Z",
+  "run_id": "26550264346",
+  "linux": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-Linux-X64/rts-v0.0-202605280207-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-Windows-X64/rts-v0.0-202605280207-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/bb8a245/rts-v0.0-202605280207-macOS-ARM64/rts-v0.0-202605280207-macOS-ARM64"
 }

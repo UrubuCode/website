@@ -1,165 +1,165 @@
 {
-  "total": 1801,
+  "total": 1844,
   "commits": [
     {
-      "sha": "e8affe5c0c9c97714055308a529e24f5d210261e",
-      "short": "e8affe5",
-      "message": "docs: auto-update cross-runtime parity badge (84.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-27T20:02:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8affe5c0c9c97714055308a529e24f5d210261e"
-    },
-    {
-      "sha": "f65d1c2d6ec455084f44ef125e56d70940165e70",
-      "short": "f65d1c2",
-      "message": "fix(codegen): x===false/x===true sobre campo bool i64-ambiguo (#368)",
-      "author": "Marcos",
-      "date": "2026-05-27T20:00:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f65d1c2d6ec455084f44ef125e56d70940165e70"
-    },
-    {
-      "sha": "4844e4a7a87978f06b7b8da6099c5924b9b5a5cf",
-      "short": "4844e4a",
+      "sha": "df4abd3c3642e7ff73d2258adabe37d2a732df87",
+      "short": "df4abd3",
       "message": "docs: auto-update cross-runtime parity badge (84.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-27T19:46:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4844e4a7a87978f06b7b8da6099c5924b9b5a5cf"
+      "date": "2026-05-28T02:26:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df4abd3c3642e7ff73d2258adabe37d2a732df87"
     },
     {
-      "sha": "400a04bb30c4cd645d4293343e4acf5020dbc150",
-      "short": "400a04b",
-      "message": "fix(codegen): sentinel bool false (i64::MIN) eh falsy em if/while/! (#368)",
+      "sha": "fad9d41a2e9cca0691af7106b29f1e5c7e3a2dd3",
+      "short": "fad9d41",
+      "message": "fix(parser/codegen): (a:string,b:string)=>a+b infere retorno string",
       "author": "Marcos",
-      "date": "2026-05-27T19:43:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/400a04bb30c4cd645d4293343e4acf5020dbc150"
+      "date": "2026-05-28T02:24:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fad9d41a2e9cca0691af7106b29f1e5c7e3a2dd3"
     },
     {
-      "sha": "0455d7bcc97e8b00d45f054a38045d3972a4e0b1",
-      "short": "0455d7b",
+      "sha": "11baca5af821c28439f6069ae3a166ef1fb554f7",
+      "short": "11baca5",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T02:10:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/11baca5af821c28439f6069ae3a166ef1fb554f7"
+    },
+    {
+      "sha": "bb8a2456a8c30d66f30d69bd9cd7ac533eae6dd0",
+      "short": "bb8a245",
+      "message": "fix(parser/codegen): arrow `s||\"x\"` / `s??\"x\"` infere retorno string",
+      "author": "Marcos",
+      "date": "2026-05-28T02:07:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb8a2456a8c30d66f30d69bd9cd7ac533eae6dd0"
+    },
+    {
+      "sha": "7dbeda818fc58eda892a7061e4dd9f0188559274",
+      "short": "7dbeda8",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T01:48:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7dbeda818fc58eda892a7061e4dd9f0188559274"
+    },
+    {
+      "sha": "d8f3d3b31e962d8a879fd45005eff95fda054a30",
+      "short": "d8f3d3b",
+      "message": "fix(parser/codegen): arrow retornando string via metodo infere string",
+      "author": "Marcos",
+      "date": "2026-05-28T01:45:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8f3d3b31e962d8a879fd45005eff95fda054a30"
+    },
+    {
+      "sha": "9a628f3929f5288ee5ebc653e52435c4b9fbca02",
+      "short": "9a628f3",
+      "message": "fix(codegen): return g(n-1).concat(x) nao aplica TCO erroneamente (#1249)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-28T01:45:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9a628f3929f5288ee5ebc653e52435c4b9fbca02"
+    },
+    {
+      "sha": "8bc24d1e0730fd47a32d6b7f76f03cc048782842",
+      "short": "8bc24d1",
+      "message": "docs: auto-update cross-runtime parity badge (85.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T01:37:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8bc24d1e0730fd47a32d6b7f76f03cc048782842"
+    },
+    {
+      "sha": "ae9d38719d9b885591441f4f08f3adb2d26196b9",
+      "short": "ae9d387",
+      "message": "fix(parser/codegen): arrow ternary de strings infere retorno string",
+      "author": "Marcos",
+      "date": "2026-05-28T01:34:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae9d38719d9b885591441f4f08f3adb2d26196b9"
+    },
+    {
+      "sha": "70472e05d7e20c71907631e4188c3df77ad31e63",
+      "short": "70472e0",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T01:04:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70472e05d7e20c71907631e4188c3df77ad31e63"
+    },
+    {
+      "sha": "dbf28672579755f2e297eb4b33f969e292a49ec0",
+      "short": "dbf2867",
+      "message": "fix(runtime): parseFloat parseia maior prefixo numerico valido",
+      "author": "Marcos",
+      "date": "2026-05-28T01:01:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dbf28672579755f2e297eb4b33f969e292a49ec0"
+    },
+    {
+      "sha": "3e4087033cd5599b509d866751cd90b9b33d6552",
+      "short": "3e40870",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T00:52:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e4087033cd5599b509d866751cd90b9b33d6552"
+    },
+    {
+      "sha": "621fa54106036203be76e418e2bea1d9e30148c5",
+      "short": "621fa54",
+      "message": "fix(codegen): arr[i] + arr[j] de strings concatena via ADD_AUTO runtime",
+      "author": "Marcos",
+      "date": "2026-05-28T00:50:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/621fa54106036203be76e418e2bea1d9e30148c5"
+    },
+    {
+      "sha": "758a38e8b564fee3c1b9764e81256252d737e542",
+      "short": "758a38e",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-28T00:37:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/758a38e8b564fee3c1b9764e81256252d737e542"
+    },
+    {
+      "sha": "728a205b445c9b79445f53715027eb60a0541a71",
+      "short": "728a205",
+      "message": "fix(codegen): const r = fn() propaga tipos de campo do objeto retornado",
+      "author": "Marcos",
+      "date": "2026-05-28T00:35:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/728a205b445c9b79445f53715027eb60a0541a71"
+    },
+    {
+      "sha": "6081f72808743bd0b18d92e0962555ef87df46bb",
+      "short": "6081f72",
       "message": "docs: auto-update cross-runtime parity badge (84.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-27T19:28:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0455d7bcc97e8b00d45f054a38045d3972a4e0b1"
+      "date": "2026-05-28T00:24:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6081f72808743bd0b18d92e0962555ef87df46bb"
     },
     {
-      "sha": "e0af1a472ff5e2e143fdc49d1f5f17d04cdf7139",
-      "short": "e0af1a4",
-      "message": "fix(destructuring): expande destructuring em blocos aninhados (#368)",
+      "sha": "ac1247be2d8e4c6166fb5182fded3fe44075d79f",
+      "short": "ac1247b",
+      "message": "fix(codegen): Object.assign propaga tipos de campo dos sources",
       "author": "Marcos",
-      "date": "2026-05-27T19:25:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0af1a472ff5e2e143fdc49d1f5f17d04cdf7139"
+      "date": "2026-05-28T00:21:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac1247be2d8e4c6166fb5182fded3fe44075d79f"
     },
     {
-      "sha": "3cb45a975f739d838338e1a9c16754c036715df7",
-      "short": "3cb45a9",
-      "message": "docs: auto-update cross-runtime parity badge (84.4%)",
+      "sha": "440659a37658626fefe0e1a3c155bc515100f0fe",
+      "short": "440659a",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-27T18:59:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3cb45a975f739d838338e1a9c16754c036715df7"
+      "date": "2026-05-28T00:10:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/440659a37658626fefe0e1a3c155bc515100f0fe"
     },
     {
-      "sha": "d1dd5454d78f52e89d1e9ee3d983dedd627e3df7",
-      "short": "d1dd545",
-      "message": "fix(codegen): inst.method():T[].filter() chain direto nao crasha (#1242)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-27T18:57:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1dd5454d78f52e89d1e9ee3d983dedd627e3df7"
-    },
-    {
-      "sha": "ad3e596a7b2dc09b61e25f53711f412db0e986bf",
-      "short": "ad3e596",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "a28ba9993a5d305ca50a13fccf2387a3e8997121",
+      "short": "a28ba99",
+      "message": "fix(codegen): spread de objeto {...base} herda tipos de campo",
       "author": "Marcos",
-      "date": "2026-05-27T18:56:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad3e596a7b2dc09b61e25f53711f412db0e986bf"
+      "date": "2026-05-28T00:08:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a28ba9993a5d305ca50a13fccf2387a3e8997121"
     },
     {
-      "sha": "3845024e9b6cf792fbdcc7974293d91c2a0f6874",
-      "short": "3845024",
-      "message": "fix(typedarray): new TA(arrayBuffer) retorna handle do buffer (view viva)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:56:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3845024e9b6cf792fbdcc7974293d91c2a0f6874"
-    },
-    {
-      "sha": "63794f13cd806d50472f9bd8c315a452cd3e573a",
-      "short": "63794f1",
-      "message": "docs: auto-update cross-runtime parity badge (84.4%)",
+      "sha": "ecf95c5640aec7c2a5243c3841d3c03728604831",
+      "short": "ecf95c5",
+      "message": "docs: auto-update cross-runtime parity badge (84.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-05-27T18:46:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63794f13cd806d50472f9bd8c315a452cd3e573a"
-    },
-    {
-      "sha": "7841df921dfa3c9f2d4ee04905549c4bbdc255b5",
-      "short": "7841df9",
-      "message": "fix(parallelism): lift/rewrite de array methods desce em blocos aninhados (#369)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:29:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7841df921dfa3c9f2d4ee04905549c4bbdc255b5"
-    },
-    {
-      "sha": "a9eba1d3d5b5ba4a63c1fb9253ddc909c6df1427",
-      "short": "a9eba1d",
-      "message": "Merge feat/typedarray-methods-93: subarray/set sobre TypedArray Vec (93)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:39:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a9eba1d3d5b5ba4a63c1fb9253ddc909c6df1427"
-    },
-    {
-      "sha": "296595bc9035e95cb5d92722e3d188ebba22f69c",
-      "short": "296595b",
-      "message": "feat(typedarray): metodos subarray/set sobre TypedArray Vec (#93)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:39:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/296595bc9035e95cb5d92722e3d188ebba22f69c"
-    },
-    {
-      "sha": "d21277e5648470038876822bb15dee04fec60c25",
-      "short": "d21277e",
-      "message": "docs: auto-update cross-runtime parity badge (84.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-27T18:23:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d21277e5648470038876822bb15dee04fec60c25"
-    },
-    {
-      "sha": "c0402fca183488a7c03abd82523c8fa50d5eb65a",
-      "short": "c0402fc",
-      "message": "fix(codegen): const v = inst.method():T[]; v.map() nao crasha (#1241)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-27T18:20:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c0402fca183488a7c03abd82523c8fa50d5eb65a"
-    },
-    {
-      "sha": "55271d694193d68fbebc4b8a794df92b4b7948b3",
-      "short": "55271d6",
-      "message": "docs: auto-update cross-runtime parity badge (83.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-27T18:11:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/55271d694193d68fbebc4b8a794df92b4b7948b3"
-    },
-    {
-      "sha": "78d82e3b65ce75171122dba4bfeeee3f50c07df1",
-      "short": "78d82e3",
-      "message": "Merge feat/typedarray-view-205: TypedArray view viva sobre ArrayBuffer (#811)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:05:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78d82e3b65ce75171122dba4bfeeee3f50c07df1"
-    },
-    {
-      "sha": "5f35039ab43061fa408417ad251cb5175f836d31",
-      "short": "5f35039",
-      "message": "feat(typedarray): view viva sobre ArrayBuffer (#811, 205_arraybuffer_basic)",
-      "author": "Marcos",
-      "date": "2026-05-27T18:05:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5f35039ab43061fa408417ad251cb5175f836d31"
-    },
-    {
-      "sha": "fa88c45d767104d600d26f0a5cb0880cad696aa2",
-      "short": "fa88c45",
-      "message": "docs: auto-update cross-runtime parity badge (84.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-27T18:03:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa88c45d767104d600d26f0a5cb0880cad696aa2"
+      "date": "2026-05-27T23:59:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ecf95c5640aec7c2a5243c3841d3c03728604831"
     }
   ]
 }
