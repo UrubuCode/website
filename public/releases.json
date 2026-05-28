@@ -1,10 +1,10 @@
 {
-  "sha": "46161ce4d7ba0e34f630c2cc1126028e6e2bb8f9",
-  "short_sha": "46161ce",
-  "title": "feat(closures): captura por-valor em reduce via bound_args (#195)",
-  "created": "2026-05-28T04:36:28Z",
-  "run_id": "26554943200",
-  "linux": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-Linux-X64/rts-v0.0-202605280436-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-Windows-X64/rts-v0.0-202605280436-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/46161ce/rts-v0.0-202605280436-macOS-ARM64/rts-v0.0-202605280436-macOS-ARM64"
+  "sha": "f5bbcd5a0cd1a5fd9700b7dc06872bdf3df0fe9b",
+  "short_sha": "f5bbcd5",
+  "title": "fix(parser): enum numerico gera reverse mapping (State[0] -> \"Idle\") …",
+  "created": "2026-05-28T15:16:19Z",
+  "run_id": "26583776696",
+  "linux": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-Linux-X64/rts-v0.0-202605281516-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-Windows-X64/rts-v0.0-202605281516-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-macOS-ARM64/rts-v0.0-202605281516-macOS-ARM64"
 }
