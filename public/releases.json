@@ -1,10 +1,10 @@
 {
-  "sha": "f5bbcd5a0cd1a5fd9700b7dc06872bdf3df0fe9b",
-  "short_sha": "f5bbcd5",
-  "title": "fix(parser): enum numerico gera reverse mapping (State[0] -> \"Idle\") …",
-  "created": "2026-05-28T15:16:19Z",
-  "run_id": "26583776696",
-  "linux": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-Linux-X64/rts-v0.0-202605281516-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-Windows-X64/rts-v0.0-202605281516-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/f5bbcd5/rts-v0.0-202605281516-macOS-ARM64/rts-v0.0-202605281516-macOS-ARM64"
+  "sha": "b9c84fb35257ac1b7370845e640c2c23ea0db3db",
+  "short_sha": "b9c84fb",
+  "title": "fix(codegen): HOF — user fn passada como valor e chamada (issue-pai i…",
+  "created": "2026-05-28T19:48:36Z",
+  "run_id": "26598291548",
+  "linux": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-Linux-X64/rts-v0.0-202605281948-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-Windows-X64/rts-v0.0-202605281948-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-macOS-ARM64/rts-v0.0-202605281948-macOS-ARM64"
 }
