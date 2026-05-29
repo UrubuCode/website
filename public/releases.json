@@ -1,10 +1,10 @@
 {
-  "sha": "c7b738259f23c3b8f1d6daca2767ff3e6ed8977c",
-  "short_sha": "c7b7382",
-  "title": "docs: assembly inline (std::arch::asm!) como tecnica disponivel (#1285)",
-  "created": "2026-05-29T04:03:35Z",
-  "run_id": "26617224228",
-  "linux": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-Linux-X64/rts-v0.0-202605290404-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-Windows-X64/rts-v0.0-202605290404-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-macOS-ARM64/rts-v0.0-202605290404-macOS-ARM64"
+  "sha": "476c19ead53fa99168cca5c8b3c512f014910ea5",
+  "short_sha": "476c19e",
+  "title": "fix(codegen): arguments object variadico em fn sem params (#299) (#1286)",
+  "created": "2026-05-29T12:53:38Z",
+  "run_id": "26638389615",
+  "linux": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-Linux-X64/rts-v0.0-202605291253-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-Windows-X64/rts-v0.0-202605291253-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-macOS-ARM64/rts-v0.0-202605291253-macOS-ARM64"
 }

@@ -1,6 +1,22 @@
 {
-  "total": 1928,
+  "total": 1930,
   "commits": [
+    {
+      "sha": "e88751d51866b922e89b7c0eea314daa5c58e8b6",
+      "short": "e88751d",
+      "message": "docs: auto-update cross-runtime parity badge (85.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-29T12:56:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e88751d51866b922e89b7c0eea314daa5c58e8b6"
+    },
+    {
+      "sha": "476c19ead53fa99168cca5c8b3c512f014910ea5",
+      "short": "476c19e",
+      "message": "fix(codegen): arguments object variadico em fn sem params (#299) (#1286)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-29T12:53:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/476c19ead53fa99168cca5c8b3c512f014910ea5"
+    },
     {
       "sha": "da98385f5bb05541d50559e3e9479f3aab37df73",
       "short": "da98385",
@@ -144,22 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-05-28T18:10:08Z",
       "url": "https://github.com/UrubuCode/rts/commit/88c4e976d73062a6886da9f7e20ba88d23309bf5"
-    },
-    {
-      "sha": "cbc11b70ab7a77d70105d5c390488891d066035e",
-      "short": "cbc11b7",
-      "message": "fix(codegen): for-of com object destructuring no bind (const {a,b} of items) (#1273)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-28T18:06:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cbc11b70ab7a77d70105d5c390488891d066035e"
-    },
-    {
-      "sha": "ba9deb98a561515c0c8f4c1339bb0341d56896c2",
-      "short": "ba9deb9",
-      "message": "docs: auto-update cross-runtime parity badge (85.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-28T17:56:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ba9deb98a561515c0c8f4c1339bb0341d56896c2"
     }
   ]
 }
