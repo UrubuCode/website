@@ -1,6 +1,46 @@
 {
-  "total": 1923,
+  "total": 1928,
   "commits": [
+    {
+      "sha": "da98385f5bb05541d50559e3e9479f3aab37df73",
+      "short": "da98385",
+      "message": "docs: auto-update cross-runtime parity badge (85.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-29T04:06:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/da98385f5bb05541d50559e3e9479f3aab37df73"
+    },
+    {
+      "sha": "c7b738259f23c3b8f1d6daca2767ff3e6ed8977c",
+      "short": "c7b7382",
+      "message": "docs: assembly inline (std::arch::asm!) como tecnica disponivel (#1285)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-29T04:03:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7b738259f23c3b8f1d6daca2767ff3e6ed8977c"
+    },
+    {
+      "sha": "7075498b9cf172bff60ab94e5ba34db3cff0505e",
+      "short": "7075498",
+      "message": "fix(runtime): invoke_all_i64 com aridade N variavel via trampolim asm (#1281) (#1283)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-29T04:01:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7075498b9cf172bff60ab94e5ba34db3cff0505e"
+    },
+    {
+      "sha": "f54934d74fef1076675e991ec5080d7bac5a482f",
+      "short": "f54934d",
+      "message": "docs: auto-update cross-runtime parity badge (85.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-29T03:45:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f54934d74fef1076675e991ec5080d7bac5a482f"
+    },
+    {
+      "sha": "e68d4737f0ed9be3c12acca4b75030ec2f311bca",
+      "short": "e68d473",
+      "message": "fix(codegen): curry N-nivel com args inteiros (#1281) (#1282)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-29T03:43:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e68d4737f0ed9be3c12acca4b75030ec2f311bca"
+    },
     {
       "sha": "9062b4f675a8d8b909b084a8128d371bdf764db2",
       "short": "9062b4f",
@@ -120,46 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-05-28T17:56:22Z",
       "url": "https://github.com/UrubuCode/rts/commit/ba9deb98a561515c0c8f4c1339bb0341d56896c2"
-    },
-    {
-      "sha": "829de9add67eccef0d12e0cbf21b16a8494b460a",
-      "short": "829de9a",
-      "message": "fix(codegen): for-of sobre field string nao iterava (#1272)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-28T17:52:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/829de9add67eccef0d12e0cbf21b16a8494b460a"
-    },
-    {
-      "sha": "7526acfd3b019aad98f5699da8a9c13feb45c44e",
-      "short": "7526acf",
-      "message": "docs: auto-update cross-runtime parity badge (85.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-28T17:46:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7526acfd3b019aad98f5699da8a9c13feb45c44e"
-    },
-    {
-      "sha": "2dec0906a4149d20c06e5da24d0993560decf302",
-      "short": "2dec090",
-      "message": "fix(codegen): for-of sobre string de fn/metodo/concat nao iterava (#1271)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-28T17:43:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2dec0906a4149d20c06e5da24d0993560decf302"
-    },
-    {
-      "sha": "0b71387a4ab7f5f21863ea4b10f1cf608e0538e2",
-      "short": "0b71387",
-      "message": "docs: auto-update cross-runtime parity badge (85.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-28T17:39:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b71387a4ab7f5f21863ea4b10f1cf608e0538e2"
-    },
-    {
-      "sha": "b592fd72b1951a1c30e7cccf4d8f333d101e223c",
-      "short": "b592fd7",
-      "message": "fix(codegen): for-of sobre param string nao iterava (#1270)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-28T17:36:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b592fd72b1951a1c30e7cccf4d8f333d101e223c"
     }
   ]
 }

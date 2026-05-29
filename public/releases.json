@@ -1,10 +1,10 @@
 {
-  "sha": "a8bc0757c081b96cbe9da4383b3bb5b651080885",
-  "short_sha": "a8bc075",
-  "title": "fix(codegen): f(x)(y) call-of-call / curry 2-nivel (#41) (#1280)",
-  "created": "2026-05-29T01:23:20Z",
-  "run_id": "26612313636",
-  "linux": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-Linux-X64/rts-v0.0-202605290123-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-Windows-X64/rts-v0.0-202605290123-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-macOS-ARM64/rts-v0.0-202605290123-macOS-ARM64"
+  "sha": "c7b738259f23c3b8f1d6daca2767ff3e6ed8977c",
+  "short_sha": "c7b7382",
+  "title": "docs: assembly inline (std::arch::asm!) como tecnica disponivel (#1285)",
+  "created": "2026-05-29T04:03:35Z",
+  "run_id": "26617224228",
+  "linux": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-Linux-X64/rts-v0.0-202605290404-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-Windows-X64/rts-v0.0-202605290404-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/c7b7382/rts-v0.0-202605290404-macOS-ARM64/rts-v0.0-202605290404-macOS-ARM64"
 }
