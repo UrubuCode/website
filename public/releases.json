@@ -1,10 +1,10 @@
 {
-  "sha": "476c19ead53fa99168cca5c8b3c512f014910ea5",
-  "short_sha": "476c19e",
-  "title": "fix(codegen): arguments object variadico em fn sem params (#299) (#1286)",
-  "created": "2026-05-29T12:53:38Z",
-  "run_id": "26638389615",
-  "linux": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-Linux-X64/rts-v0.0-202605291253-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-Windows-X64/rts-v0.0-202605291253-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/476c19e/rts-v0.0-202605291253-macOS-ARM64/rts-v0.0-202605291253-macOS-ARM64"
+  "sha": "cbec41fea3ce8192d6487af3d4259787dd3d7daf",
+  "short_sha": "cbec41f",
+  "title": "fix(codegen): === entre dois valores I64 ambiguos usa STRICT_EQ_AMBIG…",
+  "created": "2026-05-29T18:05:12Z",
+  "run_id": "26653821971",
+  "linux": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-Linux-X64/rts-v0.0-202605291805-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-Windows-X64/rts-v0.0-202605291805-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-macOS-ARM64/rts-v0.0-202605291805-macOS-ARM64"
 }
