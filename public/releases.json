@@ -1,10 +1,10 @@
 {
-  "sha": "b9c84fb35257ac1b7370845e640c2c23ea0db3db",
-  "short_sha": "b9c84fb",
-  "title": "fix(codegen): HOF — user fn passada como valor e chamada (issue-pai i…",
-  "created": "2026-05-28T19:48:36Z",
-  "run_id": "26598291548",
-  "linux": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-Linux-X64/rts-v0.0-202605281948-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-Windows-X64/rts-v0.0-202605281948-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/b9c84fb/rts-v0.0-202605281948-macOS-ARM64/rts-v0.0-202605281948-macOS-ARM64"
+  "sha": "a8bc0757c081b96cbe9da4383b3bb5b651080885",
+  "short_sha": "a8bc075",
+  "title": "fix(codegen): f(x)(y) call-of-call / curry 2-nivel (#41) (#1280)",
+  "created": "2026-05-29T01:23:20Z",
+  "run_id": "26612313636",
+  "linux": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-Linux-X64/rts-v0.0-202605290123-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-Windows-X64/rts-v0.0-202605290123-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/a8bc075/rts-v0.0-202605290123-macOS-ARM64/rts-v0.0-202605290123-macOS-ARM64"
 }
