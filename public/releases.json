@@ -1,10 +1,10 @@
 {
-  "sha": "cbec41fea3ce8192d6487af3d4259787dd3d7daf",
-  "short_sha": "cbec41f",
-  "title": "fix(codegen): === entre dois valores I64 ambiguos usa STRICT_EQ_AMBIG…",
-  "created": "2026-05-29T18:05:12Z",
-  "run_id": "26653821971",
-  "linux": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-Linux-X64/rts-v0.0-202605291805-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-Windows-X64/rts-v0.0-202605291805-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/cbec41f/rts-v0.0-202605291805-macOS-ARM64/rts-v0.0-202605291805-macOS-ARM64"
+  "sha": "21940401efedf932ae5e5f22d4196154fe800df9",
+  "short_sha": "2194040",
+  "title": "fix(codegen): new Map/Set(arr.map(...)) inline via desugar p/ var tem…",
+  "created": "2026-05-30T01:05:27Z",
+  "run_id": "26670149021",
+  "linux": "https://urubucode.github.io/rts/downloads/2194040/rts-v0.0-202605300105-Linux-X64/rts-v0.0-202605300105-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/2194040/rts-v0.0-202605300105-Windows-X64/rts-v0.0-202605300105-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/2194040/rts-v0.0-202605300105-macOS-ARM64/rts-v0.0-202605300105-macOS-ARM64"
 }
