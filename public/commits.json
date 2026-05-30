@@ -1,6 +1,22 @@
 {
-  "total": 1959,
+  "total": 1961,
   "commits": [
+    {
+      "sha": "dd0ff5f09b795112022d386d9d33aaaeaaa40c08",
+      "short": "dd0ff5f",
+      "message": "docs: auto-update cross-runtime parity badge (86.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-30T12:57:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dd0ff5f09b795112022d386d9d33aaaeaaa40c08"
+    },
+    {
+      "sha": "befbd46d6cfcab1556fb639a6ac9d195bd4f9ab1",
+      "short": "befbd46",
+      "message": "fix(codegen): Object.* proxy-aware + JSON.stringify(proxy) (#98 FECHA) (#1306)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-30T12:55:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/befbd46d6cfcab1556fb639a6ac9d195bd4f9ab1"
+    },
     {
       "sha": "b8a23c0483b048c6e7cfa60eddbb487e292b9074",
       "short": "b8a23c0",
@@ -144,22 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-05-29T17:45:09Z",
       "url": "https://github.com/UrubuCode/rts/commit/be678ab98339471f153f970e5af9b8761400968e"
-    },
-    {
-      "sha": "d5ae88b45ba2dba5b49050dd2f85cef5687cdeee",
-      "short": "d5ae88b",
-      "message": "docs: auto-update cross-runtime parity badge (85.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-29T17:23:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5ae88b45ba2dba5b49050dd2f85cef5687cdeee"
-    },
-    {
-      "sha": "e3a5cfb6765cd21c036635840342d6d8b09faef3",
-      "short": "e3a5cfb",
-      "message": "fix(codegen): preserva params proprios de arrow liftada em chamada direta (#354 cluster A) (#1295)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-29T17:20:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3a5cfb6765cd21c036635840342d6d8b09faef3"
     }
   ]
 }
