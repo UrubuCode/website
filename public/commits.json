@@ -1,6 +1,62 @@
 {
-  "total": 2014,
+  "total": 2021,
   "commits": [
+    {
+      "sha": "5ddac1254a05b7ce5ccf207ea377a07ea7ddf2ac",
+      "short": "5ddac12",
+      "message": "docs: auto-update cross-runtime parity badge (89%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-30T19:20:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ddac1254a05b7ce5ccf207ea377a07ea7ddf2ac"
+    },
+    {
+      "sha": "cfb0688f0deef04372821570431def58c0ed0c77",
+      "short": "cfb0688",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-05-30T19:17:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cfb0688f0deef04372821570431def58c0ed0c77"
+    },
+    {
+      "sha": "d52450046350fb2a45bba6b62bde96f1d96b9473",
+      "short": "d524500",
+      "message": "docs: parity-100-plan — #394 5 PRs genericos; ultimo sub-bug eh design de Set storage",
+      "author": "Marcos",
+      "date": "2026-05-30T19:17:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d52450046350fb2a45bba6b62bde96f1d96b9473"
+    },
+    {
+      "sha": "ed210f163e85286ea5012d1ae8c5058d136aa773",
+      "short": "ed210f1",
+      "message": "docs: auto-update cross-runtime parity badge (89%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-30T19:16:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed210f163e85286ea5012d1ae8c5058d136aa773"
+    },
+    {
+      "sha": "162fa6378253461c9768e12a46bbf0506575a931",
+      "short": "162fa63",
+      "message": "fix(codegen): structuredClone preserva tipo do valor clonado (#394 parcial) (#1323)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-30T19:14:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/162fa6378253461c9768e12a46bbf0506575a931"
+    },
+    {
+      "sha": "ac57a62db49d88fdd65fc0e2179fc4e0985829a1",
+      "short": "ac57a62",
+      "message": "docs: auto-update cross-runtime parity badge (89%)",
+      "author": "github-actions[bot]",
+      "date": "2026-05-30T19:07:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac57a62db49d88fdd65fc0e2179fc4e0985829a1"
+    },
+    {
+      "sha": "f24ebc29e1f3f9efb2ee483ef0d3618b6a95b5bd",
+      "short": "f24ebc2",
+      "message": "fix(codegen): chained call em (collection.get()) — verifier error + dispatch (#394 parcial) (#1322)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-05-30T19:04:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f24ebc29e1f3f9efb2ee483ef0d3618b6a95b5bd"
+    },
     {
       "sha": "547e745e74b16cd860a90610eaba428b30f5b8e2",
       "short": "547e745",
@@ -104,62 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-30T17:26:57Z",
       "url": "https://github.com/UrubuCode/rts/commit/053c67436e4128ff8485dcb18f425fca8170a967"
-    },
-    {
-      "sha": "ce54178c1189c3ca0c426cbfd9168f2a18a3a835",
-      "short": "ce54178",
-      "message": "docs: auto-update cross-runtime parity badge (89%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T17:26:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce54178c1189c3ca0c426cbfd9168f2a18a3a835"
-    },
-    {
-      "sha": "add657081f79674fae3441b3a17dc89593d3ec63",
-      "short": "add6570",
-      "message": "feat(codegen): structuredClone transfer/detach + anonymous TA views (#68 FECHA) (#1319)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-30T17:23:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/add657081f79674fae3441b3a17dc89593d3ec63"
-    },
-    {
-      "sha": "7fd8a3929212791b306ef968e82b9af7471a8fa6",
-      "short": "7fd8a39",
-      "message": "docs: auto-update cross-runtime parity badge (88.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T17:11:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7fd8a3929212791b306ef968e82b9af7471a8fa6"
-    },
-    {
-      "sha": "aba36958caa925647d7700702f5c8ac71d3f5dd7",
-      "short": "aba3695",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-05-30T17:07:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aba36958caa925647d7700702f5c8ac71d3f5dd7"
-    },
-    {
-      "sha": "1e26ed969c7ea29a4f5f2f8ba730e35e324d3283",
-      "short": "1e26ed9",
-      "message": "docs: parity-100-plan — estado final 332/372 89.2%, 4 diverge fundacao",
-      "author": "Marcos",
-      "date": "2026-05-30T17:07:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e26ed969c7ea29a4f5f2f8ba730e35e324d3283"
-    },
-    {
-      "sha": "b01dca4a590748195a6ca84fc599fb631567888e",
-      "short": "b01dca4",
-      "message": "docs: auto-update cross-runtime parity badge (88.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T17:07:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b01dca4a590748195a6ca84fc599fb631567888e"
-    },
-    {
-      "sha": "e8f54029831294402bee8ef7efb4bbcd7a5fb68e",
-      "short": "e8f5402",
-      "message": "feat(codegen): console override variadic (...args) (#310 FECHA) (#1318)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-30T17:05:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8f54029831294402bee8ef7efb4bbcd7a5fb68e"
     }
   ]
 }
