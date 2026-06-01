@@ -1,6 +1,14 @@
 {
-  "total": 2021,
+  "total": 2022,
   "commits": [
+    {
+      "sha": "18e61a5319b0094ac5c5207227df0acd657ee4f6",
+      "short": "18e61a5",
+      "message": "docs: cross-runtime parity 89% + history snapshot 2026-06-01",
+      "author": "github-actions[bot]",
+      "date": "2026-06-01T08:37:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18e61a5319b0094ac5c5207227df0acd657ee4f6"
+    },
     {
       "sha": "5ddac1254a05b7ce5ccf207ea377a07ea7ddf2ac",
       "short": "5ddac12",
@@ -152,14 +160,6 @@
       "author": "Marcos",
       "date": "2026-05-30T17:26:58Z",
       "url": "https://github.com/UrubuCode/rts/commit/20128f44e685e934b1ce92245e350b4f28c43391"
-    },
-    {
-      "sha": "053c67436e4128ff8485dcb18f425fca8170a967",
-      "short": "053c674",
-      "message": "docs: parity-100-plan — 332/371 89.5%, 3 diverge = refator grande",
-      "author": "Marcos",
-      "date": "2026-05-30T17:26:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/053c67436e4128ff8485dcb18f425fca8170a967"
     }
   ]
 }
