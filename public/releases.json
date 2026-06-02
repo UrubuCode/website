@@ -1,10 +1,10 @@
 {
-  "sha": "cfb0688f0deef04372821570431def58c0ed0c77",
-  "short_sha": "cfb0688",
-  "title": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-  "created": "2026-05-30T19:18:02Z",
-  "run_id": "26692631388",
-  "linux": "https://urubucode.github.io/rts/downloads/cfb0688/rts-v0.0-202605301918-Linux-X64/rts-v0.0-202605301918-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/cfb0688/rts-v0.0-202605301918-Windows-X64/rts-v0.0-202605301918-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/cfb0688/rts-v0.0-202605301918-macOS-ARM64/rts-v0.0-202605301918-macOS-ARM64"
+  "sha": "bdbbec649ae58a76e8491bbb1b166831849bab64",
+  "short_sha": "bdbbec6",
+  "title": "fix(codegen): infere classe-elemento de array-de-objetos p/ campo flo…",
+  "created": "2026-06-02T18:40:58Z",
+  "run_id": "26840541155",
+  "linux": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-Linux-X64/rts-v0.0-202606021841-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-Windows-X64/rts-v0.0-202606021841-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-macOS-ARM64/rts-v0.0-202606021841-macOS-ARM64"
 }
