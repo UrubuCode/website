@@ -1,6 +1,94 @@
 {
-  "total": 2034,
+  "total": 2045,
   "commits": [
+    {
+      "sha": "0c96a57ac6df1cafcbd0f18d1f01e4a35f3d9eaf",
+      "short": "0c96a57",
+      "message": "docs: auto-update cross-runtime parity badge (89.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-03T15:47:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c96a57ac6df1cafcbd0f18d1f01e4a35f3d9eaf"
+    },
+    {
+      "sha": "71fed915c52b7f748bd6338f38c6409177b60807",
+      "short": "71fed91",
+      "message": "feat(generators): yield em try/finally + .return/.throw na state-machine (#477 fatia 2) (#1335)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T15:44:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71fed915c52b7f748bd6338f38c6409177b60807"
+    },
+    {
+      "sha": "264702517e69463594b0c457cb89c9cf605d3a57",
+      "short": "2647025",
+      "message": "docs: auto-update cross-runtime parity badge (89.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-03T15:06:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/264702517e69463594b0c457cb89c9cf605d3a57"
+    },
+    {
+      "sha": "2a48f3e01b95342b08705b7f29615d74b0e38c7e",
+      "short": "2a48f3e",
+      "message": "feat(generators): state-machine lazy para generators com loop (#477 fatia 1) (#1334)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T15:03:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a48f3e01b95342b08705b7f29615d74b0e38c7e"
+    },
+    {
+      "sha": "f381bbe85e2b3b61fc3e175798ba46d4b7099531",
+      "short": "f381bbe",
+      "message": "docs: auto-update cross-runtime parity badge (89.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-03T13:52:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f381bbe85e2b3b61fc3e175798ba46d4b7099531"
+    },
+    {
+      "sha": "94ad439c6c6aca401d610328c58dd3d7b50a90fd",
+      "short": "94ad439",
+      "message": "fix(codegen): param number em arrow liftada funciona ponta-a-ponta (#1281 A+C+D) (#1333)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T13:49:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94ad439c6c6aca401d610328c58dd3d7b50a90fd"
+    },
+    {
+      "sha": "718f026896ab0a3896b53e401ab4ae0e9e5fd1fe",
+      "short": "718f026",
+      "message": "fix(codegen): reifica handle ao retornar arrow liftada sem captura (#1281) (#1332)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T12:42:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/718f026896ab0a3896b53e401ab4ae0e9e5fd1fe"
+    },
+    {
+      "sha": "908aac071686f7e1b42bb310bc5330380538eafa",
+      "short": "908aac0",
+      "message": "docs: auto-update cross-runtime parity badge (89.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-03T12:29:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/908aac071686f7e1b42bb310bc5330380538eafa"
+    },
+    {
+      "sha": "25f70974c6abb7e2f4ffdb81a18d866e7b1beb09",
+      "short": "25f7097",
+      "message": "fix(codegen): inferencia de retorno reconhece ident de arrow liftada como Handle (#1281) (#1331)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T12:26:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/25f70974c6abb7e2f4ffdb81a18d866e7b1beb09"
+    },
+    {
+      "sha": "6a2d673f89433683b1cdb450c74c5d1539f980b2",
+      "short": "6a2d673",
+      "message": "docs: auto-update cross-runtime parity badge (89.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-03T11:44:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a2d673f89433683b1cdb450c74c5d1539f980b2"
+    },
+    {
+      "sha": "81ae7da1c1d6a61eb01629908d57aa66265f4f68",
+      "short": "81ae7da",
+      "message": "fix(runtime): invoke_typed cobre aridade 0-8 com todos combos de param_kinds (#1281 fatia 4b) (#1330)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-03T11:42:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81ae7da1c1d6a61eb01629908d57aa66265f4f68"
+    },
     {
       "sha": "1b42eca5da4de5200e665f4205ea26ab30b9c0ee",
       "short": "1b42eca",
@@ -72,94 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-06-02T16:54:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/cbc1edeafb44f188af3a211c1e4cdd22165e7417"
-    },
-    {
-      "sha": "684be4e38fd0362a83d3759dc753ec87c0b7cc80",
-      "short": "684be4e",
-      "message": "fix(codegen): multiplicacao inteira nao overflowa em i32 (#305) (#1325)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-02T16:51:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/684be4e38fd0362a83d3759dc753ec87c0b7cc80"
-    },
-    {
-      "sha": "602bdf59a94842b9b197a19e320d834a57044faa",
-      "short": "602bdf5",
-      "message": "docs: auto-update cross-runtime parity badge (89%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-02T16:11:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/602bdf59a94842b9b197a19e320d834a57044faa"
-    },
-    {
-      "sha": "8a4aa4e5a79cabe7e51d44e0cda2680ef50750a3",
-      "short": "8a4aa4e",
-      "message": "fix(codegen): Set storage preserva identidade de objetos (#394) (#1324)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-02T16:08:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8a4aa4e5a79cabe7e51d44e0cda2680ef50750a3"
-    },
-    {
-      "sha": "18e61a5319b0094ac5c5207227df0acd657ee4f6",
-      "short": "18e61a5",
-      "message": "docs: cross-runtime parity 89% + history snapshot 2026-06-01",
-      "author": "github-actions[bot]",
-      "date": "2026-06-01T08:37:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18e61a5319b0094ac5c5207227df0acd657ee4f6"
-    },
-    {
-      "sha": "5ddac1254a05b7ce5ccf207ea377a07ea7ddf2ac",
-      "short": "5ddac12",
-      "message": "docs: auto-update cross-runtime parity badge (89%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T19:20:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ddac1254a05b7ce5ccf207ea377a07ea7ddf2ac"
-    },
-    {
-      "sha": "cfb0688f0deef04372821570431def58c0ed0c77",
-      "short": "cfb0688",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-05-30T19:17:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cfb0688f0deef04372821570431def58c0ed0c77"
-    },
-    {
-      "sha": "d52450046350fb2a45bba6b62bde96f1d96b9473",
-      "short": "d524500",
-      "message": "docs: parity-100-plan — #394 5 PRs genericos; ultimo sub-bug eh design de Set storage",
-      "author": "Marcos",
-      "date": "2026-05-30T19:17:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d52450046350fb2a45bba6b62bde96f1d96b9473"
-    },
-    {
-      "sha": "ed210f163e85286ea5012d1ae8c5058d136aa773",
-      "short": "ed210f1",
-      "message": "docs: auto-update cross-runtime parity badge (89%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T19:16:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed210f163e85286ea5012d1ae8c5058d136aa773"
-    },
-    {
-      "sha": "162fa6378253461c9768e12a46bbf0506575a931",
-      "short": "162fa63",
-      "message": "fix(codegen): structuredClone preserva tipo do valor clonado (#394 parcial) (#1323)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-30T19:14:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/162fa6378253461c9768e12a46bbf0506575a931"
-    },
-    {
-      "sha": "ac57a62db49d88fdd65fc0e2179fc4e0985829a1",
-      "short": "ac57a62",
-      "message": "docs: auto-update cross-runtime parity badge (89%)",
-      "author": "github-actions[bot]",
-      "date": "2026-05-30T19:07:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ac57a62db49d88fdd65fc0e2179fc4e0985829a1"
-    },
-    {
-      "sha": "f24ebc29e1f3f9efb2ee483ef0d3618b6a95b5bd",
-      "short": "f24ebc2",
-      "message": "fix(codegen): chained call em (collection.get()) — verifier error + dispatch (#394 parcial) (#1322)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-05-30T19:04:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f24ebc29e1f3f9efb2ee483ef0d3618b6a95b5bd"
     }
   ]
 }

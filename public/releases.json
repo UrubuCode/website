@@ -1,10 +1,10 @@
 {
-  "sha": "bdbbec649ae58a76e8491bbb1b166831849bab64",
-  "short_sha": "bdbbec6",
-  "title": "fix(codegen): infere classe-elemento de array-de-objetos p/ campo flo…",
-  "created": "2026-06-02T18:40:58Z",
-  "run_id": "26840541155",
-  "linux": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-Linux-X64/rts-v0.0-202606021841-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-Windows-X64/rts-v0.0-202606021841-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/bdbbec6/rts-v0.0-202606021841-macOS-ARM64/rts-v0.0-202606021841-macOS-ARM64"
+  "sha": "71fed915c52b7f748bd6338f38c6409177b60807",
+  "short_sha": "71fed91",
+  "title": "feat(generators): yield em try/finally + .return/.throw na state-mach…",
+  "created": "2026-06-03T15:44:23Z",
+  "run_id": "26895973828",
+  "linux": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-Linux-X64/rts-v0.0-202606031544-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-Windows-X64/rts-v0.0-202606031544-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-macOS-ARM64/rts-v0.0-202606031544-macOS-ARM64"
 }
