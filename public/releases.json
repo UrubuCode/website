@@ -1,10 +1,10 @@
 {
-  "sha": "71fed915c52b7f748bd6338f38c6409177b60807",
-  "short_sha": "71fed91",
-  "title": "feat(generators): yield em try/finally + .return/.throw na state-mach…",
-  "created": "2026-06-03T15:44:23Z",
-  "run_id": "26895973828",
-  "linux": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-Linux-X64/rts-v0.0-202606031544-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-Windows-X64/rts-v0.0-202606031544-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/71fed91/rts-v0.0-202606031544-macOS-ARM64/rts-v0.0-202606031544-macOS-ARM64"
+  "sha": "4b447551d61b2cbf27a47672b6e1966967a955b8",
+  "short_sha": "4b44755",
+  "title": "feat(intl): Intl.* sem ICU (valores fixos en) — fecha 59/71/78 (#225)…",
+  "created": "2026-06-03T20:06:08Z",
+  "run_id": "26909920510",
+  "linux": "https://urubucode.github.io/rts/downloads/4b44755/rts-v0.0-202606032006-Linux-X64/rts-v0.0-202606032006-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/4b44755/rts-v0.0-202606032006-Windows-X64/rts-v0.0-202606032006-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/4b44755/rts-v0.0-202606032006-macOS-ARM64/rts-v0.0-202606032006-macOS-ARM64"
 }
