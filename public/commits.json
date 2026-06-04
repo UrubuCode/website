@@ -1,6 +1,54 @@
 {
-  "total": 2083,
+  "total": 2089,
   "commits": [
+    {
+      "sha": "2c770c54f7ef1e4ecc3012364bda1b45c25f77e6",
+      "short": "2c770c5",
+      "message": "docs: auto-update cross-runtime parity badge (94.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T14:00:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c770c54f7ef1e4ecc3012364bda1b45c25f77e6"
+    },
+    {
+      "sha": "23a345f49b103b22a3940952179926e2f30201a8",
+      "short": "23a345f",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-06-04T13:58:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/23a345f49b103b22a3940952179926e2f30201a8"
+    },
+    {
+      "sha": "e004d82540bc94032be69dd5fdcbc47d3ca09c42",
+      "short": "e004d82",
+      "message": "fix(timers): deterministic setTimeout ordering + await pumps the event loop",
+      "author": "Daniel",
+      "date": "2026-06-04T13:48:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e004d82540bc94032be69dd5fdcbc47d3ca09c42"
+    },
+    {
+      "sha": "8de61d650f02ee757d06aec5273fbe339e49c142",
+      "short": "8de61d6",
+      "message": "docs: auto-update cross-runtime parity badge (94.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T13:26:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8de61d650f02ee757d06aec5273fbe339e49c142"
+    },
+    {
+      "sha": "7ebc8c1a76b47e6904e85e3af8ec5bef80841507",
+      "short": "7ebc8c1",
+      "message": "fix(promise): deterministic FIFO microtask ordering for chained .then/.finally",
+      "author": "Daniel",
+      "date": "2026-06-04T13:22:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ebc8c1a76b47e6904e85e3af8ec5bef80841507"
+    },
+    {
+      "sha": "3aa424ec20a7443bd33baef0bcf0aa6debea3ca0",
+      "short": "3aa424e",
+      "message": "docs: translate CLAUDE.md + rules to English, drop RTK, flip regression rule",
+      "author": "Daniel",
+      "date": "2026-06-04T12:57:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3aa424ec20a7443bd33baef0bcf0aa6debea3ca0"
+    },
     {
       "sha": "8fa08a7ae0711b6944d4196b158df93b6d60c26d",
       "short": "8fa08a7",
@@ -112,54 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-04T03:47:14Z",
       "url": "https://github.com/UrubuCode/rts/commit/e16e16f5fe5967ad17a708f818099cf26747d4bf"
-    },
-    {
-      "sha": "2d21eee01dca55412444f9364d62116a04fc5423",
-      "short": "2d21eee",
-      "message": "docs: auto-update cross-runtime parity badge (92.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-04T03:39:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d21eee01dca55412444f9364d62116a04fc5423"
-    },
-    {
-      "sha": "6fc7e2c10a048bdff82035d5717ab4175027d38e",
-      "short": "6fc7e2c",
-      "message": "Merge branch 'fix/cross-runtime-restore-bigint-asyncgen'",
-      "author": "Daniel",
-      "date": "2026-06-04T03:36:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6fc7e2c10a048bdff82035d5717ab4175027d38e"
-    },
-    {
-      "sha": "081e5e452a5ca3d5f0d4869254df5aafd5312d48",
-      "short": "081e5e4",
-      "message": "feat(web-api): Blob + File global classes -> fecha 74/75",
-      "author": "Daniel",
-      "date": "2026-06-04T03:25:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/081e5e452a5ca3d5f0d4869254df5aafd5312d48"
-    },
-    {
-      "sha": "adaf354e2de8c13f2f0ad1b459acf33939d0e302",
-      "short": "adaf354",
-      "message": "fix(cross-runtime): restaura Intl/ReadableStream/structuredClone + BigInt typed arrays + async generator eager",
-      "author": "Daniel",
-      "date": "2026-06-04T03:11:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/adaf354e2de8c13f2f0ad1b459acf33939d0e302"
-    },
-    {
-      "sha": "75901e86c1746f1561d9b327d58a675fd251928c",
-      "short": "75901e8",
-      "message": "docs: auto-update cross-runtime parity badge (90.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-04T00:46:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75901e86c1746f1561d9b327d58a675fd251928c"
-    },
-    {
-      "sha": "b380f2479484ab85667b19856e806003d65de32e",
-      "short": "b380f24",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-06-04T00:44:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b380f2479484ab85667b19856e806003d65de32e"
     }
   ]
 }
