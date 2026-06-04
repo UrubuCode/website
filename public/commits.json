@@ -1,6 +1,150 @@
 {
-  "total": 2065,
+  "total": 2083,
   "commits": [
+    {
+      "sha": "8fa08a7ae0711b6944d4196b158df93b6d60c26d",
+      "short": "8fa08a7",
+      "message": "docs: auto-update cross-runtime parity badge (93.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T06:06:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8fa08a7ae0711b6944d4196b158df93b6d60c26d"
+    },
+    {
+      "sha": "f7420fcea6ebcf7d666da4592addf46e66217598",
+      "short": "f7420fc",
+      "message": "feat(iterator): Iterator helpers eager (from/map/filter/take/drop/toArray/reduce) -> fecha 305",
+      "author": "Daniel",
+      "date": "2026-06-04T06:03:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7420fcea6ebcf7d666da4592addf46e66217598"
+    },
+    {
+      "sha": "25c2e9301c1dc7ea090921ac85cfc9990a82289e",
+      "short": "25c2e93",
+      "message": "docs: auto-update cross-runtime parity badge (93.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T04:40:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/25c2e9301c1dc7ea090921ac85cfc9990a82289e"
+    },
+    {
+      "sha": "fd421b4b4e1dd258239af38f962a16b3a52d0147",
+      "short": "fd421b4",
+      "message": "docs: resolve README badge conflict (93.5%, 348/372)",
+      "author": "Daniel",
+      "date": "2026-06-04T04:37:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd421b4b4e1dd258239af38f962a16b3a52d0147"
+    },
+    {
+      "sha": "5175df81e9d656eff76e01602cf5a588eb2bdfcc",
+      "short": "5175df8",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-06-04T04:36:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5175df81e9d656eff76e01602cf5a588eb2bdfcc"
+    },
+    {
+      "sha": "9608ee22a2677dde9521e3031ce5f97aee38da48",
+      "short": "9608ee2",
+      "message": "feat(web-api): array.push(...spread) de member/fn + blob.stream() -> fecha 86",
+      "author": "Daniel",
+      "date": "2026-06-04T04:36:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9608ee22a2677dde9521e3031ce5f97aee38da48"
+    },
+    {
+      "sha": "9d954eaa5b5215feb96b759d8fd8881559e60f91",
+      "short": "9d954ea",
+      "message": "docs: auto-update cross-runtime parity badge (93.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T04:31:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d954eaa5b5215feb96b759d8fd8881559e60f91"
+    },
+    {
+      "sha": "a9cc50051eadc4665a7c3696ce068e84c5426794",
+      "short": "a9cc500",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-06-04T04:28:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9cc50051eadc4665a7c3696ce068e84c5426794"
+    },
+    {
+      "sha": "86d831b1a4ad287349a476c0a61915d0434c2b07",
+      "short": "86d831b",
+      "message": "fix(codegen): hoist_fn preserva default params + named fn expr self-reference",
+      "author": "Daniel",
+      "date": "2026-06-04T04:28:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/86d831b1a4ad287349a476c0a61915d0434c2b07"
+    },
+    {
+      "sha": "286ebb13dad64112c9e39f38925e9a0d56e729f9",
+      "short": "286ebb1",
+      "message": "docs: auto-update cross-runtime parity badge (93.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T04:13:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/286ebb13dad64112c9e39f38925e9a0d56e729f9"
+    },
+    {
+      "sha": "ccdab73258cd5c3ea7dfeec2586955ee06940f99",
+      "short": "ccdab73",
+      "message": "feat(crypto): crypto.subtle.digest + new Uint8Array(awaited handle) robusto -> fecha 79",
+      "author": "Daniel",
+      "date": "2026-06-04T04:10:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccdab73258cd5c3ea7dfeec2586955ee06940f99"
+    },
+    {
+      "sha": "60238f3aa20b24ef7e93efce8fc122867abfc612",
+      "short": "60238f3",
+      "message": "docs: auto-update cross-runtime parity badge (93%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T03:50:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/60238f3aa20b24ef7e93efce8fc122867abfc612"
+    },
+    {
+      "sha": "bcfee8b63ac25b5a097a1a924491a9d213af5ac6",
+      "short": "bcfee8b",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-06-04T03:47:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bcfee8b63ac25b5a097a1a924491a9d213af5ac6"
+    },
+    {
+      "sha": "e16e16f5fe5967ad17a708f818099cf26747d4bf",
+      "short": "e16e16f",
+      "message": "feat(web-api): Request + Response construtores -> fecha 85",
+      "author": "Daniel",
+      "date": "2026-06-04T03:47:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e16e16f5fe5967ad17a708f818099cf26747d4bf"
+    },
+    {
+      "sha": "2d21eee01dca55412444f9364d62116a04fc5423",
+      "short": "2d21eee",
+      "message": "docs: auto-update cross-runtime parity badge (92.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-04T03:39:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d21eee01dca55412444f9364d62116a04fc5423"
+    },
+    {
+      "sha": "6fc7e2c10a048bdff82035d5717ab4175027d38e",
+      "short": "6fc7e2c",
+      "message": "Merge branch 'fix/cross-runtime-restore-bigint-asyncgen'",
+      "author": "Daniel",
+      "date": "2026-06-04T03:36:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6fc7e2c10a048bdff82035d5717ab4175027d38e"
+    },
+    {
+      "sha": "081e5e452a5ca3d5f0d4869254df5aafd5312d48",
+      "short": "081e5e4",
+      "message": "feat(web-api): Blob + File global classes -> fecha 74/75",
+      "author": "Daniel",
+      "date": "2026-06-04T03:25:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/081e5e452a5ca3d5f0d4869254df5aafd5312d48"
+    },
+    {
+      "sha": "adaf354e2de8c13f2f0ad1b459acf33939d0e302",
+      "short": "adaf354",
+      "message": "fix(cross-runtime): restaura Intl/ReadableStream/structuredClone + BigInt typed arrays + async generator eager",
+      "author": "Daniel",
+      "date": "2026-06-04T03:11:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/adaf354e2de8c13f2f0ad1b459acf33939d0e302"
+    },
     {
       "sha": "75901e86c1746f1561d9b327d58a675fd251928c",
       "short": "75901e8",
@@ -16,150 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-04T00:44:10Z",
       "url": "https://github.com/UrubuCode/rts/commit/b380f2479484ab85667b19856e806003d65de32e"
-    },
-    {
-      "sha": "131c43705182a182d32032ffe627f5768483731e",
-      "short": "131c437",
-      "message": "Revert \"Merge branch 'main' of https://github.com/UrubuCode/rts\"",
-      "author": "Daniel",
-      "date": "2026-06-04T00:43:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/131c43705182a182d32032ffe627f5768483731e"
-    },
-    {
-      "sha": "c12146d7a347256df0c52143fff056f294f80512",
-      "short": "c12146d",
-      "message": "docs: auto-update cross-runtime parity badge (91.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-04T00:42:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c12146d7a347256df0c52143fff056f294f80512"
-    },
-    {
-      "sha": "59366602850a8e2d8c550f713fac5224d24d8aa8",
-      "short": "5936660",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-06-04T00:39:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/59366602850a8e2d8c550f713fac5224d24d8aa8"
-    },
-    {
-      "sha": "b7b6c087defe7b438ae8ab7d0dac9925bca4a8ad",
-      "short": "b7b6c08",
-      "message": "docs: auto-update cross-runtime parity badge (91.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T21:21:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7b6c087defe7b438ae8ab7d0dac9925bca4a8ad"
-    },
-    {
-      "sha": "b22d10c6b40298cee023749cb5c6ae03773135fa",
-      "short": "b22d10c",
-      "message": "fix(runtime): structuredClone clona RegExp (objeto diferente) (#225) (#1342)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T21:18:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b22d10c6b40298cee023749cb5c6ae03773135fa"
-    },
-    {
-      "sha": "c2e1a73790837f3239a2324be297d2c6aa437f7e",
-      "short": "c2e1a73",
-      "message": "docs: auto-update cross-runtime parity badge (91.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T21:13:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2e1a73790837f3239a2324be297d2c6aa437f7e"
-    },
-    {
-      "sha": "e5260e1c5dc61f3d13e4fddc93564a89257a9680",
-      "short": "e5260e1",
-      "message": "feat(streams): ReadableStream basico — fecha 64_readable_stream (#225) (#1341)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T21:11:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5260e1c5dc61f3d13e4fddc93564a89257a9680"
-    },
-    {
-      "sha": "f244c95b04f07a55537ba85004e9c3f0913b208e",
-      "short": "f244c95",
-      "message": "docs: auto-update cross-runtime parity badge (90.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T20:08:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f244c95b04f07a55537ba85004e9c3f0913b208e"
-    },
-    {
-      "sha": "4b447551d61b2cbf27a47672b6e1966967a955b8",
-      "short": "4b44755",
-      "message": "feat(intl): Intl.* sem ICU (valores fixos en) — fecha 59/71/78 (#225) (#1340)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T20:06:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b447551d61b2cbf27a47672b6e1966967a955b8"
-    },
-    {
-      "sha": "98f85e32b43cfaefc6b185a5f8ad876f475a8210",
-      "short": "98f85e3",
-      "message": "fix(runtime): structuredClone clona RegExp em novo handle (#1068)",
-      "author": "Daniel",
-      "date": "2026-06-03T19:57:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/98f85e32b43cfaefc6b185a5f8ad876f475a8210"
-    },
-    {
-      "sha": "47558acb0754d2cca1d083d3997ad86686775d8e",
-      "short": "47558ac",
-      "message": "docs: auto-update cross-runtime parity badge (90.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T19:23:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47558acb0754d2cca1d083d3997ad86686775d8e"
-    },
-    {
-      "sha": "b22c7277ad236643b834a9bb30fa2e96471e689a",
-      "short": "b22c727",
-      "message": "fix(runtime): Array.from(generator) drena o generator state-machine (#477) (#1339)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T19:20:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b22c7277ad236643b834a9bb30fa2e96471e689a"
-    },
-    {
-      "sha": "d4f126a1dc898a6a45ce9ecd7f7cc0d0c86e79b3",
-      "short": "d4f126a",
-      "message": "docs: auto-update cross-runtime parity badge (89.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T17:58:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4f126a1dc898a6a45ce9ecd7f7cc0d0c86e79b3"
-    },
-    {
-      "sha": "a0c9da50552d5971b91ed8f698dbdfce70e73a5a",
-      "short": "a0c9da5",
-      "message": "feat(async): vira RTS_ASYNC_SM ON por padrao (#207 fatia 3) (#1338)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T17:55:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a0c9da50552d5971b91ed8f698dbdfce70e73a5a"
-    },
-    {
-      "sha": "7585ae2f3a00523246feea5c7b423dd321bf5c68",
-      "short": "7585ae2",
-      "message": "docs: auto-update cross-runtime parity badge (89.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T17:49:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7585ae2f3a00523246feea5c7b423dd321bf5c68"
-    },
-    {
-      "sha": "0089ec8d1255e28c2473e51db72c899e0a3998cf",
-      "short": "0089ec8",
-      "message": "feat(async): event loop cooperativo via state-machine, await cede a microtask (#207 fatia 1) (#1337)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T17:45:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0089ec8d1255e28c2473e51db72c899e0a3998cf"
-    },
-    {
-      "sha": "0b053e4941aafe6186ca89705b328c38f379caae",
-      "short": "0b053e4",
-      "message": "docs: auto-update cross-runtime parity badge (89.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-03T16:30:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b053e4941aafe6186ca89705b328c38f379caae"
-    },
-    {
-      "sha": "1a55436169ba4bf90b80e407a635a343af660d27",
-      "short": "1a55436",
-      "message": "feat(codegen): iterator protocol custom — [Symbol.iterator] method + for-of (#216) (#1336)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-03T16:27:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1a55436169ba4bf90b80e407a635a343af660d27"
     }
   ]
 }
