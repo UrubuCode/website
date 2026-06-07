@@ -1,10 +1,10 @@
 {
-  "sha": "4f56fc6d8e9f96fb4dc05ce7e17061ae0bd6cdff",
-  "short_sha": "4f56fc6",
-  "title": "Merge pull request #1343 from UrubuCode/feat/closures-capture-foundation",
-  "created": "2026-06-05T02:32:32Z",
-  "run_id": "26991806884",
-  "linux": "https://urubucode.github.io/rts/downloads/4f56fc6/rts-v0.0-202606050232-Linux-X64/rts-v0.0-202606050232-Linux-X64",
-  "windows": "https://urubucode.github.io/rts/downloads/4f56fc6/rts-v0.0-202606050232-Windows-X64/rts-v0.0-202606050232-Windows-X64.exe",
-  "macos": "https://urubucode.github.io/rts/downloads/4f56fc6/rts-v0.0-202606050232-macOS-ARM64/rts-v0.0-202606050232-macOS-ARM64"
+  "sha": "b1ca8274023d02a93a382fb82f5c901d148f8e03",
+  "short_sha": "b1ca827",
+  "title": "Merge pull request #1347 from UrubuCode/feat/closures-capture-foundation",
+  "created": "2026-06-07T01:10:26Z",
+  "run_id": "27078847886",
+  "linux": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-Linux-X64/rts-v0.0-202606070110-Linux-X64",
+  "windows": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-Windows-X64/rts-v0.0-202606070110-Windows-X64.exe",
+  "macos": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-macOS-ARM64/rts-v0.0-202606070110-macOS-ARM64"
 }

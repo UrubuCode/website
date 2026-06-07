@@ -1,165 +1,165 @@
 {
-  "total": 2101,
+  "total": 2190,
   "commits": [
     {
-      "sha": "13de671ca849a72fa7fc07641aa2ecfc6fe62329",
-      "short": "13de671",
-      "message": "docs: auto-update cross-runtime parity badge (95.7%)",
+      "sha": "585ffc86c572175d4aa8b32ec0dd793ef1b27b71",
+      "short": "585ffc8",
+      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-05T02:35:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/13de671ca849a72fa7fc07641aa2ecfc6fe62329"
+      "date": "2026-06-07T01:13:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/585ffc86c572175d4aa8b32ec0dd793ef1b27b71"
     },
     {
-      "sha": "4f56fc6d8e9f96fb4dc05ce7e17061ae0bd6cdff",
-      "short": "4f56fc6",
-      "message": "Merge pull request #1343 from UrubuCode/feat/closures-capture-foundation",
+      "sha": "b1ca8274023d02a93a382fb82f5c901d148f8e03",
+      "short": "b1ca827",
+      "message": "Merge pull request #1347 from UrubuCode/feat/closures-capture-foundation",
       "author": "Drysius",
-      "date": "2026-06-05T02:32:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f56fc6d8e9f96fb4dc05ce7e17061ae0bd6cdff"
+      "date": "2026-06-07T01:10:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1ca8274023d02a93a382fb82f5c901d148f8e03"
     },
     {
-      "sha": "f25bac9724f3c0c2bbcba25a414349458ab432ab",
-      "short": "f25bac9",
-      "message": "docs(maintenance): record 5 cross-runtime flips (94.3% -> 95.7%)",
+      "sha": "2b05d2441994aec58e6ae2f190467f698a7d8b58",
+      "short": "2b05d24",
+      "message": "revert(aot): restore src/namespaces archive build — green CI",
       "author": "Daniel",
-      "date": "2026-06-05T02:03:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f25bac9724f3c0c2bbcba25a414349458ab432ab"
+      "date": "2026-06-07T00:53:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2b05d2441994aec58e6ae2f190467f698a7d8b58"
     },
     {
-      "sha": "6fa52685c31eda1aa79254c79847ac324203adc6",
-      "short": "6fa5268",
-      "message": "feat(streams): CompressionStream gzip/deflate (flips 88_compression_stream)",
+      "sha": "af4a71db5a022708f5d5eea97d729d4a47bd6249",
+      "short": "af4a71d",
+      "message": "fix(ci): build workspace before rust-test so the AOT runtime staticlib exists",
       "author": "Daniel",
-      "date": "2026-06-05T01:19:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6fa52685c31eda1aa79254c79847ac324203adc6"
+      "date": "2026-06-07T00:35:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af4a71db5a022708f5d5eea97d729d4a47bd6249"
     },
     {
-      "sha": "672177c0c590898ef78640b731d137b1c37f3ce2",
-      "short": "672177c",
-      "message": "feat(streams): TextEncoderStream/TextDecoderStream + pipeThrough (flips 101)",
-      "author": "Daniel",
-      "date": "2026-06-05T00:46:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/672177c0c590898ef78640b731d137b1c37f3ce2"
-    },
-    {
-      "sha": "e54d734edc89778d698c026b15eda5ec8c1c5c84",
-      "short": "e54d734",
-      "message": "feat(streams): TransformStream end-to-end (flips 96_streams_transform)",
-      "author": "Daniel",
-      "date": "2026-06-05T00:28:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e54d734edc89778d698c026b15eda5ec8c1c5c84"
-    },
-    {
-      "sha": "7e80fe15a47631739d27a3dc48daa86d9110b704",
-      "short": "7e80fe1",
-      "message": "docs(maintenance): record 291 + 76 flips (94.9%) + streams async gate",
-      "author": "Daniel",
-      "date": "2026-06-04T22:24:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e80fe15a47631739d27a3dc48daa86d9110b704"
-    },
-    {
-      "sha": "29a4436bd5237c085ec6390334e024a58848db81",
-      "short": "29a4436",
-      "message": "feat(message-channel): MessageChannel/MessagePort global classes",
-      "author": "Daniel",
-      "date": "2026-06-04T22:23:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29a4436bd5237c085ec6390334e024a58848db81"
-    },
-    {
-      "sha": "68e0a4bf3d35d57c76b0abb8eda9fbac971a468c",
-      "short": "68e0a4b",
-      "message": "feat(json): JSON.stringify throws TypeError on BigInt in object literal",
-      "author": "Daniel",
-      "date": "2026-06-04T21:55:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68e0a4bf3d35d57c76b0abb8eda9fbac971a468c"
-    },
-    {
-      "sha": "e663913d6accf051ff81d42cbddcd433fb29d46a",
-      "short": "e663913",
-      "message": "feat(closures): capture-by-value in hoist_fn + callee-param i64 + variadic rest infra",
-      "author": "Daniel",
-      "date": "2026-06-04T20:50:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e663913d6accf051ff81d42cbddcd433fb29d46a"
-    },
-    {
-      "sha": "1ed3ca7e1749da80a987d96f5224b772b6d7ed03",
-      "short": "1ed3ca7",
-      "message": "docs: cross-runtime PUSH MODE rule + cluster A closure diagnosis",
-      "author": "Daniel",
-      "date": "2026-06-04T20:50:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1ed3ca7e1749da80a987d96f5224b772b6d7ed03"
-    },
-    {
-      "sha": "3c69bb8f262d4af5e6e7c6e0b79aca9ffd6a471b",
-      "short": "3c69bb8",
-      "message": "docs: add MAINTENANCE.md — path to 100% cross-runtime + rule conflict",
-      "author": "Daniel",
-      "date": "2026-06-04T14:34:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3c69bb8f262d4af5e6e7c6e0b79aca9ffd6a471b"
-    },
-    {
-      "sha": "2c770c54f7ef1e4ecc3012364bda1b45c25f77e6",
-      "short": "2c770c5",
-      "message": "docs: auto-update cross-runtime parity badge (94.4%)",
+      "sha": "0c01a98739f965cab356aacdfa12a72c0c30481d",
+      "short": "0c01a98",
+      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-04T14:00:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c770c54f7ef1e4ecc3012364bda1b45c25f77e6"
+      "date": "2026-06-07T00:24:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c01a98739f965cab356aacdfa12a72c0c30481d"
     },
     {
-      "sha": "23a345f49b103b22a3940952179926e2f30201a8",
-      "short": "23a345f",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "7be808321fd9813fe5e870a93ea5a4349e41fe0e",
+      "short": "7be8083",
+      "message": "Merge pull request #1346 from UrubuCode/feat/closures-capture-foundation",
+      "author": "Drysius",
+      "date": "2026-06-07T00:22:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7be808321fd9813fe5e870a93ea5a4349e41fe0e"
+    },
+    {
+      "sha": "3117406a258c2c8f9c94e9fe71492c5103f42426",
+      "short": "3117406",
+      "message": "fix(codegen): for-of over a class-field array crashed on element method call",
       "author": "Daniel",
-      "date": "2026-06-04T13:58:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/23a345f49b103b22a3940952179926e2f30201a8"
+      "date": "2026-06-06T23:20:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3117406a258c2c8f9c94e9fe71492c5103f42426"
     },
     {
-      "sha": "e004d82540bc94032be69dd5fdcbc47d3ca09c42",
-      "short": "e004d82",
-      "message": "fix(timers): deterministic setTimeout ordering + await pumps the event loop",
+      "sha": "d894cad13668641f74961cf9ba110ef094d3a2f1",
+      "short": "d894cad",
+      "message": "fix(codegen): reassigning a class-instance var with a method result zeroed fields",
       "author": "Daniel",
-      "date": "2026-06-04T13:48:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e004d82540bc94032be69dd5fdcbc47d3ca09c42"
+      "date": "2026-06-06T23:01:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d894cad13668641f74961cf9ba110ef094d3a2f1"
     },
     {
-      "sha": "8de61d650f02ee757d06aec5273fbe339e49c142",
-      "short": "8de61d6",
-      "message": "docs: auto-update cross-runtime parity badge (94.3%)",
+      "sha": "dacd7a77e093500501c304546fb1446aa86c0b79",
+      "short": "dacd7a7",
+      "message": "Merge branch 'feat/closures-capture-foundation' of https://github.com/UrubuCode/rts into feat/closures-capture-foundation",
+      "author": "Daniel",
+      "date": "2026-06-06T22:56:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dacd7a77e093500501c304546fb1446aa86c0b79"
+    },
+    {
+      "sha": "2691537e522f5adb9a449ea5a86db2ad94bbf3f0",
+      "short": "2691537",
+      "message": "fix(aot): build runtime archive from canonical rts-runtime via cargo staticlib",
+      "author": "Daniel",
+      "date": "2026-06-06T22:25:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2691537e522f5adb9a449ea5a86db2ad94bbf3f0"
+    },
+    {
+      "sha": "466496a4ed0688cf600373df8777bff47a99c7d1",
+      "short": "466496a",
+      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-04T13:26:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8de61d650f02ee757d06aec5273fbe339e49c142"
+      "date": "2026-06-06T21:59:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/466496a4ed0688cf600373df8777bff47a99c7d1"
     },
     {
-      "sha": "7ebc8c1a76b47e6904e85e3af8ec5bef80841507",
-      "short": "7ebc8c1",
-      "message": "fix(promise): deterministic FIFO microtask ordering for chained .then/.finally",
+      "sha": "9234b7525ecc35bfa25cc658992d6446e0e1ff63",
+      "short": "9234b75",
+      "message": "Merge pull request #1344 from UrubuCode/feat/closures-capture-foundation",
+      "author": "Drysius",
+      "date": "2026-06-06T21:56:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9234b7525ecc35bfa25cc658992d6446e0e1ff63"
+    },
+    {
+      "sha": "3bcede81aba6bd57b1e09c5a8205cfcbcf58b6f7",
+      "short": "3bcede8",
+      "message": "Merge branch 'main' into feat/closures-capture-foundation",
+      "author": "Drysius",
+      "date": "2026-06-06T21:56:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3bcede81aba6bd57b1e09c5a8205cfcbcf58b6f7"
+    },
+    {
+      "sha": "cb7ad949661e9e0e204a9a55ea6a3ffd7f932258",
+      "short": "cb7ad94",
+      "message": "docs(cross-runtime): 100.0% (372/372) — all fixtures pass",
       "author": "Daniel",
-      "date": "2026-06-04T13:22:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ebc8c1a76b47e6904e85e3af8ec5bef80841507"
+      "date": "2026-06-06T21:53:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb7ad949661e9e0e204a9a55ea6a3ffd7f932258"
     },
     {
-      "sha": "3aa424ec20a7443bd33baef0bcf0aa6debea3ca0",
-      "short": "3aa424e",
-      "message": "docs: translate CLAUDE.md + rules to English, drop RTK, flip regression rule",
+      "sha": "49cc233f651d2a93902a3f8b12da253b84b6eee0",
+      "short": "49cc233",
+      "message": "feat(closures): box recursive/sibling-captured nested fns → 100% cross-runtime",
       "author": "Daniel",
-      "date": "2026-06-04T12:57:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3aa424ec20a7443bd33baef0bcf0aa6debea3ca0"
+      "date": "2026-06-06T21:53:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49cc233f651d2a93902a3f8b12da253b84b6eee0"
     },
     {
-      "sha": "8fa08a7ae0711b6944d4196b158df93b6d60c26d",
-      "short": "8fa08a7",
-      "message": "docs: auto-update cross-runtime parity badge (93.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-04T06:06:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8fa08a7ae0711b6944d4196b158df93b6d60c26d"
-    },
-    {
-      "sha": "f7420fcea6ebcf7d666da4592addf46e66217598",
-      "short": "f7420fc",
-      "message": "feat(iterator): Iterator helpers eager (from/map/filter/take/drop/toArray/reduce) -> fecha 305",
+      "sha": "4eecbeb1446762a759308abc31544b05c7864973",
+      "short": "4eecbeb",
+      "message": "feat(closures): generator fn-exprs via lazy SM + indirect .next + capture-a-user-fn",
       "author": "Daniel",
-      "date": "2026-06-04T06:03:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f7420fcea6ebcf7d666da4592addf46e66217598"
+      "date": "2026-06-06T21:34:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4eecbeb1446762a759308abc31544b05c7864973"
+    },
+    {
+      "sha": "45aadd20dc290e0ef31dfd95eab400838f4eaed8",
+      "short": "45aadd2",
+      "message": "fix(gc): root handles held in I64 globals + the pending microtask queue",
+      "author": "Daniel",
+      "date": "2026-06-06T20:49:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/45aadd20dc290e0ef31dfd95eab400838f4eaed8"
+    },
+    {
+      "sha": "b72391ed63e9b09aac77113babf9bcebcd382d96",
+      "short": "b72391e",
+      "message": "fix(functions): FUNCTION_CALL invokes raw func_addr (.call/.apply on param fns)",
+      "author": "Daniel",
+      "date": "2026-06-06T18:24:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b72391ed63e9b09aac77113babf9bcebcd382d96"
+    },
+    {
+      "sha": "778195f7984c4bcb24accb672be5fd1585c2b89c",
+      "short": "778195f",
+      "message": "fix(closures): prototype registry handles raw func_addr (344 inheritance works)",
+      "author": "Daniel",
+      "date": "2026-06-06T17:43:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/778195f7984c4bcb24accb672be5fd1585c2b89c"
+    },
+    {
+      "sha": "6a11c0dd81195a06752467c7f854745d4b745567",
+      "short": "6a11c0d",
+      "message": "feat(closures): constructor-capture closures + .prototype on param functions",
+      "author": "Daniel",
+      "date": "2026-06-06T17:34:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a11c0dd81195a06752467c7f854745d4b745567"
     }
   ]
 }

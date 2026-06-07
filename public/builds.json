@@ -1,5 +1,59 @@
 [
   {
+    "sha": "b1ca8274023d02a93a382fb82f5c901d148f8e03",
+    "short_sha": "b1ca827",
+    "title": "Merge pull request #1347 from UrubuCode/feat/closures-capture-foundation",
+    "created": "2026-06-07T01:10:26Z",
+    "run_id": "27078847886",
+    "artifacts": [
+      {
+        "name": "rts-v0.0-202606070110-Linux-X64",
+        "file": "rts-v0.0-202606070110-Linux-X64",
+        "size_mb": "113.5",
+        "url": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-Linux-X64/rts-v0.0-202606070110-Linux-X64"
+      },
+      {
+        "name": "rts-v0.0-202606070110-Windows-X64",
+        "file": "rts-v0.0-202606070110-Windows-X64.exe",
+        "size_mb": "116.5",
+        "url": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-Windows-X64/rts-v0.0-202606070110-Windows-X64.exe"
+      },
+      {
+        "name": "rts-v0.0-202606070110-macOS-ARM64",
+        "file": "rts-v0.0-202606070110-macOS-ARM64",
+        "size_mb": "76.0",
+        "url": "https://urubucode.github.io/rts/downloads/b1ca827/rts-v0.0-202606070110-macOS-ARM64/rts-v0.0-202606070110-macOS-ARM64"
+      }
+    ]
+  },
+  {
+    "sha": "9234b7525ecc35bfa25cc658992d6446e0e1ff63",
+    "short_sha": "9234b75",
+    "title": "Merge pull request #1344 from UrubuCode/feat/closures-capture-foundation",
+    "created": "2026-06-06T21:56:58Z",
+    "run_id": "27074978435",
+    "artifacts": [
+      {
+        "name": "rts-v0.0-202606062157-Linux-X64",
+        "file": "rts-v0.0-202606062157-Linux-X64",
+        "size_mb": "113.5",
+        "url": "https://urubucode.github.io/rts/downloads/9234b75/rts-v0.0-202606062157-Linux-X64/rts-v0.0-202606062157-Linux-X64"
+      },
+      {
+        "name": "rts-v0.0-202606062157-Windows-X64",
+        "file": "rts-v0.0-202606062157-Windows-X64.exe",
+        "size_mb": "116.5",
+        "url": "https://urubucode.github.io/rts/downloads/9234b75/rts-v0.0-202606062157-Windows-X64/rts-v0.0-202606062157-Windows-X64.exe"
+      },
+      {
+        "name": "rts-v0.0-202606062157-macOS-ARM64",
+        "file": "rts-v0.0-202606062157-macOS-ARM64",
+        "size_mb": "76.0",
+        "url": "https://urubucode.github.io/rts/downloads/9234b75/rts-v0.0-202606062157-macOS-ARM64/rts-v0.0-202606062157-macOS-ARM64"
+      }
+    ]
+  },
+  {
     "sha": "4f56fc6d8e9f96fb4dc05ce7e17061ae0bd6cdff",
     "short_sha": "4f56fc6",
     "title": "Merge pull request #1343 from UrubuCode/feat/closures-capture-foundation",
@@ -212,60 +266,6 @@
         "file": "rts-v0.0-202606040410-macOS-ARM64",
         "size_mb": "78.1",
         "url": "https://urubucode.github.io/rts/downloads/ccdab73/rts-v0.0-202606040410-macOS-ARM64/rts-v0.0-202606040410-macOS-ARM64"
-      }
-    ]
-  },
-  {
-    "sha": "bcfee8b63ac25b5a097a1a924491a9d213af5ac6",
-    "short_sha": "bcfee8b",
-    "title": "Merge remote-tracking branch 'origin/main'",
-    "created": "2026-06-04T03:47:41Z",
-    "run_id": "26929245327",
-    "artifacts": [
-      {
-        "name": "rts-v0.0-202606040347-Linux-X64",
-        "file": "rts-v0.0-202606040347-Linux-X64",
-        "size_mb": "113.3",
-        "url": "https://urubucode.github.io/rts/downloads/bcfee8b/rts-v0.0-202606040347-Linux-X64/rts-v0.0-202606040347-Linux-X64"
-      },
-      {
-        "name": "rts-v0.0-202606040347-Windows-X64",
-        "file": "rts-v0.0-202606040347-Windows-X64.exe",
-        "size_mb": "116.4",
-        "url": "https://urubucode.github.io/rts/downloads/bcfee8b/rts-v0.0-202606040347-Windows-X64/rts-v0.0-202606040347-Windows-X64.exe"
-      },
-      {
-        "name": "rts-v0.0-202606040347-macOS-ARM64",
-        "file": "rts-v0.0-202606040347-macOS-ARM64",
-        "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/bcfee8b/rts-v0.0-202606040347-macOS-ARM64/rts-v0.0-202606040347-macOS-ARM64"
-      }
-    ]
-  },
-  {
-    "sha": "6fc7e2c10a048bdff82035d5717ab4175027d38e",
-    "short_sha": "6fc7e2c",
-    "title": "Merge branch 'fix/cross-runtime-restore-bigint-asyncgen'",
-    "created": "2026-06-04T03:37:02Z",
-    "run_id": "26928871827",
-    "artifacts": [
-      {
-        "name": "rts-v0.0-202606040337-Linux-X64",
-        "file": "rts-v0.0-202606040337-Linux-X64",
-        "size_mb": "113.3",
-        "url": "https://urubucode.github.io/rts/downloads/6fc7e2c/rts-v0.0-202606040337-Linux-X64/rts-v0.0-202606040337-Linux-X64"
-      },
-      {
-        "name": "rts-v0.0-202606040337-Windows-X64",
-        "file": "rts-v0.0-202606040337-Windows-X64.exe",
-        "size_mb": "116.4",
-        "url": "https://urubucode.github.io/rts/downloads/6fc7e2c/rts-v0.0-202606040337-Windows-X64/rts-v0.0-202606040337-Windows-X64.exe"
-      },
-      {
-        "name": "rts-v0.0-202606040337-macOS-ARM64",
-        "file": "rts-v0.0-202606040337-macOS-ARM64",
-        "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/6fc7e2c/rts-v0.0-202606040337-macOS-ARM64/rts-v0.0-202606040337-macOS-ARM64"
       }
     ]
   }
