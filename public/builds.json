@@ -1,5 +1,32 @@
 [
   {
+    "sha": "ef406d851f197f2aafad12a95708f4c79169feec",
+    "short_sha": "ef406d8",
+    "title": "Merge pull request #1353 from UrubuCode/fix/aot-archive-serde-variant-ci",
+    "created": "2026-06-07T07:15:34Z",
+    "run_id": "27085869639",
+    "artifacts": [
+      {
+        "name": "rts-v0.0-202606070715-Linux-X64",
+        "file": "rts-v0.0-202606070715-Linux-X64",
+        "size_mb": "71.3",
+        "url": "https://urubucode.github.io/rts/downloads/ef406d8/rts-v0.0-202606070715-Linux-X64/rts-v0.0-202606070715-Linux-X64"
+      },
+      {
+        "name": "rts-v0.0-202606070715-Windows-X64",
+        "file": "rts-v0.0-202606070715-Windows-X64.exe",
+        "size_mb": "102.9",
+        "url": "https://urubucode.github.io/rts/downloads/ef406d8/rts-v0.0-202606070715-Windows-X64/rts-v0.0-202606070715-Windows-X64.exe"
+      },
+      {
+        "name": "rts-v0.0-202606070715-macOS-ARM64",
+        "file": "rts-v0.0-202606070715-macOS-ARM64",
+        "size_mb": "88.1",
+        "url": "https://urubucode.github.io/rts/downloads/ef406d8/rts-v0.0-202606070715-macOS-ARM64/rts-v0.0-202606070715-macOS-ARM64"
+      }
+    ]
+  },
+  {
     "sha": "b1ca8274023d02a93a382fb82f5c901d148f8e03",
     "short_sha": "b1ca827",
     "title": "Merge pull request #1347 from UrubuCode/feat/closures-capture-foundation",
@@ -239,33 +266,6 @@
         "file": "rts-v0.0-202606040428-macOS-ARM64",
         "size_mb": "78.1",
         "url": "https://urubucode.github.io/rts/downloads/a9cc500/rts-v0.0-202606040428-macOS-ARM64/rts-v0.0-202606040428-macOS-ARM64"
-      }
-    ]
-  },
-  {
-    "sha": "ccdab73258cd5c3ea7dfeec2586955ee06940f99",
-    "short_sha": "ccdab73",
-    "title": "feat(crypto): crypto.subtle.digest + new Uint8Array(awaited handle) r…",
-    "created": "2026-06-04T04:10:34Z",
-    "run_id": "26930076737",
-    "artifacts": [
-      {
-        "name": "rts-v0.0-202606040410-Linux-X64",
-        "file": "rts-v0.0-202606040410-Linux-X64",
-        "size_mb": "113.3",
-        "url": "https://urubucode.github.io/rts/downloads/ccdab73/rts-v0.0-202606040410-Linux-X64/rts-v0.0-202606040410-Linux-X64"
-      },
-      {
-        "name": "rts-v0.0-202606040410-Windows-X64",
-        "file": "rts-v0.0-202606040410-Windows-X64.exe",
-        "size_mb": "116.4",
-        "url": "https://urubucode.github.io/rts/downloads/ccdab73/rts-v0.0-202606040410-Windows-X64/rts-v0.0-202606040410-Windows-X64.exe"
-      },
-      {
-        "name": "rts-v0.0-202606040410-macOS-ARM64",
-        "file": "rts-v0.0-202606040410-macOS-ARM64",
-        "size_mb": "78.1",
-        "url": "https://urubucode.github.io/rts/downloads/ccdab73/rts-v0.0-202606040410-macOS-ARM64/rts-v0.0-202606040410-macOS-ARM64"
       }
     ]
   }

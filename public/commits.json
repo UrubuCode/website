@@ -1,6 +1,158 @@
 {
-  "total": 2190,
+  "total": 2209,
   "commits": [
+    {
+      "sha": "9e74f044ceffebff467771532606f35d59039dc1",
+      "short": "9e74f04",
+      "message": "Merge pull request #1355 from UrubuCode/ci/reuse-artifacts",
+      "author": "Drysius",
+      "date": "2026-06-07T08:24:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e74f044ceffebff467771532606f35d59039dc1"
+    },
+    {
+      "sha": "0f5f5186b3b41f26d0ddbf80c44b03e028b5f464",
+      "short": "0f5f518",
+      "message": "ci: ts-suite non-blocking so it doesn't gate release/benchmarks",
+      "author": "Daniel",
+      "date": "2026-06-07T08:23:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0f5f5186b3b41f26d0ddbf80c44b03e028b5f464"
+    },
+    {
+      "sha": "f6b940095f73282986c7105efb66cba5fd59142d",
+      "short": "f6b9400",
+      "message": "ci: cross-runtime reuses build binary; drop pages.yml",
+      "author": "Daniel",
+      "date": "2026-06-07T07:58:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6b940095f73282986c7105efb66cba5fd59142d"
+    },
+    {
+      "sha": "c6defb09542dd436cc3f1d1527bf1d91242081d6",
+      "short": "c6defb0",
+      "message": "ci: TS suite reuses the build binary (drop separate debug compile)",
+      "author": "Daniel",
+      "date": "2026-06-07T07:54:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c6defb09542dd436cc3f1d1527bf1d91242081d6"
+    },
+    {
+      "sha": "cc61fd7aa516130e68184383c2d88cf0083e66b6",
+      "short": "cc61fd7",
+      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-07T07:51:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cc61fd7aa516130e68184383c2d88cf0083e66b6"
+    },
+    {
+      "sha": "426d8db8805074d31085691b3ce6948ed9e273fc",
+      "short": "426d8db",
+      "message": "Merge pull request #1354 from UrubuCode/ci/composite-actions",
+      "author": "Drysius",
+      "date": "2026-06-07T07:46:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/426d8db8805074d31085691b3ce6948ed9e273fc"
+    },
+    {
+      "sha": "fccdb2fd6b7551d8582fec3975a8723b08508050",
+      "short": "fccdb2f",
+      "message": "ci: build on Windows via pwsh, not git-bash (MSVC link.exe hijack)",
+      "author": "Daniel",
+      "date": "2026-06-07T07:33:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fccdb2fd6b7551d8582fec3975a8723b08508050"
+    },
+    {
+      "sha": "c722b287a869fb73e25e76d3d01316242c9d155f",
+      "short": "c722b28",
+      "message": "ci: share one cargo cache per OS, write only on main",
+      "author": "Daniel",
+      "date": "2026-06-07T07:31:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c722b287a869fb73e25e76d3d01316242c9d155f"
+    },
+    {
+      "sha": "29c049fa0ecbadc7df19134c2c4bc466fd2de5ab",
+      "short": "29c049f",
+      "message": "ci: move Windows MSVC setup out of composite (GITHUB_ENV does not propagate)",
+      "author": "Daniel",
+      "date": "2026-06-07T07:28:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29c049fa0ecbadc7df19134c2c4bc466fd2de5ab"
+    },
+    {
+      "sha": "317e5c144cdaf5862f057a084359d381f3725846",
+      "short": "317e5c1",
+      "message": "ci: extract shared setup/build into composite actions (DRY)",
+      "author": "Daniel",
+      "date": "2026-06-07T07:24:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/317e5c144cdaf5862f057a084359d381f3725846"
+    },
+    {
+      "sha": "ef406d851f197f2aafad12a95708f4c79169feec",
+      "short": "ef406d8",
+      "message": "Merge pull request #1353 from UrubuCode/fix/aot-archive-serde-variant-ci",
+      "author": "Drysius",
+      "date": "2026-06-07T07:15:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef406d851f197f2aafad12a95708f4c79169feec"
+    },
+    {
+      "sha": "8176f3197868b7661e4742e6b5d236fe00579645",
+      "short": "8176f31",
+      "message": "fix(build): produce AOT archive as a Cargo staticlib (kills rlib hand-matching)",
+      "author": "Daniel",
+      "date": "2026-06-07T07:05:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8176f3197868b7661e4742e6b5d236fe00579645"
+    },
+    {
+      "sha": "801a75b38d6e4e514d8711a8ea1b62c5eb42e17b",
+      "short": "801a75b",
+      "message": "fix(build): pin transitive serde_core variant for AOT archive on CI Windows",
+      "author": "Daniel",
+      "date": "2026-06-07T06:46:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/801a75b38d6e4e514d8711a8ea1b62c5eb42e17b"
+    },
+    {
+      "sha": "8f391a8fa9ed16a1cc53616a8930856c6961aca2",
+      "short": "8f391a8",
+      "message": "Merge pull request #1352 from UrubuCode/chore/repo-cleanup",
+      "author": "Drysius",
+      "date": "2026-06-07T06:25:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f391a8fa9ed16a1cc53616a8930856c6961aca2"
+    },
+    {
+      "sha": "6b4515996574108c7c25795bff920429e9dfaeaa",
+      "short": "6b45159",
+      "message": "chore: prune one-off docs, test dumps, stray files; logo to .github/imgs",
+      "author": "Daniel",
+      "date": "2026-06-07T06:25:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b4515996574108c7c25795bff920429e9dfaeaa"
+    },
+    {
+      "sha": "b1b2a1e237be3c782cc45357dce0483c6ce70790",
+      "short": "b1b2a1e",
+      "message": "Merge pull request #1351 from UrubuCode/chore/drop-gc-arena",
+      "author": "Drysius",
+      "date": "2026-06-07T06:14:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1b2a1e237be3c782cc45357dce0483c6ce70790"
+    },
+    {
+      "sha": "8c919d9550cc94be2c4bf66c4d19f2e91290e9fe",
+      "short": "8c919d9",
+      "message": "chore: drop unused gc-arena dependency and its docs",
+      "author": "Daniel",
+      "date": "2026-06-07T06:14:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c919d9550cc94be2c4bf66c4d19f2e91290e9fe"
+    },
+    {
+      "sha": "fad02433972294d663665b91f8fa69962b02ad6a",
+      "short": "fad0243",
+      "message": "Merge pull request #1350 from UrubuCode/cleanup/remove-unreachable-src",
+      "author": "Drysius",
+      "date": "2026-06-07T06:06:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fad02433972294d663665b91f8fa69962b02ad6a"
+    },
+    {
+      "sha": "f69af524ff1c0f616a2f66fe7cac6a52e3c1da20",
+      "short": "f69af52",
+      "message": "refactor(aot): build runtime archive from rts-runtime, drop stale src/ duplicates",
+      "author": "Daniel",
+      "date": "2026-06-07T06:06:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f69af524ff1c0f616a2f66fe7cac6a52e3c1da20"
+    },
     {
       "sha": "585ffc86c572175d4aa8b32ec0dd793ef1b27b71",
       "short": "585ffc8",
@@ -8,158 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-06-07T01:13:13Z",
       "url": "https://github.com/UrubuCode/rts/commit/585ffc86c572175d4aa8b32ec0dd793ef1b27b71"
-    },
-    {
-      "sha": "b1ca8274023d02a93a382fb82f5c901d148f8e03",
-      "short": "b1ca827",
-      "message": "Merge pull request #1347 from UrubuCode/feat/closures-capture-foundation",
-      "author": "Drysius",
-      "date": "2026-06-07T01:10:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1ca8274023d02a93a382fb82f5c901d148f8e03"
-    },
-    {
-      "sha": "2b05d2441994aec58e6ae2f190467f698a7d8b58",
-      "short": "2b05d24",
-      "message": "revert(aot): restore src/namespaces archive build — green CI",
-      "author": "Daniel",
-      "date": "2026-06-07T00:53:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b05d2441994aec58e6ae2f190467f698a7d8b58"
-    },
-    {
-      "sha": "af4a71db5a022708f5d5eea97d729d4a47bd6249",
-      "short": "af4a71d",
-      "message": "fix(ci): build workspace before rust-test so the AOT runtime staticlib exists",
-      "author": "Daniel",
-      "date": "2026-06-07T00:35:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af4a71db5a022708f5d5eea97d729d4a47bd6249"
-    },
-    {
-      "sha": "0c01a98739f965cab356aacdfa12a72c0c30481d",
-      "short": "0c01a98",
-      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-07T00:24:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c01a98739f965cab356aacdfa12a72c0c30481d"
-    },
-    {
-      "sha": "7be808321fd9813fe5e870a93ea5a4349e41fe0e",
-      "short": "7be8083",
-      "message": "Merge pull request #1346 from UrubuCode/feat/closures-capture-foundation",
-      "author": "Drysius",
-      "date": "2026-06-07T00:22:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7be808321fd9813fe5e870a93ea5a4349e41fe0e"
-    },
-    {
-      "sha": "3117406a258c2c8f9c94e9fe71492c5103f42426",
-      "short": "3117406",
-      "message": "fix(codegen): for-of over a class-field array crashed on element method call",
-      "author": "Daniel",
-      "date": "2026-06-06T23:20:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3117406a258c2c8f9c94e9fe71492c5103f42426"
-    },
-    {
-      "sha": "d894cad13668641f74961cf9ba110ef094d3a2f1",
-      "short": "d894cad",
-      "message": "fix(codegen): reassigning a class-instance var with a method result zeroed fields",
-      "author": "Daniel",
-      "date": "2026-06-06T23:01:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d894cad13668641f74961cf9ba110ef094d3a2f1"
-    },
-    {
-      "sha": "dacd7a77e093500501c304546fb1446aa86c0b79",
-      "short": "dacd7a7",
-      "message": "Merge branch 'feat/closures-capture-foundation' of https://github.com/UrubuCode/rts into feat/closures-capture-foundation",
-      "author": "Daniel",
-      "date": "2026-06-06T22:56:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dacd7a77e093500501c304546fb1446aa86c0b79"
-    },
-    {
-      "sha": "2691537e522f5adb9a449ea5a86db2ad94bbf3f0",
-      "short": "2691537",
-      "message": "fix(aot): build runtime archive from canonical rts-runtime via cargo staticlib",
-      "author": "Daniel",
-      "date": "2026-06-06T22:25:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2691537e522f5adb9a449ea5a86db2ad94bbf3f0"
-    },
-    {
-      "sha": "466496a4ed0688cf600373df8777bff47a99c7d1",
-      "short": "466496a",
-      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-06T21:59:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/466496a4ed0688cf600373df8777bff47a99c7d1"
-    },
-    {
-      "sha": "9234b7525ecc35bfa25cc658992d6446e0e1ff63",
-      "short": "9234b75",
-      "message": "Merge pull request #1344 from UrubuCode/feat/closures-capture-foundation",
-      "author": "Drysius",
-      "date": "2026-06-06T21:56:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9234b7525ecc35bfa25cc658992d6446e0e1ff63"
-    },
-    {
-      "sha": "3bcede81aba6bd57b1e09c5a8205cfcbcf58b6f7",
-      "short": "3bcede8",
-      "message": "Merge branch 'main' into feat/closures-capture-foundation",
-      "author": "Drysius",
-      "date": "2026-06-06T21:56:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3bcede81aba6bd57b1e09c5a8205cfcbcf58b6f7"
-    },
-    {
-      "sha": "cb7ad949661e9e0e204a9a55ea6a3ffd7f932258",
-      "short": "cb7ad94",
-      "message": "docs(cross-runtime): 100.0% (372/372) — all fixtures pass",
-      "author": "Daniel",
-      "date": "2026-06-06T21:53:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb7ad949661e9e0e204a9a55ea6a3ffd7f932258"
-    },
-    {
-      "sha": "49cc233f651d2a93902a3f8b12da253b84b6eee0",
-      "short": "49cc233",
-      "message": "feat(closures): box recursive/sibling-captured nested fns → 100% cross-runtime",
-      "author": "Daniel",
-      "date": "2026-06-06T21:53:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49cc233f651d2a93902a3f8b12da253b84b6eee0"
-    },
-    {
-      "sha": "4eecbeb1446762a759308abc31544b05c7864973",
-      "short": "4eecbeb",
-      "message": "feat(closures): generator fn-exprs via lazy SM + indirect .next + capture-a-user-fn",
-      "author": "Daniel",
-      "date": "2026-06-06T21:34:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4eecbeb1446762a759308abc31544b05c7864973"
-    },
-    {
-      "sha": "45aadd20dc290e0ef31dfd95eab400838f4eaed8",
-      "short": "45aadd2",
-      "message": "fix(gc): root handles held in I64 globals + the pending microtask queue",
-      "author": "Daniel",
-      "date": "2026-06-06T20:49:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45aadd20dc290e0ef31dfd95eab400838f4eaed8"
-    },
-    {
-      "sha": "b72391ed63e9b09aac77113babf9bcebcd382d96",
-      "short": "b72391e",
-      "message": "fix(functions): FUNCTION_CALL invokes raw func_addr (.call/.apply on param fns)",
-      "author": "Daniel",
-      "date": "2026-06-06T18:24:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b72391ed63e9b09aac77113babf9bcebcd382d96"
-    },
-    {
-      "sha": "778195f7984c4bcb24accb672be5fd1585c2b89c",
-      "short": "778195f",
-      "message": "fix(closures): prototype registry handles raw func_addr (344 inheritance works)",
-      "author": "Daniel",
-      "date": "2026-06-06T17:43:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/778195f7984c4bcb24accb672be5fd1585c2b89c"
-    },
-    {
-      "sha": "6a11c0dd81195a06752467c7f854745d4b745567",
-      "short": "6a11c0d",
-      "message": "feat(closures): constructor-capture closures + .prototype on param functions",
-      "author": "Daniel",
-      "date": "2026-06-06T17:34:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a11c0dd81195a06752467c7f854745d4b745567"
     }
   ]
 }
