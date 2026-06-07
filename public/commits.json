@@ -1,6 +1,14 @@
 {
-  "total": 2209,
+  "total": 2210,
   "commits": [
+    {
+      "sha": "e53e37213d737b9275bc7aa8377953768b905ba8",
+      "short": "e53e372",
+      "message": "chore: elimina warnings de build do rts-runtime (#1356)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-07T15:53:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e53e37213d737b9275bc7aa8377953768b905ba8"
+    },
     {
       "sha": "9e74f044ceffebff467771532606f35d59039dc1",
       "short": "9e74f04",
@@ -152,14 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-07T06:06:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/f69af524ff1c0f616a2f66fe7cac6a52e3c1da20"
-    },
-    {
-      "sha": "585ffc86c572175d4aa8b32ec0dd793ef1b27b71",
-      "short": "585ffc8",
-      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-07T01:13:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/585ffc86c572175d4aa8b32ec0dd793ef1b27b71"
     }
   ]
 }
