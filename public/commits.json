@@ -1,165 +1,165 @@
 {
-  "total": 2210,
+  "total": 2247,
   "commits": [
     {
-      "sha": "e53e37213d737b9275bc7aa8377953768b905ba8",
-      "short": "e53e372",
-      "message": "chore: elimina warnings de build do rts-runtime (#1356)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-07T15:53:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e53e37213d737b9275bc7aa8377953768b905ba8"
-    },
-    {
-      "sha": "9e74f044ceffebff467771532606f35d59039dc1",
-      "short": "9e74f04",
-      "message": "Merge pull request #1355 from UrubuCode/ci/reuse-artifacts",
-      "author": "Drysius",
-      "date": "2026-06-07T08:24:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9e74f044ceffebff467771532606f35d59039dc1"
-    },
-    {
-      "sha": "0f5f5186b3b41f26d0ddbf80c44b03e028b5f464",
-      "short": "0f5f518",
-      "message": "ci: ts-suite non-blocking so it doesn't gate release/benchmarks",
+      "sha": "6b607e2d47e316e0e97f8f9e6861add105b8face",
+      "short": "6b607e2",
+      "message": "feat(rts-core): migrate `process` + `regex` to #[rts_namespace] (#1378)",
       "author": "Daniel",
-      "date": "2026-06-07T08:23:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0f5f5186b3b41f26d0ddbf80c44b03e028b5f464"
+      "date": "2026-06-08T02:42:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b607e2d47e316e0e97f8f9e6861add105b8face"
     },
     {
-      "sha": "f6b940095f73282986c7105efb66cba5fd59142d",
-      "short": "f6b9400",
-      "message": "ci: cross-runtime reuses build binary; drop pages.yml",
-      "author": "Daniel",
-      "date": "2026-06-07T07:58:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f6b940095f73282986c7105efb66cba5fd59142d"
-    },
-    {
-      "sha": "c6defb09542dd436cc3f1d1527bf1d91242081d6",
-      "short": "c6defb0",
-      "message": "ci: TS suite reuses the build binary (drop separate debug compile)",
-      "author": "Daniel",
-      "date": "2026-06-07T07:54:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c6defb09542dd436cc3f1d1527bf1d91242081d6"
-    },
-    {
-      "sha": "cc61fd7aa516130e68184383c2d88cf0083e66b6",
-      "short": "cc61fd7",
-      "message": "docs: auto-update cross-runtime parity badge (99.7%)",
+      "sha": "143a7ef6d1b412e86f824af5c8070b6bacbd9d75",
+      "short": "143a7ef",
+      "message": "docs: auto-update cross-runtime parity badge (72%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-07T07:51:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc61fd7aa516130e68184383c2d88cf0083e66b6"
+      "date": "2026-06-08T02:26:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/143a7ef6d1b412e86f824af5c8070b6bacbd9d75"
     },
     {
-      "sha": "426d8db8805074d31085691b3ce6948ed9e273fc",
-      "short": "426d8db",
-      "message": "Merge pull request #1354 from UrubuCode/ci/composite-actions",
-      "author": "Drysius",
-      "date": "2026-06-07T07:46:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/426d8db8805074d31085691b3ce6948ed9e273fc"
-    },
-    {
-      "sha": "fccdb2fd6b7551d8582fec3975a8723b08508050",
-      "short": "fccdb2f",
-      "message": "ci: build on Windows via pwsh, not git-bash (MSVC link.exe hijack)",
+      "sha": "8f6f71bf9c357e71f541a4d2f2547ebd02ea7dcc",
+      "short": "8f6f71b",
+      "message": "feat(rts-core): migrate `trace` + `sync` to #[rts_namespace] (#1378)",
       "author": "Daniel",
-      "date": "2026-06-07T07:33:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fccdb2fd6b7551d8582fec3975a8723b08508050"
+      "date": "2026-06-08T02:18:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f6f71bf9c357e71f541a4d2f2547ebd02ea7dcc"
     },
     {
-      "sha": "c722b287a869fb73e25e76d3d01316242c9d155f",
-      "short": "c722b28",
-      "message": "ci: share one cargo cache per OS, write only on main",
+      "sha": "53d6865cfa39959872f4040d78109ceff0bb7029",
+      "short": "53d6865",
+      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-08T02:16:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/53d6865cfa39959872f4040d78109ceff0bb7029"
+    },
+    {
+      "sha": "2f53dbf43f8debdef9774e10d87886857268d296",
+      "short": "2f53dbf",
+      "message": "feat(rts-core): migrate `atomic` (22 fns) to #[rts_namespace] (#1378)",
       "author": "Daniel",
-      "date": "2026-06-07T07:31:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c722b287a869fb73e25e76d3d01316242c9d155f"
+      "date": "2026-06-08T02:07:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f53dbf43f8debdef9774e10d87886857268d296"
     },
     {
-      "sha": "29c049fa0ecbadc7df19134c2c4bc466fd2de5ab",
-      "short": "29c049f",
-      "message": "ci: move Windows MSVC setup out of composite (GITHUB_ENV does not propagate)",
+      "sha": "c4ba2fa7523b6157b679ef1a6da35e57b97a7edf",
+      "short": "c4ba2fa",
+      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-08T02:00:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c4ba2fa7523b6157b679ef1a6da35e57b97a7edf"
+    },
+    {
+      "sha": "9cf128bba4795a04bee50bf2be1d40c6d87fc439",
+      "short": "9cf128b",
+      "message": "feat(rts-core): on_null macro opt + migrate env/ffi/fmt/io (#1378)",
       "author": "Daniel",
-      "date": "2026-06-07T07:28:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29c049fa0ecbadc7df19134c2c4bc466fd2de5ab"
+      "date": "2026-06-08T01:52:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9cf128bba4795a04bee50bf2be1d40c6d87fc439"
     },
     {
-      "sha": "317e5c144cdaf5862f057a084359d381f3725846",
-      "short": "317e5c1",
-      "message": "ci: extract shared setup/build into composite actions (DRY)",
+      "sha": "10c0dccca94fdabe29bc377eb7f48e153ed61579",
+      "short": "10c0dcc",
+      "message": "docs: auto-update cross-runtime parity badge (71.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-08T01:42:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/10c0dccca94fdabe29bc377eb7f48e153ed61579"
+    },
+    {
+      "sha": "2f8358f53ce8adf6a0e6b7f528c32d95af3bef8b",
+      "short": "2f8358f",
+      "message": "feat(rts-core): migrate `alloc` + `time` + `ptr` to #[rts_namespace] (#1378)",
       "author": "Daniel",
-      "date": "2026-06-07T07:24:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/317e5c144cdaf5862f057a084359d381f3725846"
+      "date": "2026-06-08T01:33:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f8358f53ce8adf6a0e6b7f528c32d95af3bef8b"
     },
     {
-      "sha": "ef406d851f197f2aafad12a95708f4c79169feec",
-      "short": "ef406d8",
-      "message": "Merge pull request #1353 from UrubuCode/fix/aot-archive-serde-variant-ci",
-      "author": "Drysius",
-      "date": "2026-06-07T07:15:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef406d851f197f2aafad12a95708f4c79169feec"
+      "sha": "93436c18deb5fa30202687a33d16f673051d58d5",
+      "short": "93436c1",
+      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-08T01:29:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93436c18deb5fa30202687a33d16f673051d58d5"
     },
     {
-      "sha": "8176f3197868b7661e4742e6b5d236fe00579645",
-      "short": "8176f31",
-      "message": "fix(build): produce AOT archive as a Cargo staticlib (kills rlib hand-matching)",
+      "sha": "b8fa2cf3efb91f679ad82ec714cf52a3be169d25",
+      "short": "b8fa2cf",
+      "message": "feat(rts-core): stage 2c — migrate `num` (23 fns) + `os` (8 fns)",
       "author": "Daniel",
-      "date": "2026-06-07T07:05:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8176f3197868b7661e4742e6b5d236fe00579645"
+      "date": "2026-06-08T01:14:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b8fa2cf3efb91f679ad82ec714cf52a3be169d25"
     },
     {
-      "sha": "801a75b38d6e4e514d8711a8ea1b62c5eb42e17b",
-      "short": "801a75b",
-      "message": "fix(build): pin transitive serde_core variant for AOT archive on CI Windows",
+      "sha": "c5e8e3d06db252fad46732185899ea553f7885d9",
+      "short": "c5e8e3d",
+      "message": "feat(rts-core): stage 2c — #[rts_const] + underscore-strip; migrate hash + mem",
       "author": "Daniel",
-      "date": "2026-06-07T06:46:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/801a75b38d6e4e514d8711a8ea1b62c5eb42e17b"
+      "date": "2026-06-08T01:05:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c5e8e3d06db252fad46732185899ea553f7885d9"
     },
     {
-      "sha": "8f391a8fa9ed16a1cc53616a8930856c6961aca2",
-      "short": "8f391a8",
-      "message": "Merge pull request #1352 from UrubuCode/chore/repo-cleanup",
-      "author": "Drysius",
-      "date": "2026-06-07T06:25:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8f391a8fa9ed16a1cc53616a8930856c6961aca2"
-    },
-    {
-      "sha": "6b4515996574108c7c25795bff920429e9dfaeaa",
-      "short": "6b45159",
-      "message": "chore: prune one-off docs, test dumps, stray files; logo to .github/imgs",
+      "sha": "95b01060c961f23f01e4d60f97caaf6a3d6f64c3",
+      "short": "95b0106",
+      "message": "feat(rts-core): stage 2b — migrate `path` namespace (Str proof) + Bool=i64",
       "author": "Daniel",
-      "date": "2026-06-07T06:25:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b4515996574108c7c25795bff920429e9dfaeaa"
+      "date": "2026-06-08T00:35:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/95b01060c961f23f01e4d60f97caaf6a3d6f64c3"
     },
     {
-      "sha": "b1b2a1e237be3c782cc45357dce0483c6ce70790",
-      "short": "b1b2a1e",
-      "message": "Merge pull request #1351 from UrubuCode/chore/drop-gc-arena",
-      "author": "Drysius",
-      "date": "2026-06-07T06:14:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1b2a1e237be3c782cc45357dce0483c6ce70790"
-    },
-    {
-      "sha": "8c919d9550cc94be2c4bf66c4d19f2e91290e9fe",
-      "short": "8c919d9",
-      "message": "chore: drop unused gc-arena dependency and its docs",
+      "sha": "dc2d062dd2603c1deb27b1b951b0b05e72748812",
+      "short": "dc2d062",
+      "message": "feat(rts-core): stage 2b — Str parameter support in #[rts_fn]",
       "author": "Daniel",
-      "date": "2026-06-07T06:14:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c919d9550cc94be2c4bf66c4d19f2e91290e9fe"
+      "date": "2026-06-08T00:14:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dc2d062dd2603c1deb27b1b951b0b05e72748812"
     },
     {
-      "sha": "fad02433972294d663665b91f8fa69962b02ad6a",
-      "short": "fad0243",
-      "message": "Merge pull request #1350 from UrubuCode/cleanup/remove-unreachable-src",
-      "author": "Drysius",
-      "date": "2026-06-07T06:06:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fad02433972294d663665b91f8fa69962b02ad6a"
-    },
-    {
-      "sha": "f69af524ff1c0f616a2f66fe7cac6a52e3c1da20",
-      "short": "f69af52",
-      "message": "refactor(aot): build runtime archive from rts-runtime, drop stale src/ duplicates",
+      "sha": "e4426e67a75201b91da061795bda7207ded00bb8",
+      "short": "e4426e6",
+      "message": "feat(rts-core): stage 2 — migrate `hint` namespace to #[rts_namespace]",
       "author": "Daniel",
-      "date": "2026-06-07T06:06:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f69af524ff1c0f616a2f66fe7cac6a52e3c1da20"
+      "date": "2026-06-07T23:55:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4426e67a75201b91da061795bda7207ded00bb8"
+    },
+    {
+      "sha": "e17d4729effce3380cf7c0cc0efa96ebd4359aee",
+      "short": "e17d472",
+      "message": "feat(rts-core): stage 1 — rts-macro single-declaration foundation",
+      "author": "Daniel",
+      "date": "2026-06-07T23:23:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e17d4729effce3380cf7c0cc0efa96ebd4359aee"
+    },
+    {
+      "sha": "9c593e343fb1b85cdbd500634ced6457af803dce",
+      "short": "9c593e3",
+      "message": "docs: auto-update cross-runtime parity badge (72%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-07T22:07:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c593e343fb1b85cdbd500634ced6457af803dce"
+    },
+    {
+      "sha": "f88ee89dfb253f044c99f8d72ca473002b2fafee",
+      "short": "f88ee89",
+      "message": "test(cross-runtime): +29 fixtures codex_ (lote adicional)",
+      "author": "Marcos",
+      "date": "2026-06-07T21:58:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f88ee89dfb253f044c99f8d72ca473002b2fafee"
+    },
+    {
+      "sha": "5bb711c254dad293da47e307f6bfd02b47d77777",
+      "short": "5bb711c",
+      "message": "docs: auto-update cross-runtime parity badge (75%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-07T21:42:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5bb711c254dad293da47e307f6bfd02b47d77777"
+    },
+    {
+      "sha": "d15c4c6a0777b0ca8fed8108d40ff4f49151bdd6",
+      "short": "d15c4c6",
+      "message": "test(cross-runtime): adiciona 104 fixtures pendentes (codex_ + numeradas)",
+      "author": "Marcos",
+      "date": "2026-06-07T21:33:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d15c4c6a0777b0ca8fed8108d40ff4f49151bdd6"
     }
   ]
 }
