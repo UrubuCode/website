@@ -1,6 +1,38 @@
 {
-  "total": 2328,
+  "total": 2332,
   "commits": [
+    {
+      "sha": "979cca27bf7489fb0ee7fdca14ec0975ee7f006a",
+      "short": "979cca2",
+      "message": "docs: auto-update cross-runtime parity badge (72.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-09T21:45:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/979cca27bf7489fb0ee7fdca14ec0975ee7f006a"
+    },
+    {
+      "sha": "6e62bea915cafa49de495b1ba0f3725b04cbb5f7",
+      "short": "6e62bea",
+      "message": "fix(codegen,runtime): typeof class + in/hasOwnProperty proto-chain + Array(n) holes",
+      "author": "Daniel",
+      "date": "2026-06-09T21:38:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e62bea915cafa49de495b1ba0f3725b04cbb5f7"
+    },
+    {
+      "sha": "fa9ef0b3abf75f5d8c91811cf6bbdd66df7fe700",
+      "short": "fa9ef0b",
+      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-09T21:24:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa9ef0b3abf75f5d8c91811cf6bbdd66df7fe700"
+    },
+    {
+      "sha": "3e8dc08c8b1bc2618f47745c65f6bdf090be59d8",
+      "short": "3e8dc08",
+      "message": "fix(codegen): try/finally control-flow — finally roda em return/break/continue (#1523)",
+      "author": "Daniel",
+      "date": "2026-06-09T21:14:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e8dc08c8b1bc2618f47745c65f6bdf090be59d8"
+    },
     {
       "sha": "f85a34960adfcbfdef84afbcbc4e076b953d4170",
       "short": "f85a349",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-08T18:32:22Z",
       "url": "https://github.com/UrubuCode/rts/commit/488698702a1ad34c76e4f809f7d77d6701868881"
-    },
-    {
-      "sha": "4de5b3e1f197dc254d21130efa7ab08fbd4caffd",
-      "short": "4de5b3e",
-      "message": "docs: auto-update cross-runtime parity badge (72%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T18:30:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4de5b3e1f197dc254d21130efa7ab08fbd4caffd"
-    },
-    {
-      "sha": "b05f707107ac0357c7d3972677ee17f1c9963da7",
-      "short": "b05f707",
-      "message": "refactor(readable_stream): migrate 9 Web Streams classes to #[rts_class]",
-      "author": "Daniel",
-      "date": "2026-06-08T18:22:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b05f707107ac0357c7d3972677ee17f1c9963da7"
-    },
-    {
-      "sha": "7441395f13d21004d811e92b3045fa9fad211e65",
-      "short": "7441395",
-      "message": "refactor(globals/error): migrate Error family (8 classes) to #[rts_class]",
-      "author": "Daniel",
-      "date": "2026-06-08T18:16:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7441395f13d21004d811e92b3045fa9fad211e65"
-    },
-    {
-      "sha": "ea4ad09ebf5baaaceed447d0494827de4e3e38da",
-      "short": "ea4ad09",
-      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T09:23:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ea4ad09ebf5baaaceed447d0494827de4e3e38da"
     }
   ]
 }
