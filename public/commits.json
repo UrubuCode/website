@@ -1,165 +1,165 @@
 {
-  "total": 2332,
+  "total": 2390,
   "commits": [
     {
-      "sha": "979cca27bf7489fb0ee7fdca14ec0975ee7f006a",
-      "short": "979cca2",
-      "message": "docs: auto-update cross-runtime parity badge (72.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-09T21:45:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/979cca27bf7489fb0ee7fdca14ec0975ee7f006a"
+      "sha": "95228582f11d3fa010574a18d664232a2412b069",
+      "short": "9522858",
+      "message": "Merge pull request #1537 from UrubuCode/feat/engine-method-dispatch-1536",
+      "author": "Drysius",
+      "date": "2026-06-11T04:25:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/95228582f11d3fa010574a18d664232a2412b069"
     },
     {
-      "sha": "6e62bea915cafa49de495b1ba0f3725b04cbb5f7",
-      "short": "6e62bea",
-      "message": "fix(codegen,runtime): typeof class + in/hasOwnProperty proto-chain + Array(n) holes",
+      "sha": "96ca16b3942f039384ecfac1690c584df778ab20",
+      "short": "96ca16b",
+      "message": "docs(working): Fase 1b — 14 ns no rts-std; próximo = async_rt + coupled",
       "author": "Daniel",
-      "date": "2026-06-09T21:38:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6e62bea915cafa49de495b1ba0f3725b04cbb5f7"
+      "date": "2026-06-11T04:13:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96ca16b3942f039384ecfac1690c584df778ab20"
     },
     {
-      "sha": "fa9ef0b3abf75f5d8c91811cf6bbdd66df7fe700",
-      "short": "fa9ef0b",
-      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-09T21:24:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa9ef0b3abf75f5d8c91811cf6bbdd66df7fe700"
-    },
-    {
-      "sha": "3e8dc08c8b1bc2618f47745c65f6bdf090be59d8",
-      "short": "3e8dc08",
-      "message": "fix(codegen): try/finally control-flow — finally roda em return/break/continue (#1523)",
+      "sha": "fc56a9e5267703cfceeea101a974aad9c3383e3c",
+      "short": "fc56a9e",
+      "message": "refactor(std): Fase 1b — fs+tls → rts-std (extern-decl + rustls)",
       "author": "Daniel",
-      "date": "2026-06-09T21:14:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3e8dc08c8b1bc2618f47745c65f6bdf090be59d8"
+      "date": "2026-06-11T04:13:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc56a9e5267703cfceeea101a974aad9c3383e3c"
     },
     {
-      "sha": "f85a34960adfcbfdef84afbcbc4e076b953d4170",
-      "short": "f85a349",
-      "message": "docs: auto-update cross-runtime parity badge (72%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T21:00:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f85a34960adfcbfdef84afbcbc4e076b953d4170"
-    },
-    {
-      "sha": "cbccfc8a8f087db5c52e1ab1d65cf997141b6d4e",
-      "short": "cbccfc8",
-      "message": "refactor(globals/dataview): migrate ArrayBuffer + DataView to #[rts_class]",
-      "author": "Marcos",
-      "date": "2026-06-08T20:52:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cbccfc8a8f087db5c52e1ab1d65cf997141b6d4e"
-    },
-    {
-      "sha": "ea4f6ae65354cbb13b5a95b4c345cda0091ecc86",
-      "short": "ea4f6ae",
-      "message": "test(runtime): update reflect + map tests to current JS-spec behavior",
-      "author": "Marcos",
-      "date": "2026-06-08T20:42:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ea4f6ae65354cbb13b5a95b4c345cda0091ecc86"
-    },
-    {
-      "sha": "95bfb45e3f721f4e40b101083c9fc88c621ac447",
-      "short": "95bfb45",
-      "message": "test(mir_codegen): fix stale extern paths in tests after io migration",
-      "author": "Marcos",
-      "date": "2026-06-08T20:33:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/95bfb45e3f721f4e40b101083c9fc88c621ac447"
-    },
-    {
-      "sha": "9cd698382d05df28b93f316d0325a5bf320704d6",
-      "short": "9cd6983",
-      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T20:35:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9cd698382d05df28b93f316d0325a5bf320704d6"
-    },
-    {
-      "sha": "47d9530510727aff1dd10baf95f8c65ae1052430",
-      "short": "47d9530",
-      "message": "refactor(gc): migrate to #[rts_namespace] (all-external members)",
-      "author": "Marcos",
-      "date": "2026-06-08T20:24:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47d9530510727aff1dd10baf95f8c65ae1052430"
-    },
-    {
-      "sha": "ccab06f632092210aa49d4a0184ea50486b5fc68",
-      "short": "ccab06f",
-      "message": "@",
-      "author": "Marcos",
-      "date": "2026-06-08T20:01:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccab06f632092210aa49d4a0184ea50486b5fc68"
-    },
-    {
-      "sha": "d263c7fa37288972e7477270a7525c950e927dcd",
-      "short": "d263c7f",
-      "message": "docs: auto-update cross-runtime parity badge (72%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T19:20:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d263c7fa37288972e7477270a7525c950e927dcd"
-    },
-    {
-      "sha": "46529c23963bd85248900d13bdc947598cb03f09",
-      "short": "46529c2",
-      "message": "refactor(globals/date): migrate Date class to #[rts_class] (all-external)",
+      "sha": "82d81733db2f94da3b95de345784fa1c3286eed9",
+      "short": "82d8173",
+      "message": "refactor(std): Fase 1b — net/process/sync/atomic/ffi → rts-std (std-only)",
       "author": "Daniel",
-      "date": "2026-06-08T19:12:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/46529c23963bd85248900d13bdc947598cb03f09"
+      "date": "2026-06-11T04:05:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/82d81733db2f94da3b95de345784fa1c3286eed9"
     },
     {
-      "sha": "a5b39926c7e2f6e54d2012bacbe5dd87422cca17",
-      "short": "a5b3992",
-      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T19:11:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5b39926c7e2f6e54d2012bacbe5dd87422cca17"
-    },
-    {
-      "sha": "b4778699f23d1dd4ffc68f64de0d5341c6310ea4",
-      "short": "b477869",
-      "message": "refactor(globals): migrate url + String to #[rts_namespace]/#[rts_class]",
+      "sha": "2fa026ee43c96f1cd5a034c13a7273e179940861",
+      "short": "2fa026e",
+      "message": "docs(working): Fase 1b em andamento — rts-std + 7 ns; needs-fix + rts-shared mapeados",
       "author": "Daniel",
-      "date": "2026-06-08T19:03:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4778699f23d1dd4ffc68f64de0d5341c6310ea4"
+      "date": "2026-06-11T03:41:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2fa026ee43c96f1cd5a034c13a7273e179940861"
     },
     {
-      "sha": "1c0da119805254f726ccaa84b98f18517036e140",
-      "short": "1c0da11",
-      "message": "refactor(globals): migrate text_encoding + fetch to #[rts_namespace]/#[rts_class]",
+      "sha": "d680bb105069519efe9492bacb2f99afbfdd35e9",
+      "short": "d680bb1",
+      "message": "refactor(std): Fase 1b — io/os/env/runtime/test → rts-std (batch leaf limpo)",
       "author": "Daniel",
-      "date": "2026-06-08T18:56:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c0da119805254f726ccaa84b98f18517036e140"
+      "date": "2026-06-11T03:40:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d680bb105069519efe9492bacb2f99afbfdd35e9"
     },
     {
-      "sha": "5be81b3d436f368cc7a660623c1fc609cd9b8713",
-      "short": "5be81b3",
-      "message": "docs: auto-update cross-runtime parity badge (72.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T18:54:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5be81b3d436f368cc7a660623c1fc609cd9b8713"
-    },
-    {
-      "sha": "a27d02ce4f5944849aadbf6049100767dfe0df65",
-      "short": "a27d02c",
-      "message": "refactor(globals): migrate 5 NS-globals to #[rts_namespace] (+external flag)",
+      "sha": "c493569896c2f0f7398a173c4b5c02c9885beb47",
+      "short": "c493569",
+      "message": "refactor(std): Fase 1b piloto — crate rts-std + audio/asio_audio (backend leaf)",
       "author": "Daniel",
-      "date": "2026-06-08T18:46:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a27d02ce4f5944849aadbf6049100767dfe0df65"
+      "date": "2026-06-11T03:32:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c493569896c2f0f7398a173c4b5c02c9885beb47"
     },
     {
-      "sha": "99aea70c35953e8cb2906ecc57138997f1d94f56",
-      "short": "99aea70",
-      "message": "docs: auto-update cross-runtime parity badge (72%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-08T18:40:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/99aea70c35953e8cb2906ecc57138997f1d94f56"
-    },
-    {
-      "sha": "488698702a1ad34c76e4f809f7d77d6701868881",
-      "short": "4886987",
-      "message": "refactor(performance): migrate to #[rts_namespace] (GL-scoped sym stem)",
+      "sha": "a9e99cacfa2a61723d329a5bc5353f73d7a52a69",
+      "short": "a9e99ca",
+      "message": "docs(working): heap → rts-engine na fronteira natural (mecanismo + alocadores)",
       "author": "Daniel",
-      "date": "2026-06-08T18:32:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/488698702a1ad34c76e4f809f7d77d6701868881"
+      "date": "2026-06-11T03:21:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9e99cacfa2a61723d329a5bc5353f73d7a52a69"
+    },
+    {
+      "sha": "0be13d3f44ca7f97269635b33b38f23bd56034a1",
+      "short": "0be13d3",
+      "message": "refactor(engine): heap instance+this_slot+tagged_raw+class_registry → rts-engine",
+      "author": "Daniel",
+      "date": "2026-06-11T03:20:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0be13d3f44ca7f97269635b33b38f23bd56034a1"
+    },
+    {
+      "sha": "57f1823bc340d99766089ab8231d2e5c289b8c60",
+      "short": "57f1823",
+      "message": "refactor(engine): heap env+closure → rts-engine (+ AOT-export do extern provado)",
+      "author": "Daniel",
+      "date": "2026-06-11T03:09:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/57f1823bc340d99766089ab8231d2e5c289b8c60"
+    },
+    {
+      "sha": "5ba5516a054dc469ff96cf3b50d8478b53af874a",
+      "short": "5ba5516",
+      "message": "docs(working): Fase 1a CORE (heap handles→engine) feita + limitação GC achada",
+      "author": "Daniel",
+      "date": "2026-06-11T02:52:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ba5516a054dc469ff96cf3b50d8478b53af874a"
+    },
+    {
+      "sha": "ae4db8bea7a86d26cae525e465ff1627c7d05518",
+      "short": "ae4db8b",
+      "message": "refactor(engine): Fase 1a core — heap handles (Entry+HandleTable) → rts-engine",
+      "author": "Daniel",
+      "date": "2026-06-11T02:51:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae4db8bea7a86d26cae525e465ff1627c7d05518"
+    },
+    {
+      "sha": "cdcbbae69df3c003e728a12b6a74d567e975179a",
+      "short": "cdcbbae",
+      "message": "docs(working): Fase 1a seed (FixedDecimal→engine) feita; core move detalhado",
+      "author": "Daniel",
+      "date": "2026-06-11T02:02:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cdcbbae69df3c003e728a12b6a74d567e975179a"
+    },
+    {
+      "sha": "eb039fc61a223b610c81dc6561a290a645b5a714",
+      "short": "eb039fc",
+      "message": "refactor(engine): Fase 1a seed — FixedDecimal (payload do Entry) → rts-engine/heap",
+      "author": "Daniel",
+      "date": "2026-06-11T02:01:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb039fc61a223b610c81dc6561a290a645b5a714"
+    },
+    {
+      "sha": "18aa80844ceba62fa7751f69a3c360d8740bc862",
+      "short": "18aa808",
+      "message": "docs(working): partição de crates aprovada — Fase 0 (rts-node) feita, Fase 1a scoped",
+      "author": "Daniel",
+      "date": "2026-06-11T01:43:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18aa80844ceba62fa7751f69a3c360d8740bc862"
+    },
+    {
+      "sha": "85713faa1fc89e19a07d7c526a2ed615e5ca0b1f",
+      "short": "85713fa",
+      "message": "refactor(codegen,node): extrai nodespace pro crate rts-node",
+      "author": "Daniel",
+      "date": "2026-06-11T01:41:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/85713faa1fc89e19a07d7c526a2ed615e5ca0b1f"
+    },
+    {
+      "sha": "9ea7b11ed176e598acbc2bec5adbee7af71bf969",
+      "short": "9ea7b11",
+      "message": "refactor: deleta o crate rts-macro — migração pro builder hand-written completa",
+      "author": "Daniel",
+      "date": "2026-06-11T00:05:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ea7b11ed176e598acbc2bec5adbee7af71bf969"
+    },
+    {
+      "sha": "63c6fbf58d4b478d2e132bb637ef22d1d659bae6",
+      "short": "63c6fbf",
+      "message": "refactor(runtime): remove rts-macro de TODAS as classes globais (hand-written builder)",
+      "author": "Daniel",
+      "date": "2026-06-10T23:26:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/63c6fbf58d4b478d2e132bb637ef22d1d659bae6"
+    },
+    {
+      "sha": "ebf3abf20d53fd63d2a6461c8b5921bc35d914a1",
+      "short": "ebf3abf",
+      "message": "refactor(runtime,engine): remove rts-macro de TODAS as namespaces (hand-written builder)",
+      "author": "Daniel",
+      "date": "2026-06-10T23:09:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ebf3abf20d53fd63d2a6461c8b5921bc35d914a1"
+    },
+    {
+      "sha": "54f569b00d38f2941072602fb395ce8c2b827d20",
+      "short": "54f569b",
+      "message": "refactor(runtime): remove macro de mem — hand-written builder (inicio da remocao do rts-macro)",
+      "author": "Daniel",
+      "date": "2026-06-10T21:45:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54f569b00d38f2941072602fb395ce8c2b827d20"
     }
   ]
 }
