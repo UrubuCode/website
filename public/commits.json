@@ -1,6 +1,54 @@
 {
-  "total": 2490,
+  "total": 2496,
   "commits": [
+    {
+      "sha": "fa7ef1e59f001d0efd7f25d3d225b5f1a2806e49",
+      "short": "fa7ef1e",
+      "message": "docs: auto-update cross-runtime parity badge (70.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T18:07:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa7ef1e59f001d0efd7f25d3d225b5f1a2806e49"
+    },
+    {
+      "sha": "fb2e1d40973c02a8ab0ef3d1f18fd029b30e6c77",
+      "short": "fb2e1d4",
+      "message": "docs(napi): atualiza documentação para estado real (124/159 fns, classes, npm) (#1550)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T17:59:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fb2e1d40973c02a8ab0ef3d1f18fd029b30e6c77"
+    },
+    {
+      "sha": "2bcc8df72634ab0c612eecbe27959e71493c261f",
+      "short": "2bcc8df",
+      "message": "docs(napi): referencia issues de tracking #1547 e engine #1548 (#1549)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T17:55:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2bcc8df72634ab0c612eecbe27959e71493c261f"
+    },
+    {
+      "sha": "3df281c4cd1ac16e547343e5c1983fa3bb6183b1",
+      "short": "3df281c",
+      "message": "feat(napi): Fase 2 completa — Buffer/Date/Symbol/wrap/classes + tudo implementável sem engine (#1546)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T17:51:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3df281c4cd1ac16e547343e5c1983fa3bb6183b1"
+    },
+    {
+      "sha": "ee8a401453729b07f7c9b64f600457c755a395f6",
+      "short": "ee8a401",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T17:41:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee8a401453729b07f7c9b64f600457c755a395f6"
+    },
+    {
+      "sha": "413a9923696921f5f9477008f3b1118eb948498b",
+      "short": "413a992",
+      "message": "feat(napi): suporte a Node.js native addons (.node) — N-API com paridade Node (#1545)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T17:33:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/413a9923696921f5f9477008f3b1118eb948498b"
+    },
     {
       "sha": "29d1e97c4a5f57ef832a8745505ebf3603b1641f",
       "short": "29d1e97",
@@ -112,54 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-12T21:03:18Z",
       "url": "https://github.com/UrubuCode/rts/commit/2b1dd5ba810b0efb72ceaa7317bb9a7ace2b78d9"
-    },
-    {
-      "sha": "132a6fc926bc3a778b5597d1448b686c69c73e53",
-      "short": "132a6fc",
-      "message": "refactor(crates): move Function primordial into rts-primitives (Fase 2.3b)",
-      "author": "Daniel",
-      "date": "2026-06-12T21:02:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/132a6fc926bc3a778b5597d1448b686c69c73e53"
-    },
-    {
-      "sha": "f2fb6c4705dc6d331e02207800b148afaf22434e",
-      "short": "f2fb6c4",
-      "message": "refactor(shared): decouple Function from collections/proxy via extern-C shims (Fase 2.3a)",
-      "author": "Daniel",
-      "date": "2026-06-12T20:51:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2fb6c4705dc6d331e02207800b148afaf22434e"
-    },
-    {
-      "sha": "e530bda60bbd6c5aae8ec928b3d879e2d7ea5ffa",
-      "short": "e530bda",
-      "message": "docs: Fase 2.8 collapse done via ensure_registry_init (Boolean/Number)",
-      "author": "Daniel",
-      "date": "2026-06-12T20:40:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e530bda60bbd6c5aae8ec928b3d879e2d7ea5ffa"
-    },
-    {
-      "sha": "2216ba7a6e36c332a72fbf99088a90b07bbdcdf2",
-      "short": "2216ba7",
-      "message": "refactor(codegen): collapse Boolean/Number add_fn! via Registry (Fase 2.8)",
-      "author": "Daniel",
-      "date": "2026-06-12T20:40:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2216ba7a6e36c332a72fbf99088a90b07bbdcdf2"
-    },
-    {
-      "sha": "a6a5ef51c8a60d5d2e3e17047f717be22763c186",
-      "short": "a6a5ef5",
-      "message": "docs: record jit add_fn! collapse as proven-unsafe (registry-init ordering)",
-      "author": "Daniel",
-      "date": "2026-06-12T20:34:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a6a5ef51c8a60d5d2e3e17047f717be22763c186"
-    },
-    {
-      "sha": "efc71ee60db1cb514e7f68d4c35892f04371c609",
-      "short": "efc71ee",
-      "message": "docs: update Phase 2 status — Array/Promise specs moved; remaining blockers",
-      "author": "Daniel",
-      "date": "2026-06-12T20:21:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/efc71ee60db1cb514e7f68d4c35892f04371c609"
     }
   ]
 }
