@@ -1,165 +1,165 @@
 {
-  "total": 2449,
+  "total": 2490,
   "commits": [
     {
-      "sha": "77199268dc45b27ff81f558fce9ef20bbe850d7f",
-      "short": "7719926",
-      "message": "docs: auto-update cross-runtime parity badge (72%)",
+      "sha": "29d1e97c4a5f57ef832a8745505ebf3603b1641f",
+      "short": "29d1e97",
+      "message": "docs: auto-update cross-runtime parity badge (70.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-12T04:35:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/77199268dc45b27ff81f558fce9ef20bbe850d7f"
+      "date": "2026-06-13T03:18:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29d1e97c4a5f57ef832a8745505ebf3603b1641f"
     },
     {
-      "sha": "3734151d4a226ded06ff1ce4b33388bc7d63b3fd",
-      "short": "3734151",
+      "sha": "1797edb849414d2e00b1f8794a262213bb0ae0a3",
+      "short": "1797edb",
+      "message": "feat(codegen): float-map arithmetic via guarded NUM_ARITH (narrow-storage C)",
+      "author": "Daniel",
+      "date": "2026-06-13T02:59:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1797edb849414d2e00b1f8794a262213bb0ae0a3"
+    },
+    {
+      "sha": "08cc81d8c0688da762f67a36ae33546d0f97193b",
+      "short": "08cc81d",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts into refactor/rts-codegen-clean",
       "author": "Daniel",
-      "date": "2026-06-12T04:27:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3734151d4a226ded06ff1ce4b33388bc7d63b3fd"
+      "date": "2026-06-13T02:20:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/08cc81d8c0688da762f67a36ae33546d0f97193b"
     },
     {
-      "sha": "1d69fdf14cddfc8ad2c71da6b864c535eb106c95",
-      "short": "1d69fdf",
-      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-12T04:25:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1d69fdf14cddfc8ad2c71da6b864c535eb106c95"
-    },
-    {
-      "sha": "480f24307e5d8ea31a97d08c1bd2aaae073df31e",
-      "short": "480f243",
-      "message": "refactor(codegen): drain Array at() via new VEC_AT_AUTO runtime",
+      "sha": "ba39bb3bafb90bc52aa5284dacaaf7761fff01d5",
+      "short": "ba39bb3",
+      "message": "feat(codegen): float-map === via FloatPrim unbox (narrow-storage B)",
       "author": "Daniel",
-      "date": "2026-06-12T04:23:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/480f24307e5d8ea31a97d08c1bd2aaae073df31e"
+      "date": "2026-06-12T23:46:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba39bb3bafb90bc52aa5284dacaaf7761fff01d5"
     },
     {
-      "sha": "274786fe25e0bb93e69dc1154ec3b80b1b1eae7d",
-      "short": "274786f",
-      "message": "refactor(codegen): drain Array join via VEC_JOIN sep=0 default",
+      "sha": "ba929353d38f0a44071228027a47b69812400d2c",
+      "short": "ba92935",
+      "message": "feat(runtime): Entry::FloatPrim — boxed float for heterogeneous containers (narrow-storage A)",
       "author": "Daniel",
-      "date": "2026-06-12T04:16:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/274786fe25e0bb93e69dc1154ec3b80b1b1eae7d"
+      "date": "2026-06-12T23:39:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba929353d38f0a44071228027a47b69812400d2c"
     },
     {
-      "sha": "b81623b600eae93e193edd5923a734c4b7265311",
-      "short": "b81623b",
-      "message": "refactor(codegen): drain Array clear/slice/subarray via registry",
+      "sha": "2096161983c3a76b1fe461b5f2a469a18d76dd8d",
+      "short": "2096161",
+      "message": "fix(runtime): typeof of float/large raw values → \"number\" (narrow-storage slice 2a)",
       "author": "Daniel",
-      "date": "2026-06-12T04:11:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b81623b600eae93e193edd5923a734c4b7265311"
+      "date": "2026-06-12T23:01:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2096161983c3a76b1fe461b5f2a469a18d76dd8d"
     },
     {
-      "sha": "a63c78dda1ec48393068cbf774c9dc2ce2171b0b",
-      "short": "a63c78d",
-      "message": "refactor(codegen): drain Array fill/copyWithin/with via registry defaults",
+      "sha": "35367da324b7e489854206f52614420f35b094ab",
+      "short": "35367da",
+      "message": "fix(codegen): float array indexOf/includes via raw-bits needle (narrow-storage slice 1)",
       "author": "Daniel",
-      "date": "2026-06-12T04:05:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a63c78dda1ec48393068cbf774c9dc2ce2171b0b"
+      "date": "2026-06-12T22:51:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/35367da324b7e489854206f52614420f35b094ab"
     },
     {
-      "sha": "aee6ae3e1abebe766c5be315c151e8af248edc85",
-      "short": "aee6ae3",
-      "message": "refactor(codegen): keystone instance-tag fall-through + drain 7 Array methods",
+      "sha": "b0da89bcae9021b6f7391b1216bceacf35e9a0ff",
+      "short": "b0da89b",
+      "message": "refactor(codegen): drain SharedArrayBuffer rename via Registry class-mirror",
       "author": "Daniel",
-      "date": "2026-06-12T03:57:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aee6ae3e1abebe766c5be315c151e8af248edc85"
+      "date": "2026-06-12T22:38:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b0da89bcae9021b6f7391b1216bceacf35e9a0ff"
     },
     {
-      "sha": "f066208397d2953f2abd2d84a18593f0f91306bb",
-      "short": "f066208",
-      "message": "refactor(codegen): drain 12 clean Map/Set methods via generic Map class",
+      "sha": "01106cadcb8ec69eed82006e37431e9576b6738c",
+      "short": "01106ca",
+      "message": "refactor(codegen): drain `new Proxy` construction via Registry class",
       "author": "Daniel",
-      "date": "2026-06-12T02:40:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f066208397d2953f2abd2d84a18593f0f91306bb"
+      "date": "2026-06-12T22:32:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01106cadcb8ec69eed82006e37431e9576b6738c"
     },
     {
-      "sha": "2384246697019963f08e1e437c03beb75c28d1a1",
-      "short": "2384246",
-      "message": "refactor(codegen): drain String isWellFormed (String builtin ~fully generic)",
+      "sha": "37d4eeebda4aef7423eb222dc17a534b52be0dba",
+      "short": "37d4eee",
+      "message": "refactor(codegen): drain Math.X call-dispatch + typeof via Registry \"Math\" class",
       "author": "Daniel",
-      "date": "2026-06-12T02:16:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2384246697019963f08e1e437c03beb75c28d1a1"
+      "date": "2026-06-12T22:22:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/37d4eeebda4aef7423eb222dc17a534b52be0dba"
     },
     {
-      "sha": "45aef2604bd8e283c85c48c779dfbcfb3ee3b7a5",
-      "short": "45aef26",
-      "message": "refactor(codegen): drain String.concat via variadic Vec-packing (registry variadic flag)",
+      "sha": "f3e0782146d3ca39378be8df492c09fdd970093c",
+      "short": "f3e0782",
+      "message": "refactor(codegen): drain console logic from engine → CONSOLE_WRITE_AUTO",
       "author": "Daniel",
-      "date": "2026-06-12T02:11:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45aef2604bd8e283c85c48c779dfbcfb3ee3b7a5"
+      "date": "2026-06-12T21:51:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3e0782146d3ca39378be8df492c09fdd970093c"
     },
     {
-      "sha": "bf7313c582f36d9f16567f901897c88e655a9bda",
-      "short": "bf7313c",
-      "message": "refactor(codegen): drain String replace/replaceAll via _AUTO (incl. function callbacks)",
+      "sha": "afbcdedc3454e26b2e5df4ed9376c47f05f2feac",
+      "short": "afbcded",
+      "message": "docs: Object class spec introduced (Fase 2.7) — Phase 2 primordials all registered",
       "author": "Daniel",
-      "date": "2026-06-12T02:04:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bf7313c582f36d9f16567f901897c88e655a9bda"
+      "date": "2026-06-12T21:19:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/afbcdedc3454e26b2e5df4ed9376c47f05f2feac"
     },
     {
-      "sha": "30c3388ccf21506a138f1b073552453cc87c073a",
-      "short": "30c3388",
-      "message": "refactor(codegen): drain String repeat/codePointAt; add AMBIGUOUS_RET flag handling to generic emitter",
+      "sha": "fa44dc0dabcba62ad4af8207c94c724c77b4ee95",
+      "short": "fa44dc0",
+      "message": "refactor(codegen): introduce Object class spec in Registry (Fase 2.7)",
       "author": "Daniel",
-      "date": "2026-06-12T01:54:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/30c3388ccf21506a138f1b073552453cc87c073a"
+      "date": "2026-06-12T21:18:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa44dc0dabcba62ad4af8207c94c724c77b4ee95"
     },
     {
-      "sha": "968f78ae5e812d7a2c301453cecd23942b0ddf77",
-      "short": "968f78a",
-      "message": "refactor(codegen): drain String lastIndexOf/endsWith/normalize to Registry",
+      "sha": "2b1dd5ba810b0efb72ceaa7317bb9a7ace2b78d9",
+      "short": "2b1dd5b",
+      "message": "docs: Function moved to rts-primitives (Fase 2.3) via extern-C shim decouple",
       "author": "Daniel",
-      "date": "2026-06-12T01:46:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/968f78ae5e812d7a2c301453cecd23942b0ddf77"
+      "date": "2026-06-12T21:03:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2b1dd5ba810b0efb72ceaa7317bb9a7ace2b78d9"
     },
     {
-      "sha": "9ae28fea8bce0448db7cbfd54f3524d93468f1f7",
-      "short": "9ae28fe",
-      "message": "refactor(codegen): drain String match/search/matchAll via _AUTO runtime dispatch",
+      "sha": "132a6fc926bc3a778b5597d1448b686c69c73e53",
+      "short": "132a6fc",
+      "message": "refactor(crates): move Function primordial into rts-primitives (Fase 2.3b)",
       "author": "Daniel",
-      "date": "2026-06-12T01:37:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ae28fea8bce0448db7cbfd54f3524d93468f1f7"
+      "date": "2026-06-12T21:02:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/132a6fc926bc3a778b5597d1448b686c69c73e53"
     },
     {
-      "sha": "4eba3cb70d452bd5ea61cf1c7467442f2cee120c",
-      "short": "4eba3cb",
-      "message": "refactor(codegen): drain String.split via _AUTO runtime dispatch (arg-type overload)",
+      "sha": "f2fb6c4705dc6d331e02207800b148afaf22434e",
+      "short": "f2fb6c4",
+      "message": "refactor(shared): decouple Function from collections/proxy via extern-C shims (Fase 2.3a)",
       "author": "Daniel",
-      "date": "2026-06-12T01:29:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4eba3cb70d452bd5ea61cf1c7467442f2cee120c"
+      "date": "2026-06-12T20:51:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2fb6c4705dc6d331e02207800b148afaf22434e"
     },
     {
-      "sha": "7aea974b6acae0a6cf933991afd097451dfe764d",
-      "short": "7aea974",
-      "message": "refactor(codegen): drain Boolean toString/valueOf to Registry (both paths)",
+      "sha": "e530bda60bbd6c5aae8ec928b3d879e2d7ea5ffa",
+      "short": "e530bda",
+      "message": "docs: Fase 2.8 collapse done via ensure_registry_init (Boolean/Number)",
       "author": "Daniel",
-      "date": "2026-06-12T01:20:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7aea974b6acae0a6cf933991afd097451dfe764d"
+      "date": "2026-06-12T20:40:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e530bda60bbd6c5aae8ec928b3d879e2d7ea5ffa"
     },
     {
-      "sha": "06cdab3f58a200d3fb8226c14cc5b34b58eb0982",
-      "short": "06cdab3",
-      "message": "refactor(codegen): drain String charCodeAt (align Registry to F64/NaN variant)",
+      "sha": "2216ba7a6e36c332a72fbf99088a90b07bbdcdf2",
+      "short": "2216ba7",
+      "message": "refactor(codegen): collapse Boolean/Number add_fn! via Registry (Fase 2.8)",
       "author": "Daniel",
-      "date": "2026-06-12T01:13:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/06cdab3f58a200d3fb8226c14cc5b34b58eb0982"
+      "date": "2026-06-12T20:40:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2216ba7a6e36c332a72fbf99088a90b07bbdcdf2"
     },
     {
-      "sha": "2b6ac78cfe1c0ea725ba3fa7840acce350eba65a",
-      "short": "2b6ac78",
-      "message": "refactor(codegen): drain String padStart/padEnd via default_args (pad=0 → runtime space)",
+      "sha": "a6a5ef51c8a60d5d2e3e17047f717be22763c186",
+      "short": "a6a5ef5",
+      "message": "docs: record jit add_fn! collapse as proven-unsafe (registry-init ordering)",
       "author": "Daniel",
-      "date": "2026-06-12T01:08:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b6ac78cfe1c0ea725ba3fa7840acce350eba65a"
+      "date": "2026-06-12T20:34:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a6a5ef51c8a60d5d2e3e17047f717be22763c186"
     },
     {
-      "sha": "9bae783bc3aeaeb45fe962cf3770caf0593cf26d",
-      "short": "9bae783",
-      "message": "refactor(codegen): drain String slice/substring/substr via i64::MAX default_args",
+      "sha": "efc71ee60db1cb514e7f68d4c35892f04371c609",
+      "short": "efc71ee",
+      "message": "docs: update Phase 2 status — Array/Promise specs moved; remaining blockers",
       "author": "Daniel",
-      "date": "2026-06-12T01:03:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9bae783bc3aeaeb45fe962cf3770caf0593cf26d"
+      "date": "2026-06-12T20:21:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/efc71ee60db1cb514e7f68d4c35892f04371c609"
     }
   ]
 }
