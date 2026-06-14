@@ -1,6 +1,134 @@
 {
-  "total": 2496,
+  "total": 2512,
   "commits": [
+    {
+      "sha": "fe85cc7508c6766a0b79773791b3f583fad780e4",
+      "short": "fe85cc7",
+      "message": "perf(codegen): array inline — tamanho via const + arrays top-level (RTS_ARRAY_INLINE) (#1559)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T02:46:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fe85cc7508c6766a0b79773791b3f583fad780e4"
+    },
+    {
+      "sha": "44e986909ee98a0b00af3424d6be953ba0ad986d",
+      "short": "44e9869",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T01:48:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/44e986909ee98a0b00af3424d6be953ba0ad986d"
+    },
+    {
+      "sha": "4be63ddcb28ed4eeedc47ea9bd636abc3dcfb1f3",
+      "short": "4be63dd",
+      "message": "fix(int32) + perf(array inline): conformidade bitwise + storage nativo de array (#1558)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T01:41:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4be63ddcb28ed4eeedc47ea9bd636abc3dcfb1f3"
+    },
+    {
+      "sha": "9b022feaac6ebad13d5ccc5999a05d38be8a8b20",
+      "short": "9b022fe",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T00:18:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b022feaac6ebad13d5ccc5999a05d38be8a8b20"
+    },
+    {
+      "sha": "47615555cd4183939360bc2386fd08ed0245b1f5",
+      "short": "4761555",
+      "message": "docs: registrar o race de async paralelo + fix RMW + armadilha do GC (#1557)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T00:10:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/47615555cd4183939360bc2386fd08ed0245b1f5"
+    },
+    {
+      "sha": "44329312955f5bcb5be589b7e47a39252c010036",
+      "short": "4432931",
+      "message": "feat(codegen): atomic RMW intrinsic — fix data race em async paralelo (#1556)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T00:07:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/44329312955f5bcb5be589b7e47a39252c010036"
+    },
+    {
+      "sha": "118d0df89f59e2918a6d0f4a2b0effef96764583",
+      "short": "118d0df",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T23:16:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/118d0df89f59e2918a6d0f4a2b0effef96764583"
+    },
+    {
+      "sha": "6798aae5368d7073523fd503c0d0b2cbdc464cc5",
+      "short": "6798aae",
+      "message": "feat(napi): implement napi_module_register (legacy registration) — 159/159 (#1555)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T23:09:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6798aae5368d7073523fd503c0d0b2cbdc464cc5"
+    },
+    {
+      "sha": "ecaa934aa5ae2ca604e76d18da0b40b02a7d6b1e",
+      "short": "ecaa934",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T23:02:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ecaa934aa5ae2ca604e76d18da0b40b02a7d6b1e"
+    },
+    {
+      "sha": "c7d06c206ff2aae442750636945288bd86a76519",
+      "short": "c7d06c2",
+      "message": "fix(napi): chained `.then()` on N-API Promise no longer crashes (#1554)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T22:55:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7d06c206ff2aae442750636945288bd86a76519"
+    },
+    {
+      "sha": "5413147dafd65ea60a96e786e243e3593ea35800",
+      "short": "5413147",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T21:51:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5413147dafd65ea60a96e786e243e3593ea35800"
+    },
+    {
+      "sha": "e3337a562e4025d25bdce7ea807c7db37c98a0d3",
+      "short": "e3337a5",
+      "message": "feat(napi): BigInt real + threadsafe + Promise↔async — 158/159 fns (#1553)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T21:43:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3337a562e4025d25bdce7ea807c7db37c98a0d3"
+    },
+    {
+      "sha": "db3c8aa90635c61d31ef69aa774586b652e08f11",
+      "short": "db3c8aa",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T21:02:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db3c8aa90635c61d31ef69aa774586b652e08f11"
+    },
+    {
+      "sha": "1d4a83898581c86796cd792c21c117ebf63316b8",
+      "short": "1d4a838",
+      "message": "feat(napi): async work síncrono + callback scopes (144/159 fns) (#1552)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T20:56:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1d4a83898581c86796cd792c21c117ebf63316b8"
+    },
+    {
+      "sha": "68145f6462b5e704dc99270704435fb0905ef2ce",
+      "short": "68145f6",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-13T20:45:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68145f6462b5e704dc99270704435fb0905ef2ce"
+    },
+    {
+      "sha": "090f0416620591f846d592374d92b2a5f14fa8da",
+      "short": "090f041",
+      "message": "feat(engine+napi): Entry::ArrayBuffer ptr estável + 15 fns N-API (ArrayBuffer/TypedArray) (#1551)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-13T20:37:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/090f0416620591f846d592374d92b2a5f14fa8da"
+    },
     {
       "sha": "fa7ef1e59f001d0efd7f25d3d225b5f1a2806e49",
       "short": "fa7ef1e",
@@ -32,134 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-06-13T17:51:24Z",
       "url": "https://github.com/UrubuCode/rts/commit/3df281c4cd1ac16e547343e5c1983fa3bb6183b1"
-    },
-    {
-      "sha": "ee8a401453729b07f7c9b64f600457c755a395f6",
-      "short": "ee8a401",
-      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T17:41:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ee8a401453729b07f7c9b64f600457c755a395f6"
-    },
-    {
-      "sha": "413a9923696921f5f9477008f3b1118eb948498b",
-      "short": "413a992",
-      "message": "feat(napi): suporte a Node.js native addons (.node) — N-API com paridade Node (#1545)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T17:33:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/413a9923696921f5f9477008f3b1118eb948498b"
-    },
-    {
-      "sha": "29d1e97c4a5f57ef832a8745505ebf3603b1641f",
-      "short": "29d1e97",
-      "message": "docs: auto-update cross-runtime parity badge (70.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T03:18:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29d1e97c4a5f57ef832a8745505ebf3603b1641f"
-    },
-    {
-      "sha": "1797edb849414d2e00b1f8794a262213bb0ae0a3",
-      "short": "1797edb",
-      "message": "feat(codegen): float-map arithmetic via guarded NUM_ARITH (narrow-storage C)",
-      "author": "Daniel",
-      "date": "2026-06-13T02:59:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1797edb849414d2e00b1f8794a262213bb0ae0a3"
-    },
-    {
-      "sha": "08cc81d8c0688da762f67a36ae33546d0f97193b",
-      "short": "08cc81d",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts into refactor/rts-codegen-clean",
-      "author": "Daniel",
-      "date": "2026-06-13T02:20:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/08cc81d8c0688da762f67a36ae33546d0f97193b"
-    },
-    {
-      "sha": "ba39bb3bafb90bc52aa5284dacaaf7761fff01d5",
-      "short": "ba39bb3",
-      "message": "feat(codegen): float-map === via FloatPrim unbox (narrow-storage B)",
-      "author": "Daniel",
-      "date": "2026-06-12T23:46:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ba39bb3bafb90bc52aa5284dacaaf7761fff01d5"
-    },
-    {
-      "sha": "ba929353d38f0a44071228027a47b69812400d2c",
-      "short": "ba92935",
-      "message": "feat(runtime): Entry::FloatPrim — boxed float for heterogeneous containers (narrow-storage A)",
-      "author": "Daniel",
-      "date": "2026-06-12T23:39:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ba929353d38f0a44071228027a47b69812400d2c"
-    },
-    {
-      "sha": "2096161983c3a76b1fe461b5f2a469a18d76dd8d",
-      "short": "2096161",
-      "message": "fix(runtime): typeof of float/large raw values → \"number\" (narrow-storage slice 2a)",
-      "author": "Daniel",
-      "date": "2026-06-12T23:01:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2096161983c3a76b1fe461b5f2a469a18d76dd8d"
-    },
-    {
-      "sha": "35367da324b7e489854206f52614420f35b094ab",
-      "short": "35367da",
-      "message": "fix(codegen): float array indexOf/includes via raw-bits needle (narrow-storage slice 1)",
-      "author": "Daniel",
-      "date": "2026-06-12T22:51:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/35367da324b7e489854206f52614420f35b094ab"
-    },
-    {
-      "sha": "b0da89bcae9021b6f7391b1216bceacf35e9a0ff",
-      "short": "b0da89b",
-      "message": "refactor(codegen): drain SharedArrayBuffer rename via Registry class-mirror",
-      "author": "Daniel",
-      "date": "2026-06-12T22:38:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b0da89bcae9021b6f7391b1216bceacf35e9a0ff"
-    },
-    {
-      "sha": "01106cadcb8ec69eed82006e37431e9576b6738c",
-      "short": "01106ca",
-      "message": "refactor(codegen): drain `new Proxy` construction via Registry class",
-      "author": "Daniel",
-      "date": "2026-06-12T22:32:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01106cadcb8ec69eed82006e37431e9576b6738c"
-    },
-    {
-      "sha": "37d4eeebda4aef7423eb222dc17a534b52be0dba",
-      "short": "37d4eee",
-      "message": "refactor(codegen): drain Math.X call-dispatch + typeof via Registry \"Math\" class",
-      "author": "Daniel",
-      "date": "2026-06-12T22:22:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/37d4eeebda4aef7423eb222dc17a534b52be0dba"
-    },
-    {
-      "sha": "f3e0782146d3ca39378be8df492c09fdd970093c",
-      "short": "f3e0782",
-      "message": "refactor(codegen): drain console logic from engine → CONSOLE_WRITE_AUTO",
-      "author": "Daniel",
-      "date": "2026-06-12T21:51:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3e0782146d3ca39378be8df492c09fdd970093c"
-    },
-    {
-      "sha": "afbcdedc3454e26b2e5df4ed9376c47f05f2feac",
-      "short": "afbcded",
-      "message": "docs: Object class spec introduced (Fase 2.7) — Phase 2 primordials all registered",
-      "author": "Daniel",
-      "date": "2026-06-12T21:19:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/afbcdedc3454e26b2e5df4ed9376c47f05f2feac"
-    },
-    {
-      "sha": "fa44dc0dabcba62ad4af8207c94c724c77b4ee95",
-      "short": "fa44dc0",
-      "message": "refactor(codegen): introduce Object class spec in Registry (Fase 2.7)",
-      "author": "Daniel",
-      "date": "2026-06-12T21:18:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa44dc0dabcba62ad4af8207c94c724c77b4ee95"
-    },
-    {
-      "sha": "2b1dd5ba810b0efb72ceaa7317bb9a7ace2b78d9",
-      "short": "2b1dd5b",
-      "message": "docs: Function moved to rts-primitives (Fase 2.3) via extern-C shim decouple",
-      "author": "Daniel",
-      "date": "2026-06-12T21:03:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b1dd5ba810b0efb72ceaa7317bb9a7ace2b78d9"
     }
   ]
 }
