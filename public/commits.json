@@ -1,6 +1,62 @@
 {
-  "total": 2512,
+  "total": 2519,
   "commits": [
+    {
+      "sha": "413c313e2ce4ab6c4c845f18dd96a1d52e9b275c",
+      "short": "413c313",
+      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T05:43:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/413c313e2ce4ab6c4c845f18dd96a1d52e9b275c"
+    },
+    {
+      "sha": "1279480b092d4530a9b9e6b2a2f6328a536c8092",
+      "short": "1279480",
+      "message": "fix(codegen): limitar tamanho de array nativo a 1024 elems (evita stack overflow) (#1564)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T05:36:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1279480b092d4530a9b9e6b2a2f6328a536c8092"
+    },
+    {
+      "sha": "05d7bfdaecf14b088f3ce2443247c4cbb79fa0e8",
+      "short": "05d7bfd",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T05:12:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/05d7bfdaecf14b088f3ce2443247c4cbb79fa0e8"
+    },
+    {
+      "sha": "ddea75b9a9b6a14989ed585e08ace829107e6b6c",
+      "short": "ddea75b",
+      "message": "perf(codegen): inline aceita assign no prelude — rnd()/acumulador inlina (11x) (#1563)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T05:04:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddea75b9a9b6a14989ed585e08ace829107e6b6c"
+    },
+    {
+      "sha": "11c90a6ec4e7ceab8bdfefab4cc3d3865e4231b4",
+      "short": "11c90a6",
+      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T04:17:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/11c90a6ec4e7ceab8bdfefab4cc3d3865e4231b4"
+    },
+    {
+      "sha": "ae6ca45de1f5e977e9833d2cc2e0761837d25b00",
+      "short": "ae6ca45",
+      "message": "perf(codegen): inline de user-fn pequena no call-site (RTS_INLINE_AST) (#1561)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-14T04:08:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae6ca45de1f5e977e9833d2cc2e0761837d25b00"
+    },
+    {
+      "sha": "819334bb5b1edcc6a157e551acd7d30b4268ab17",
+      "short": "819334b",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-14T02:53:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/819334bb5b1edcc6a157e551acd7d30b4268ab17"
+    },
     {
       "sha": "fe85cc7508c6766a0b79773791b3f583fad780e4",
       "short": "fe85cc7",
@@ -104,62 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-06-13T21:02:16Z",
       "url": "https://github.com/UrubuCode/rts/commit/db3c8aa90635c61d31ef69aa774586b652e08f11"
-    },
-    {
-      "sha": "1d4a83898581c86796cd792c21c117ebf63316b8",
-      "short": "1d4a838",
-      "message": "feat(napi): async work síncrono + callback scopes (144/159 fns) (#1552)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T20:56:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1d4a83898581c86796cd792c21c117ebf63316b8"
-    },
-    {
-      "sha": "68145f6462b5e704dc99270704435fb0905ef2ce",
-      "short": "68145f6",
-      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T20:45:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68145f6462b5e704dc99270704435fb0905ef2ce"
-    },
-    {
-      "sha": "090f0416620591f846d592374d92b2a5f14fa8da",
-      "short": "090f041",
-      "message": "feat(engine+napi): Entry::ArrayBuffer ptr estável + 15 fns N-API (ArrayBuffer/TypedArray) (#1551)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T20:37:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/090f0416620591f846d592374d92b2a5f14fa8da"
-    },
-    {
-      "sha": "fa7ef1e59f001d0efd7f25d3d225b5f1a2806e49",
-      "short": "fa7ef1e",
-      "message": "docs: auto-update cross-runtime parity badge (70.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T18:07:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa7ef1e59f001d0efd7f25d3d225b5f1a2806e49"
-    },
-    {
-      "sha": "fb2e1d40973c02a8ab0ef3d1f18fd029b30e6c77",
-      "short": "fb2e1d4",
-      "message": "docs(napi): atualiza documentação para estado real (124/159 fns, classes, npm) (#1550)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T17:59:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb2e1d40973c02a8ab0ef3d1f18fd029b30e6c77"
-    },
-    {
-      "sha": "2bcc8df72634ab0c612eecbe27959e71493c261f",
-      "short": "2bcc8df",
-      "message": "docs(napi): referencia issues de tracking #1547 e engine #1548 (#1549)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T17:55:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2bcc8df72634ab0c612eecbe27959e71493c261f"
-    },
-    {
-      "sha": "3df281c4cd1ac16e547343e5c1983fa3bb6183b1",
-      "short": "3df281c",
-      "message": "feat(napi): Fase 2 completa — Buffer/Date/Symbol/wrap/classes + tudo implementável sem engine (#1546)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T17:51:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3df281c4cd1ac16e547343e5c1983fa3bb6183b1"
     }
   ]
 }
