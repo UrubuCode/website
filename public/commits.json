@@ -1,6 +1,110 @@
 {
-  "total": 2648,
+  "total": 2661,
   "commits": [
+    {
+      "sha": "9c9bb2bff9cbc256adcd5848c9130555a25ebf5c",
+      "short": "9c9bb2b",
+      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-20T13:20:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c9bb2bff9cbc256adcd5848c9130555a25ebf5c"
+    },
+    {
+      "sha": "8260f0e0ec89c41639afbb60c16a2e20ebd09652",
+      "short": "8260f0e",
+      "message": "Merge pull request #1566 from UrubuCode/feat/console-via-registry",
+      "author": "Drysius",
+      "date": "2026-06-20T13:13:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8260f0e0ec89c41639afbb60c16a2e20ebd09652"
+    },
+    {
+      "sha": "2ae71e7a315044a83c6834091151fd44fb71a33c",
+      "short": "2ae71e7",
+      "message": "refactor(console): move console.ts p/ rts-shared/stdlib + Registration->Register",
+      "author": "Daniel",
+      "date": "2026-06-20T12:53:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2ae71e7a315044a83c6834091151fd44fb71a33c"
+    },
+    {
+      "sha": "fbb88d9ba11ae8d5352276eb8dddb154716359d4",
+      "short": "fbb88d9",
+      "message": "refactor(codegen-new): renomeia Registrar -> Registration na tabela do registry",
+      "author": "Marcos",
+      "date": "2026-06-20T12:40:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbb88d9ba11ae8d5352276eb8dddb154716359d4"
+    },
+    {
+      "sha": "f2fa33c0545cc4848b450b87c4344534cb490a40",
+      "short": "f2fa33c",
+      "message": "refactor(codegen-new): registry população como tabela de dados (registry_build.rs)",
+      "author": "Marcos",
+      "date": "2026-06-20T12:21:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2fa33c0545cc4848b450b87c4344534cb490a40"
+    },
+    {
+      "sha": "650655b4d6c8b06fc36f380f655ea4e56d8a3a79",
+      "short": "650655b",
+      "message": "Merge pull request #1567 from UrubuCode/feat/p2b-map-set-registry",
+      "author": "Drysius",
+      "date": "2026-06-20T12:03:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/650655b4d6c8b06fc36f380f655ea4e56d8a3a79"
+    },
+    {
+      "sha": "111ff6cfbd596c61b4b437e0bd26108012ce4b6d",
+      "short": "111ff6c",
+      "message": "feat(codegen-new): rastreia classe estatica pelo resultado de chamada/metodo",
+      "author": "Daniel",
+      "date": "2026-06-20T11:59:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/111ff6cfbd596c61b4b437e0bd26108012ce4b6d"
+    },
+    {
+      "sha": "6f5d11c1dccef1d57e8cc0318d21e1cade882ab4",
+      "short": "6f5d11c",
+      "message": "docs(design): registra CONSOLE_TS + prelude-singleton gcell + Float64-não-rebaixa + Handle-recurso no design doc",
+      "author": "Marcos",
+      "date": "2026-06-20T06:44:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6f5d11c1dccef1d57e8cc0318d21e1cade882ab4"
+    },
+    {
+      "sha": "1a9b76696091e3ec3b88d2e870a198e687f42cef",
+      "short": "1a9b766",
+      "message": "fix(engine): const/let não rebaixa Float64→Int + áudio resiliente a device-changed",
+      "author": "Marcos",
+      "date": "2026-06-20T06:41:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1a9b76696091e3ec3b88d2e870a198e687f42cef"
+    },
+    {
+      "sha": "3d4f527288653a146c30670908f6189b57732422",
+      "short": "3d4f527",
+      "message": "refactor(console): console como prelude .ts (CONSOLE_TS) — front não nomeia mais console",
+      "author": "Marcos",
+      "date": "2026-06-20T05:58:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d4f527288653a146c30670908f6189b57732422"
+    },
+    {
+      "sha": "0134ca37e1aa6b698cb35310df66cf6c23f0c026",
+      "short": "0134ca3",
+      "message": "fix(engine): handles de recurso opacos + constante de namespace-objeto no motor novo",
+      "author": "Marcos",
+      "date": "2026-06-20T04:59:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0134ca37e1aa6b698cb35310df66cf6c23f0c026"
+    },
+    {
+      "sha": "b4c70c3dec2650833f54f9a82c8599b83a6575f5",
+      "short": "b4c70c3",
+      "message": "feat(console): roteia console.* via Registry no motor novo + áudio + read_before_commit.sh",
+      "author": "Marcos",
+      "date": "2026-06-20T04:24:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b4c70c3dec2650833f54f9a82c8599b83a6575f5"
+    },
+    {
+      "sha": "5d16118d5b45a5b3880cb6815ee13e710eb9a16a",
+      "short": "5d16118",
+      "message": "Revert \"feat(runtime): P2-A store PolyValue-keyed Map/Set + SameValueZero (foundation)\"",
+      "author": "Daniel",
+      "date": "2026-06-20T11:31:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d16118d5b45a5b3880cb6815ee13e710eb9a16a"
+    },
     {
       "sha": "2228c53469e140d6cccc9671af92baa063e20e9e",
       "short": "2228c53",
@@ -56,110 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-20T01:30:00Z",
       "url": "https://github.com/UrubuCode/rts/commit/3ef8d257ac4d8a3f37ba05f5673786802da21884"
-    },
-    {
-      "sha": "a430b0e994e7fea59ad2f23842b812480e12b7b2",
-      "short": "a430b0e",
-      "message": "merge: reconcilia main no cutover (-s ours)",
-      "author": "Daniel",
-      "date": "2026-06-19T23:14:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a430b0e994e7fea59ad2f23842b812480e12b7b2"
-    },
-    {
-      "sha": "23ff3618f4af30f669622311299c5618490e243d",
-      "short": "23ff361",
-      "message": "docs: divergência main↔cutover — N-API portado, perf-motor-antigo/badges listados (não portados)",
-      "author": "Daniel",
-      "date": "2026-06-19T23:14:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/23ff3618f4af30f669622311299c5618490e243d"
-    },
-    {
-      "sha": "201c3d4b8b58e9e4ae4153fd8365454c33fd57e0",
-      "short": "201c3d4",
-      "message": "feat(napi): porta N-API (.node native addons) da main p/ a branch de cutover",
-      "author": "Daniel",
-      "date": "2026-06-19T20:57:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/201c3d4b8b58e9e4ae4153fd8365454c33fd57e0"
-    },
-    {
-      "sha": "d14eec2f67238f51324d7eb62102dfef23cfed80",
-      "short": "d14eec2",
-      "message": "refactor!: P5 cutover — deleta o motor ANTIGO (rts-codegen-old) + tier MIR (rts-mir)",
-      "author": "Daniel",
-      "date": "2026-06-19T19:48:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d14eec2f67238f51324d7eb62102dfef23cfed80"
-    },
-    {
-      "sha": "cd1dced288d0eeeff7635b9fcfe93a9809615b02",
-      "short": "cd1dced",
-      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 274 verdes (JSON .ts + property-add dinâmico)",
-      "author": "Daniel",
-      "date": "2026-06-19T10:26:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd1dced288d0eeeff7635b9fcfe93a9809615b02"
-    },
-    {
-      "sha": "a78b72a514782ff5f314a89156356633f891b5a6",
-      "short": "a78b72a",
-      "message": "feat(codegen-new): JSON (stringify+parse) como stdlib .ts + property-add dinâmico (270 → 274 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T10:26:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a78b72a514782ff5f314a89156356633f891b5a6"
-    },
-    {
-      "sha": "02405a38b569cc256c055cd2da8d38f830dfb300",
-      "short": "02405a3",
-      "message": "feat(codegen-new): Object.keys/values/entries dinâmico (receiver shape só em runtime)",
-      "author": "Daniel",
-      "date": "2026-06-19T10:12:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/02405a38b569cc256c055cd2da8d38f830dfb300"
-    },
-    {
-      "sha": "de6dab7445a0d05d5b4b506268281a3ca21d54f3",
-      "short": "de6dab7",
-      "message": "feat(codegen-new): spread de iteráveis em array literal — [...gen()] / [...set] / [...\"ab\"] (269 → 270 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T09:57:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de6dab7445a0d05d5b4b506268281a3ca21d54f3"
-    },
-    {
-      "sha": "e2caf9c550e28ecc74b698717602e246f2a8a64c",
-      "short": "e2caf9c",
-      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 269 verdes (gen.next() correto)",
-      "author": "Daniel",
-      "date": "2026-06-19T09:47:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e2caf9c550e28ecc74b698717602e246f2a8a64c"
-    },
-    {
-      "sha": "728af1bcb109f0ecc5615129d7abceae636d5ae0",
-      "short": "728af1b",
-      "message": "feat(codegen-new): gen.next()/.return()/.throw() corretos — {value,done} reconstruído no motor (266 → 269 verdes) [#211 fase 3]",
-      "author": "Daniel",
-      "date": "2026-06-19T09:47:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/728af1bcb109f0ecc5615129d7abceae636d5ae0"
-    },
-    {
-      "sha": "ff41b994b2e8fd46d56f54a0fa8e189808ade6c1",
-      "short": "ff41b99",
-      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 266 verdes (generators eager+lazy, Symbol.iterator)",
-      "author": "Daniel",
-      "date": "2026-06-19T09:20:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff41b994b2e8fd46d56f54a0fa8e189808ade6c1"
-    },
-    {
-      "sha": "71dea0a0a7f1d47b3116d384524fee8dc2fd44ea",
-      "short": "71dea0a",
-      "message": "feat(codegen-new): Map/Set iteráveis via *[Symbol.iterator]() real + for-of de classe iterável (265 → 266 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T09:19:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71dea0a0a7f1d47b3116d384524fee8dc2fd44ea"
-    },
-    {
-      "sha": "b11c0003b35cd344685787b8549611a2f8604f5f",
-      "short": "b11c000",
-      "message": "feat(codegen-new): generators lazy state-machine (loops com yield) (262 → 265 verdes) [#211 fase 2]",
-      "author": "Daniel",
-      "date": "2026-06-19T09:12:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b11c0003b35cd344685787b8549611a2f8604f5f"
     }
   ]
 }
