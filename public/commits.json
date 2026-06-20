@@ -1,6 +1,126 @@
 {
-  "total": 2661,
+  "total": 2676,
   "commits": [
+    {
+      "sha": "0865cde3d477d7b9f577f0542824727f0b4f0300",
+      "short": "0865cde",
+      "message": "Merge pull request #1604 from UrubuCode/feat/class-expr",
+      "author": "Drysius",
+      "date": "2026-06-20T16:42:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0865cde3d477d7b9f577f0542824727f0b4f0300"
+    },
+    {
+      "sha": "f5b87d944fd5b762b20e6b34f57c0602ee0363a5",
+      "short": "f5b87d9",
+      "message": "feat(parser): class expressions via hoisting — fecha o arco classe-como-valor",
+      "author": "Daniel",
+      "date": "2026-06-20T16:38:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5b87d944fd5b762b20e6b34f57c0602ee0363a5"
+    },
+    {
+      "sha": "a0a0e48ec65a3d3205faece335ea045114e90744",
+      "short": "a0a0e48",
+      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-20T16:34:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a0a0e48ec65a3d3205faece335ea045114e90744"
+    },
+    {
+      "sha": "547e974e0184ea8961526be85211336a19dfca3d",
+      "short": "547e974",
+      "message": "Merge pull request #1598 from UrubuCode/feat/globalthis-class-track",
+      "author": "Drysius",
+      "date": "2026-06-20T16:27:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/547e974e0184ea8961526be85211336a19dfca3d"
+    },
+    {
+      "sha": "465064cd9e4273b615ca9b240d06244de300149e",
+      "short": "465064c",
+      "message": "feat(codegen-new): rastreio estatico de globalThis.X = Class (caminho A)",
+      "author": "Daniel",
+      "date": "2026-06-20T16:04:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/465064cd9e4273b615ca9b240d06244de300149e"
+    },
+    {
+      "sha": "6040e83d0276dab8d61506147867421ca61963ff",
+      "short": "6040e83",
+      "message": "Merge pull request #1592 from UrubuCode/feat/new-on-value",
+      "author": "Drysius",
+      "date": "2026-06-20T15:43:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6040e83d0276dab8d61506147867421ca61963ff"
+    },
+    {
+      "sha": "dee8bc70b17fcc04bf8e479d8eb48f8d356a7e71",
+      "short": "dee8bc7",
+      "message": "feat(codegen-new): new sobre classe-valor de runtime (slice 2: construct + sound)",
+      "author": "Daniel",
+      "date": "2026-06-20T15:37:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dee8bc70b17fcc04bf8e479d8eb48f8d356a7e71"
+    },
+    {
+      "sha": "51fcd2e0a51f3ac0c3a74b22c892fb3b3bac1776",
+      "short": "51fcd2e",
+      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-20T15:01:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/51fcd2e0a51f3ac0c3a74b22c892fb3b3bac1776"
+    },
+    {
+      "sha": "1c2389f68c6f42773052934d29a9f0905a1930ed",
+      "short": "1c2389f",
+      "message": "Merge pull request #1568 from UrubuCode/feat/console-via-registry",
+      "author": "Drysius",
+      "date": "2026-06-20T14:55:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c2389f68c6f42773052934d29a9f0905a1930ed"
+    },
+    {
+      "sha": "f5fbdd929bf4e5db65301d31478522dd5da7fe6e",
+      "short": "f5fbdd9",
+      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-20T14:53:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5fbdd929bf4e5db65301d31478522dd5da7fe6e"
+    },
+    {
+      "sha": "c1fbad66095faf31edfd765b626a6013a06d4b16",
+      "short": "c1fbad6",
+      "message": "refactor(codegen-new): console data-driven — remove os 3 hardcodes do front",
+      "author": "Marcos",
+      "date": "2026-06-20T13:13:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c1fbad66095faf31edfd765b626a6013a06d4b16"
+    },
+    {
+      "sha": "e41f10ad3e71ba87e71557eb0c9af7df830a6d9d",
+      "short": "e41f10a",
+      "message": "Merge pull request #1575 from UrubuCode/feat/class-as-value",
+      "author": "Drysius",
+      "date": "2026-06-20T14:46:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e41f10ad3e71ba87e71557eb0c9af7df830a6d9d"
+    },
+    {
+      "sha": "2d31cc56ede337466c1d700c86b614e7e5ce95ad",
+      "short": "2d31cc5",
+      "message": "feat(codegen-new): classe de usuario como valor + new-thunk (slice 1)",
+      "author": "Daniel",
+      "date": "2026-06-20T14:10:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d31cc56ede337466c1d700c86b614e7e5ce95ad"
+    },
+    {
+      "sha": "40936eedf6426c6807802bc758809da91a18c5f7",
+      "short": "40936ee",
+      "message": "Merge pull request #1574 from UrubuCode/feat/globalthis",
+      "author": "Drysius",
+      "date": "2026-06-20T14:12:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40936eedf6426c6807802bc758809da91a18c5f7"
+    },
+    {
+      "sha": "f150ba41fc412a59d235da729471f011b25ca4fc",
+      "short": "f150ba4",
+      "message": "feat(codegen-new): globalThis como objeto global singleton (foundation: valores)",
+      "author": "Daniel",
+      "date": "2026-06-20T13:36:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f150ba41fc412a59d235da729471f011b25ca4fc"
+    },
     {
       "sha": "9c9bb2bff9cbc256adcd5848c9130555a25ebf5c",
       "short": "9c9bb2b",
@@ -40,126 +160,6 @@
       "author": "Marcos",
       "date": "2026-06-20T12:21:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/f2fa33c0545cc4848b450b87c4344534cb490a40"
-    },
-    {
-      "sha": "650655b4d6c8b06fc36f380f655ea4e56d8a3a79",
-      "short": "650655b",
-      "message": "Merge pull request #1567 from UrubuCode/feat/p2b-map-set-registry",
-      "author": "Drysius",
-      "date": "2026-06-20T12:03:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/650655b4d6c8b06fc36f380f655ea4e56d8a3a79"
-    },
-    {
-      "sha": "111ff6cfbd596c61b4b437e0bd26108012ce4b6d",
-      "short": "111ff6c",
-      "message": "feat(codegen-new): rastreia classe estatica pelo resultado de chamada/metodo",
-      "author": "Daniel",
-      "date": "2026-06-20T11:59:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/111ff6cfbd596c61b4b437e0bd26108012ce4b6d"
-    },
-    {
-      "sha": "6f5d11c1dccef1d57e8cc0318d21e1cade882ab4",
-      "short": "6f5d11c",
-      "message": "docs(design): registra CONSOLE_TS + prelude-singleton gcell + Float64-não-rebaixa + Handle-recurso no design doc",
-      "author": "Marcos",
-      "date": "2026-06-20T06:44:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6f5d11c1dccef1d57e8cc0318d21e1cade882ab4"
-    },
-    {
-      "sha": "1a9b76696091e3ec3b88d2e870a198e687f42cef",
-      "short": "1a9b766",
-      "message": "fix(engine): const/let não rebaixa Float64→Int + áudio resiliente a device-changed",
-      "author": "Marcos",
-      "date": "2026-06-20T06:41:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1a9b76696091e3ec3b88d2e870a198e687f42cef"
-    },
-    {
-      "sha": "3d4f527288653a146c30670908f6189b57732422",
-      "short": "3d4f527",
-      "message": "refactor(console): console como prelude .ts (CONSOLE_TS) — front não nomeia mais console",
-      "author": "Marcos",
-      "date": "2026-06-20T05:58:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d4f527288653a146c30670908f6189b57732422"
-    },
-    {
-      "sha": "0134ca37e1aa6b698cb35310df66cf6c23f0c026",
-      "short": "0134ca3",
-      "message": "fix(engine): handles de recurso opacos + constante de namespace-objeto no motor novo",
-      "author": "Marcos",
-      "date": "2026-06-20T04:59:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0134ca37e1aa6b698cb35310df66cf6c23f0c026"
-    },
-    {
-      "sha": "b4c70c3dec2650833f54f9a82c8599b83a6575f5",
-      "short": "b4c70c3",
-      "message": "feat(console): roteia console.* via Registry no motor novo + áudio + read_before_commit.sh",
-      "author": "Marcos",
-      "date": "2026-06-20T04:24:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4c70c3dec2650833f54f9a82c8599b83a6575f5"
-    },
-    {
-      "sha": "5d16118d5b45a5b3880cb6815ee13e710eb9a16a",
-      "short": "5d16118",
-      "message": "Revert \"feat(runtime): P2-A store PolyValue-keyed Map/Set + SameValueZero (foundation)\"",
-      "author": "Daniel",
-      "date": "2026-06-20T11:31:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d16118d5b45a5b3880cb6815ee13e710eb9a16a"
-    },
-    {
-      "sha": "2228c53469e140d6cccc9671af92baa063e20e9e",
-      "short": "2228c53",
-      "message": "Merge pull request #1565 from UrubuCode/chore/read-before-commit-gate-e-date-drain",
-      "author": "Drysius",
-      "date": "2026-06-20T04:59:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2228c53469e140d6cccc9671af92baa063e20e9e"
-    },
-    {
-      "sha": "231c918db556ab4595b3e8b05a999ec03f4926f1",
-      "short": "231c918",
-      "message": "feat(runtime): P2-A store PolyValue-keyed Map/Set + SameValueZero (foundation)",
-      "author": "Daniel",
-      "date": "2026-06-20T03:21:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/231c918db556ab4595b3e8b05a999ec03f4926f1"
-    },
-    {
-      "sha": "7e64839f84d5900ec63271ecde125d79fb2895dc",
-      "short": "7e64839",
-      "message": "refactor(codegen-new): ctor de classe registry generico — Date 100% data-driven",
-      "author": "Daniel",
-      "date": "2026-06-20T02:30:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e64839f84d5900ec63271ecde125d79fb2895dc"
-    },
-    {
-      "sha": "d0e86ed8cef28a6bbc8ce5ee07b25f845cd69248",
-      "short": "d0e86ed",
-      "message": "refactor(codegen-new): statics de classe registry genericos via Sig.default_args",
-      "author": "Daniel",
-      "date": "2026-06-20T02:10:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0e86ed8cef28a6bbc8ce5ee07b25f845cd69248"
-    },
-    {
-      "sha": "d947227285f13e21224928002cf514f72807d023",
-      "short": "d947227",
-      "message": "refactor(codegen-new): drena resíduo Date p/ flag UNSOUND no spec",
-      "author": "Daniel",
-      "date": "2026-06-20T01:53:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d947227285f13e21224928002cf514f72807d023"
-    },
-    {
-      "sha": "8cbacac4ff0f462c4dc8dd275dea4bba9e40a190",
-      "short": "8cbacac",
-      "message": "refactor(codegen-new): roteamento de classe registry data-driven (drena Date)",
-      "author": "Daniel",
-      "date": "2026-06-20T01:30:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8cbacac4ff0f462c4dc8dd275dea4bba9e40a190"
-    },
-    {
-      "sha": "3ef8d257ac4d8a3f37ba05f5673786802da21884",
-      "short": "3ef8d25",
-      "message": "chore(gate): read_before_commit.sh + regras de layout/doutrina",
-      "author": "Daniel",
-      "date": "2026-06-20T01:30:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3ef8d257ac4d8a3f37ba05f5673786802da21884"
     }
   ]
 }
