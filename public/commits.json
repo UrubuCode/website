@@ -1,165 +1,165 @@
 {
-  "total": 2520,
+  "total": 2641,
   "commits": [
     {
-      "sha": "aa5272ca9499f4db7ad44de3a7f240d6b6c12afe",
-      "short": "aa5272c",
-      "message": "docs: cross-runtime parity 70.9% + history snapshot 2026-06-15",
-      "author": "github-actions[bot]",
-      "date": "2026-06-15T09:00:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aa5272ca9499f4db7ad44de3a7f240d6b6c12afe"
+      "sha": "a430b0e994e7fea59ad2f23842b812480e12b7b2",
+      "short": "a430b0e",
+      "message": "merge: reconcilia main no cutover (-s ours)",
+      "author": "Daniel",
+      "date": "2026-06-19T23:14:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a430b0e994e7fea59ad2f23842b812480e12b7b2"
     },
     {
-      "sha": "413c313e2ce4ab6c4c845f18dd96a1d52e9b275c",
-      "short": "413c313",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T05:43:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/413c313e2ce4ab6c4c845f18dd96a1d52e9b275c"
+      "sha": "23ff3618f4af30f669622311299c5618490e243d",
+      "short": "23ff361",
+      "message": "docs: divergência main↔cutover — N-API portado, perf-motor-antigo/badges listados (não portados)",
+      "author": "Daniel",
+      "date": "2026-06-19T23:14:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/23ff3618f4af30f669622311299c5618490e243d"
     },
     {
-      "sha": "1279480b092d4530a9b9e6b2a2f6328a536c8092",
-      "short": "1279480",
-      "message": "fix(codegen): limitar tamanho de array nativo a 1024 elems (evita stack overflow) (#1564)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T05:36:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1279480b092d4530a9b9e6b2a2f6328a536c8092"
+      "sha": "201c3d4b8b58e9e4ae4153fd8365454c33fd57e0",
+      "short": "201c3d4",
+      "message": "feat(napi): porta N-API (.node native addons) da main p/ a branch de cutover",
+      "author": "Daniel",
+      "date": "2026-06-19T20:57:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/201c3d4b8b58e9e4ae4153fd8365454c33fd57e0"
     },
     {
-      "sha": "05d7bfdaecf14b088f3ce2443247c4cbb79fa0e8",
-      "short": "05d7bfd",
-      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T05:12:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05d7bfdaecf14b088f3ce2443247c4cbb79fa0e8"
+      "sha": "d14eec2f67238f51324d7eb62102dfef23cfed80",
+      "short": "d14eec2",
+      "message": "refactor!: P5 cutover — deleta o motor ANTIGO (rts-codegen-old) + tier MIR (rts-mir)",
+      "author": "Daniel",
+      "date": "2026-06-19T19:48:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d14eec2f67238f51324d7eb62102dfef23cfed80"
     },
     {
-      "sha": "ddea75b9a9b6a14989ed585e08ace829107e6b6c",
-      "short": "ddea75b",
-      "message": "perf(codegen): inline aceita assign no prelude — rnd()/acumulador inlina (11x) (#1563)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T05:04:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddea75b9a9b6a14989ed585e08ace829107e6b6c"
+      "sha": "cd1dced288d0eeeff7635b9fcfe93a9809615b02",
+      "short": "cd1dced",
+      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 274 verdes (JSON .ts + property-add dinâmico)",
+      "author": "Daniel",
+      "date": "2026-06-19T10:26:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd1dced288d0eeeff7635b9fcfe93a9809615b02"
     },
     {
-      "sha": "11c90a6ec4e7ceab8bdfefab4cc3d3865e4231b4",
-      "short": "11c90a6",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T04:17:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11c90a6ec4e7ceab8bdfefab4cc3d3865e4231b4"
+      "sha": "a78b72a514782ff5f314a89156356633f891b5a6",
+      "short": "a78b72a",
+      "message": "feat(codegen-new): JSON (stringify+parse) como stdlib .ts + property-add dinâmico (270 → 274 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T10:26:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a78b72a514782ff5f314a89156356633f891b5a6"
     },
     {
-      "sha": "ae6ca45de1f5e977e9833d2cc2e0761837d25b00",
-      "short": "ae6ca45",
-      "message": "perf(codegen): inline de user-fn pequena no call-site (RTS_INLINE_AST) (#1561)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T04:08:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae6ca45de1f5e977e9833d2cc2e0761837d25b00"
+      "sha": "02405a38b569cc256c055cd2da8d38f830dfb300",
+      "short": "02405a3",
+      "message": "feat(codegen-new): Object.keys/values/entries dinâmico (receiver shape só em runtime)",
+      "author": "Daniel",
+      "date": "2026-06-19T10:12:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/02405a38b569cc256c055cd2da8d38f830dfb300"
     },
     {
-      "sha": "819334bb5b1edcc6a157e551acd7d30b4268ab17",
-      "short": "819334b",
-      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T02:53:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/819334bb5b1edcc6a157e551acd7d30b4268ab17"
+      "sha": "de6dab7445a0d05d5b4b506268281a3ca21d54f3",
+      "short": "de6dab7",
+      "message": "feat(codegen-new): spread de iteráveis em array literal — [...gen()] / [...set] / [...\"ab\"] (269 → 270 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T09:57:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de6dab7445a0d05d5b4b506268281a3ca21d54f3"
     },
     {
-      "sha": "fe85cc7508c6766a0b79773791b3f583fad780e4",
-      "short": "fe85cc7",
-      "message": "perf(codegen): array inline — tamanho via const + arrays top-level (RTS_ARRAY_INLINE) (#1559)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T02:46:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fe85cc7508c6766a0b79773791b3f583fad780e4"
+      "sha": "e2caf9c550e28ecc74b698717602e246f2a8a64c",
+      "short": "e2caf9c",
+      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 269 verdes (gen.next() correto)",
+      "author": "Daniel",
+      "date": "2026-06-19T09:47:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e2caf9c550e28ecc74b698717602e246f2a8a64c"
     },
     {
-      "sha": "44e986909ee98a0b00af3424d6be953ba0ad986d",
-      "short": "44e9869",
-      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T01:48:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/44e986909ee98a0b00af3424d6be953ba0ad986d"
+      "sha": "728af1bcb109f0ecc5615129d7abceae636d5ae0",
+      "short": "728af1b",
+      "message": "feat(codegen-new): gen.next()/.return()/.throw() corretos — {value,done} reconstruído no motor (266 → 269 verdes) [#211 fase 3]",
+      "author": "Daniel",
+      "date": "2026-06-19T09:47:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/728af1bcb109f0ecc5615129d7abceae636d5ae0"
     },
     {
-      "sha": "4be63ddcb28ed4eeedc47ea9bd636abc3dcfb1f3",
-      "short": "4be63dd",
-      "message": "fix(int32) + perf(array inline): conformidade bitwise + storage nativo de array (#1558)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T01:41:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4be63ddcb28ed4eeedc47ea9bd636abc3dcfb1f3"
+      "sha": "ff41b994b2e8fd46d56f54a0fa8e189808ade6c1",
+      "short": "ff41b99",
+      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 266 verdes (generators eager+lazy, Symbol.iterator)",
+      "author": "Daniel",
+      "date": "2026-06-19T09:20:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff41b994b2e8fd46d56f54a0fa8e189808ade6c1"
     },
     {
-      "sha": "9b022feaac6ebad13d5ccc5999a05d38be8a8b20",
-      "short": "9b022fe",
-      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-14T00:18:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b022feaac6ebad13d5ccc5999a05d38be8a8b20"
+      "sha": "71dea0a0a7f1d47b3116d384524fee8dc2fd44ea",
+      "short": "71dea0a",
+      "message": "feat(codegen-new): Map/Set iteráveis via *[Symbol.iterator]() real + for-of de classe iterável (265 → 266 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T09:19:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71dea0a0a7f1d47b3116d384524fee8dc2fd44ea"
     },
     {
-      "sha": "47615555cd4183939360bc2386fd08ed0245b1f5",
-      "short": "4761555",
-      "message": "docs: registrar o race de async paralelo + fix RMW + armadilha do GC (#1557)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T00:10:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47615555cd4183939360bc2386fd08ed0245b1f5"
+      "sha": "b11c0003b35cd344685787b8549611a2f8604f5f",
+      "short": "b11c000",
+      "message": "feat(codegen-new): generators lazy state-machine (loops com yield) (262 → 265 verdes) [#211 fase 2]",
+      "author": "Daniel",
+      "date": "2026-06-19T09:12:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b11c0003b35cd344685787b8549611a2f8604f5f"
     },
     {
-      "sha": "44329312955f5bcb5be589b7e47a39252c010036",
-      "short": "4432931",
-      "message": "feat(codegen): atomic RMW intrinsic — fix data race em async paralelo (#1556)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-14T00:07:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/44329312955f5bcb5be589b7e47a39252c010036"
+      "sha": "a3171e792ea5e7c8ed9dcb48f9a0822f4bec0d43",
+      "short": "a3171e7",
+      "message": "feat(codegen-new): generators eager (function* com yields lineares) (256 → 262 verdes) [#211 fase 1]",
+      "author": "Daniel",
+      "date": "2026-06-19T08:55:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a3171e792ea5e7c8ed9dcb48f9a0822f4bec0d43"
     },
     {
-      "sha": "118d0df89f59e2918a6d0f4a2b0effef96764583",
-      "short": "118d0df",
-      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T23:16:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/118d0df89f59e2918a6d0f4a2b0effef96764583"
+      "sha": "50b8ef9073f85bc524fb44f3343dd76bfc73e5fc",
+      "short": "50b8ef9",
+      "message": "fix(codegen-new): idx_get cobre índice Tagged + corrige chave de objeto (this.#a[this.#i]) (255 → 256 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T08:31:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50b8ef9073f85bc524fb44f3343dd76bfc73e5fc"
     },
     {
-      "sha": "6798aae5368d7073523fd503c0d0b2cbdc464cc5",
-      "short": "6798aae",
-      "message": "feat(napi): implement napi_module_register (legacy registration) — 159/159 (#1555)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T23:09:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6798aae5368d7073523fd503c0d0b2cbdc464cc5"
+      "sha": "29069d12b363151182aeabe310f19a9fcd357c11",
+      "short": "29069d1",
+      "message": "feat(codegen-new): fia globais string→string (encode/decodeURI[Component], btoa, atob) (251 → 255 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T08:06:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29069d12b363151182aeabe310f19a9fcd357c11"
     },
     {
-      "sha": "ecaa934aa5ae2ca604e76d18da0b40b02a7d6b1e",
-      "short": "ecaa934",
-      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T23:02:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ecaa934aa5ae2ca604e76d18da0b40b02a7d6b1e"
+      "sha": "5a10a0578bbd12f26159b022d080107a5ea68999",
+      "short": "5a10a05",
+      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 251 verdes (Map/Set iterável+métodos, for-of genérico, Array #226)",
+      "author": "Daniel",
+      "date": "2026-06-19T07:46:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5a10a0578bbd12f26159b022d080107a5ea68999"
     },
     {
-      "sha": "c7d06c206ff2aae442750636945288bd86a76519",
-      "short": "c7d06c2",
-      "message": "fix(napi): chained `.then()` on N-API Promise no longer crashes (#1554)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T22:55:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7d06c206ff2aae442750636945288bd86a76519"
+      "sha": "42d348ffd45fd6e482b7becc6a90795b37002051",
+      "short": "42d348f",
+      "message": "feat(codegen-new): for-of genérico sobre fonte Tagged (string param, binding de array aninhado) (246 → 251 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T07:46:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/42d348ffd45fd6e482b7becc6a90795b37002051"
     },
     {
-      "sha": "5413147dafd65ea60a96e786e243e3593ea35800",
-      "short": "5413147",
-      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-13T21:51:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5413147dafd65ea60a96e786e243e3593ea35800"
+      "sha": "27ed11d3d41ba023a0d4210e8c3b0a97d8c43c44",
+      "short": "27ed11d",
+      "message": "feat(codegen-new): Map/Set forEach/keys/values/entries/clear + for-of sobre call/método que retorna array (242 → 246 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T07:32:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27ed11d3d41ba023a0d4210e8c3b0a97d8c43c44"
     },
     {
-      "sha": "e3337a562e4025d25bdce7ea807c7db37c98a0d3",
-      "short": "e3337a5",
-      "message": "feat(napi): BigInt real + threadsafe + Promise↔async — 158/159 fns (#1553)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-13T21:43:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3337a562e4025d25bdce7ea807c7db37c98a0d3"
+      "sha": "3c3f26c57c567d7d01ea902901f1edc2c49e445a",
+      "short": "3c3f26c",
+      "message": "feat(codegen-new): new Map([[k,v]])/Set(iterable) + index genérico em receptor não-provado (239 → 242 verdes)",
+      "author": "Daniel",
+      "date": "2026-06-19T07:16:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c3f26c57c567d7d01ea902901f1edc2c49e445a"
     }
   ]
 }
