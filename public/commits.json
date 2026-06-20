@@ -1,6 +1,62 @@
 {
-  "total": 2641,
+  "total": 2648,
   "commits": [
+    {
+      "sha": "2228c53469e140d6cccc9671af92baa063e20e9e",
+      "short": "2228c53",
+      "message": "Merge pull request #1565 from UrubuCode/chore/read-before-commit-gate-e-date-drain",
+      "author": "Drysius",
+      "date": "2026-06-20T04:59:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2228c53469e140d6cccc9671af92baa063e20e9e"
+    },
+    {
+      "sha": "231c918db556ab4595b3e8b05a999ec03f4926f1",
+      "short": "231c918",
+      "message": "feat(runtime): P2-A store PolyValue-keyed Map/Set + SameValueZero (foundation)",
+      "author": "Daniel",
+      "date": "2026-06-20T03:21:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/231c918db556ab4595b3e8b05a999ec03f4926f1"
+    },
+    {
+      "sha": "7e64839f84d5900ec63271ecde125d79fb2895dc",
+      "short": "7e64839",
+      "message": "refactor(codegen-new): ctor de classe registry generico — Date 100% data-driven",
+      "author": "Daniel",
+      "date": "2026-06-20T02:30:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e64839f84d5900ec63271ecde125d79fb2895dc"
+    },
+    {
+      "sha": "d0e86ed8cef28a6bbc8ce5ee07b25f845cd69248",
+      "short": "d0e86ed",
+      "message": "refactor(codegen-new): statics de classe registry genericos via Sig.default_args",
+      "author": "Daniel",
+      "date": "2026-06-20T02:10:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0e86ed8cef28a6bbc8ce5ee07b25f845cd69248"
+    },
+    {
+      "sha": "d947227285f13e21224928002cf514f72807d023",
+      "short": "d947227",
+      "message": "refactor(codegen-new): drena resíduo Date p/ flag UNSOUND no spec",
+      "author": "Daniel",
+      "date": "2026-06-20T01:53:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d947227285f13e21224928002cf514f72807d023"
+    },
+    {
+      "sha": "8cbacac4ff0f462c4dc8dd275dea4bba9e40a190",
+      "short": "8cbacac",
+      "message": "refactor(codegen-new): roteamento de classe registry data-driven (drena Date)",
+      "author": "Daniel",
+      "date": "2026-06-20T01:30:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8cbacac4ff0f462c4dc8dd275dea4bba9e40a190"
+    },
+    {
+      "sha": "3ef8d257ac4d8a3f37ba05f5673786802da21884",
+      "short": "3ef8d25",
+      "message": "chore(gate): read_before_commit.sh + regras de layout/doutrina",
+      "author": "Daniel",
+      "date": "2026-06-20T01:30:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3ef8d257ac4d8a3f37ba05f5673786802da21884"
+    },
     {
       "sha": "a430b0e994e7fea59ad2f23842b812480e12b7b2",
       "short": "a430b0e",
@@ -104,62 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-19T09:12:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/b11c0003b35cd344685787b8549611a2f8604f5f"
-    },
-    {
-      "sha": "a3171e792ea5e7c8ed9dcb48f9a0822f4bec0d43",
-      "short": "a3171e7",
-      "message": "feat(codegen-new): generators eager (function* com yields lineares) (256 → 262 verdes) [#211 fase 1]",
-      "author": "Daniel",
-      "date": "2026-06-19T08:55:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a3171e792ea5e7c8ed9dcb48f9a0822f4bec0d43"
-    },
-    {
-      "sha": "50b8ef9073f85bc524fb44f3343dd76bfc73e5fc",
-      "short": "50b8ef9",
-      "message": "fix(codegen-new): idx_get cobre índice Tagged + corrige chave de objeto (this.#a[this.#i]) (255 → 256 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T08:31:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50b8ef9073f85bc524fb44f3343dd76bfc73e5fc"
-    },
-    {
-      "sha": "29069d12b363151182aeabe310f19a9fcd357c11",
-      "short": "29069d1",
-      "message": "feat(codegen-new): fia globais string→string (encode/decodeURI[Component], btoa, atob) (251 → 255 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T08:06:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29069d12b363151182aeabe310f19a9fcd357c11"
-    },
-    {
-      "sha": "5a10a0578bbd12f26159b022d080107a5ea68999",
-      "short": "5a10a05",
-      "message": "docs: NEW_ENGINE_CUTOVER.md — baseline 251 verdes (Map/Set iterável+métodos, for-of genérico, Array #226)",
-      "author": "Daniel",
-      "date": "2026-06-19T07:46:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a10a0578bbd12f26159b022d080107a5ea68999"
-    },
-    {
-      "sha": "42d348ffd45fd6e482b7becc6a90795b37002051",
-      "short": "42d348f",
-      "message": "feat(codegen-new): for-of genérico sobre fonte Tagged (string param, binding de array aninhado) (246 → 251 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T07:46:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/42d348ffd45fd6e482b7becc6a90795b37002051"
-    },
-    {
-      "sha": "27ed11d3d41ba023a0d4210e8c3b0a97d8c43c44",
-      "short": "27ed11d",
-      "message": "feat(codegen-new): Map/Set forEach/keys/values/entries/clear + for-of sobre call/método que retorna array (242 → 246 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T07:32:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27ed11d3d41ba023a0d4210e8c3b0a97d8c43c44"
-    },
-    {
-      "sha": "3c3f26c57c567d7d01ea902901f1edc2c49e445a",
-      "short": "3c3f26c",
-      "message": "feat(codegen-new): new Map([[k,v]])/Set(iterable) + index genérico em receptor não-provado (239 → 242 verdes)",
-      "author": "Daniel",
-      "date": "2026-06-19T07:16:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3c3f26c57c567d7d01ea902901f1edc2c49e445a"
     }
   ]
 }
