@@ -1,165 +1,165 @@
 {
-  "total": 2676,
+  "total": 2727,
   "commits": [
     {
-      "sha": "0865cde3d477d7b9f577f0542824727f0b4f0300",
-      "short": "0865cde",
-      "message": "Merge pull request #1604 from UrubuCode/feat/class-expr",
-      "author": "Drysius",
-      "date": "2026-06-20T16:42:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0865cde3d477d7b9f577f0542824727f0b4f0300"
+      "sha": "1a9304af1d10b563280c0bc261afff75803c2e61",
+      "short": "1a9304a",
+      "message": "feat(codegen-new): Array.fill(value,start[,end]) + copyWithin(target) aridades (#1700)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T02:51:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1a9304af1d10b563280c0bc261afff75803c2e61"
     },
     {
-      "sha": "f5b87d944fd5b762b20e6b34f57c0602ee0363a5",
-      "short": "f5b87d9",
-      "message": "feat(parser): class expressions via hoisting — fecha o arco classe-como-valor",
-      "author": "Daniel",
-      "date": "2026-06-20T16:38:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5b87d944fd5b762b20e6b34f57c0602ee0363a5"
-    },
-    {
-      "sha": "a0a0e48ec65a3d3205faece335ea045114e90744",
-      "short": "a0a0e48",
-      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "sha": "0be2e4b248006bccf2934c9426ab0fc50f13b402",
+      "short": "0be2e4b",
+      "message": "docs: auto-update cross-runtime parity badge (28.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-20T16:34:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a0a0e48ec65a3d3205faece335ea045114e90744"
+      "date": "2026-06-21T02:48:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0be2e4b248006bccf2934c9426ab0fc50f13b402"
     },
     {
-      "sha": "547e974e0184ea8961526be85211336a19dfca3d",
-      "short": "547e974",
-      "message": "Merge pull request #1598 from UrubuCode/feat/globalthis-class-track",
+      "sha": "a98a8180647ed0f2b7f8fbf5a07bac3922871aee",
+      "short": "a98a818",
+      "message": "feat(codegen-new): Array.toSpliced(start, deleteCount?, ...items) variádico (#1699)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T02:41:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a98a8180647ed0f2b7f8fbf5a07bac3922871aee"
+    },
+    {
+      "sha": "dba4b8ce80d8d50b6b00008bdf03c5d667669f26",
+      "short": "dba4b8c",
+      "message": "Merge pull request #1697 from UrubuCode/feat/async-sync",
       "author": "Drysius",
-      "date": "2026-06-20T16:27:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/547e974e0184ea8961526be85211336a19dfca3d"
+      "date": "2026-06-21T02:37:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dba4b8ce80d8d50b6b00008bdf03c5d667669f26"
     },
     {
-      "sha": "465064cd9e4273b615ca9b240d06244de300149e",
-      "short": "465064c",
-      "message": "feat(codegen-new): rastreio estatico de globalThis.X = Class (caminho A)",
-      "author": "Daniel",
-      "date": "2026-06-20T16:04:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/465064cd9e4273b615ca9b240d06244de300149e"
+      "sha": "1de44cf6381d77ba16aff992c1d9f2b0c0050544",
+      "short": "1de44cf",
+      "message": "feat(codegen-new): Array.splice(start, deleteCount?, ...items) (#1698)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T02:35:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1de44cf6381d77ba16aff992c1d9f2b0c0050544"
     },
     {
-      "sha": "6040e83d0276dab8d61506147867421ca61963ff",
-      "short": "6040e83",
-      "message": "Merge pull request #1592 from UrubuCode/feat/new-on-value",
-      "author": "Drysius",
-      "date": "2026-06-20T15:43:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6040e83d0276dab8d61506147867421ca61963ff"
-    },
-    {
-      "sha": "dee8bc70b17fcc04bf8e479d8eb48f8d356a7e71",
-      "short": "dee8bc7",
-      "message": "feat(codegen-new): new sobre classe-valor de runtime (slice 2: construct + sound)",
-      "author": "Daniel",
-      "date": "2026-06-20T15:37:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dee8bc70b17fcc04bf8e479d8eb48f8d356a7e71"
-    },
-    {
-      "sha": "51fcd2e0a51f3ac0c3a74b22c892fb3b3bac1776",
-      "short": "51fcd2e",
-      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "sha": "7dbf78d940f85c98e91815632f7efe13afa9fc1f",
+      "short": "7dbf78d",
+      "message": "docs: auto-update cross-runtime parity badge (27.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-20T15:01:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/51fcd2e0a51f3ac0c3a74b22c892fb3b3bac1776"
+      "date": "2026-06-21T02:22:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7dbf78d940f85c98e91815632f7efe13afa9fc1f"
     },
     {
-      "sha": "1c2389f68c6f42773052934d29a9f0905a1930ed",
-      "short": "1c2389f",
-      "message": "Merge pull request #1568 from UrubuCode/feat/console-via-registry",
-      "author": "Drysius",
-      "date": "2026-06-20T14:55:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c2389f68c6f42773052934d29a9f0905a1930ed"
+      "sha": "b5a8389be792201dea6d99a042ffd8ebefdec0c1",
+      "short": "b5a8389",
+      "message": "feat(codegen-new): async/await sincrono (motor novo) — desativa o SM antigo",
+      "author": "Daniel",
+      "date": "2026-06-21T02:17:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b5a8389be792201dea6d99a042ffd8ebefdec0c1"
     },
     {
-      "sha": "f5fbdd929bf4e5db65301d31478522dd5da7fe6e",
-      "short": "f5fbdd9",
-      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "sha": "c1e375252396b8d47bf61ae696a5bedd616a9d33",
+      "short": "c1e3752",
+      "message": "feat(codegen-new): JSON.parse(text, reviver) (#1696)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T02:15:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c1e375252396b8d47bf61ae696a5bedd616a9d33"
+    },
+    {
+      "sha": "6fe07689749db50ba81372a3c7ccab041535be9a",
+      "short": "6fe0768",
+      "message": "docs: auto-update cross-runtime parity badge (27.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-20T14:53:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5fbdd929bf4e5db65301d31478522dd5da7fe6e"
+      "date": "2026-06-21T02:12:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6fe07689749db50ba81372a3c7ccab041535be9a"
     },
     {
-      "sha": "c1fbad66095faf31edfd765b626a6013a06d4b16",
-      "short": "c1fbad6",
-      "message": "refactor(codegen-new): console data-driven — remove os 3 hardcodes do front",
-      "author": "Marcos",
-      "date": "2026-06-20T13:13:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c1fbad66095faf31edfd765b626a6013a06d4b16"
+      "sha": "ceec042f547b800f1811f3ba7438f5092e4cd8d6",
+      "short": "ceec042",
+      "message": "feat(codegen-new): Error(message, { cause }) — opções ES2022 (#1695)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T02:05:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ceec042f547b800f1811f3ba7438f5092e4cd8d6"
     },
     {
-      "sha": "e41f10ad3e71ba87e71557eb0c9af7df830a6d9d",
-      "short": "e41f10a",
-      "message": "Merge pull request #1575 from UrubuCode/feat/class-as-value",
+      "sha": "5cc7a7b5ca7adf801fd3dd2f33d1a45afd220bb5",
+      "short": "5cc7a7b",
+      "message": "Merge pull request #1694 from UrubuCode/feat/runtime-const-cell",
       "author": "Drysius",
-      "date": "2026-06-20T14:46:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e41f10ad3e71ba87e71557eb0c9af7df830a6d9d"
+      "date": "2026-06-21T02:00:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5cc7a7b5ca7adf801fd3dd2f33d1a45afd220bb5"
     },
     {
-      "sha": "2d31cc56ede337466c1d700c86b614e7e5ce95ad",
-      "short": "2d31cc5",
-      "message": "feat(codegen-new): classe de usuario como valor + new-thunk (slice 1)",
+      "sha": "970cb10a6b16d4e778f9cb4c8e43475e98b60aaa",
+      "short": "970cb10",
+      "message": "fix(codegen-new): const top-level com valor runtime lido em funcao vira cell",
       "author": "Daniel",
-      "date": "2026-06-20T14:10:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d31cc56ede337466c1d700c86b614e7e5ce95ad"
+      "date": "2026-06-21T01:58:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/970cb10a6b16d4e778f9cb4c8e43475e98b60aaa"
     },
     {
-      "sha": "40936eedf6426c6807802bc758809da91a18c5f7",
-      "short": "40936ee",
-      "message": "Merge pull request #1574 from UrubuCode/feat/globalthis",
-      "author": "Drysius",
-      "date": "2026-06-20T14:12:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40936eedf6426c6807802bc758809da91a18c5f7"
+      "sha": "49e57de75d4789a4a787d6458c329173591d961a",
+      "short": "49e57de",
+      "message": "feat(codegen-new): String.prototype.normalize (NFC/NFD/NFKC/NFKD) (#1693)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T01:54:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49e57de75d4789a4a787d6458c329173591d961a"
     },
     {
-      "sha": "f150ba41fc412a59d235da729471f011b25ca4fc",
-      "short": "f150ba4",
-      "message": "feat(codegen-new): globalThis como objeto global singleton (foundation: valores)",
-      "author": "Daniel",
-      "date": "2026-06-20T13:36:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f150ba41fc412a59d235da729471f011b25ca4fc"
-    },
-    {
-      "sha": "9c9bb2bff9cbc256adcd5848c9130555a25ebf5c",
-      "short": "9c9bb2b",
-      "message": "docs: auto-update cross-runtime parity badge (20.3%)",
+      "sha": "8a85a55aa9fc58b9cfb69f88380d094848dab5b1",
+      "short": "8a85a55",
+      "message": "docs: auto-update cross-runtime parity badge (26.4%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-20T13:20:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c9bb2bff9cbc256adcd5848c9130555a25ebf5c"
+      "date": "2026-06-21T01:44:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8a85a55aa9fc58b9cfb69f88380d094848dab5b1"
     },
     {
-      "sha": "8260f0e0ec89c41639afbb60c16a2e20ebd09652",
-      "short": "8260f0e",
-      "message": "Merge pull request #1566 from UrubuCode/feat/console-via-registry",
+      "sha": "6430f2253b0823dd6e2dbefb837205fff97ff4f5",
+      "short": "6430f22",
+      "message": "fix(codegen-new): Array.toSorted(cmp) + `ret_is_array` data-driven (elimina lista paralela) (#1692)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T01:37:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6430f2253b0823dd6e2dbefb837205fff97ff4f5"
+    },
+    {
+      "sha": "fba7b61b931baa206163e936804cf168f61329b9",
+      "short": "fba7b61",
+      "message": "Merge pull request #1691 from UrubuCode/feat/builtin-not-capture",
       "author": "Drysius",
-      "date": "2026-06-20T13:13:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8260f0e0ec89c41639afbb60c16a2e20ebd09652"
+      "date": "2026-06-21T01:36:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fba7b61b931baa206163e936804cf168f61329b9"
     },
     {
-      "sha": "2ae71e7a315044a83c6834091151fd44fb71a33c",
-      "short": "2ae71e7",
-      "message": "refactor(console): move console.ts p/ rts-shared/stdlib + Registration->Register",
+      "sha": "269861ee0ef59df844abf8335bbca67b3633d4d4",
+      "short": "269861e",
+      "message": "fix(codegen-new): builtins globais nao sao captura de closure (template em arrow)",
       "author": "Daniel",
-      "date": "2026-06-20T12:53:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ae71e7a315044a83c6834091151fd44fb71a33c"
+      "date": "2026-06-21T01:26:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/269861ee0ef59df844abf8335bbca67b3633d4d4"
     },
     {
-      "sha": "fbb88d9ba11ae8d5352276eb8dddb154716359d4",
-      "short": "fbb88d9",
-      "message": "refactor(codegen-new): renomeia Registrar -> Registration na tabela do registry",
-      "author": "Marcos",
-      "date": "2026-06-20T12:40:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fbb88d9ba11ae8d5352276eb8dddb154716359d4"
+      "sha": "7048942b33ef6f7356c753813e0f915fd4b6c40b",
+      "short": "7048942",
+      "message": "docs: auto-update cross-runtime parity badge (25.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-21T01:18:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7048942b33ef6f7356c753813e0f915fd4b6c40b"
     },
     {
-      "sha": "f2fa33c0545cc4848b450b87c4344534cb490a40",
-      "short": "f2fa33c",
-      "message": "refactor(codegen-new): registry população como tabela de dados (registry_build.rs)",
-      "author": "Marcos",
-      "date": "2026-06-20T12:21:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2fa33c0545cc4848b450b87c4344534cb490a40"
+      "sha": "7801ac2a7b2e373096dac2d5b218f78b61873b03",
+      "short": "7801ac2",
+      "message": "fix(codegen-new): Array.from(source, mapFn) p/ source array/string (#1688)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-21T01:11:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7801ac2a7b2e373096dac2d5b218f78b61873b03"
+    },
+    {
+      "sha": "d79855472920df1f8061549ecb5dc50fe48e7095",
+      "short": "d798554",
+      "message": "Merge pull request #1670 from UrubuCode/feat/concat-result-string",
+      "author": "Drysius",
+      "date": "2026-06-21T01:08:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d79855472920df1f8061549ecb5dc50fe48e7095"
     }
   ]
 }
