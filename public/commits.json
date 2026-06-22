@@ -1,6 +1,150 @@
 {
-  "total": 2749,
+  "total": 2767,
   "commits": [
+    {
+      "sha": "505bdfe34dbd924e609a076ac6949ead2027c9d0",
+      "short": "505bdfe",
+      "message": "Merge pull request #1720 from UrubuCode/feat/new-cast-callee",
+      "author": "Drysius",
+      "date": "2026-06-22T02:52:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/505bdfe34dbd924e609a076ac6949ead2027c9d0"
+    },
+    {
+      "sha": "463f81a001b61f79bc51934c62b217dbb310b312",
+      "short": "463f81a",
+      "message": "feat(hir): `new (C as any)()` — desembrulha cast/paren no callee do construtor",
+      "author": "Daniel",
+      "date": "2026-06-22T02:47:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/463f81a001b61f79bc51934c62b217dbb310b312"
+    },
+    {
+      "sha": "07e16dbb245a8983f35a407b1946cc0559157621",
+      "short": "07e16db",
+      "message": "docs: auto-update cross-runtime parity badge (30.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-22T02:38:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/07e16dbb245a8983f35a407b1946cc0559157621"
+    },
+    {
+      "sha": "95bb7c9ad9925b38bee57a3e733807fef18aa71e",
+      "short": "95bb7c9",
+      "message": "Merge pull request #1719 from UrubuCode/feat/delete-property",
+      "author": "Drysius",
+      "date": "2026-06-22T02:30:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/95bb7c9ad9925b38bee57a3e733807fef18aa71e"
+    },
+    {
+      "sha": "7d31a67bf32da7373b1ca76a45f3cb991511a532",
+      "short": "7d31a67",
+      "message": "feat(codegen-new): `delete` operator + Reflect.deleteProperty/ownKeys",
+      "author": "Daniel",
+      "date": "2026-06-22T02:27:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7d31a67bf32da7373b1ca76a45f3cb991511a532"
+    },
+    {
+      "sha": "3c62c7050e82ee61ebbf5e12b7085902e8431d45",
+      "short": "3c62c70",
+      "message": "docs: auto-update cross-runtime parity badge (30.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-22T02:03:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c62c7050e82ee61ebbf5e12b7085902e8431d45"
+    },
+    {
+      "sha": "e7928a1fe7934b24096914ade00d8a00d1665092",
+      "short": "e7928a1",
+      "message": "Merge pull request #1718 from UrubuCode/feat/reflect-get-set-has",
+      "author": "Drysius",
+      "date": "2026-06-22T01:55:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7928a1fe7934b24096914ade00d8a00d1665092"
+    },
+    {
+      "sha": "97202c50033890c142aa64e96b011e4cc8171d9f",
+      "short": "97202c5",
+      "message": "feat(codegen-new): #218 Reflect.get/set/has — .ts stdlib sobre via dinâmica",
+      "author": "Daniel",
+      "date": "2026-06-22T01:48:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/97202c50033890c142aa64e96b011e4cc8171d9f"
+    },
+    {
+      "sha": "6b46d697323b1383734920ca9d7cf6c992abad38",
+      "short": "6b46d69",
+      "message": "Merge pull request #1717 from UrubuCode/feat/inline-arrow-objlit",
+      "author": "Drysius",
+      "date": "2026-06-22T01:32:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b46d697323b1383734920ca9d7cf6c992abad38"
+    },
+    {
+      "sha": "4d36faec7e8f14d19560eef3e220aad8947f4769",
+      "short": "4d36fae",
+      "message": "feat(codegen-new): extração de arrow desce em new(args) e await",
+      "author": "Daniel",
+      "date": "2026-06-22T01:18:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d36faec7e8f14d19560eef3e220aad8947f4769"
+    },
+    {
+      "sha": "a02e1034ab65b5d3f7f66c1f33892c8442a670a1",
+      "short": "a02e103",
+      "message": "docs: auto-update cross-runtime parity badge (30.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-22T01:15:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a02e1034ab65b5d3f7f66c1f33892c8442a670a1"
+    },
+    {
+      "sha": "357b4e6d876f661c3a35d88db072de3da53f0601",
+      "short": "357b4e6",
+      "message": "Merge pull request #1716 from UrubuCode/feat/proxy-get-set-traps",
+      "author": "Drysius",
+      "date": "2026-06-22T01:07:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/357b4e6d876f661c3a35d88db072de3da53f0601"
+    },
+    {
+      "sha": "d69256d877dfd6a11b3ae86127c9753b4412e115",
+      "short": "d69256d",
+      "message": "feat(codegen-new): #218 Proxy fase-1 — traps get/set via callback bridge",
+      "author": "Daniel",
+      "date": "2026-06-22T01:02:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d69256d877dfd6a11b3ae86127c9753b4412e115"
+    },
+    {
+      "sha": "1422119d275c39a1bdb8546513b344a3135fc1b6",
+      "short": "1422119",
+      "message": "docs: auto-update cross-runtime parity badge (30.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-22T00:11:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1422119d275c39a1bdb8546513b344a3135fc1b6"
+    },
+    {
+      "sha": "2e6eac75df0bc0ce9f1e374e2b25b8dcf9ac082d",
+      "short": "2e6eac7",
+      "message": "Merge pull request #1715 from UrubuCode/docs/gc-design-cleanup",
+      "author": "Drysius",
+      "date": "2026-06-22T00:04:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e6eac75df0bc0ce9f1e374e2b25b8dcf9ac082d"
+    },
+    {
+      "sha": "19a24012cbec05886b60b6f2b8434d2e4d130b27",
+      "short": "19a2401",
+      "message": "docs: GC design (weak + geracional nursery) + remove docs do motor velho",
+      "author": "Daniel",
+      "date": "2026-06-21T23:53:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/19a24012cbec05886b60b6f2b8434d2e4d130b27"
+    },
+    {
+      "sha": "b3516d84d38f01b5d9a079c7171f49c35c1f8b26",
+      "short": "b3516d8",
+      "message": "Merge pull request #1714 from UrubuCode/feat/mutable-local-capture",
+      "author": "Drysius",
+      "date": "2026-06-21T23:18:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b3516d84d38f01b5d9a079c7171f49c35c1f8b26"
+    },
+    {
+      "sha": "0a581bf3405179e4ecd73e9c5158f2f6202d31a2",
+      "short": "0a581bf",
+      "message": "feat(codegen-new): #195 captura de local mutável via cell por-invocação",
+      "author": "Daniel",
+      "date": "2026-06-21T23:17:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a581bf3405179e4ecd73e9c5158f2f6202d31a2"
+    },
     {
       "sha": "20558d0b79aeec8cee2de7d708942ce39908d8ef",
       "short": "20558d0",
@@ -16,150 +160,6 @@
       "author": "Drysius",
       "date": "2026-06-21T05:32:26Z",
       "url": "https://github.com/UrubuCode/rts/commit/fc05f55c3b37a593a1e437c787ead16abfd01132"
-    },
-    {
-      "sha": "338c57b9c335801a83753bdc990fa03e6e3495f1",
-      "short": "338c57b",
-      "message": "test(codegen-new): reorganiza testes por ASSUNTO + cobre URL.canParse (#1713)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T05:21:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/338c57b9c335801a83753bdc990fa03e6e3495f1"
-    },
-    {
-      "sha": "23ebf87a8835d6320ea4d708f0ef91e1a5351e3c",
-      "short": "23ebf87",
-      "message": "docs: auto-update cross-runtime parity badge (30.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T05:16:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/23ebf87a8835d6320ea4d708f0ef91e1a5351e3c"
-    },
-    {
-      "sha": "64c28a4235086cd7a9ee72fa850fdd15bb1c0c2c",
-      "short": "64c28a4",
-      "message": "test(codegen-new): renomeia p/ builtin_regression + completa cobertura dos fixes (#1712)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T05:10:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/64c28a4235086cd7a9ee72fa850fdd15bb1c0c2c"
-    },
-    {
-      "sha": "5944f3b50b83b5dc963e7e354c2a1fc76f28a8d0",
-      "short": "5944f3b",
-      "message": "test(codegen-new): backfill de testes unitários dos fixes recentes (#1711)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T05:03:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5944f3b50b83b5dc963e7e354c2a1fc76f28a8d0"
-    },
-    {
-      "sha": "a5b3d3c51786d338ca89a152f470e59c22baf2fa",
-      "short": "a5b3d3c",
-      "message": "feat(codegen-new): operador `void` + static overloads por aridade (URL.canParse) (#1710)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T04:59:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5b3d3c51786d338ca89a152f470e59c22baf2fa"
-    },
-    {
-      "sha": "123e401d5233d904b4b00049b2a969a7275c3274",
-      "short": "123e401",
-      "message": "docs: auto-update cross-runtime parity badge (29.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T04:50:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/123e401d5233d904b4b00049b2a969a7275c3274"
-    },
-    {
-      "sha": "df93aba31d91191af3f7330cc58976ca28c748a0",
-      "short": "df93aba",
-      "message": "feat(codegen-new): `&&`/`||` com operandos não-boolean + short-circuit real (#1709)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T04:42:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/df93aba31d91191af3f7330cc58976ca28c748a0"
-    },
-    {
-      "sha": "42854d8617f235b7a82010f22ab1ef1c479b1aad",
-      "short": "42854d8",
-      "message": "docs: auto-update cross-runtime parity badge (29.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T04:27:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/42854d8617f235b7a82010f22ab1ef1c479b1aad"
-    },
-    {
-      "sha": "cc9e66cdbab099ea48e7235f70f3adb221217180",
-      "short": "cc9e66c",
-      "message": "feat(codegen-new): switch statement (dispatch, fall-through, default) (#1707)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T04:21:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc9e66cdbab099ea48e7235f70f3adb221217180"
-    },
-    {
-      "sha": "18f7ef9da596c4faaa60aff1f2f14bdbb83ed396",
-      "short": "18f7ef9",
-      "message": "docs: auto-update cross-runtime parity badge (28.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T03:52:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18f7ef9da596c4faaa60aff1f2f14bdbb83ed396"
-    },
-    {
-      "sha": "85d03a1b8a3fc55b4c1341c921c6a3406a6a53cf",
-      "short": "85d03a1",
-      "message": "fix(codegen-new): splice()/toSpliced() encadeados reconhecidos como array (#1706)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T03:45:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85d03a1b8a3fc55b4c1341c921c6a3406a6a53cf"
-    },
-    {
-      "sha": "0ded4ed5e01b63e329dffa15860ab0d2a3560efd",
-      "short": "0ded4ed",
-      "message": "Merge pull request #1703 from UrubuCode/feat/callback-bridge-ee",
-      "author": "Drysius",
-      "date": "2026-06-21T03:43:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0ded4ed5e01b63e329dffa15860ab0d2a3560efd"
-    },
-    {
-      "sha": "86e3c331e80edc01fca2022ff6e1ac5dece9ac5e",
-      "short": "86e3c33",
-      "message": "docs: auto-update cross-runtime parity badge (28.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T03:42:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/86e3c331e80edc01fca2022ff6e1ac5dece9ac5e"
-    },
-    {
-      "sha": "6bc509156b3383c3485aef208b2060ce42387203",
-      "short": "6bc5091",
-      "message": "feat(codegen-new): ToNumber de boolean em aritmética e unários (-, ~) (#1705)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T03:35:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6bc509156b3383c3485aef208b2060ce42387203"
-    },
-    {
-      "sha": "0ded97bc772465e492177897cd5b2b3635866ced",
-      "short": "0ded97b",
-      "message": "feat(codegen-new): Object.fromEntries(array de [k,v]) (#1704)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T03:24:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0ded97bc772465e492177897cd5b2b3635866ced"
-    },
-    {
-      "sha": "59ef32a389a89a4d104bb80313ba96f043a50e2c",
-      "short": "59ef32a",
-      "message": "feat(runtime): callback-from-runtime bridge + AbiType::PolyValue (EventEmitter)",
-      "author": "Daniel",
-      "date": "2026-06-21T03:18:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/59ef32a389a89a4d104bb80313ba96f043a50e2c"
-    },
-    {
-      "sha": "959de172505beb09cc68b62ca476203141d38e40",
-      "short": "959de17",
-      "message": "feat(codegen-new): Object.hasOwn(obj, key) static (ES2022) (#1702)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-21T03:12:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/959de172505beb09cc68b62ca476203141d38e40"
-    },
-    {
-      "sha": "836f30ee85710d47c2155c2fb454eceabf30dda1",
-      "short": "836f30e",
-      "message": "docs: auto-update cross-runtime parity badge (28.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-21T03:08:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/836f30ee85710d47c2155c2fb454eceabf30dda1"
     }
   ]
 }
