@@ -1,6 +1,102 @@
 {
-  "total": 2785,
+  "total": 2812,
   "commits": [
+    {
+      "sha": "675506d73f9123335118fdf8d5ce4539cc714d91",
+      "short": "675506d",
+      "message": "Merge 'feat/gc-fn-call-apply': Function.call/apply (literal args)",
+      "author": "Daniel",
+      "date": "2026-06-22T20:28:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/675506d73f9123335118fdf8d5ce4539cc714d91"
+    },
+    {
+      "sha": "b5ae29510871d8e8a1857ebf407f42e9dff87c22",
+      "short": "b5ae295",
+      "message": "feat(engine): Function.prototype.call / apply (literal args)",
+      "author": "Daniel",
+      "date": "2026-06-22T20:28:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b5ae29510871d8e8a1857ebf407f42e9dff87c22"
+    },
+    {
+      "sha": "5d579956b41497cda18d7e3db78cb6b56b34fe03",
+      "short": "5d57995",
+      "message": "Merge: build dev com lto=thin (rebuild 6min→49s), CI mantém LTO full",
+      "author": "Marcos",
+      "date": "2026-06-22T20:17:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d579956b41497cda18d7e3db78cb6b56b34fe03"
+    },
+    {
+      "sha": "69f38cc61d59e4c9e37f515df29aeb98385a351c",
+      "short": "69f38cc",
+      "message": "ci(build): release oficial usa LTO full via CARGO_PROFILE_RELEASE_LTO=fat",
+      "author": "Marcos",
+      "date": "2026-06-22T20:16:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69f38cc61d59e4c9e37f515df29aeb98385a351c"
+    },
+    {
+      "sha": "d6390729f2fcae9e686167e9c4456751b1b3b526",
+      "short": "d639072",
+      "message": "Merge 'feat/gc-urlsearchparams': new URLSearchParams() + string-union return fix",
+      "author": "Daniel",
+      "date": "2026-06-22T19:32:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6390729f2fcae9e686167e9c4456751b1b3b526"
+    },
+    {
+      "sha": "404852b801d20b1db313511755b8680ec6f3e07b",
+      "short": "404852b",
+      "message": "feat(engine): new URLSearchParams() + fix string-union return typing",
+      "author": "Daniel",
+      "date": "2026-06-22T19:32:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/404852b801d20b1db313511755b8680ec6f3e07b"
+    },
+    {
+      "sha": "56773fbc25807efd22c76d4b67e59703f3f24873",
+      "short": "56773fb",
+      "message": "perf(build): lto=thin no profile.release - rebuild incremental 6min para 48s",
+      "author": "Marcos",
+      "date": "2026-06-22T19:28:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56773fbc25807efd22c76d4b67e59703f3f24873"
+    },
+    {
+      "sha": "9b2c6ee07a556df16ba5d34828ac272e4867f66d",
+      "short": "9b2c6ee",
+      "message": "Merge 'feat/gc-registry-return-class': registry method return-class tracking",
+      "author": "Daniel",
+      "date": "2026-06-22T19:14:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b2c6ee07a556df16ba5d34828ac272e4867f66d"
+    },
+    {
+      "sha": "a806fdfa89cf5976ad181c6c913445b675722bb4",
+      "short": "a806fdf",
+      "message": "feat(engine): rastreia classe-de-retorno de método de registry (chaining)",
+      "author": "Daniel",
+      "date": "2026-06-22T19:14:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a806fdfa89cf5976ad181c6c913445b675722bb4"
+    },
+    {
+      "sha": "d807008266db26e82fdd9d0230202b281b3b538e",
+      "short": "d807008",
+      "message": "Merge pull request #1722 from UrubuCode/feat/codegen-state-drain",
+      "author": "Drysius",
+      "date": "2026-06-22T18:42:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d807008266db26e82fdd9d0230202b281b3b538e"
+    },
+    {
+      "sha": "ddb5fa72a3eddbe19890e00d45a19b84ede0e13c",
+      "short": "ddb5fa7",
+      "message": "refactor(codegen-new): split adapter_symbols.rs (895) into a folder module (<500 each)",
+      "author": "Daniel",
+      "date": "2026-06-22T18:38:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddb5fa72a3eddbe19890e00d45a19b84ede0e13c"
+    },
+    {
+      "sha": "fca43e50d16f104f9c42cfbf8bead6c3b84ab2d7",
+      "short": "fca43e5",
+      "message": "fix(cli,codegen-new): wire reset_codegen_state into the test runner; honest assert doc",
+      "author": "Daniel",
+      "date": "2026-06-22T18:28:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fca43e50d16f104f9c42cfbf8bead6c3b84ab2d7"
+    },
     {
       "sha": "387090f5813762d2e3657e7bf208dd39199f7485",
       "short": "387090f",
@@ -10,156 +106,60 @@
       "url": "https://github.com/UrubuCode/rts/commit/387090f5813762d2e3657e7bf208dd39199f7485"
     },
     {
-      "sha": "d3fe5979ddc4e302b227255c6d45ce2b3400f6b1",
-      "short": "d3fe597",
-      "message": "docs: auto-update cross-runtime parity badge (31.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-22T06:22:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3fe5979ddc4e302b227255c6d45ce2b3400f6b1"
-    },
-    {
-      "sha": "4410ea393c9d956657de612246d221247f1c41c0",
-      "short": "4410ea3",
-      "message": "feat(engine): new ArrayBuffer()/DataView() — instala símbolos via fn_ptr real",
+      "sha": "3e11c92899a4ba6ab72131997a1924e9c60ed244",
+      "short": "3e11c92",
+      "message": "revert: TCO (return_call + tail conv) — caused Windows ABI illegal-instruction crashes",
       "author": "Daniel",
-      "date": "2026-06-22T06:15:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4410ea393c9d956657de612246d221247f1c41c0"
+      "date": "2026-06-22T08:46:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e11c92899a4ba6ab72131997a1924e9c60ed244"
     },
     {
-      "sha": "051e7759e68b9f9558543348b31b0f911301b10f",
-      "short": "051e775",
-      "message": "docs: auto-update cross-runtime parity badge (30.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-22T05:41:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/051e7759e68b9f9558543348b31b0f911301b10f"
-    },
-    {
-      "sha": "6986a87ee684fbd742935a761a366f0c9931c3ec",
-      "short": "6986a87",
-      "message": "Merge 'feat/gc-new-weakref-registry-ctor': new WeakRef() + A1.1 deref weak",
+      "sha": "ba1eed0ccf1fe1c211a130bd3ef56b1124a032f2",
+      "short": "ba1eed0",
+      "message": "docs(codegen-new): clarify GL_STRING stays engine-direct; fix stale harvest doc",
       "author": "Daniel",
-      "date": "2026-06-22T05:34:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6986a87ee684fbd742935a761a366f0c9931c3ec"
+      "date": "2026-06-22T08:22:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba1eed0ccf1fe1c211a130bd3ef56b1124a032f2"
     },
     {
-      "sha": "1c16b53c49487c2094ddfedab1f76d16da9f1e11",
-      "short": "1c16b53",
-      "message": "feat(engine): new WeakRef() via Registry-class ctor + deref weak (A1.1 unblock)",
+      "sha": "b52bf9f32dd75090feb948911505a92a0efcf4f8",
+      "short": "b52bf9f",
+      "message": "refactor(codegen-new): drain all 89 harvest-redundant symbols from adapter_symbols",
       "author": "Daniel",
-      "date": "2026-06-22T05:34:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c16b53c49487c2094ddfedab1f76d16da9f1e11"
+      "date": "2026-06-22T08:15:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b52bf9f32dd75090feb948911505a92a0efcf4f8"
     },
     {
-      "sha": "52ae54cc00e2b7469b0b247a9a87458870605b60",
-      "short": "52ae54c",
-      "message": "Merge 'feat/gc-weak-impl-plan': plano faseado A1→A2 + WeakRef weak deref (A1.1)",
+      "sha": "110cd53f98e57846e1cc580320366dd8e4b2590b",
+      "short": "110cd53",
+      "message": "test(codegen-new): coverage/drift guard for the JIT symbol table",
       "author": "Daniel",
-      "date": "2026-06-22T05:18:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52ae54cc00e2b7469b0b247a9a87458870605b60"
+      "date": "2026-06-22T08:05:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/110cd53f98e57846e1cc580320366dd8e4b2590b"
     },
     {
-      "sha": "d258bf516fd03bf6f9d0b632fc4ed21dcdf3aace",
-      "short": "d258bf5",
-      "message": "feat(gc): WeakRef.deref weak real + unit test (Fase A1.1)",
+      "sha": "38b105362020dee85c97e55928d4f898238eae6d",
+      "short": "38b1053",
+      "message": "refactor(runtime): Date members carry real fn_ptr -> harvest; delete registry_link.rs",
       "author": "Daniel",
-      "date": "2026-06-22T05:18:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d258bf516fd03bf6f9d0b632fc4ed21dcdf3aace"
+      "date": "2026-06-22T08:03:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/38b105362020dee85c97e55928d4f898238eae6d"
     },
     {
-      "sha": "bb2a282d5dde8f689b1e064de020504eacd9b4ae",
-      "short": "bb2a282",
-      "message": "docs(gc): plano executável faseado A1 (fase weak) → A2 (geracional)",
+      "sha": "1f1b66a87c35e8dd87ac72993647e3c464e04a24",
+      "short": "1f1b66a",
+      "message": "refactor(runtime): URL/URLSearchParams members carry real fn_ptr -> harvest",
       "author": "Daniel",
-      "date": "2026-06-22T05:10:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb2a282d5dde8f689b1e064de020504eacd9b4ae"
+      "date": "2026-06-22T07:59:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f1b66a87c35e8dd87ac72993647e3c464e04a24"
     },
     {
-      "sha": "2f9e193a9263e419fa7002058a5d9f7220cfc61d",
-      "short": "2f9e193",
-      "message": "Merge 'feat/gc-fase-b3-contract': pina contrato PolyValue↔handle (Fase B3)",
+      "sha": "eda203bd8b68f6eddd4ecd384e0a5617364ae850",
+      "short": "eda203b",
+      "message": "refactor(codegen-new): drop redundant PAYLOAD_MASK after POLY_FROM_HANDLE",
       "author": "Daniel",
-      "date": "2026-06-22T05:01:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2f9e193a9263e419fa7002058a5d9f7220cfc61d"
-    },
-    {
-      "sha": "a20b6127b8c119223b219f653b16f32a92a62887",
-      "short": "a20b612",
-      "message": "test(gc): pina contrato PolyValue↔handle (Fase B3)",
-      "author": "Daniel",
-      "date": "2026-06-22T05:01:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a20b6127b8c119223b219f653b16f32a92a62887"
-    },
-    {
-      "sha": "1f5ee8cf2dbef44cedb8be8c87233d9ed3a9e06d",
-      "short": "1f5ee8c",
-      "message": "Merge 'feat/gc-fase-b-entry-drain': remove Entry::Closure+Instance legacy (Fase B)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:53:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f5ee8cf2dbef44cedb8be8c87233d9ed3a9e06d"
-    },
-    {
-      "sha": "45887cd7696c3c3de7bb864fcca9db083ccbd522",
-      "short": "45887cd",
-      "message": "feat(gc): remove Entry::Closure + Entry::Instance legacy (Fase B)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:53:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45887cd7696c3c3de7bb864fcca9db083ccbd522"
-    },
-    {
-      "sha": "8c7f6459663d29a855fd23ac958151016bd2a34e",
-      "short": "8c7f645",
-      "message": "Merge branch 'docs/gc-api-plan': GC plano passos 1+2 (migração string nativa + drena gc.* legacy)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:42:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c7f6459663d29a855fd23ac958151016bd2a34e"
-    },
-    {
-      "sha": "f38439c5dc985fa762556005aa41ef9ef5c08f6f",
-      "short": "f38439c",
-      "message": "feat(gc): drena resto da superfície gc.* legacy da spec (C2/C4)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:31:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f38439c5dc985fa762556005aa41ef9ef5c08f6f"
-    },
-    {
-      "sha": "03c800695fde191662f501cad0d3368c174e9ce1",
-      "short": "03c8006",
-      "message": "feat(gc): remove superfície gc.string_* da spec (C1)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:09:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03c800695fde191662f501cad0d3368c174e9ce1"
-    },
-    {
-      "sha": "aabbb1bb11233ec9b75d47b13e04c11e8ae59dfe",
-      "short": "aabbb1b",
-      "message": "feat(tests): migra 119 fixtures de gc.string_* para string nativa (D1)",
-      "author": "Daniel",
-      "date": "2026-06-22T04:09:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aabbb1bb11233ec9b75d47b13e04c11e8ae59dfe"
-    },
-    {
-      "sha": "11c79d81f23a33a1300603ee2615614abb434e20",
-      "short": "11c79d8",
-      "message": "docs: plano de atualização do GC + API/ABI gc (motor novo, zero legacy)",
-      "author": "Daniel",
-      "date": "2026-06-22T03:39:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11c79d81f23a33a1300603ee2615614abb434e20"
-    },
-    {
-      "sha": "505bdfe34dbd924e609a076ac6949ead2027c9d0",
-      "short": "505bdfe",
-      "message": "Merge pull request #1720 from UrubuCode/feat/new-cast-callee",
-      "author": "Drysius",
-      "date": "2026-06-22T02:52:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/505bdfe34dbd924e609a076ac6949ead2027c9d0"
-    },
-    {
-      "sha": "463f81a001b61f79bc51934c62b217dbb310b312",
-      "short": "463f81a",
-      "message": "feat(hir): `new (C as any)()` — desembrulha cast/paren no callee do construtor",
-      "author": "Daniel",
-      "date": "2026-06-22T02:47:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/463f81a001b61f79bc51934c62b217dbb310b312"
+      "date": "2026-06-22T07:53:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eda203bd8b68f6eddd4ecd384e0a5617364ae850"
     }
   ]
 }
