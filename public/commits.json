@@ -1,165 +1,165 @@
 {
-  "total": 2860,
+  "total": 2886,
   "commits": [
     {
-      "sha": "617119199fc6d89ec0099952494a2dde8b5f5cda",
-      "short": "6171191",
-      "message": "feat(egui): layout horizontal (grade) + app calculadora de teste",
-      "author": "Marcos",
-      "date": "2026-06-23T01:24:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/617119199fc6d89ec0099952494a2dde8b5f5cda"
+      "sha": "ce5837215c786c858975c2786a0ae4349ea0c6e6",
+      "short": "ce58372",
+      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-23T06:20:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce5837215c786c858975c2786a0ae4349ea0c6e6"
     },
     {
-      "sha": "67014c4da316a61da6b25b63c2f43fa421a31b16",
-      "short": "67014c4",
-      "message": "refactor(engine): remove class_hint redundante (outro dev fez via param_classes)",
-      "author": "Marcos",
-      "date": "2026-06-23T01:17:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67014c4da316a61da6b25b63c2f43fa421a31b16"
-    },
-    {
-      "sha": "52d68685076261cb7d6cdcf2e24c47b2e95e52ca",
-      "short": "52d6868",
-      "message": "feat(egui): classe Window de alto nivel em TS (API new Window + run callback)",
-      "author": "Marcos",
-      "date": "2026-06-23T00:56:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52d68685076261cb7d6cdcf2e24c47b2e95e52ca"
-    },
-    {
-      "sha": "7186029caedd9aa396bf8a47fc7da68530ddf2aa",
-      "short": "7186029",
-      "message": "feat(engine): dispatch de método sobre parâmetro tipado com classe",
-      "author": "Marcos",
-      "date": "2026-06-23T00:55:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7186029caedd9aa396bf8a47fc7da68530ddf2aa"
-    },
-    {
-      "sha": "b1f4f599da77e99a7dd8ef500a1cb3aa9e1e7d8d",
-      "short": "b1f4f59",
-      "message": "fix(egui): default_fonts faltando -> texto/UI nao renderizava",
-      "author": "Marcos",
-      "date": "2026-06-23T00:11:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1f4f599da77e99a7dd8ef500a1cb3aa9e1e7d8d"
-    },
-    {
-      "sha": "c8ec7e45a3f2865f9a1673c826ed1304bdef0eac",
-      "short": "c8ec7e4",
-      "message": "feat(egui): multi-janela (EventLoop global + N janelas) + fix render",
-      "author": "Marcos",
-      "date": "2026-06-22T23:38:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8ec7e45a3f2865f9a1673c826ed1304bdef0eac"
-    },
-    {
-      "sha": "856d1ff9f1ee14419d3d36c0a019c2a55ede915a",
-      "short": "856d1ff",
-      "message": "feat(egui): P0+P1 — crate rts-egui, GUI imediata, gate de risco PASSOU",
-      "author": "Marcos",
-      "date": "2026-06-22T23:22:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/856d1ff9f1ee14419d3d36c0a019c2a55ede915a"
-    },
-    {
-      "sha": "cfd9bb7ad75ae0087a7b31d9f8e8c19df8f6a32a",
-      "short": "cfd9bb7",
-      "message": "docs(ui): spec egui v2 — reescrita apos pesquisa tecnica verificada",
-      "author": "Marcos",
-      "date": "2026-06-22T21:57:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cfd9bb7ad75ae0087a7b31d9f8e8c19df8f6a32a"
-    },
-    {
-      "sha": "07b969593dc6c1b04ed8adf23f33962e04dfabb6",
-      "short": "07b9695",
-      "message": "docs(ui): spec da GUI imediata via egui (crate rts-egui + namespace ui)",
-      "author": "Marcos",
-      "date": "2026-06-22T21:38:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07b969593dc6c1b04ed8adf23f33962e04dfabb6"
-    },
-    {
-      "sha": "7504ed62d758cd66a82c029553329d58b0aec467",
-      "short": "7504ed6",
+      "sha": "f63f214d8fe5b40442d2f5eb00aa3bc37dd46a98",
+      "short": "f63f214",
       "message": "Merge origin/main",
       "author": "Daniel",
-      "date": "2026-06-23T01:01:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7504ed62d758cd66a82c029553329d58b0aec467"
+      "date": "2026-06-23T06:10:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f63f214d8fe5b40442d2f5eb00aa3bc37dd46a98"
     },
     {
-      "sha": "2c2c688f793559f5b2a5ea27d92e9fa4bf5d611b",
-      "short": "2c2c688",
-      "message": "Merge feat/optchain-array-index: a?.[k] optional index",
+      "sha": "f20fb1677cfca3aef9ee1844797664f50016e47b",
+      "short": "f20fb16",
+      "message": "Merge fix/reflect-real-descriptors: descriptors/extensibilidade reais",
       "author": "Daniel",
-      "date": "2026-06-23T01:01:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c2c688f793559f5b2a5ea27d92e9fa4bf5d611b"
+      "date": "2026-06-23T06:10:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f20fb1677cfca3aef9ee1844797664f50016e47b"
     },
     {
-      "sha": "199b639ef944bdfe04ac1af0cc2f4d7e7c454e38",
-      "short": "199b639",
-      "message": "feat(engine): optional computed index `a?.[k]` (array element via idx_get)",
+      "sha": "448e02b420b5ceb413acdc7292e1450a1d0a8294",
+      "short": "448e02b",
+      "message": "fix(engine): descriptors/extensibilidade REAIS (remove mocks do Reflect)",
       "author": "Daniel",
-      "date": "2026-06-23T01:01:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/199b639ef944bdfe04ac1af0cc2f4d7e7c454e38"
+      "date": "2026-06-23T06:10:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/448e02b420b5ceb413acdc7292e1450a1d0a8294"
     },
     {
-      "sha": "f3fd5482f6dabd2c80b310171d40a05256e2f5ff",
-      "short": "f3fd548",
-      "message": "docs: auto-update cross-runtime parity badge (32.1%)",
+      "sha": "d4a98d4c3fc3495d5fc266cf0e6129c451babca7",
+      "short": "d4a98d4",
+      "message": "docs: auto-update cross-runtime parity badge (32.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-23T00:47:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3fd5482f6dabd2c80b310171d40a05256e2f5ff"
+      "date": "2026-06-23T05:55:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4a98d4c3fc3495d5fc266cf0e6129c451babca7"
     },
     {
-      "sha": "58028e871d8631d51bdd727f1d9e7f234cf82a7f",
-      "short": "58028e8",
+      "sha": "15bf24da75a5596fe1691ea39ff499998106db81",
+      "short": "15bf24d",
       "message": "Merge origin/main",
       "author": "Daniel",
-      "date": "2026-06-23T00:40:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58028e871d8631d51bdd727f1d9e7f234cf82a7f"
+      "date": "2026-06-23T05:45:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/15bf24da75a5596fe1691ea39ff499998106db81"
     },
     {
-      "sha": "7c81b1f1bdbe32f063d2474fff8d07ec8fae1cd7",
-      "short": "7c81b1f",
-      "message": "Merge feat/optchain-member-and-undef",
+      "sha": "80275d4e0b37a2fec064926f5ea83e2a25fed1d8",
+      "short": "80275d4",
+      "message": "Merge feat/reflect-proto-descriptors",
       "author": "Daniel",
-      "date": "2026-06-23T00:40:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7c81b1f1bdbe32f063d2474fff8d07ec8fae1cd7"
+      "date": "2026-06-23T05:45:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80275d4e0b37a2fec064926f5ea83e2a25fed1d8"
     },
     {
-      "sha": "510f6519d4d36b1f0fbd9f5368390a063645f979",
-      "short": "510f651",
-      "message": "feat(engine): optchain — membro não-opcional após `?.` + método não-resolvível → undefined",
+      "sha": "5db14b1ada242ca20063a0ee9d290ad84b7387aa",
+      "short": "5db14b1",
+      "message": "feat(engine): Reflect getPrototypeOf/setPrototypeOf/defineProperty/descriptor + Object.setPrototypeOf",
       "author": "Daniel",
-      "date": "2026-06-23T00:40:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/510f6519d4d36b1f0fbd9f5368390a063645f979"
+      "date": "2026-06-23T05:45:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5db14b1ada242ca20063a0ee9d290ad84b7387aa"
     },
     {
-      "sha": "173ed255ff1f37e4964e876c2001242585b0723f",
-      "short": "173ed25",
-      "message": "docs: auto-update cross-runtime parity badge (31.9%)",
+      "sha": "0cf80e153b31211dbabd371662650ae9fde83867",
+      "short": "0cf80e1",
+      "message": "docs: auto-update cross-runtime parity badge (32.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-23T00:35:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/173ed255ff1f37e4964e876c2001242585b0723f"
+      "date": "2026-06-23T05:26:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0cf80e153b31211dbabd371662650ae9fde83867"
     },
     {
-      "sha": "ec0bbbb97882577cee82b8ec83bed6ef4e6301f7",
-      "short": "ec0bbbb",
-      "message": "Merge origin/main into optchain work",
+      "sha": "673c140d7c26e34fd568d1816a1636305fce5615",
+      "short": "673c140",
+      "message": "fix(build): winit wayland via dlopen no Linux (sem libwayland-client de build)",
       "author": "Daniel",
-      "date": "2026-06-23T00:29:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ec0bbbb97882577cee82b8ec83bed6ef4e6301f7"
+      "date": "2026-06-23T05:15:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/673c140d7c26e34fd568d1816a1636305fce5615"
     },
     {
-      "sha": "93424f9a830d946744c7b063378cdc20fb0f9af0",
-      "short": "93424f9",
-      "message": "Merge feat/optchain-method-call: a?.b() guarded method dispatch",
+      "sha": "2023e5c6b5891a6ab51d6d87b9fdfb3fd52251fd",
+      "short": "2023e5c",
+      "message": "Merge fix/egui-linux-build: egui compila no Linux",
       "author": "Daniel",
-      "date": "2026-06-23T00:29:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/93424f9a830d946744c7b063378cdc20fb0f9af0"
+      "date": "2026-06-23T05:11:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2023e5c6b5891a6ab51d6d87b9fdfb3fd52251fd"
     },
     {
-      "sha": "4c6686b8bb61500c246250a31891c27f7926adc7",
-      "short": "4c6686b",
-      "message": "feat(engine): optional method call `a?.b(args)` (guarded method dispatch)",
+      "sha": "ec779e10ddf7c4045eec438bef89d0336d961982",
+      "short": "ec779e1",
+      "message": "fix(build): egui compila no Linux (winit x11/wayland + gpu-vulkan, sem dx12)",
       "author": "Daniel",
-      "date": "2026-06-23T00:29:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c6686b8bb61500c246250a31891c27f7926adc7"
+      "date": "2026-06-23T05:11:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ec779e10ddf7c4045eec438bef89d0336d961982"
+    },
+    {
+      "sha": "b9736ac73c1df466e4c00697fd48cad8a89061ea",
+      "short": "b9736ac",
+      "message": "Merge fix/events-fp-guard: events emit anti-segfault",
+      "author": "Daniel",
+      "date": "2026-06-23T04:34:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b9736ac73c1df466e4c00697fd48cad8a89061ea"
+    },
+    {
+      "sha": "c4aaf838c70ba56a2a13812fe2d5adf872d2cfd0",
+      "short": "c4aaf83",
+      "message": "fix(engine): events emit não transmuta PolyValue word como code-ptr (SEGV)",
+      "author": "Daniel",
+      "date": "2026-06-23T04:34:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c4aaf838c70ba56a2a13812fe2d5adf872d2cfd0"
+    },
+    {
+      "sha": "ade92bf6a61e6e7ad8af2fe6a740b4159cbb1c23",
+      "short": "ade92bf",
+      "message": "Merge feat/hasownproperty-and-newmodel-tests",
+      "author": "Daniel",
+      "date": "2026-06-23T04:15:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ade92bf6a61e6e7ad8af2fe6a740b4159cbb1c23"
+    },
+    {
+      "sha": "9185d9d2f4772e57a08c95d98e10da3f7f3f021c",
+      "short": "9185d9d",
+      "message": "feat(engine): hasOwnProperty (own-only) + testes Object.create no modelo novo",
+      "author": "Daniel",
+      "date": "2026-06-23T04:15:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9185d9d2f4772e57a08c95d98e10da3f7f3f021c"
+    },
+    {
+      "sha": "8c29d8d2d294327bd62c261e60ef1c18e6653662",
+      "short": "8c29d8d",
+      "message": "Merge feat/object-create-proto: Object.create + proto chain (#264)",
+      "author": "Daniel",
+      "date": "2026-06-23T03:50:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c29d8d2d294327bd62c261e60ef1c18e6653662"
+    },
+    {
+      "sha": "84dd25f06e8158dabd70491c272aed3110878829",
+      "short": "84dd25f",
+      "message": "feat(engine): Object.create + cadeia de protótipo (#264)",
+      "author": "Daniel",
+      "date": "2026-06-23T03:50:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84dd25f06e8158dabd70491c272aed3110878829"
+    },
+    {
+      "sha": "7ece694faf5e34faf0174fce2bf01119e5c1cb29",
+      "short": "7ece694",
+      "message": "Merge origin/main",
+      "author": "Daniel",
+      "date": "2026-06-23T03:20:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ece694faf5e34faf0174fce2bf01119e5c1cb29"
+    },
+    {
+      "sha": "69a7fecfab2e56a65f976ea0b4496a893d491f2e",
+      "short": "69a7fec",
+      "message": "Merge fix/promise-wait-bounded: anti-hang promise.wait + measure timeout",
+      "author": "Daniel",
+      "date": "2026-06-23T03:20:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69a7fecfab2e56a65f976ea0b4496a893d491f2e"
     }
   ]
 }
