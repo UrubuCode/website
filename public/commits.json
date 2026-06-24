@@ -1,6 +1,30 @@
 {
-  "total": 2917,
+  "total": 2923,
   "commits": [
+    {
+      "sha": "d03f6c26e8ddb572f9358649ac403e5dd1bf2203",
+      "short": "d03f6c2",
+      "message": "docs: sincroniza CLAUDE.md + rules ao estado pós-cutover + regra egui obrigatória (#1727)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T19:18:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d03f6c26e8ddb572f9358649ac403e5dd1bf2203"
+    },
+    {
+      "sha": "e324476da94cf14bd4a11d91a5ea34499bf3b52f",
+      "short": "e324476",
+      "message": "docs: auto-update cross-runtime parity badge (32.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-24T19:01:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e324476da94cf14bd4a11d91a5ea34499bf3b52f"
+    },
+    {
+      "sha": "4c7e354a31c9452fdb6e162730fa975118555a49",
+      "short": "4c7e354",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-06-24T18:54:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c7e354a31c9452fdb6e162730fa975118555a49"
+    },
     {
       "sha": "e72f946a09a35c0b8bf9d6bf81b4e754093da605",
       "short": "e72f946",
@@ -106,6 +130,14 @@
       "url": "https://github.com/UrubuCode/rts/commit/32c766627fc6a17473ac006e3dcc7eebfc2587e1"
     },
     {
+      "sha": "e4b0a6c7db1b41efa25debc0a1e933c1148104e9",
+      "short": "e4b0a6c",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-06-23T17:55:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4b0a6c7db1b41efa25debc0a1e933c1148104e9"
+    },
+    {
       "sha": "4de7ab0cd0e08f6b3f22acbd72a06cf15e1627e1",
       "short": "4de7ab0",
       "message": "feat(egui): opções de GPU em new Window() (default otimizado, usuário sobrescreve)",
@@ -114,52 +146,20 @@
       "url": "https://github.com/UrubuCode/rts/commit/4de7ab0cd0e08f6b3f22acbd72a06cf15e1627e1"
     },
     {
-      "sha": "ae754546de0f3ecee74ef9c917bec2abe3b62c8b",
-      "short": "ae75454",
-      "message": "perf(egui): cortar ~43% da RAM (MemoryHints::MemoryUsage + downlevel limits)",
-      "author": "Daniel",
-      "date": "2026-06-23T17:43:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae754546de0f3ecee74ef9c917bec2abe3b62c8b"
-    },
-    {
-      "sha": "5e1f1b4a90223d8f7eb6ca0a936c0332fb6e4def",
-      "short": "5e1f1b4",
-      "message": "fix(aot): emit string literals as data objects, not compile-time-baked handles",
-      "author": "Daniel",
-      "date": "2026-06-23T17:28:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e1f1b4a90223d8f7eb6ca0a936c0332fb6e4def"
-    },
-    {
-      "sha": "bfb66e6968e7c6ae3a4782ccd7bc6270fe039174",
-      "short": "bfb66e6",
-      "message": "Merge origin/main",
-      "author": "Daniel",
-      "date": "2026-06-23T17:08:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bfb66e6968e7c6ae3a4782ccd7bc6270fe039174"
-    },
-    {
-      "sha": "8f33951890d69fe8471a217a626a319a5d21bba4",
-      "short": "8f33951",
-      "message": "Merge aot-new-engine: AOT compile no motor novo (rts-adapters + ObjectModule + link)",
-      "author": "Daniel",
-      "date": "2026-06-23T17:07:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8f33951890d69fe8471a217a626a319a5d21bba4"
-    },
-    {
-      "sha": "d3512f23b92b54fb939d03fa207381d57433dd0f",
-      "short": "d3512f2",
-      "message": "docs(html-engine): anota divergência entre o plano de 5 árvores e o motor leve implementado",
+      "sha": "15215fa9ea9a1d278f127ebe9142d61b82ea1826",
+      "short": "15215fa",
+      "message": "Merge docs/html-engine-roadmap: decisão de arquitetura do motor HTML (roadmap F0-F5)",
       "author": "Marcos",
-      "date": "2026-06-23T17:06:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3512f23b92b54fb939d03fa207381d57433dd0f"
+      "date": "2026-06-23T17:48:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/15215fa9ea9a1d278f127ebe9142d61b82ea1826"
     },
     {
-      "sha": "e92b7ed48cf1a89211a430a29918728999c27921",
-      "short": "e92b7ed",
-      "message": "Merge feat/egui-dom-tree: DOM retido + render sobre a árvore + alocador dinâmico + mutação via JS",
+      "sha": "90ed5fec3f7cc8cd112df4d809a5d7a9d2bc49e8",
+      "short": "90ed5fe",
+      "message": "docs(html-engine): decisão de arquitetura — roadmap operacional F0-F5 + north-star congelado",
       "author": "Marcos",
-      "date": "2026-06-23T17:02:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e92b7ed48cf1a89211a430a29918728999c27921"
+      "date": "2026-06-23T17:47:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90ed5fec3f7cc8cd112df4d809a5d7a9d2bc49e8"
     }
   ]
 }
