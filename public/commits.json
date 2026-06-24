@@ -1,6 +1,14 @@
 {
-  "total": 2916,
+  "total": 2917,
   "commits": [
+    {
+      "sha": "e72f946a09a35c0b8bf9d6bf81b4e754093da605",
+      "short": "e72f946",
+      "message": "feat(egui): engine CSS nativo FASE 0 — estilo inline style=\"...\" (tipografia)",
+      "author": "Daniel",
+      "date": "2026-06-23T21:26:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e72f946a09a35c0b8bf9d6bf81b4e754093da605"
+    },
     {
       "sha": "89c140426aedcf8badb3dd2eca5900b68bbe6d6c",
       "short": "89c1404",
@@ -152,14 +160,6 @@
       "author": "Marcos",
       "date": "2026-06-23T17:02:05Z",
       "url": "https://github.com/UrubuCode/rts/commit/e92b7ed48cf1a89211a430a29918728999c27921"
-    },
-    {
-      "sha": "623fb3c171b789f7580fe2a0d6ed33015c7904d9",
-      "short": "623fb3c",
-      "message": "feat(aot): link new-engine AOT objects into runnable native binaries",
-      "author": "Daniel",
-      "date": "2026-06-23T17:01:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/623fb3c171b789f7580fe2a0d6ed33015c7904d9"
     }
   ]
 }
