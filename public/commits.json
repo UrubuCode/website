@@ -1,6 +1,30 @@
 {
-  "total": 2937,
+  "total": 2940,
   "commits": [
+    {
+      "sha": "e3290cb14def606dc16b5d134378e650b50108dc",
+      "short": "e3290cb",
+      "message": "feat(dom): extrai DOM para o crate rts-dom — headless, reusável no TS sem janela (#1742)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T14:45:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3290cb14def606dc16b5d134378e650b50108dc"
+    },
+    {
+      "sha": "ac06d801e6a40396cf686891cca1be9887e3b913",
+      "short": "ac06d80",
+      "message": "docs(egui): exemplo complexo do box model — caixas aninhadas + row horizontal (#1741)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T14:20:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac06d801e6a40396cf686891cca1be9887e3b913"
+    },
+    {
+      "sha": "787d7ca26c7986cdd813901361f70e00e053b36c",
+      "short": "787d7ca",
+      "message": "feat(egui): F2 (fatia 1) — box model de bloco via egui::Frame (bg/padding/border/raio) (#1740)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T14:13:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/787d7ca26c7986cdd813901361f70e00e053b36c"
+    },
     {
       "sha": "05c4a478c890f528398c8aa970c935aa36f48665",
       "short": "05c4a47",
@@ -136,30 +160,6 @@
       "author": "Marcos",
       "date": "2026-06-24T18:54:57Z",
       "url": "https://github.com/UrubuCode/rts/commit/4c7e354a31c9452fdb6e162730fa975118555a49"
-    },
-    {
-      "sha": "e72f946a09a35c0b8bf9d6bf81b4e754093da605",
-      "short": "e72f946",
-      "message": "feat(egui): engine CSS nativo FASE 0 — estilo inline style=\"...\" (tipografia)",
-      "author": "Daniel",
-      "date": "2026-06-23T21:26:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e72f946a09a35c0b8bf9d6bf81b4e754093da605"
-    },
-    {
-      "sha": "89c140426aedcf8badb3dd2eca5900b68bbe6d6c",
-      "short": "89c1404",
-      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-23T19:49:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89c140426aedcf8badb3dd2eca5900b68bbe6d6c"
-    },
-    {
-      "sha": "b320b0170c3d047a7a3d98b3db252cd17d1303e8",
-      "short": "b320b01",
-      "message": "test(egui): exemplo visual de transparencia (egui_transparent_test.ts)",
-      "author": "Daniel",
-      "date": "2026-06-23T19:42:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b320b0170c3d047a7a3d98b3db252cd17d1303e8"
     }
   ]
 }
