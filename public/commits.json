@@ -1,6 +1,78 @@
 {
-  "total": 2923,
+  "total": 2932,
   "commits": [
+    {
+      "sha": "09e2efebcd4e012d76cf4399c7f878cc40baecce",
+      "short": "09e2efe",
+      "message": "docs(html-engine): marca follow-up do F0 — reanálise de eficiência + padrão (#1735)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T23:11:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/09e2efebcd4e012d76cf4399c7f878cc40baecce"
+    },
+    {
+      "sha": "089887cfc5f2f3932b49e6623ad73be6ce5f8532",
+      "short": "089887c",
+      "message": "docs(html-engine): marca F0 como ENTREGUE + ajusta §7/F1 ao estado real (#1734)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T23:10:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/089887cfc5f2f3932b49e6623ad73be6ce5f8532"
+    },
+    {
+      "sha": "e8b40e1c66806c62d1fbd63c63dd04dcf634b80d",
+      "short": "e8b40e1",
+      "message": "feat(egui): F0(b) — cache do DOM por hash do HTML (fecha o F0) (#1733)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T22:58:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8b40e1c66806c62d1fbd63c63dd04dcf634b80d"
+    },
+    {
+      "sha": "bbb68d877b0eebe9e65e411dc1afb9a49d8cdfbe",
+      "short": "bbb68d8",
+      "message": "feat(egui): F0(d) — style.rs egui-free (u32 RGBA) + ComputedStyle + apply_slot opaco (#1732)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T22:48:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bbb68d877b0eebe9e65e411dc1afb9a49d8cdfbe"
+    },
+    {
+      "sha": "728fa101e7898d2b15ac598f633d27164226a615",
+      "short": "728fa10",
+      "message": "refactor(egui): F0(c) — split frame.rs (835) em frame/ <500 + kill-gate de vsync (#1731)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T22:33:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/728fa101e7898d2b15ac598f633d27164226a615"
+    },
+    {
+      "sha": "ad05fe71575a452d96bf005568ef36d5c40982af",
+      "short": "ad05fe7",
+      "message": "feat(egui): F0 — NodeId versionado {gen,idx} (invariante 2, segurança de memória) (#1730)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T21:59:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad05fe71575a452d96bf005568ef36d5c40982af"
+    },
+    {
+      "sha": "8d68288a184651e4e9b257d342005fa42b0887a5",
+      "short": "8d68288",
+      "message": "feat(egui): incrementador ao vivo + fix vsync (janela parava sozinha) (#1729)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T21:36:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d68288a184651e4e9b257d342005fa42b0887a5"
+    },
+    {
+      "sha": "8da24e48a3d389e96463ddb60f27b2c619826ae1",
+      "short": "8da24e4",
+      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-24T20:49:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8da24e48a3d389e96463ddb60f27b2c619826ae1"
+    },
+    {
+      "sha": "62923bc685e50097d8dbd20352aa8441cae72a03",
+      "short": "62923bc",
+      "message": "fix(egui): fecha o DOM no nível P1 — sentinela -1 + entidades completas (#1728)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-24T20:43:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62923bc685e50097d8dbd20352aa8441cae72a03"
+    },
     {
       "sha": "d03f6c26e8ddb572f9358649ac403e5dd1bf2203",
       "short": "d03f6c2",
@@ -88,78 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-23T18:55:23Z",
       "url": "https://github.com/UrubuCode/rts/commit/4c9946efdf3630a932e1a70e5d98ce18fb04214b"
-    },
-    {
-      "sha": "217af75a0c6d1d7dcb092421be78974d22d19822",
-      "short": "217af75",
-      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-23T18:22:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/217af75a0c6d1d7dcb092421be78974d22d19822"
-    },
-    {
-      "sha": "2200d3774bd9abe29f71757907cf74b3b020e28b",
-      "short": "2200d37",
-      "message": "Merge origin/main",
-      "author": "Daniel",
-      "date": "2026-06-23T18:14:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2200d3774bd9abe29f71757907cf74b3b020e28b"
-    },
-    {
-      "sha": "deb3aa834ddf496bc9df211ace5666d80818b34b",
-      "short": "deb3aa8",
-      "message": "Merge glow-backend: backend OpenGL opcional (new Window({render:'glow'}))",
-      "author": "Daniel",
-      "date": "2026-06-23T18:14:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/deb3aa834ddf496bc9df211ace5666d80818b34b"
-    },
-    {
-      "sha": "cf79a969615f7643fcb836a998fc88a37bbe935c",
-      "short": "cf79a96",
-      "message": "feat(egui): backend OpenGL (glow) opcional — new Window({ render: \"glow\" })",
-      "author": "Daniel",
-      "date": "2026-06-23T18:09:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf79a969615f7643fcb836a998fc88a37bbe935c"
-    },
-    {
-      "sha": "32c766627fc6a17473ac006e3dcc7eebfc2587e1",
-      "short": "32c7666",
-      "message": "docs: auto-update cross-runtime parity badge (32.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-23T17:58:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/32c766627fc6a17473ac006e3dcc7eebfc2587e1"
-    },
-    {
-      "sha": "e4b0a6c7db1b41efa25debc0a1e933c1148104e9",
-      "short": "e4b0a6c",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-06-23T17:55:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e4b0a6c7db1b41efa25debc0a1e933c1148104e9"
-    },
-    {
-      "sha": "4de7ab0cd0e08f6b3f22acbd72a06cf15e1627e1",
-      "short": "4de7ab0",
-      "message": "feat(egui): opções de GPU em new Window() (default otimizado, usuário sobrescreve)",
-      "author": "Daniel",
-      "date": "2026-06-23T17:51:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4de7ab0cd0e08f6b3f22acbd72a06cf15e1627e1"
-    },
-    {
-      "sha": "15215fa9ea9a1d278f127ebe9142d61b82ea1826",
-      "short": "15215fa",
-      "message": "Merge docs/html-engine-roadmap: decisão de arquitetura do motor HTML (roadmap F0-F5)",
-      "author": "Marcos",
-      "date": "2026-06-23T17:48:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/15215fa9ea9a1d278f127ebe9142d61b82ea1826"
-    },
-    {
-      "sha": "90ed5fec3f7cc8cd112df4d809a5d7a9d2bc49e8",
-      "short": "90ed5fe",
-      "message": "docs(html-engine): decisão de arquitetura — roadmap operacional F0-F5 + north-star congelado",
-      "author": "Marcos",
-      "date": "2026-06-23T17:47:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/90ed5fec3f7cc8cd112df4d809a5d7a9d2bc49e8"
     }
   ]
 }
