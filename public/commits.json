@@ -1,6 +1,46 @@
 {
-  "total": 2932,
+  "total": 2937,
   "commits": [
+    {
+      "sha": "05c4a478c890f528398c8aa970c935aa36f48665",
+      "short": "05c4a47",
+      "message": "docs(html-engine): marca F1 como ENTREGUE (estilo por slot opaco) (#1739)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T14:07:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/05c4a478c890f528398c8aa970c935aa36f48665"
+    },
+    {
+      "sha": "b7e0dec77109f7220b064f2377c9de69b8b77083",
+      "short": "b7e0dec",
+      "message": "feat(egui): F1 — estilo de texto por slot opaco (defineStyle) — primeiro pixel novo (#1738)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T14:06:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b7e0dec77109f7220b064f2377c9de69b8b77083"
+    },
+    {
+      "sha": "fc2ec6d91d88eb8d100fe46f34d3909abebb3d9a",
+      "short": "fc2ec6d",
+      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-25T13:14:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc2ec6d91d88eb8d100fe46f34d3909abebb3d9a"
+    },
+    {
+      "sha": "f997c63d28d40a2d486e0e556a1df3b8faa9de51",
+      "short": "f997c63",
+      "message": "docs(html-engine): fecha o follow-up de reanálise do F0 (feito) (#1737)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T13:05:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f997c63d28d40a2d486e0e556a1df3b8faa9de51"
+    },
+    {
+      "sha": "d4d0453001ccab6f0474864e6c060df9eb4e4c4d",
+      "short": "d4d0453",
+      "message": "perf(egui): corta 2 alocações por-frame no hot path (reanálise do F0) (#1736)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-06-25T13:04:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4d0453001ccab6f0474864e6c060df9eb4e4c4d"
+    },
     {
       "sha": "09e2efebcd4e012d76cf4399c7f878cc40baecce",
       "short": "09e2efe",
@@ -120,46 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-23T19:42:53Z",
       "url": "https://github.com/UrubuCode/rts/commit/b320b0170c3d047a7a3d98b3db252cd17d1303e8"
-    },
-    {
-      "sha": "e167981c1e7da72c41e1d72cb54800639c5b6f64",
-      "short": "e167981",
-      "message": "Merge origin/main",
-      "author": "Daniel",
-      "date": "2026-06-23T19:37:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e167981c1e7da72c41e1d72cb54800639c5b6f64"
-    },
-    {
-      "sha": "5c427bdadfe5642202ee65521bb035b53dc7fd05",
-      "short": "5c427bd",
-      "message": "feat(egui): opções transparent + decorations em new Window()",
-      "author": "Daniel",
-      "date": "2026-06-23T19:37:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c427bdadfe5642202ee65521bb035b53dc7fd05"
-    },
-    {
-      "sha": "9c6e993ed11ae8f36f354383ba07c0a18d41dd97",
-      "short": "9c6e993",
-      "message": "docs: auto-update cross-runtime parity badge (32.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-23T19:01:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c6e993ed11ae8f36f354383ba07c0a18d41dd97"
-    },
-    {
-      "sha": "a3307a39d03fd98450e9ae2abda2c31eab95bf7c",
-      "short": "a3307a3",
-      "message": "Merge origin/main",
-      "author": "Daniel",
-      "date": "2026-06-23T18:55:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a3307a39d03fd98450e9ae2abda2c31eab95bf7c"
-    },
-    {
-      "sha": "4c9946efdf3630a932e1a70e5d98ce18fb04214b",
-      "short": "4c9946e",
-      "message": "test(egui): teste visual headless do backend glow (snapshot PPM + checker)",
-      "author": "Daniel",
-      "date": "2026-06-23T18:55:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c9946efdf3630a932e1a70e5d98ce18fb04214b"
     }
   ]
 }
