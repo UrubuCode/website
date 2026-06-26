@@ -1,165 +1,165 @@
 {
-  "total": 2940,
+  "total": 2992,
   "commits": [
     {
-      "sha": "e3290cb14def606dc16b5d134378e650b50108dc",
-      "short": "e3290cb",
-      "message": "feat(dom): extrai DOM para o crate rts-dom — headless, reusável no TS sem janela (#1742)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T14:45:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3290cb14def606dc16b5d134378e650b50108dc"
-    },
-    {
-      "sha": "ac06d801e6a40396cf686891cca1be9887e3b913",
-      "short": "ac06d80",
-      "message": "docs(egui): exemplo complexo do box model — caixas aninhadas + row horizontal (#1741)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T14:20:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ac06d801e6a40396cf686891cca1be9887e3b913"
-    },
-    {
-      "sha": "787d7ca26c7986cdd813901361f70e00e053b36c",
-      "short": "787d7ca",
-      "message": "feat(egui): F2 (fatia 1) — box model de bloco via egui::Frame (bg/padding/border/raio) (#1740)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T14:13:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/787d7ca26c7986cdd813901361f70e00e053b36c"
-    },
-    {
-      "sha": "05c4a478c890f528398c8aa970c935aa36f48665",
-      "short": "05c4a47",
-      "message": "docs(html-engine): marca F1 como ENTREGUE (estilo por slot opaco) (#1739)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T14:07:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05c4a478c890f528398c8aa970c935aa36f48665"
-    },
-    {
-      "sha": "b7e0dec77109f7220b064f2377c9de69b8b77083",
-      "short": "b7e0dec",
-      "message": "feat(egui): F1 — estilo de texto por slot opaco (defineStyle) — primeiro pixel novo (#1738)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T14:06:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7e0dec77109f7220b064f2377c9de69b8b77083"
-    },
-    {
-      "sha": "fc2ec6d91d88eb8d100fe46f34d3909abebb3d9a",
-      "short": "fc2ec6d",
-      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
+      "sha": "82a4d22c3fc34597a8d8f3ddca62a8e9b6f1a0a4",
+      "short": "82a4d22",
+      "message": "docs: auto-update cross-runtime parity badge (33.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-25T13:14:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc2ec6d91d88eb8d100fe46f34d3909abebb3d9a"
+      "date": "2026-06-26T19:18:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/82a4d22c3fc34597a8d8f3ddca62a8e9b6f1a0a4"
     },
     {
-      "sha": "f997c63d28d40a2d486e0e556a1df3b8faa9de51",
-      "short": "f997c63",
-      "message": "docs(html-engine): fecha o follow-up de reanálise do F0 (feito) (#1737)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T13:05:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f997c63d28d40a2d486e0e556a1df3b8faa9de51"
+      "sha": "64ff2d05e43f7831b645c5db3add147f418d960d",
+      "short": "64ff2d0",
+      "message": "fix(funcval): nome de CLASSE em arrow não é captura (instanceof/new C)",
+      "author": "Daniel",
+      "date": "2026-06-26T17:37:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/64ff2d05e43f7831b645c5db3add147f418d960d"
     },
     {
-      "sha": "d4d0453001ccab6f0474864e6c060df9eb4e4c4d",
-      "short": "d4d0453",
-      "message": "perf(egui): corta 2 alocações por-frame no hot path (reanálise do F0) (#1736)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-25T13:04:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4d0453001ccab6f0474864e6c060df9eb4e4c4d"
+      "sha": "915c28485062b41d18ddd9476faeb7db31d1f4a5",
+      "short": "915c284",
+      "message": "feat(length): .length dinâmico em member/index/new/logical receiver",
+      "author": "Daniel",
+      "date": "2026-06-26T17:16:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/915c28485062b41d18ddd9476faeb7db31d1f4a5"
     },
     {
-      "sha": "09e2efebcd4e012d76cf4399c7f878cc40baecce",
-      "short": "09e2efe",
-      "message": "docs(html-engine): marca follow-up do F0 — reanálise de eficiência + padrão (#1735)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T23:11:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09e2efebcd4e012d76cf4399c7f878cc40baecce"
+      "sha": "12700715eace1dfb3812e9acd394474b1f6e33ed",
+      "short": "1270071",
+      "message": "feat(binop): operador `key in obj` — has-key próprio",
+      "author": "Daniel",
+      "date": "2026-06-26T16:47:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/12700715eace1dfb3812e9acd394474b1f6e33ed"
     },
     {
-      "sha": "089887cfc5f2f3932b49e6623ad73be6ce5f8532",
-      "short": "089887c",
-      "message": "docs(html-engine): marca F0 como ENTREGUE + ajusta §7/F1 ao estado real (#1734)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T23:10:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/089887cfc5f2f3932b49e6623ad73be6ce5f8532"
+      "sha": "8bdf9dfbc74fa88bf8c320357c120e3c525a1671",
+      "short": "8bdf9df",
+      "message": "feat(call): args extras ignorados (flexibilidade de arity JS)",
+      "author": "Daniel",
+      "date": "2026-06-26T16:27:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8bdf9dfbc74fa88bf8c320357c120e3c525a1671"
     },
     {
-      "sha": "e8b40e1c66806c62d1fbd63c63dd04dcf634b80d",
-      "short": "e8b40e1",
-      "message": "feat(egui): F0(b) — cache do DOM por hash do HTML (fecha o F0) (#1733)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T22:58:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8b40e1c66806c62d1fbd63c63dd04dcf634b80d"
+      "sha": "0224e63f45f634d3c6acabe46db15709dffaae0c",
+      "short": "0224e63",
+      "message": "feat(symbol): Symbol reclassificado como PRIMORDIAL — call/statics/getter (#216)",
+      "author": "Daniel",
+      "date": "2026-06-26T16:06:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0224e63f45f634d3c6acabe46db15709dffaae0c"
     },
     {
-      "sha": "bbb68d877b0eebe9e65e411dc1afb9a49d8cdfbe",
-      "short": "bbb68d8",
-      "message": "feat(egui): F0(d) — style.rs egui-free (u32 RGBA) + ComputedStyle + apply_slot opaco (#1732)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T22:48:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbb68d877b0eebe9e65e411dc1afb9a49d8cdfbe"
+      "sha": "7f3172543a73d662c18d73d50a6abf2cd783e529",
+      "short": "7f31725",
+      "message": "feat(tpl): tagged templates — tag\\`a${x}b\\` → tag([parts], x)",
+      "author": "Daniel",
+      "date": "2026-06-26T07:31:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7f3172543a73d662c18d73d50a6abf2cd783e529"
     },
     {
-      "sha": "728fa101e7898d2b15ac598f633d27164226a615",
-      "short": "728fa10",
-      "message": "refactor(egui): F0(c) — split frame.rs (835) em frame/ <500 + kill-gate de vsync (#1731)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T22:33:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/728fa101e7898d2b15ac598f633d27164226a615"
+      "sha": "a881878cb714929808169c4f9808a4f93105816b",
+      "short": "a881878",
+      "message": "feat(class): super.x — leitura de field/getter herdado (bare, não-call)",
+      "author": "Daniel",
+      "date": "2026-06-26T07:19:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a881878cb714929808169c4f9808a4f93105816b"
     },
     {
-      "sha": "ad05fe71575a452d96bf005568ef36d5c40982af",
-      "short": "ad05fe7",
-      "message": "feat(egui): F0 — NodeId versionado {gen,idx} (invariante 2, segurança de memória) (#1730)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T21:59:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad05fe71575a452d96bf005568ef36d5c40982af"
+      "sha": "89a265845fe4449fd0b28b16b5da8f52da989168",
+      "short": "89a2658",
+      "message": "feat(call): getPointer(fn) — endereço C-ABI de user fn (thread/parallel/sync)",
+      "author": "Daniel",
+      "date": "2026-06-26T06:57:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89a265845fe4449fd0b28b16b5da8f52da989168"
     },
     {
-      "sha": "8d68288a184651e4e9b257d342005fa42b0887a5",
-      "short": "8d68288",
-      "message": "feat(egui): incrementador ao vivo + fix vsync (janela parava sozinha) (#1729)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T21:36:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d68288a184651e4e9b257d342005fa42b0887a5"
+      "sha": "dcb11221fec156d8fd812d47560810e0ac7b4da3",
+      "short": "dcb1122",
+      "message": "feat(promise): registra classe primordial Promise + roteia statics",
+      "author": "Daniel",
+      "date": "2026-06-26T05:55:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dcb11221fec156d8fd812d47560810e0ac7b4da3"
     },
     {
-      "sha": "8da24e48a3d389e96463ddb60f27b2c619826ae1",
-      "short": "8da24e4",
-      "message": "docs: auto-update cross-runtime parity badge (32.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-24T20:49:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8da24e48a3d389e96463ddb60f27b2c619826ae1"
+      "sha": "6592a1f35d2e063594382c6f7bb05a6d0b26d0ba",
+      "short": "6592a1f",
+      "message": "feat(hir): lowera function expression como arrow (HOF/IIFE/callback)",
+      "author": "Daniel",
+      "date": "2026-06-26T03:55:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6592a1f35d2e063594382c6f7bb05a6d0b26d0ba"
     },
     {
-      "sha": "62923bc685e50097d8dbd20352aa8441cae72a03",
-      "short": "62923bc",
-      "message": "fix(egui): fecha o DOM no nível P1 — sentinela -1 + entidades completas (#1728)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T20:43:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/62923bc685e50097d8dbd20352aa8441cae72a03"
+      "sha": "832128020b3b430298021778b4726835c79d50f0",
+      "short": "8321280",
+      "message": "fix(funcval): arrow block-body com local + chamada de namespace dentro de arrow",
+      "author": "Daniel",
+      "date": "2026-06-26T03:40:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/832128020b3b430298021778b4726835c79d50f0"
     },
     {
-      "sha": "d03f6c26e8ddb572f9358649ac403e5dd1bf2203",
-      "short": "d03f6c2",
-      "message": "docs: sincroniza CLAUDE.md + rules ao estado pós-cutover + regra egui obrigatória (#1727)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-24T19:18:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d03f6c26e8ddb572f9358649ac403e5dd1bf2203"
+      "sha": "e1f3158496f3f6e531a9ed3a1c85cba46e821cac",
+      "short": "e1f3158",
+      "message": "feat(destructure): padrão aninhado com default + splice sem Block",
+      "author": "Daniel",
+      "date": "2026-06-26T03:14:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1f3158496f3f6e531a9ed3a1c85cba46e821cac"
     },
     {
-      "sha": "e324476da94cf14bd4a11d91a5ea34499bf3b52f",
-      "short": "e324476",
-      "message": "docs: auto-update cross-runtime parity badge (32.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-24T19:01:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e324476da94cf14bd4a11d91a5ea34499bf3b52f"
+      "sha": "e41a681c3fc287af620819f38e223830e1c56963",
+      "short": "e41a681",
+      "message": "feat(destructure): suporta padrões aninhados (array/objeto)",
+      "author": "Daniel",
+      "date": "2026-06-26T03:04:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e41a681c3fc287af620819f38e223830e1c56963"
     },
     {
-      "sha": "4c7e354a31c9452fdb6e162730fa975118555a49",
-      "short": "4c7e354",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "9d37fcb55b0a9eac64424b18c89769ffad6b7117",
+      "short": "9d37fcb",
+      "message": "feat(example): jogo de RITMO + Pong com áudio completo (música/efeitos/config)",
       "author": "Marcos",
-      "date": "2026-06-24T18:54:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c7e354a31c9452fdb6e162730fa975118555a49"
+      "date": "2026-06-25T23:59:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d37fcb55b0a9eac64424b18c89769ffad6b7117"
+    },
+    {
+      "sha": "3f6da5085488ece68883648d95d9fc1b48813462",
+      "short": "3f6da50",
+      "message": "fix(example): áudio sem som era ESTÉREO — gerar por canal real + som de hover",
+      "author": "Marcos",
+      "date": "2026-06-25T21:58:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f6da5085488ece68883648d95d9fc1b48813462"
+    },
+    {
+      "sha": "870c2e36492b406b628d7f0a98dcce72ade4c2a7",
+      "short": "870c2e3",
+      "message": "refactor(example): áudio como STREAM SÍNCRONO — o game loop é o gerador",
+      "author": "Marcos",
+      "date": "2026-06-25T21:55:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/870c2e36492b406b628d7f0a98dcce72ade4c2a7"
+    },
+    {
+      "sha": "32396dfe8d95af9f3f30e8046a7eab0db6ffd732",
+      "short": "32396df",
+      "message": "docs: corrige limite #10 — não era audio-não-wired, era snake_case",
+      "author": "Marcos",
+      "date": "2026-06-25T21:28:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/32396dfe8d95af9f3f30e8046a7eab0db6ffd732"
+    },
+    {
+      "sha": "ba86fd2fa605437151b036c4dbdb64fa7cb49954",
+      "short": "ba86fd2",
+      "message": "feat(example): Pong com ÁUDIO — bipes de colisão + música de harmonia (acordes)",
+      "author": "Marcos",
+      "date": "2026-06-25T21:27:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba86fd2fa605437151b036c4dbdb64fa7cb49954"
+    },
+    {
+      "sha": "163a45f73fad4dccebdd474303f95644183af3c0",
+      "short": "163a45f",
+      "message": "feat(example): Pong vira jogo COMPLETO — menu inicial + config + jogo",
+      "author": "Marcos",
+      "date": "2026-06-25T21:20:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/163a45f73fad4dccebdd474303f95644183af3c0"
     }
   ]
 }
