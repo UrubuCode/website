@@ -1,6 +1,150 @@
 {
-  "total": 2992,
+  "total": 3010,
   "commits": [
+    {
+      "sha": "de19914d55c196cfc1361b6bd44a0603f41c3ea4",
+      "short": "de19914",
+      "message": "docs: auto-update cross-runtime parity badge (34.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T22:38:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de19914d55c196cfc1361b6bd44a0603f41c3ea4"
+    },
+    {
+      "sha": "06e9e3a091238c4efeaaebe04277fd747e7ef118",
+      "short": "06e9e3a",
+      "message": "feat(console): stubs table/group/count/time/trace/clear/assert",
+      "author": "Daniel",
+      "date": "2026-06-26T22:30:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06e9e3a091238c4efeaaebe04277fd747e7ef118"
+    },
+    {
+      "sha": "d0006d9d35f94f8407f55aab5397e81a02bc1bf1",
+      "short": "d0006d9",
+      "message": "feat(call): X.prototype.M.call(recv, ...) → recv.M(...) (borrowed method)",
+      "author": "Daniel",
+      "date": "2026-06-26T22:25:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0006d9d35f94f8407f55aab5397e81a02bc1bf1"
+    },
+    {
+      "sha": "9cb533e12d9cabcbcdbb1384431b70051a61d44e",
+      "short": "9cb533e",
+      "message": "docs: auto-update cross-runtime parity badge (34.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T22:24:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9cb533e12d9cabcbcdbb1384431b70051a61d44e"
+    },
+    {
+      "sha": "e9deb1305d7451f063993f66936e6f5b6551b465",
+      "short": "e9deb13",
+      "message": "feat(call): callee não-identificador → value-call (curry f(x)(y))",
+      "author": "Daniel",
+      "date": "2026-06-26T22:18:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e9deb1305d7451f063993f66936e6f5b6551b465"
+    },
+    {
+      "sha": "248bc59e9602f148666e8038d3a71f3fdc3e82b5",
+      "short": "248bc59",
+      "message": "docs: auto-update cross-runtime parity badge (34.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T22:04:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/248bc59e9602f148666e8038d3a71f3fdc3e82b5"
+    },
+    {
+      "sha": "0d916ae7254847ccef815c3e2bd6c9f828336ab5",
+      "short": "0d916ae",
+      "message": "feat(error): Error.captureStackTrace stub + static method como valor",
+      "author": "Daniel",
+      "date": "2026-06-26T21:57:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d916ae7254847ccef815c3e2bd6c9f828336ab5"
+    },
+    {
+      "sha": "9d1ce56b587e1b211081df885964af87b84c68ef",
+      "short": "9d1ce56",
+      "message": "docs: auto-update cross-runtime parity badge (34.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T21:28:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d1ce56b587e1b211081df885964af87b84c68ef"
+    },
+    {
+      "sha": "f992bab9b77da6f6955219a47b80aec09fa90a33",
+      "short": "f992bab",
+      "message": "feat(call): spread misto com posicionais em chamada a user fn",
+      "author": "Daniel",
+      "date": "2026-06-26T21:21:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f992bab9b77da6f6955219a47b80aec09fa90a33"
+    },
+    {
+      "sha": "ab0a87073053d22b2772df871dfe4f083014e24b",
+      "short": "ab0a870",
+      "message": "docs: auto-update cross-runtime parity badge (34.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T21:14:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab0a87073053d22b2772df871dfe4f083014e24b"
+    },
+    {
+      "sha": "db2a9d96781e92c59e2361c7169d6ee470403695",
+      "short": "db2a9d9",
+      "message": "feat(hir): elide type-only decls (type alias / interface) em statement",
+      "author": "Daniel",
+      "date": "2026-06-26T21:07:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db2a9d96781e92c59e2361c7169d6ee470403695"
+    },
+    {
+      "sha": "2e67dc0460bb48b0ab7814d70263c659e34ee05f",
+      "short": "2e67dc0",
+      "message": "feat(class): private methods (#method) — método normal com nome `#`",
+      "author": "Daniel",
+      "date": "2026-06-26T21:03:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e67dc0460bb48b0ab7814d70263c659e34ee05f"
+    },
+    {
+      "sha": "4e1cd04f269a391594d2ad7cb01c942046961277",
+      "short": "4e1cd04",
+      "message": "feat(super): super.x = v — write a field/setter herdado (bypass override)",
+      "author": "Daniel",
+      "date": "2026-06-26T20:54:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e1cd04f269a391594d2ad7cb01c942046961277"
+    },
+    {
+      "sha": "89c484928937712501b413d250bef1be64e1b06c",
+      "short": "89c4849",
+      "message": "docs: auto-update cross-runtime parity badge (33.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-26T20:51:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89c484928937712501b413d250bef1be64e1b06c"
+    },
+    {
+      "sha": "8509dde4ea61d2c25c4931da3957101986105eff",
+      "short": "8509dde",
+      "message": "feat(assign): logical-assign em member + bitwise compound-assign",
+      "author": "Daniel",
+      "date": "2026-06-26T20:44:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8509dde4ea61d2c25c4931da3957101986105eff"
+    },
+    {
+      "sha": "e54191fbca2bfd73741d5edaeaabfb534dc90c81",
+      "short": "e54191f",
+      "message": "feat(node-compat): node:crypto one-shot (randomUUID/sha256/randomBytesBuffer)",
+      "author": "Daniel",
+      "date": "2026-06-26T20:32:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e54191fbca2bfd73741d5edaeaabfb534dc90c81"
+    },
+    {
+      "sha": "a7f865fb74cc499130f64abf8c3e119cb0cec876",
+      "short": "a7f865f",
+      "message": "feat(node-compat): node:process (cwd/platform/arch) e node:util via Registry",
+      "author": "Daniel",
+      "date": "2026-06-26T20:29:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7f865fb74cc499130f64abf8c3e119cb0cec876"
+    },
+    {
+      "sha": "561e45611759d93ae4bf5158d5103e539dd4e7d2",
+      "short": "561e456",
+      "message": "feat(node-compat): node:fs API via aliases de dado nos membros fs",
+      "author": "Daniel",
+      "date": "2026-06-26T19:37:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/561e45611759d93ae4bf5158d5103e539dd4e7d2"
+    },
     {
       "sha": "82a4d22c3fc34597a8d8f3ddca62a8e9b6f1a0a4",
       "short": "82a4d22",
@@ -16,150 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-26T17:37:15Z",
       "url": "https://github.com/UrubuCode/rts/commit/64ff2d05e43f7831b645c5db3add147f418d960d"
-    },
-    {
-      "sha": "915c28485062b41d18ddd9476faeb7db31d1f4a5",
-      "short": "915c284",
-      "message": "feat(length): .length dinâmico em member/index/new/logical receiver",
-      "author": "Daniel",
-      "date": "2026-06-26T17:16:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/915c28485062b41d18ddd9476faeb7db31d1f4a5"
-    },
-    {
-      "sha": "12700715eace1dfb3812e9acd394474b1f6e33ed",
-      "short": "1270071",
-      "message": "feat(binop): operador `key in obj` — has-key próprio",
-      "author": "Daniel",
-      "date": "2026-06-26T16:47:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/12700715eace1dfb3812e9acd394474b1f6e33ed"
-    },
-    {
-      "sha": "8bdf9dfbc74fa88bf8c320357c120e3c525a1671",
-      "short": "8bdf9df",
-      "message": "feat(call): args extras ignorados (flexibilidade de arity JS)",
-      "author": "Daniel",
-      "date": "2026-06-26T16:27:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8bdf9dfbc74fa88bf8c320357c120e3c525a1671"
-    },
-    {
-      "sha": "0224e63f45f634d3c6acabe46db15709dffaae0c",
-      "short": "0224e63",
-      "message": "feat(symbol): Symbol reclassificado como PRIMORDIAL — call/statics/getter (#216)",
-      "author": "Daniel",
-      "date": "2026-06-26T16:06:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0224e63f45f634d3c6acabe46db15709dffaae0c"
-    },
-    {
-      "sha": "7f3172543a73d662c18d73d50a6abf2cd783e529",
-      "short": "7f31725",
-      "message": "feat(tpl): tagged templates — tag\\`a${x}b\\` → tag([parts], x)",
-      "author": "Daniel",
-      "date": "2026-06-26T07:31:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7f3172543a73d662c18d73d50a6abf2cd783e529"
-    },
-    {
-      "sha": "a881878cb714929808169c4f9808a4f93105816b",
-      "short": "a881878",
-      "message": "feat(class): super.x — leitura de field/getter herdado (bare, não-call)",
-      "author": "Daniel",
-      "date": "2026-06-26T07:19:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a881878cb714929808169c4f9808a4f93105816b"
-    },
-    {
-      "sha": "89a265845fe4449fd0b28b16b5da8f52da989168",
-      "short": "89a2658",
-      "message": "feat(call): getPointer(fn) — endereço C-ABI de user fn (thread/parallel/sync)",
-      "author": "Daniel",
-      "date": "2026-06-26T06:57:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89a265845fe4449fd0b28b16b5da8f52da989168"
-    },
-    {
-      "sha": "dcb11221fec156d8fd812d47560810e0ac7b4da3",
-      "short": "dcb1122",
-      "message": "feat(promise): registra classe primordial Promise + roteia statics",
-      "author": "Daniel",
-      "date": "2026-06-26T05:55:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dcb11221fec156d8fd812d47560810e0ac7b4da3"
-    },
-    {
-      "sha": "6592a1f35d2e063594382c6f7bb05a6d0b26d0ba",
-      "short": "6592a1f",
-      "message": "feat(hir): lowera function expression como arrow (HOF/IIFE/callback)",
-      "author": "Daniel",
-      "date": "2026-06-26T03:55:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6592a1f35d2e063594382c6f7bb05a6d0b26d0ba"
-    },
-    {
-      "sha": "832128020b3b430298021778b4726835c79d50f0",
-      "short": "8321280",
-      "message": "fix(funcval): arrow block-body com local + chamada de namespace dentro de arrow",
-      "author": "Daniel",
-      "date": "2026-06-26T03:40:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/832128020b3b430298021778b4726835c79d50f0"
-    },
-    {
-      "sha": "e1f3158496f3f6e531a9ed3a1c85cba46e821cac",
-      "short": "e1f3158",
-      "message": "feat(destructure): padrão aninhado com default + splice sem Block",
-      "author": "Daniel",
-      "date": "2026-06-26T03:14:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1f3158496f3f6e531a9ed3a1c85cba46e821cac"
-    },
-    {
-      "sha": "e41a681c3fc287af620819f38e223830e1c56963",
-      "short": "e41a681",
-      "message": "feat(destructure): suporta padrões aninhados (array/objeto)",
-      "author": "Daniel",
-      "date": "2026-06-26T03:04:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e41a681c3fc287af620819f38e223830e1c56963"
-    },
-    {
-      "sha": "9d37fcb55b0a9eac64424b18c89769ffad6b7117",
-      "short": "9d37fcb",
-      "message": "feat(example): jogo de RITMO + Pong com áudio completo (música/efeitos/config)",
-      "author": "Marcos",
-      "date": "2026-06-25T23:59:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9d37fcb55b0a9eac64424b18c89769ffad6b7117"
-    },
-    {
-      "sha": "3f6da5085488ece68883648d95d9fc1b48813462",
-      "short": "3f6da50",
-      "message": "fix(example): áudio sem som era ESTÉREO — gerar por canal real + som de hover",
-      "author": "Marcos",
-      "date": "2026-06-25T21:58:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f6da5085488ece68883648d95d9fc1b48813462"
-    },
-    {
-      "sha": "870c2e36492b406b628d7f0a98dcce72ade4c2a7",
-      "short": "870c2e3",
-      "message": "refactor(example): áudio como STREAM SÍNCRONO — o game loop é o gerador",
-      "author": "Marcos",
-      "date": "2026-06-25T21:55:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/870c2e36492b406b628d7f0a98dcce72ade4c2a7"
-    },
-    {
-      "sha": "32396dfe8d95af9f3f30e8046a7eab0db6ffd732",
-      "short": "32396df",
-      "message": "docs: corrige limite #10 — não era audio-não-wired, era snake_case",
-      "author": "Marcos",
-      "date": "2026-06-25T21:28:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/32396dfe8d95af9f3f30e8046a7eab0db6ffd732"
-    },
-    {
-      "sha": "ba86fd2fa605437151b036c4dbdb64fa7cb49954",
-      "short": "ba86fd2",
-      "message": "feat(example): Pong com ÁUDIO — bipes de colisão + música de harmonia (acordes)",
-      "author": "Marcos",
-      "date": "2026-06-25T21:27:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ba86fd2fa605437151b036c4dbdb64fa7cb49954"
-    },
-    {
-      "sha": "163a45f73fad4dccebdd474303f95644183af3c0",
-      "short": "163a45f",
-      "message": "feat(example): Pong vira jogo COMPLETO — menu inicial + config + jogo",
-      "author": "Marcos",
-      "date": "2026-06-25T21:20:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/163a45f73fad4dccebdd474303f95644183af3c0"
     }
   ]
 }
