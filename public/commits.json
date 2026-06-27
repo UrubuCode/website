@@ -1,6 +1,38 @@
 {
-  "total": 3051,
+  "total": 3055,
   "commits": [
+    {
+      "sha": "1a0ef32b7ff30e634385133ed4e468c8265dfce1",
+      "short": "1a0ef32",
+      "message": "chore(parallel): remove o namespace `parallel` (silent-parallelism do motor velho)",
+      "author": "Daniel",
+      "date": "2026-06-27T09:11:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1a0ef32b7ff30e634385133ed4e468c8265dfce1"
+    },
+    {
+      "sha": "5a7ec909771a9d9991ab6c26c32d2fbef47d1f1d",
+      "short": "5a7ec90",
+      "message": "docs: auto-update cross-runtime parity badge (35.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-06-27T09:06:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5a7ec909771a9d9991ab6c26c32d2fbef47d1f1d"
+    },
+    {
+      "sha": "4f75a2f3c6f05fd77e9d8ad7700fc334dc283ebc",
+      "short": "4f75a2f",
+      "message": "fix(thread): worker herda os module-global cells (gcells) do spawner",
+      "author": "Daniel",
+      "date": "2026-06-27T08:59:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f75a2f3c6f05fd77e9d8ad7700fc334dc283ebc"
+    },
+    {
+      "sha": "9cdd72a53757a6d0534b70bff051ac66e1fd1267",
+      "short": "9cdd72a",
+      "message": "feat(call): callback fn-ptr p/ param U64 em namespace builtin (events.on)",
+      "author": "Daniel",
+      "date": "2026-06-27T08:32:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9cdd72a53757a6d0534b70bff051ac66e1fd1267"
+    },
     {
       "sha": "f82ace0e85f77c897f3ad588871fac71f5298103",
       "short": "f82ace0",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-06-27T06:28:50Z",
       "url": "https://github.com/UrubuCode/rts/commit/78e624014816393758937a33e8af54193bf59f9f"
-    },
-    {
-      "sha": "a94609c204c7ebe670362c9643f58f078bab3679",
-      "short": "a94609c",
-      "message": "fix(abi): membros que retornam string handle declaram : string",
-      "author": "Daniel",
-      "date": "2026-06-27T06:12:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a94609c204c7ebe670362c9643f58f078bab3679"
-    },
-    {
-      "sha": "8d872d260286076a379c621744540869e7d91fb3",
-      "short": "8d872d2",
-      "message": "docs: auto-update cross-runtime parity badge (35.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-27T06:11:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d872d260286076a379c621744540869e7d91fb3"
-    },
-    {
-      "sha": "ce1ec0920e319dc0c6846fcfe43bc07ac9be6f32",
-      "short": "ce1ec09",
-      "message": "fix(abi): regex.find / buffer.to_string declaram retorno : string",
-      "author": "Daniel",
-      "date": "2026-06-27T06:05:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce1ec0920e319dc0c6846fcfe43bc07ac9be6f32"
-    },
-    {
-      "sha": "798660954c46b599567e958b0369d68330f4a94a",
-      "short": "7986609",
-      "message": "fix(regex): replace/replace_all retornam string (não number)",
-      "author": "Daniel",
-      "date": "2026-06-27T05:59:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/798660954c46b599567e958b0369d68330f4a94a"
     }
   ]
 }
