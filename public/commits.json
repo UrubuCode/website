@@ -1,6 +1,150 @@
 {
-  "total": 3110,
+  "total": 3128,
   "commits": [
+    {
+      "sha": "6e1aa8fb447512aba4e58746d7dc9f3392f31341",
+      "short": "6e1aa8f",
+      "message": "Merge: scroll container interno (div overflow x/y) + arrastar barras (#1744)",
+      "author": "Marcos",
+      "date": "2026-06-28T17:40:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e1aa8fb447512aba4e58746d7dc9f3392f31341"
+    },
+    {
+      "sha": "cd9f40eea58819c902036ce098340fcf82525a71",
+      "short": "cd9f40e",
+      "message": "feat(scrollbar): arrastar as barras de um scroll container interno (x e y)",
+      "author": "Marcos",
+      "date": "2026-06-28T17:40:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd9f40eea58819c902036ce098340fcf82525a71"
+    },
+    {
+      "sha": "06ae30ffb0bb61be8e4e7287aca3ed101d8768af",
+      "short": "06ae30f",
+      "message": "feat(css): scroll container interno (div overflow x E y) — clip + barra no DOM (#1744)",
+      "author": "Marcos",
+      "date": "2026-06-28T17:22:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06ae30ffb0bb61be8e4e7287aca3ed101d8768af"
+    },
+    {
+      "sha": "50987ad6dfbb57a7a3a1532af512a36f82b3d9e7",
+      "short": "50987ad",
+      "message": "fix(linker): /FORCE:MULTIPLE no AOT com --all-namespaces (símbolos kernel32 duplicados)",
+      "author": "Marcos",
+      "date": "2026-06-28T16:41:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50987ad6dfbb57a7a3a1532af512a36f82b3d9e7"
+    },
+    {
+      "sha": "f4705f7fa55ac7b2638b25ae85b7955244c5af21",
+      "short": "f4705f7",
+      "message": "feat(scrollbar): arrastar o thumb da barra (click-and-drag) — input do egui vira offset",
+      "author": "Marcos",
+      "date": "2026-06-28T16:17:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f4705f7fa55ac7b2638b25ae85b7955244c5af21"
+    },
+    {
+      "sha": "c629179de0c8329e641e3e0c78fae3610068a524",
+      "short": "c629179",
+      "message": "refactor(scrollbar): barra desenhada pelo DOM (SolidRect), egui volta a ser BURRO",
+      "author": "Marcos",
+      "date": "2026-06-28T16:08:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c629179de0c8329e641e3e0c78fae3610068a524"
+    },
+    {
+      "sha": "d90f53e4f549ef8079bf3b58236481fbe0542742",
+      "short": "d90f53e",
+      "message": "fix(egui): scrollbar sólida sempre visível (floating=false) + tentativa de cor via CSS",
+      "author": "Marcos",
+      "date": "2026-06-28T15:56:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d90f53e4f549ef8079bf3b58236481fbe0542742"
+    },
+    {
+      "sha": "f63c77f5a818fd2d2273e6ed9fcc8911c00bf2f5",
+      "short": "f63c77f",
+      "message": "feat(css): scrollbar via CSS — width/color + ::-webkit-scrollbar + overflow (#1744)",
+      "author": "Marcos",
+      "date": "2026-06-28T15:25:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f63c77f5a818fd2d2273e6ed9fcc8911c00bf2f5"
+    },
+    {
+      "sha": "8475ce0e6df8a3189327a8aca089bb9e892726e8",
+      "short": "8475ce0",
+      "message": "feat(egui): scroll nos dois eixos (x e y) para páginas maiores que a janela",
+      "author": "Marcos",
+      "date": "2026-06-28T15:10:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8475ce0e6df8a3189327a8aca089bb9e892726e8"
+    },
+    {
+      "sha": "5e9b09931980486bc7124372f456d4425f4ed232",
+      "short": "5e9b099",
+      "message": "fix(css): largura intrínseca considera bold — botões/inline-block não quebram",
+      "author": "Marcos",
+      "date": "2026-06-28T15:05:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5e9b09931980486bc7124372f456d4425f4ed232"
+    },
+    {
+      "sha": "e687ee4828ce94c0268ac8f028bf0fbb96e4540d",
+      "short": "e687ee4",
+      "message": "feat(css): font-weight bold de ponta a ponta (mede+pinta Segoe UI Bold)",
+      "author": "Marcos",
+      "date": "2026-06-28T15:02:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e687ee4828ce94c0268ac8f028bf0fbb96e4540d"
+    },
+    {
+      "sha": "ac952c91018b6ac9273519c770c4f3b068235e1f",
+      "short": "ac952c9",
+      "message": "feat(css): inline-flow rico multi-run — cor/estilo do <span> aplica no texto + flui",
+      "author": "Marcos",
+      "date": "2026-06-28T14:54:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac952c91018b6ac9273519c770c4f3b068235e1f"
+    },
+    {
+      "sha": "ace5093481129adb82610896ca0db8ce1a67693a",
+      "short": "ace5093",
+      "message": "refactor(css): base de medição = intrinsic sizing consciente do display (#1744)",
+      "author": "Marcos",
+      "date": "2026-06-28T14:49:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ace5093481129adb82610896ca0db8ce1a67693a"
+    },
+    {
+      "sha": "d4c33296d93d6154b23b908ec5e40315bc7df05b",
+      "short": "d4c3329",
+      "message": "feat(css): word-wrap (white-space:normal) — texto quebra na largura, não transborda",
+      "author": "Marcos",
+      "date": "2026-06-28T14:42:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4c33296d93d6154b23b908ec5e40315bc7df05b"
+    },
+    {
+      "sha": "9ed447339e601b43380693e66ef27a485a746c4e",
+      "short": "9ed4473",
+      "message": "fix(css): inline-block usa shrink-to-fit + text-align (pill/botão não estica)",
+      "author": "Marcos",
+      "date": "2026-06-28T14:37:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ed447339e601b43380693e66ef27a485a746c4e"
+    },
+    {
+      "sha": "532357f76187a480c870db892406fa4e89154730",
+      "short": "532357f",
+      "message": "feat(egui+css): loader de fonte de UI (Segoe UI) + inline-block (botões com caixa)",
+      "author": "Marcos",
+      "date": "2026-06-28T14:32:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/532357f76187a480c870db892406fa4e89154730"
+    },
+    {
+      "sha": "d75de7bc1d8fa07ccdb789dd74c95db23138c017",
+      "short": "d75de7b",
+      "message": "fix(css): propagação do background do body p/ o viewport (#1744) + conteúdo fluido",
+      "author": "Marcos",
+      "date": "2026-06-28T14:26:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d75de7bc1d8fa07ccdb789dd74c95db23138c017"
+    },
+    {
+      "sha": "484c250e7d01914a073cde6c049a09cec455caf8",
+      "short": "484c250",
+      "message": "fix(css): herança de propriedades (color/font/...) + margin:auto — bugs revelados por página rica",
+      "author": "Marcos",
+      "date": "2026-06-28T14:17:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/484c250e7d01914a073cde6c049a09cec455caf8"
+    },
     {
       "sha": "74dc3b29c9e48d7e86b61f0cf7ae867c5aaeb841",
       "short": "74dc3b2",
@@ -16,150 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-06-28T05:34:55Z",
       "url": "https://github.com/UrubuCode/rts/commit/1b7c217c54b62e3dceea1e9e2846bb11d7006b67"
-    },
-    {
-      "sha": "6bebc9e3af28815045b768bc57786bec94761389",
-      "short": "6bebc9e",
-      "message": "feat(css): text-align + line-height + white-space + text-transform + font-family + font (#1749) (#1774)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T05:29:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6bebc9e3af28815045b768bc57786bec94761389"
-    },
-    {
-      "sha": "ef279b81a933456804d6365b609299dcd1bb4c86",
-      "short": "ef279b8",
-      "message": "feat(css): seletores compostos + combinadores + atributo + pseudo (#1752) — à mão, 0 deps (#1773)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T05:08:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef279b81a933456804d6365b609299dcd1bb4c86"
-    },
-    {
-      "sha": "7be0a6f91726f804054c698418516dda7a9c4340",
-      "short": "7be0a6f",
-      "message": "docs: auto-update cross-runtime parity badge (37%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-28T04:44:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7be0a6f91726f804054c698418516dda7a9c4340"
-    },
-    {
-      "sha": "1c224d472a8dafdc01708345aa7471b56f5b0694",
-      "short": "1c224d4",
-      "message": "docs(research): decisão sobre parser CSS — seguir à mão (vs lightningcss/swc_css)",
-      "author": "Marcos",
-      "date": "2026-06-28T04:37:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c224d472a8dafdc01708345aa7471b56f5b0694"
-    },
-    {
-      "sha": "dcf22c664bad7547d858b34cf21216a470d39cc5",
-      "short": "dcf22c6",
-      "message": "feat(ctorfn): métodos de protótipo ES5 (`F.prototype.m = function(){…}`)",
-      "author": "Daniel",
-      "date": "2026-06-28T04:33:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dcf22c664bad7547d858b34cf21216a470d39cc5"
-    },
-    {
-      "sha": "086c3ac03cb4510361bc0d1e7daba4668dcf0455",
-      "short": "086c3ac",
-      "message": "docs: auto-update cross-runtime parity badge (37.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-28T04:31:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/086c3ac03cb4510361bc0d1e7daba4668dcf0455"
-    },
-    {
-      "sha": "50bd754e0f1628023d5ac1b88f2d325ffddd6542",
-      "short": "50bd754",
-      "message": "feat(ctorfn): super/mixin via `Base.call(this, …)` em constructor-functions",
-      "author": "Daniel",
-      "date": "2026-06-28T04:24:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50bd754e0f1628023d5ac1b88f2d325ffddd6542"
-    },
-    {
-      "sha": "2e71efbe1e0efb06d56967f7dfb973aa60ca0275",
-      "short": "2e71efb",
-      "message": "feat(ctorfn): converter também função field-less usada como `new F()`",
-      "author": "Daniel",
-      "date": "2026-06-28T04:07:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2e71efbe1e0efb06d56967f7dfb973aa60ca0275"
-    },
-    {
-      "sha": "c3e3dc03f8858574e39c53205f91bd517a3875ff",
-      "short": "c3e3dc0",
-      "message": "feat(dom): eventos addEventListener/dispatchEvent (polling + bubbling) — #1760 (#1772)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T04:03:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c3e3dc03f8858574e39c53205f91bd517a3875ff"
-    },
-    {
-      "sha": "34f1a968699a47b637bf3b37b105ae79e64f6852",
-      "short": "34f1a96",
-      "message": "fix(ctorfn): detectar `(this as any).x =` (this com cast/parens)",
-      "author": "Daniel",
-      "date": "2026-06-28T03:57:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/34f1a968699a47b637bf3b37b105ae79e64f6852"
-    },
-    {
-      "sha": "fa91e6cd4771e471a611466bdff14fde12273651",
-      "short": "fa91e6c",
-      "message": "feat(codegen): constructor-functions ES5 (`function F(){this.x=v}` + `new F()`)",
-      "author": "Daniel",
-      "date": "2026-06-28T03:52:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa91e6cd4771e471a611466bdff14fde12273651"
-    },
-    {
-      "sha": "62dce58a5ae8a488c57bfaebd98d56b413f5d29e",
-      "short": "62dce58",
-      "message": "feat(dom): element.style por nome CSS + getComputedStyle (#1759) (#1771)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T03:47:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/62dce58a5ae8a488c57bfaebd98d56b413f5d29e"
-    },
-    {
-      "sha": "c9d5e7747ebbf79d3d44539ce2bfd5ffc3efeace",
-      "short": "c9d5e77",
-      "message": "docs: auto-update cross-runtime parity badge (37%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-28T03:33:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9d5e7747ebbf79d3d44539ce2bfd5ffc3efeace"
-    },
-    {
-      "sha": "93cb9e3160970bd1c52e5ce5266119d40ed44f85",
-      "short": "93cb9e3",
-      "message": "feat(math): Math.max()/min()/hypot() vazios = identidade (JS spec)",
-      "author": "Daniel",
-      "date": "2026-06-28T03:26:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/93cb9e3160970bd1c52e5ce5266119d40ed44f85"
-    },
-    {
-      "sha": "148c6da6306c6af7c60857b2c85e5c3563fb24ba",
-      "short": "148c6da",
-      "message": "feat(dom): query (getElementsBy*/querySelector subárvore) + mutação rica (#1758, #1756) (#1770)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T03:22:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/148c6da6306c6af7c60857b2c85e5c3563fb24ba"
-    },
-    {
-      "sha": "e5f29b67a6f7c7a4dbfe245646821caf90b569d2",
-      "short": "e5f29b6",
-      "message": "feat(number): Number.is* no-coerce em arg Tagged (não bail)",
-      "author": "Daniel",
-      "date": "2026-06-28T03:19:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5f29b67a6f7c7a4dbfe245646821caf90b569d2"
-    },
-    {
-      "sha": "3bcb0798e21f302780ada0d9f75efbf43605741f",
-      "short": "3bcb079",
-      "message": "docs: auto-update cross-runtime parity badge (36%)",
-      "author": "github-actions[bot]",
-      "date": "2026-06-28T03:13:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3bcb0798e21f302780ada0d9f75efbf43605741f"
-    },
-    {
-      "sha": "d50d708a9f68ffd9e5575b0a2052a3f37d682202",
-      "short": "d50d708",
-      "message": "test(destructure): slot ausente em for-of destructure é undefined (JS)",
-      "author": "Daniel",
-      "date": "2026-06-28T03:06:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d50d708a9f68ffd9e5575b0a2052a3f37d682202"
     }
   ]
 }
