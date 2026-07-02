@@ -1,165 +1,165 @@
 {
-  "total": 3129,
+  "total": 3182,
   "commits": [
     {
-      "sha": "cfb20e8ffb6edf9f3c6773dfb53d475c3c7c3019",
-      "short": "cfb20e8",
-      "message": "docs: cross-runtime parity 37.1% + history snapshot 2026-06-29",
+      "sha": "4ece2cb4d7926541ec62806d04bfd21f6aadbc20",
+      "short": "4ece2cb",
+      "message": "fix(sig): return de FUNCTION value força ret Tagged (fn word não sobrevive coerce numérico)",
+      "author": "Daniel",
+      "date": "2026-07-02T02:27:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4ece2cb4d7926541ec62806d04bfd21f6aadbc20"
+    },
+    {
+      "sha": "5c01844a24c13f544953176219c45d6befed95af",
+      "short": "5c01844",
+      "message": "fix(codegen): let dentro de função SOMBREIA gcell homônima (era clobber via prelude)",
+      "author": "Daniel",
+      "date": "2026-07-02T02:17:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c01844a24c13f544953176219c45d6befed95af"
+    },
+    {
+      "sha": "af5490e8e620c956efa2b283a6f4287b2e87c7ef",
+      "short": "af5490e",
+      "message": "feat(array): Array.from(iterável de classe) via hook Symbol.iterator",
+      "author": "Daniel",
+      "date": "2026-07-02T02:03:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af5490e8e620c956efa2b283a6f4287b2e87c7ef"
+    },
+    {
+      "sha": "2442ac78920d68248674da0377ae3b6ca9c7a1b7",
+      "short": "2442ac7",
+      "message": "docs: auto-update cross-runtime parity badge (38.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-06-29T07:29:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cfb20e8ffb6edf9f3c6773dfb53d475c3c7c3019"
+      "date": "2026-07-02T02:02:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2442ac78920d68248674da0377ae3b6ca9c7a1b7"
     },
     {
-      "sha": "6e1aa8fb447512aba4e58746d7dc9f3392f31341",
-      "short": "6e1aa8f",
-      "message": "Merge: scroll container interno (div overflow x/y) + arrastar barras (#1744)",
-      "author": "Marcos",
-      "date": "2026-06-28T17:40:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6e1aa8fb447512aba4e58746d7dc9f3392f31341"
+      "sha": "3bc91ecb4dde303a2aab07c8332f908e878c36f9",
+      "short": "3bc91ec",
+      "message": "feat(codegen): 'in'/Reflect.has anda a prototype chain ([[HasProperty]] spec) + pseudo-key __proto__",
+      "author": "Daniel",
+      "date": "2026-07-02T01:54:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3bc91ecb4dde303a2aab07c8332f908e878c36f9"
     },
     {
-      "sha": "cd9f40eea58819c902036ce098340fcf82525a71",
-      "short": "cd9f40e",
-      "message": "feat(scrollbar): arrastar as barras de um scroll container interno (x e y)",
-      "author": "Marcos",
-      "date": "2026-06-28T17:40:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd9f40eea58819c902036ce098340fcf82525a71"
+      "sha": "bab5c290d00397600f687fa0c103263264e5a76a",
+      "short": "bab5c29",
+      "message": "feat(proxy): Object.keys filtra ownKeys por enumerabilidade (spec); Reflect.ownKeys verbatim",
+      "author": "Daniel",
+      "date": "2026-07-02T01:49:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bab5c290d00397600f687fa0c103263264e5a76a"
     },
     {
-      "sha": "06ae30ffb0bb61be8e4e7287aca3ed101d8768af",
-      "short": "06ae30f",
-      "message": "feat(css): scroll container interno (div overflow x E y) — clip + barra no DOM (#1744)",
-      "author": "Marcos",
-      "date": "2026-06-28T17:22:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/06ae30ffb0bb61be8e4e7287aca3ed101d8768af"
-    },
-    {
-      "sha": "50987ad6dfbb57a7a3a1532af512a36f82b3d9e7",
-      "short": "50987ad",
-      "message": "fix(linker): /FORCE:MULTIPLE no AOT com --all-namespaces (símbolos kernel32 duplicados)",
-      "author": "Marcos",
-      "date": "2026-06-28T16:41:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50987ad6dfbb57a7a3a1532af512a36f82b3d9e7"
-    },
-    {
-      "sha": "f4705f7fa55ac7b2638b25ae85b7955244c5af21",
-      "short": "f4705f7",
-      "message": "feat(scrollbar): arrastar o thumb da barra (click-and-drag) — input do egui vira offset",
-      "author": "Marcos",
-      "date": "2026-06-28T16:17:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f4705f7fa55ac7b2638b25ae85b7955244c5af21"
-    },
-    {
-      "sha": "c629179de0c8329e641e3e0c78fae3610068a524",
-      "short": "c629179",
-      "message": "refactor(scrollbar): barra desenhada pelo DOM (SolidRect), egui volta a ser BURRO",
-      "author": "Marcos",
-      "date": "2026-06-28T16:08:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c629179de0c8329e641e3e0c78fae3610068a524"
-    },
-    {
-      "sha": "d90f53e4f549ef8079bf3b58236481fbe0542742",
-      "short": "d90f53e",
-      "message": "fix(egui): scrollbar sólida sempre visível (floating=false) + tentativa de cor via CSS",
-      "author": "Marcos",
-      "date": "2026-06-28T15:56:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d90f53e4f549ef8079bf3b58236481fbe0542742"
-    },
-    {
-      "sha": "f63c77f5a818fd2d2273e6ed9fcc8911c00bf2f5",
-      "short": "f63c77f",
-      "message": "feat(css): scrollbar via CSS — width/color + ::-webkit-scrollbar + overflow (#1744)",
-      "author": "Marcos",
-      "date": "2026-06-28T15:25:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f63c77f5a818fd2d2273e6ed9fcc8911c00bf2f5"
-    },
-    {
-      "sha": "8475ce0e6df8a3189327a8aca089bb9e892726e8",
-      "short": "8475ce0",
-      "message": "feat(egui): scroll nos dois eixos (x e y) para páginas maiores que a janela",
-      "author": "Marcos",
-      "date": "2026-06-28T15:10:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8475ce0e6df8a3189327a8aca089bb9e892726e8"
-    },
-    {
-      "sha": "5e9b09931980486bc7124372f456d4425f4ed232",
-      "short": "5e9b099",
-      "message": "fix(css): largura intrínseca considera bold — botões/inline-block não quebram",
-      "author": "Marcos",
-      "date": "2026-06-28T15:05:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e9b09931980486bc7124372f456d4425f4ed232"
-    },
-    {
-      "sha": "e687ee4828ce94c0268ac8f028bf0fbb96e4540d",
-      "short": "e687ee4",
-      "message": "feat(css): font-weight bold de ponta a ponta (mede+pinta Segoe UI Bold)",
-      "author": "Marcos",
-      "date": "2026-06-28T15:02:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e687ee4828ce94c0268ac8f028bf0fbb96e4540d"
-    },
-    {
-      "sha": "ac952c91018b6ac9273519c770c4f3b068235e1f",
-      "short": "ac952c9",
-      "message": "feat(css): inline-flow rico multi-run — cor/estilo do <span> aplica no texto + flui",
-      "author": "Marcos",
-      "date": "2026-06-28T14:54:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ac952c91018b6ac9273519c770c4f3b068235e1f"
-    },
-    {
-      "sha": "ace5093481129adb82610896ca0db8ce1a67693a",
-      "short": "ace5093",
-      "message": "refactor(css): base de medição = intrinsic sizing consciente do display (#1744)",
-      "author": "Marcos",
-      "date": "2026-06-28T14:49:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ace5093481129adb82610896ca0db8ce1a67693a"
-    },
-    {
-      "sha": "d4c33296d93d6154b23b908ec5e40315bc7df05b",
-      "short": "d4c3329",
-      "message": "feat(css): word-wrap (white-space:normal) — texto quebra na largura, não transborda",
-      "author": "Marcos",
-      "date": "2026-06-28T14:42:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4c33296d93d6154b23b908ec5e40315bc7df05b"
-    },
-    {
-      "sha": "9ed447339e601b43380693e66ef27a485a746c4e",
-      "short": "9ed4473",
-      "message": "fix(css): inline-block usa shrink-to-fit + text-align (pill/botão não estica)",
-      "author": "Marcos",
-      "date": "2026-06-28T14:37:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ed447339e601b43380693e66ef27a485a746c4e"
-    },
-    {
-      "sha": "532357f76187a480c870db892406fa4e89154730",
-      "short": "532357f",
-      "message": "feat(egui+css): loader de fonte de UI (Segoe UI) + inline-block (botões com caixa)",
-      "author": "Marcos",
-      "date": "2026-06-28T14:32:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/532357f76187a480c870db892406fa4e89154730"
-    },
-    {
-      "sha": "d75de7bc1d8fa07ccdb789dd74c95db23138c017",
-      "short": "d75de7b",
-      "message": "fix(css): propagação do background do body p/ o viewport (#1744) + conteúdo fluido",
-      "author": "Marcos",
-      "date": "2026-06-28T14:26:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d75de7bc1d8fa07ccdb789dd74c95db23138c017"
-    },
-    {
-      "sha": "484c250e7d01914a073cde6c049a09cec455caf8",
-      "short": "484c250",
-      "message": "fix(css): herança de propriedades (color/font/...) + margin:auto — bugs revelados por página rica",
-      "author": "Marcos",
-      "date": "2026-06-28T14:17:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/484c250e7d01914a073cde6c049a09cec455caf8"
-    },
-    {
-      "sha": "74dc3b29c9e48d7e86b61f0cf7ae867c5aaeb841",
-      "short": "74dc3b2",
-      "message": "feat(css): transition + @keyframes/animation (#1776) (#1778)",
+      "sha": "367f14c730be06d1981e606a15686abdf8b04d33",
+      "short": "367f14c",
+      "message": "docs(readme): seção do motor de render HTML/CSS nativo + o mascote animado (#1796)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-06-28T06:17:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74dc3b29c9e48d7e86b61f0cf7ae867c5aaeb841"
+      "date": "2026-07-02T01:49:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/367f14c730be06d1981e606a15686abdf8b04d33"
+    },
+    {
+      "sha": "eb0e88c4fd6cb03ffb12db3294c01ab6d87e26a1",
+      "short": "eb0e88c",
+      "message": "feat(examples): urubu.html — o mascote do UrubuCode, a arte do projeto (#1795)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-02T01:47:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb0e88c4fd6cb03ffb12db3294c01ab6d87e26a1"
+    },
+    {
+      "sha": "62d8b0eeb353a7d75a7ef365f04e462a217846f5",
+      "short": "62d8b0e",
+      "message": "feat(symbol): .description via dynamic get (Entry::Symbol no obj_get)",
+      "author": "Daniel",
+      "date": "2026-07-02T01:41:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62d8b0eeb353a7d75a7ef365f04e462a217846f5"
+    },
+    {
+      "sha": "ab1fd9aacfe769a9dbc72a7b95df0b8959b01879",
+      "short": "ab1fd9a",
+      "message": "feat(examples): view.ts — viewer genérico de páginas HTML (rts run examples/view.ts <html>) (#1794)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-02T01:37:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab1fd9aacfe769a9dbc72a7b95df0b8959b01879"
+    },
+    {
+      "sha": "3d8e7215ac1effb4987e8dfb871f8acb44b5fccb",
+      "short": "3d8e721",
+      "message": "feat(proto): F.prototype = obj (substituição do proto compartilhado) sem quebrar chain",
+      "author": "Daniel",
+      "date": "2026-07-02T01:35:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d8e7215ac1effb4987e8dfb871f8acb44b5fccb"
+    },
+    {
+      "sha": "fd79150b28a0e301c545b498f868423e966beaee",
+      "short": "fd79150",
+      "message": "docs: auto-update cross-runtime parity badge (38.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T01:32:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd79150b28a0e301c545b498f868423e966beaee"
+    },
+    {
+      "sha": "d5added06eaeef2f10eca116262a6551a8af2270",
+      "short": "d5added",
+      "message": "feat(timers): setTimeout/setInterval/setImmediate/clearTimeout/clearInterval/queueMicrotask globais no motor novo",
+      "author": "Daniel",
+      "date": "2026-07-02T01:24:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5added06eaeef2f10eca116262a6551a8af2270"
+    },
+    {
+      "sha": "9ec06ae66c0c11001ed047d0c9574d3dc7d8f5d3",
+      "short": "9ec06ae",
+      "message": "docs: auto-update cross-runtime parity badge (38.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T01:11:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ec06ae66c0c11001ed047d0c9574d3dc7d8f5d3"
+    },
+    {
+      "sha": "faa2daca55c0090bfa511e2a160b08a348194411",
+      "short": "faa2dac",
+      "message": "feat(dom): flex grow/shrink/basis + shorthand + align-self + order + stretch REAL — o grid do Bootstrap (#1792)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-02T01:04:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/faa2daca55c0090bfa511e2a160b08a348194411"
+    },
+    {
+      "sha": "785f6ce7e0f1525565e395ca1602d9515ff3fc15",
+      "short": "785f6ce",
+      "message": "feat(proto): constructor.name + cadeia extends até Object.prototype; index Tagged polimórfico",
+      "author": "Daniel",
+      "date": "2026-07-02T01:03:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/785f6ce7e0f1525565e395ca1602d9515ff3fc15"
+    },
+    {
+      "sha": "08370d289d1ad0b1cf9456bda3217bfc3bf39540",
+      "short": "08370d2",
+      "message": "fix(egui): live-resize — replay do último frame durante o loop modal de resize do Windows (com throttle) (#1791)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-02T00:46:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/08370d289d1ad0b1cf9456bda3217bfc3bf39540"
+    },
+    {
+      "sha": "c5f18c7f1e890bca7ee8aeb24c5943b9cb4f730b",
+      "short": "c5f18c7",
+      "message": "docs: auto-update cross-runtime parity badge (38.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T00:37:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c5f18c7f1e890bca7ee8aeb24c5943b9cb4f730b"
+    },
+    {
+      "sha": "4770726dd85fb4f8d7133df2317d52b206f35513",
+      "short": "4770726",
+      "message": "chore(codegen): remove undefined_val morto (miss de shape virou leitura dinâmica)",
+      "author": "Daniel",
+      "date": "2026-07-02T00:31:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4770726dd85fb4f8d7133df2317d52b206f35513"
+    },
+    {
+      "sha": "87a01efdeccffce200ebe44e066181af79a3cd6c",
+      "short": "87a01ef",
+      "message": "feat(proto): F.prototype de function-value nomeada resolve ao class_proto compartilhado",
+      "author": "Daniel",
+      "date": "2026-07-02T00:26:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87a01efdeccffce200ebe44e066181af79a3cd6c"
     }
   ]
 }
