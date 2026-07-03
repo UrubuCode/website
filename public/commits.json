@@ -1,165 +1,165 @@
 {
-  "total": 3251,
+  "total": 3275,
   "commits": [
     {
-      "sha": "9f9948ef7b351b507547e5c34c0d81ac91dc1e3b",
-      "short": "9f9948e",
-      "message": "feat(codegen/runtime): rest-fn indireto + [Symbol.toPrimitive] + sentinel handle-0 + .length -1 (#1806)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T19:06:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f9948ef7b351b507547e5c34c0d81ac91dc1e3b"
-    },
-    {
-      "sha": "2db07398074b64316986614aa48946e120a1abda",
-      "short": "2db0739",
-      "message": "docs: auto-update cross-runtime parity badge (44.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T17:34:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2db07398074b64316986614aa48946e120a1abda"
-    },
-    {
-      "sha": "7d80cd28c00e8f8b76c182c64a7b1a7c64629291",
-      "short": "7d80cd2",
-      "message": "feat(codegen/runtime): thread.spawn f64 tipado + block scoping de let + interop shape/map + Tagged new-return (#1804)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T17:26:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7d80cd28c00e8f8b76c182c64a7b1a7c64629291"
-    },
-    {
-      "sha": "ca63a0048135f1fbef620b9d34f60c860538c79a",
-      "short": "ca63a00",
-      "message": "docs: auto-update cross-runtime parity badge (44.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T16:37:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca63a0048135f1fbef620b9d34f60c860538c79a"
-    },
-    {
-      "sha": "a55a6a4bc87a3e1aa5e081c9ebb0c924e4db9fb7",
-      "short": "a55a6a4",
-      "message": "feat(codegen/runtime): async REAL (spawn no call-site) + var hoisting #301 + pontes word/i64 (#1803)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T16:30:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a55a6a4bc87a3e1aa5e081c9ebb0c924e4db9fb7"
-    },
-    {
-      "sha": "a58b6794ca390e26d187fadc1a0a05558da2d238",
-      "short": "a58b679",
-      "message": "docs: auto-update cross-runtime parity badge (44.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T15:03:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a58b6794ca390e26d187fadc1a0a05558da2d238"
-    },
-    {
-      "sha": "43618c1dca15011e845b6d614ee2b71eee996cf8",
-      "short": "43618c1",
-      "message": "feat(codegen): TCO via return_call + lift ES5 prototype-chain + arguments object (+7 arquivos) (#1802)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T14:56:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/43618c1dca15011e845b6d614ee2b71eee996cf8"
-    },
-    {
-      "sha": "527c7d204254d8942409c1fb4e8fede979095372",
-      "short": "527c7d2",
-      "message": "docs: auto-update cross-runtime parity badge (43.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T14:19:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/527c7d204254d8942409c1fb4e8fede979095372"
-    },
-    {
-      "sha": "8cbb38802f7fba093720dde2557ece83959f4545",
-      "short": "8cbb388",
-      "message": "feat(codegen): enforcement de private/protected/readonly + brand check `#x in obj` (#1801)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T14:11:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8cbb38802f7fba093720dde2557ece83959f4545"
-    },
-    {
-      "sha": "26e055b3cccd953c4e0681688d8cae618a705d09",
-      "short": "26e055b",
-      "message": "docs: auto-update cross-runtime parity badge (44.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T13:51:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26e055b3cccd953c4e0681688d8cae618a705d09"
-    },
-    {
-      "sha": "6099e75fa26ff0d587c24628f95c55e13c8d04ad",
-      "short": "6099e75",
-      "message": "feat(date): expõe a superfície determinística UTC — remove MemberFlags::UNSOUND do spec do Date (#1800)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-02T13:44:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6099e75fa26ff0d587c24628f95c55e13c8d04ad"
-    },
-    {
-      "sha": "4f61add75070298e7f36b93a8a5741f7486c44f4",
-      "short": "4f61add",
-      "message": "docs: auto-update cross-runtime parity badge (43.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-02T08:07:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f61add75070298e7f36b93a8a5741f7486c44f4"
-    },
-    {
-      "sha": "05c63c2f856a27ba5a2cffaa3dfece042d695a1d",
-      "short": "05c63c2",
-      "message": "feat(codegen/runtime): this-binding completo p/ fn values — reify_this + invoke_method + slots de método no shape do literal",
+      "sha": "6fa7ba0cf91f477529ff7b79ff3790faedcddd1e",
+      "short": "6fa7ba0",
+      "message": "feat(runtime/codegen): loose-eq com ToPrimitive de objeto + delete de elemento de array + coercing binops safe",
       "author": "Daniel",
-      "date": "2026-07-02T07:59:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05c63c2f856a27ba5a2cffaa3dfece042d695a1d"
+      "date": "2026-07-03T02:04:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6fa7ba0cf91f477529ff7b79ff3790faedcddd1e"
     },
     {
-      "sha": "b091bf14f5c530a40152c02081152f3843c5631b",
-      "short": "b091bf1",
-      "message": "docs: auto-update cross-runtime parity badge (43.6%)",
+      "sha": "039aa1e3b07a3847058c31fb60daeead035fb124",
+      "short": "039aa1e",
+      "message": "docs: auto-update cross-runtime parity badge (49.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-02T07:44:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b091bf14f5c530a40152c02081152f3843c5631b"
+      "date": "2026-07-03T01:51:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/039aa1e3b07a3847058c31fb60daeead035fb124"
     },
     {
-      "sha": "7228e068c19136937c408c3d6390c54a6d0aee7c",
-      "short": "7228e06",
-      "message": "feat(codegen/runtime): accessors dinâmicos de verdade — materialização de literal + defineProperty accessor + obj_get invoca getters da chain",
+      "sha": "8937032022d38222b3eb3c1c6167ff2bed9d7208",
+      "short": "8937032",
+      "message": "feat(codegen/runtime): String.raw completo — tag desugar + forma função + strings.raw p/ tags custom",
       "author": "Daniel",
-      "date": "2026-07-02T07:37:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7228e068c19136937c408c3d6390c54a6d0aee7c"
+      "date": "2026-07-03T01:27:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8937032022d38222b3eb3c1c6167ff2bed9d7208"
     },
     {
-      "sha": "27ece95ad4e0cb2ca0b61e4ba7c24dbf098fbb43",
-      "short": "27ece95",
-      "message": "docs: auto-update cross-runtime parity badge (43.1%)",
+      "sha": "1758493bcd8707a7160bd51f26a38d0c73818d17",
+      "short": "1758493",
+      "message": "docs: auto-update cross-runtime parity badge (49%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-02T07:28:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27ece95ad4e0cb2ca0b61e4ba7c24dbf098fbb43"
+      "date": "2026-07-03T01:23:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1758493bcd8707a7160bd51f26a38d0c73818d17"
     },
     {
-      "sha": "0aaf4d79081b507a43edc6b8268e54ea68f0214a",
-      "short": "0aaf4d7",
-      "message": "fix(codegen): is_side_effect_free_arg aceita Bin/Unary/Member puros (map.set(k, cur+1) no dispatch virtual)",
+      "sha": "420dd98700719bcbf19b4504a062247fca0a1221",
+      "short": "420dd98",
+      "message": "fix(runtime): Reflect.ownKeys lista non-enumerable — split obj_keys_impl(enumerable_only)",
       "author": "Daniel",
-      "date": "2026-07-02T07:21:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0aaf4d79081b507a43edc6b8268e54ea68f0214a"
+      "date": "2026-07-03T00:59:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/420dd98700719bcbf19b4504a062247fca0a1221"
     },
     {
-      "sha": "251edf05b8eb8bd48fd3333a9ee8cd21abacc53c",
-      "short": "251edf0",
-      "message": "fix(codegen): ret-class de static registra SÓ a classe (binding segue o fluxo normal)",
-      "author": "Daniel",
-      "date": "2026-07-02T07:17:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/251edf05b8eb8bd48fd3333a9ee8cd21abacc53c"
+      "sha": "8d491c6d32cb64007e2217079f71bbb3d17d0b58",
+      "short": "8d491c6",
+      "message": "docs: auto-update cross-runtime parity badge (49%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-03T00:37:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d491c6d32cb64007e2217079f71bbb3d17d0b58"
     },
     {
-      "sha": "32670a839709776300490d2f07f21d06f544fcdb",
-      "short": "32670a8",
-      "message": "feat(codegen): ret-class de static de registry class (Promise.resolve → Promise) + parser de generics",
+      "sha": "d8005b65f26d1378a2110ba6e739da91ad4e7c51",
+      "short": "d8005b6",
+      "message": "feat(runtime/stdlib): JSON replacer/space completos + seal/enumerable reais",
       "author": "Daniel",
-      "date": "2026-07-02T07:11:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/32670a839709776300490d2f07f21d06f544fcdb"
+      "date": "2026-07-03T00:29:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8005b65f26d1378a2110ba6e739da91ad4e7c51"
     },
     {
-      "sha": "d33a3a9696e5c2b574c510933a6710009fc08d39",
-      "short": "d33a3a9",
-      "message": "feat(stdlib): Iterator.from + toArray cursor (#306 nível A) + fix shadow de parseInt no json5 prelude",
+      "sha": "6e28a179e781ba8b7f613b68a87f8296b0cda22d",
+      "short": "6e28a17",
+      "message": "docs: auto-update cross-runtime parity badge (47.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-03T00:09:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e28a179e781ba8b7f613b68a87f8296b0cda22d"
+    },
+    {
+      "sha": "a5444d15188b50c688a9f239d70772b06747fe21",
+      "short": "a5444d1",
+      "message": "feat(codegen/runtime): fn.name/.length estáticos + bind/call com this real + escrita de elemento via obj_set",
       "author": "Daniel",
-      "date": "2026-07-02T07:07:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d33a3a9696e5c2b574c510933a6710009fc08d39"
+      "date": "2026-07-03T00:01:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5444d15188b50c688a9f239d70772b06747fe21"
+    },
+    {
+      "sha": "36f0e7e95262c7dfdd3b4bd488b99164c156236a",
+      "short": "36f0e7e",
+      "message": "docs: auto-update cross-runtime parity badge (46.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T23:28:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36f0e7e95262c7dfdd3b4bd488b99164c156236a"
+    },
+    {
+      "sha": "f7270fcdd916ad963d212646f80e4e70d0a39c6b",
+      "short": "f7270fc",
+      "message": "feat(codegen/runtime): event loop no JIT + chains de Promise cross-runtime",
+      "author": "Daniel",
+      "date": "2026-07-02T23:21:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7270fcdd916ad963d212646f80e4e70d0a39c6b"
+    },
+    {
+      "sha": "52d7b107c9b3ab615778cc1a7125a6fc41661310",
+      "short": "52d7b10",
+      "message": "docs: auto-update cross-runtime parity badge (45.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T21:32:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/52d7b107c9b3ab615778cc1a7125a6fc41661310"
+    },
+    {
+      "sha": "0d052e38a0780b493427249243523f6c106f3411",
+      "short": "0d052e3",
+      "message": "feat(codegen): tls no Registry + return; vazio + structuredClone type-preserve + builtins não-capturáveis",
+      "author": "Daniel",
+      "date": "2026-07-02T21:24:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d052e38a0780b493427249243523f6c106f3411"
+    },
+    {
+      "sha": "d0cabac1fb05dbbf1842c17da196ac567bea2ef7",
+      "short": "d0cabac",
+      "message": "docs: auto-update cross-runtime parity badge (45.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T21:22:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0cabac1fb05dbbf1842c17da196ac567bea2ef7"
+    },
+    {
+      "sha": "82d67a18f4e11493dad6ab135a7ec1c03774f7ed",
+      "short": "82d67a1",
+      "message": "feat(modules): export * as ns / export {x as y} from / export default / export * — M1 re-exports completos",
+      "author": "Daniel",
+      "date": "2026-07-02T21:14:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/82d67a18f4e11493dad6ab135a7ec1c03774f7ed"
+    },
+    {
+      "sha": "0d8b22720a3aa90ef044b50e02a538694e69f445",
+      "short": "0d8b227",
+      "message": "feat(codegen/runtime): new Function via COMPILE_FN_HOOK + bind parcial + ponte de convencao word<->i64 (616/623) (#1807)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-02T20:30:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d8b22720a3aa90ef044b50e02a538694e69f445"
+    },
+    {
+      "sha": "8d3ff165693e4079dfa6e841dee96a7094c57846",
+      "short": "8d3ff16",
+      "message": "docs: auto-update cross-runtime parity badge (45.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T20:23:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d3ff165693e4079dfa6e841dee96a7094c57846"
+    },
+    {
+      "sha": "d42a6245952ea258b571c884821bc25ff68fcd33",
+      "short": "d42a624",
+      "message": "feat(runtime): BigInt.asIntN/asUintN (wrap N-bit sobre o modelo i64 interim #219)",
+      "author": "Daniel",
+      "date": "2026-07-02T20:15:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d42a6245952ea258b571c884821bc25ff68fcd33"
+    },
+    {
+      "sha": "b8932cc57e1b4baf2c9af78b660e435bc44291d5",
+      "short": "b8932cc",
+      "message": "feat(runtime/codegen): typed arrays NÍVEL B — views vivas sobre ArrayBuffer + structuredClone transfer",
+      "author": "Daniel",
+      "date": "2026-07-02T20:11:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b8932cc57e1b4baf2c9af78b660e435bc44291d5"
+    },
+    {
+      "sha": "66fc97068fb393106306b1dba89595f44ff704f9",
+      "short": "66fc970",
+      "message": "docs: auto-update cross-runtime parity badge (45.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-02T19:58:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/66fc97068fb393106306b1dba89595f44ff704f9"
     }
   ]
 }
