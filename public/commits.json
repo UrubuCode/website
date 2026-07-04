@@ -1,6 +1,54 @@
 {
-  "total": 3348,
+  "total": 3354,
   "commits": [
+    {
+      "sha": "92dcb6c9e5f1ddd800e1a6c49cdd7c05c08f1fb9",
+      "short": "92dcb6c",
+      "message": "feat(runtime): TextEncoder.encodeInto + TextDecoder.decode sobre array (#1837)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T12:57:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/92dcb6c9e5f1ddd800e1a6c49cdd7c05c08f1fb9"
+    },
+    {
+      "sha": "2622154c9e34d046815289cae1c3274709601f17",
+      "short": "2622154",
+      "message": "fix(runtime): indexOf com needle vazio clampa em length (spec JS) (#1836)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T12:32:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2622154c9e34d046815289cae1c3274709601f17"
+    },
+    {
+      "sha": "d29dc78248ac41cc42952adaa75b33efef0db492",
+      "short": "d29dc78",
+      "message": "fix(runtime): slice/substring/substr indexam por UTF-16 code units (spec JS) (#1835)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T12:16:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d29dc78248ac41cc42952adaa75b33efef0db492"
+    },
+    {
+      "sha": "6d79ac531e0b5a13ce585e30a74d9203f5599809",
+      "short": "6d79ac5",
+      "message": "feat(codegen): binding de for-of sobre string (e chaves de for-in) é string-kinded (#1834)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T12:01:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6d79ac531e0b5a13ce585e30a74d9203f5599809"
+    },
+    {
+      "sha": "59a6c66dd69354970be924bf0e1dde7e3df95902",
+      "short": "59a6c66",
+      "message": "fix(runtime): JSON.stringify itera strings por CODE POINTS — surrogate pair não corrompe mais (#1832)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T09:31:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/59a6c66dd69354970be924bf0e1dde7e3df95902"
+    },
+    {
+      "sha": "c8a136cce205cac1958cadc59a485f5b1df2ebab",
+      "short": "c8a136c",
+      "message": "fix(runtime): codePointAt fora do range devolve undefined — ret PolyValue na row (#1831)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T09:10:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8a136cce205cac1958cadc59a485f5b1df2ebab"
+    },
     {
       "sha": "ad1fe7065c09302bfe7b7ddad9267cbae6d7cd5c",
       "short": "ad1fe70",
@@ -112,54 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-04T05:16:56Z",
       "url": "https://github.com/UrubuCode/rts/commit/8df62c52e9df86fc6168df5f4043d3085fb6ae56"
-    },
-    {
-      "sha": "f68de48882575bb48c5faf26fa3ae0f23d78fa3a",
-      "short": "f68de48",
-      "message": "feat(codegen): mapear sentinels da async state-machine + async generators (#1821)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T04:47:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f68de48882575bb48c5faf26fa3ae0f23d78fa3a"
-    },
-    {
-      "sha": "5cb24ef6a09bcc27d29a656c950b4490b0f76eb9",
-      "short": "5cb24ef",
-      "message": "fix(runtime): campos privados #x não enumeráveis em Object.keys/for-in",
-      "author": "Daniel",
-      "date": "2026-07-04T04:32:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cb24ef6a09bcc27d29a656c950b4490b0f76eb9"
-    },
-    {
-      "sha": "2ae8751570b9004c13a40dfc462ccafe04d8cd21",
-      "short": "2ae8751",
-      "message": "feat(runtime/codegen): for-in spec — chain de protótipo enumerável + guard de deleção mid-iteration",
-      "author": "Daniel",
-      "date": "2026-07-04T04:22:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ae8751570b9004c13a40dfc462ccafe04d8cd21"
-    },
-    {
-      "sha": "662b39888fa6fd95a48532b673540120872afb15",
-      "short": "662b398",
-      "message": "feat(runtime/codegen): Web Streams via polyfill .ts + single-eval no dispatch virtual + gcells em async + push(...spread) (#1820)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T04:18:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/662b39888fa6fd95a48532b673540120872afb15"
-    },
-    {
-      "sha": "da80825cd00510405dadb61d08b7f5a99cc5a4b4",
-      "short": "da80825",
-      "message": "feat(runtime/codegen): setter de defineProperty em atribuição + new Object(x) semântica spec",
-      "author": "Daniel",
-      "date": "2026-07-04T04:10:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da80825cd00510405dadb61d08b7f5a99cc5a4b4"
-    },
-    {
-      "sha": "502158d82e6510b0db843031c62624b0e4960519",
-      "short": "502158d",
-      "message": "docs: auto-update cross-runtime parity badge (64.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T04:08:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/502158d82e6510b0db843031c62624b0e4960519"
     }
   ]
 }
