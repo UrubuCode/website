@@ -1,6 +1,126 @@
 {
-  "total": 3354,
+  "total": 3369,
   "commits": [
+    {
+      "sha": "f87bd3e0220d1e94cdb13277c0a9997a6341dfda",
+      "short": "f87bd3e",
+      "message": "fix(tests): net_tcp_echo sem deadlock em CI + margens do setInterval (#1854)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T18:51:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f87bd3e0220d1e94cdb13277c0a9997a6341dfda"
+    },
+    {
+      "sha": "52b83ae3df287a143e0ce76dce55688ecb71ac9c",
+      "short": "52b83ae",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-04T18:39:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/52b83ae3df287a143e0ce76dce55688ecb71ac9c"
+    },
+    {
+      "sha": "6bdea16d06278a3e08dc3c44b38771fda2832bb2",
+      "short": "6bdea16",
+      "message": "fix(ci): timeout-minutes 60 em todos os jobs — teste nunca dura 1h (#1853)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T18:30:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6bdea16d06278a3e08dc3c44b38771fda2832bb2"
+    },
+    {
+      "sha": "ed5d9773711ab95495ea922054eb71b5682e37a7",
+      "short": "ed5d977",
+      "message": "fix(ci): concurrency com cancel-in-progress no Build Artifacts (#1852)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T18:27:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed5d9773711ab95495ea922054eb71b5682e37a7"
+    },
+    {
+      "sha": "7ea03a178a06fc72616ce9101e0f4e9cb537f55c",
+      "short": "7ea03a1",
+      "message": "fix(codegen): local em escopo SOMBREIA namespace/classe do Registry na análise de captura",
+      "author": "Daniel",
+      "date": "2026-07-04T18:13:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ea03a178a06fc72616ce9101e0f4e9cb537f55c"
+    },
+    {
+      "sha": "a7c929bc4bce9d6a487aff13d57dd8f3b37221de",
+      "short": "a7c929b",
+      "message": "fix(codegen): destructure aceita DEFAULTS com side effects (gate de pureza stale) (#1847)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T17:27:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7c929bc4bce9d6a487aff13d57dd8f3b37221de"
+    },
+    {
+      "sha": "5d599635cc12f93c42b515cad579c60f27a32e38",
+      "short": "5d59963",
+      "message": "feat(runtime): hook toJSON no JSON.stringify (spec: antes do replacer) + Date ISO (#1846)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T16:45:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d599635cc12f93c42b515cad579c60f27a32e38"
+    },
+    {
+      "sha": "ed5c2efa2a4e822de7f46b1b48714a9679261d17",
+      "short": "ed5c2ef",
+      "message": "fix(codegen/runtime): typeof de Symbol em word OBJECT + typeof Math (#1845)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T16:23:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed5c2efa2a4e822de7f46b1b48714a9679261d17"
+    },
+    {
+      "sha": "381585281b5ae1ca8e3cb3c89ea14395e96955fb",
+      "short": "3815852",
+      "message": "fix(codegen): logical assign em member curto-circuita o STORE (getter/setter uma vez) (#1844)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T16:03:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/381585281b5ae1ca8e3cb3c89ea14395e96955fb"
+    },
+    {
+      "sha": "00278c2f417f2be096901fdd578a1285aafaa64e",
+      "short": "00278c2",
+      "message": "fix(codegen): const_int_value ve atraves de ineg — fold de -0 em 0 * -1 dispara (#1843)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T15:47:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00278c2f417f2be096901fdd578a1285aafaa64e"
+    },
+    {
+      "sha": "ab8e708ddb372b7f9b8abe59a6a7a6a4f6004c08",
+      "short": "ab8e708",
+      "message": "fix(runtime): hasOwnProperty sobre array + String.concat coage args (ToString) (#1842)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T15:26:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab8e708ddb372b7f9b8abe59a6a7a6a4f6004c08"
+    },
+    {
+      "sha": "c4a1a3a9b42026af8c802909626d16f2bc5767ff",
+      "short": "c4a1a3a",
+      "message": "feat(codegen/runtime): Object.create(proto, descriptors) + Object.defineProperties (#1841)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T15:05:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c4a1a3a9b42026af8c802909626d16f2bc5767ff"
+    },
+    {
+      "sha": "82ef771be64dc99d21b95e964f91554f335caa84",
+      "short": "82ef771",
+      "message": "fix(runtime): slot interno __prim invisivel na enumeracao + wrappers JSON/for-in (#1840)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T14:30:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/82ef771be64dc99d21b95e964f91554f335caa84"
+    },
+    {
+      "sha": "f040ee50cf0db88bc9172ab665386467b9032293",
+      "short": "f040ee5",
+      "message": "fix(codegen): ordem canonica de chaves no caminho ESTATICO de Object.keys/values/entries (#1839)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T14:03:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f040ee50cf0db88bc9172ab665386467b9032293"
+    },
+    {
+      "sha": "9c3bb6755d4609021736b6c5e7ecf61a5515bd9b",
+      "short": "9c3bb67",
+      "message": "feat(runtime/codegen): TextDecoder {fatal, ignoreBOM} + decode streaming + Array.from(Buffer) (#1838)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-04T13:43:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c3bb6755d4609021736b6c5e7ecf61a5515bd9b"
+    },
     {
       "sha": "92dcb6c9e5f1ddd800e1a6c49cdd7c05c08f1fb9",
       "short": "92dcb6c",
@@ -40,126 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-04T09:31:16Z",
       "url": "https://github.com/UrubuCode/rts/commit/59a6c66dd69354970be924bf0e1dde7e3df95902"
-    },
-    {
-      "sha": "c8a136cce205cac1958cadc59a485f5b1df2ebab",
-      "short": "c8a136c",
-      "message": "fix(runtime): codePointAt fora do range devolve undefined — ret PolyValue na row (#1831)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T09:10:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8a136cce205cac1958cadc59a485f5b1df2ebab"
-    },
-    {
-      "sha": "ad1fe7065c09302bfe7b7ddad9267cbae6d7cd5c",
-      "short": "ad1fe70",
-      "message": "feat(runtime): Invalid Date da spec — NaN atravessa a ABI de Date + toString opaco por entry-kind (#1830)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T08:46:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad1fe7065c09302bfe7b7ddad9267cbae6d7cd5c"
-    },
-    {
-      "sha": "8930cac3e79e220b64a28ebcb30f8c1689528d97",
-      "short": "8930cac",
-      "message": "fix(codegen): Array.from(source, mapFn) aceita fonte Tagged — rejeita só primitivo PROVADO (#1829)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T08:12:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8930cac3e79e220b64a28ebcb30f8c1689528d97"
-    },
-    {
-      "sha": "13d2c8783b2a164242bb28416d0a8134d12c4e3d",
-      "short": "13d2c87",
-      "message": "feat(runtime/codegen): split com regex spec-completo — captures no resultado + limit ToUint32 + empty-match por posição (#1828)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T07:54:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/13d2c8783b2a164242bb28416d0a8134d12c4e3d"
-    },
-    {
-      "sha": "4c615d899522ba71e19f492c0da4cffa2cb29ba6",
-      "short": "4c615d8",
-      "message": "feat(codegen): classificar receiver de getter Registry ENCADEADO pelo ts-signature do spec (#1826)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T07:31:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c615d899522ba71e19f492c0da4cffa2cb29ba6"
-    },
-    {
-      "sha": "5686ca8d7f5d0a938a02134e97e45399224e3cf2",
-      "short": "5686ca8",
-      "message": "feat(codegen): getters de instância Registry dinâmicos em receiver Tagged (#1825)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T07:07:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5686ca8d7f5d0a938a02134e97e45399224e3cf2"
-    },
-    {
-      "sha": "d2758d0f921553c083fbe4fd1c2a470d4366a62c",
-      "short": "d2758d0",
-      "message": "feat(codegen): spread em value-call f(...xs) + propagação de cell em captura-de-captura",
-      "author": "Daniel",
-      "date": "2026-07-04T06:52:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d2758d0f921553c083fbe4fd1c2a470d4366a62c"
-    },
-    {
-      "sha": "52270094724031714f34c0423738f469a7c00ce1",
-      "short": "5227009",
-      "message": "feat(codegen): closure auto-referente via CELL — function aninhada recursiva funciona",
-      "author": "Daniel",
-      "date": "2026-07-04T06:35:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52270094724031714f34c0423738f469a7c00ce1"
-    },
-    {
-      "sha": "89e0b8377685ecfa01753863ec5faf846fdce236",
-      "short": "89e0b83",
-      "message": "feat(codegen): dispatch DINÂMICO de métodos de classe Registry em receiver Tagged (#1824)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T06:34:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89e0b8377685ecfa01753863ec5faf846fdce236"
-    },
-    {
-      "sha": "bbec3432fd691b669eb7bdf893b49097bdb87cd0",
-      "short": "bbec343",
-      "message": "feat(codegen): binding por-iteração de let em for + call de callee computado arr[i]()",
-      "author": "Daniel",
-      "date": "2026-07-04T06:19:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbec3432fd691b669eb7bdf893b49097bdb87cd0"
-    },
-    {
-      "sha": "4c5f607f9b56d526f815c8ed7c84c24078a62e5c",
-      "short": "4c5f607",
-      "message": "fix(runtime): structuredClone clona Map/Set type-preserving — repara regressão da não-enumerabilidade de #privados (#1823)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T06:09:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c5f607f9b56d526f815c8ed7c84c24078a62e5c"
-    },
-    {
-      "sha": "851140ad9a81c550590f4f58e09cb37177bb54d9",
-      "short": "851140a",
-      "message": "feat(runtime/codegen): Promise then/catch/finally em receiver dinâmico (Tagged)",
-      "author": "Daniel",
-      "date": "2026-07-04T06:04:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/851140ad9a81c550590f4f58e09cb37177bb54d9"
-    },
-    {
-      "sha": "23c5bab7226ad7b262d7c3aa5ffa94822dc0fd83",
-      "short": "23c5bab",
-      "message": "feat(runtime): then(onFul, onRej) 2-arg via THEN2 + invariante ownKeys de Proxy",
-      "author": "Daniel",
-      "date": "2026-07-04T05:40:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/23c5bab7226ad7b262d7c3aa5ffa94822dc0fd83"
-    },
-    {
-      "sha": "c433b8a1c81412732cabb06da8e35e58a2c551d1",
-      "short": "c433b8a",
-      "message": "feat(codegen): ctor de async generator é o MESMO kind lazy-gen do front (#1822)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T05:18:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c433b8a1c81412732cabb06da8e35e58a2c551d1"
-    },
-    {
-      "sha": "8df62c52e9df86fc6168df5f4043d3085fb6ae56",
-      "short": "8df62c5",
-      "message": "feat(runtime/codegen): this real em accessors dinâmicos + Object.assign via [[Get]]/[[Set]] + Object.prototype uma identidade",
-      "author": "Daniel",
-      "date": "2026-07-04T05:16:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8df62c52e9df86fc6168df5f4043d3085fb6ae56"
     }
   ]
 }
