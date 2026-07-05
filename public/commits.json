@@ -1,6 +1,38 @@
 {
-  "total": 3429,
+  "total": 3433,
   "commits": [
+    {
+      "sha": "2d77e34169261567e52701beb2d80143cd088424",
+      "short": "2d77e34",
+      "message": "docs: move RTS_ENGINE.md into docs/specs/rts-engine-dispatch.md with a status note",
+      "author": "Daniel",
+      "date": "2026-07-05T08:58:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d77e34169261567e52701beb2d80143cd088424"
+    },
+    {
+      "sha": "af71af93af77e22c75b86f0081d090772d45dfd6",
+      "short": "af71af9",
+      "message": "chore: move root shell scripts into scripts/",
+      "author": "Daniel",
+      "date": "2026-07-05T08:55:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af71af93af77e22c75b86f0081d090772d45dfd6"
+    },
+    {
+      "sha": "a39fc46391a8fdc55efac7b5550080d4a9e882d0",
+      "short": "a39fc46",
+      "message": "docs: translate the auto-generated cross-runtime stats block to English",
+      "author": "Daniel",
+      "date": "2026-07-05T08:53:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a39fc46391a8fdc55efac7b5550080d4a9e882d0"
+    },
+    {
+      "sha": "771085b06dcf03c8628fbcb5991179c8a7fbc9d9",
+      "short": "771085b",
+      "message": "chore(ci): move cross-runtime report/history into .github/, English-only workflows, drop package.json/bun.lock",
+      "author": "Daniel",
+      "date": "2026-07-05T08:53:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/771085b06dcf03c8628fbcb5991179c8a7fbc9d9"
+    },
     {
       "sha": "61fe712dfa3d899922def698fa8511397c474b12",
       "short": "61fe712",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-05T05:19:51Z",
       "url": "https://github.com/UrubuCode/rts/commit/9b2e266222bd97f7fa43eda4e9ce3c17dc189289"
-    },
-    {
-      "sha": "f5a83dd0b276e808ed65dd25c29667ae195ca2b0",
-      "short": "f5a83dd",
-      "message": "docs: auto-update cross-runtime parity badge (76%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T05:12:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5a83dd0b276e808ed65dd25c29667ae195ca2b0"
-    },
-    {
-      "sha": "c400fb9d8d87cc0985dc60a78dc418d31150996d",
-      "short": "c400fb9",
-      "message": "refactor(engine/runtime): registro global de shapes no rts-engine + C1 shaped (IteratorResult, allSettled, withResolvers)",
-      "author": "Daniel",
-      "date": "2026-07-05T05:04:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c400fb9d8d87cc0985dc60a78dc418d31150996d"
-    },
-    {
-      "sha": "cb28e544bd598158b8a5364a3aab67810292f248",
-      "short": "cb28e54",
-      "message": "docs: auto-update cross-runtime parity badge (75.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T04:32:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb28e544bd598158b8a5364a3aab67810292f248"
-    },
-    {
-      "sha": "3bf14c190dce420003253285416cbd059b492337",
-      "short": "3bf14c1",
-      "message": "refactor(runtime/linker): settlers de Promise em thunk uniforme + remove mirror_to_legacy_layout",
-      "author": "Daniel",
-      "date": "2026-07-05T04:23:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3bf14c190dce420003253285416cbd059b492337"
     }
   ]
 }
