@@ -1,165 +1,165 @@
 {
-  "total": 3404,
+  "total": 3429,
   "commits": [
     {
-      "sha": "741bfccc560ad875d1e0aaf9a1a2f091fd99cba6",
-      "short": "741bfcc",
-      "message": "docs: auto-update cross-runtime parity badge (75.8%)",
+      "sha": "61fe712dfa3d899922def698fa8511397c474b12",
+      "short": "61fe712",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-05T02:08:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/741bfccc560ad875d1e0aaf9a1a2f091fd99cba6"
+      "date": "2026-07-05T08:41:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/61fe712dfa3d899922def698fa8511397c474b12"
     },
     {
-      "sha": "3f077151b0fdf8bfa89c75b05ce1e351906df7b0",
-      "short": "3f07715",
-      "message": "feat(codegen): fns aninhadas MUTUAMENTE RECURSIVAS — forward refs via cell hoisted (#1867)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-05T02:00:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f077151b0fdf8bfa89c75b05ce1e351906df7b0"
+      "sha": "f5dce5b2a917564666428e29f3e33870a470f510",
+      "short": "f5dce5b",
+      "message": "fix(aot)+docs(readme)+ci: honest new-engine benchmarks, auto-updating bench table, AOT tail-call fix",
+      "author": "Daniel",
+      "date": "2026-07-05T08:32:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5dce5b2a917564666428e29f3e33870a470f510"
     },
     {
-      "sha": "97dd3a1fc65be474c871d20e386743c69713bddd",
-      "short": "97dd3a1",
-      "message": "docs: auto-update cross-runtime parity badge (75.8%)",
+      "sha": "550e923ccb83c710584454c261236575ceb01f44",
+      "short": "550e923",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-05T01:39:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/97dd3a1fc65be474c871d20e386743c69713bddd"
+      "date": "2026-07-05T08:16:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/550e923ccb83c710584454c261236575ceb01f44"
     },
     {
-      "sha": "a6be78da13aa644a2c0281220b4e52408e073c35",
-      "short": "a6be78d",
-      "message": "feat(codegen): callback de Array aceita EXPRESSAO arbitraria — transduce cai (#1864)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-05T01:31:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a6be78da13aa644a2c0281220b4e52408e073c35"
+      "sha": "5c7390f90be0e92605c104d99ddfdba4a00cf7ad",
+      "short": "5c7390f",
+      "message": "chore: remove stale handoffs and stray artifacts from the repo root",
+      "author": "Daniel",
+      "date": "2026-07-05T08:08:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c7390f90be0e92605c104d99ddfdba4a00cf7ad"
     },
     {
-      "sha": "603bb01982f3e425cbf9b34021c6e4c61e5d963e",
-      "short": "603bb01",
+      "sha": "0dbee9e113f805973138fb7f0110652a91b79e30",
+      "short": "0dbee9e",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T07:29:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0dbee9e113f805973138fb7f0110652a91b79e30"
+    },
+    {
+      "sha": "0b5b77d2f7bb662c89939cdfa627fb65df326a20",
+      "short": "0b5b77d",
+      "message": "docs: translate all specs, README and RTS_ENGINE to English",
+      "author": "Daniel",
+      "date": "2026-07-05T07:20:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b5b77d2f7bb662c89939cdfa627fb65df326a20"
+    },
+    {
+      "sha": "04522c627c0ea5d60f4eebce6f67f58747c43d2b",
+      "short": "04522c6",
+      "message": "docs: surface/threading specs rewritten in English + CLAUDE.md/rules updated to current state",
+      "author": "Daniel",
+      "date": "2026-07-05T07:14:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/04522c627c0ea5d60f4eebce6f67f58747c43d2b"
+    },
+    {
+      "sha": "7335e88e3446ee708fac89d041aca5b4439c75fd",
+      "short": "7335e88",
+      "message": "docs(specs): surface — includeString, native(fn) reverse-FFI, threadLocal, aliases i32/i64/f64",
+      "author": "Daniel",
+      "date": "2026-07-05T06:49:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7335e88e3446ee708fac89d041aca5b4439c75fd"
+    },
+    {
+      "sha": "7881f39fa6d7664804d026d0b8dc2278b5329f44",
+      "short": "7881f39",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T06:44:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7881f39fa6d7664804d026d0b8dc2278b5329f44"
+    },
+    {
+      "sha": "85193d3165f2ebb84e6566d513c688c2214130c1",
+      "short": "85193d3",
+      "message": "docs(specs): rts-std-surface.md (redesign da superfície rts:*) + rts-threading-model.md (threading regional na engine)",
+      "author": "Daniel",
+      "date": "2026-07-05T06:36:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/85193d3165f2ebb84e6566d513c688c2214130c1"
+    },
+    {
+      "sha": "3f2c0b932f561bb43ce04bc5440bc2e1fddd709e",
+      "short": "3f2c0b9",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T05:58:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f2c0b932f561bb43ce04bc5440bc2e1fddd709e"
+    },
+    {
+      "sha": "d6665ef51ebd68c080d48abb7607e73a48b6d028",
+      "short": "d6665ef",
+      "message": "refactor(runtime): getters de FormData/Headers/fs.readdir emitem PolyValue words (B2)",
+      "author": "Daniel",
+      "date": "2026-07-05T05:50:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6665ef51ebd68c080d48abb7607e73a48b6d028"
+    },
+    {
+      "sha": "3744b2194e8719de06f66c67e569589d3dd19b29",
+      "short": "3744b21",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T05:44:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3744b2194e8719de06f66c67e569589d3dd19b29"
+    },
+    {
+      "sha": "fc2de01493aa3b220a74a1deebead71efa052ffa",
+      "short": "fc2de01",
+      "message": "refactor(runtime): new Function embrulhada em thunk uniforme na criação (A3)",
+      "author": "Daniel",
+      "date": "2026-07-05T05:36:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc2de01493aa3b220a74a1deebead71efa052ffa"
+    },
+    {
+      "sha": "dc081033ddef2f2d1870943e7a90dc03e9c6c786",
+      "short": "dc08103",
+      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T05:28:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dc081033ddef2f2d1870943e7a90dc03e9c6c786"
+    },
+    {
+      "sha": "9b2e266222bd97f7fa43eda4e9ce3c17dc189289",
+      "short": "9b2e266",
+      "message": "refactor(runtime): rows de match/exec/matchAll como objetos SHAPED (fim do Entry::Map nos resultados regex)",
+      "author": "Daniel",
+      "date": "2026-07-05T05:19:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b2e266222bd97f7fa43eda4e9ce3c17dc189289"
+    },
+    {
+      "sha": "f5a83dd0b276e808ed65dd25c29667ae195ca2b0",
+      "short": "f5a83dd",
+      "message": "docs: auto-update cross-runtime parity badge (76%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-05T05:12:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5a83dd0b276e808ed65dd25c29667ae195ca2b0"
+    },
+    {
+      "sha": "c400fb9d8d87cc0985dc60a78dc418d31150996d",
+      "short": "c400fb9",
+      "message": "refactor(engine/runtime): registro global de shapes no rts-engine + C1 shaped (IteratorResult, allSettled, withResolvers)",
+      "author": "Daniel",
+      "date": "2026-07-05T05:04:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c400fb9d8d87cc0985dc60a78dc418d31150996d"
+    },
+    {
+      "sha": "cb28e544bd598158b8a5364a3aab67810292f248",
+      "short": "cb28e54",
       "message": "docs: auto-update cross-runtime parity badge (75.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-05T00:56:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/603bb01982f3e425cbf9b34021c6e4c61e5d963e"
+      "date": "2026-07-05T04:32:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb28e544bd598158b8a5364a3aab67810292f248"
     },
     {
-      "sha": "de40b95a6f74115f5566f4f9bd329604bc9926c9",
-      "short": "de40b95",
-      "message": "feat(codegen): captura TRANSITIVA de closure + spread multiplo em value-call — curry cai (#1863)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-05T00:48:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de40b95a6f74115f5566f4f9bd329604bc9926c9"
-    },
-    {
-      "sha": "58de6a02f56e812c02ee220f155680f86bb41a14",
-      "short": "58de6a0",
-      "message": "docs: auto-update cross-runtime parity badge (75.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T00:32:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58de6a02f56e812c02ee220f155680f86bb41a14"
-    },
-    {
-      "sha": "cd532ef611380f744a6f352ab7e256976a4cb6c7",
-      "short": "cd532ef",
-      "message": "feat(runtime/codegen): import.meta — objeto { url } com file: URL real da invocação",
+      "sha": "3bf14c190dce420003253285416cbd059b492337",
+      "short": "3bf14c1",
+      "message": "refactor(runtime/linker): settlers de Promise em thunk uniforme + remove mirror_to_legacy_layout",
       "author": "Daniel",
-      "date": "2026-07-05T00:24:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd532ef611380f744a6f352ab7e256976a4cb6c7"
-    },
-    {
-      "sha": "ddb6d2863a86cec0ddddba8c78a6f760204d0253",
-      "short": "ddb6d28",
-      "message": "docs: auto-update cross-runtime parity badge (75.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T00:18:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddb6d2863a86cec0ddddba8c78a6f760204d0253"
-    },
-    {
-      "sha": "ff8ec1d1e9a51f3cf985a69c48173ec307b54a59",
-      "short": "ff8ec1d",
-      "message": "feat(codegen): generator LOCAL como fonte de for-of e Array.from",
-      "author": "Daniel",
-      "date": "2026-07-05T00:10:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff8ec1d1e9a51f3cf985a69c48173ec307b54a59"
-    },
-    {
-      "sha": "fafeef3e8580a788d617384934c502922a1fc648",
-      "short": "fafeef3",
-      "message": "docs: auto-update cross-runtime parity badge (75%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T23:49:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fafeef3e8580a788d617384934c502922a1fc648"
-    },
-    {
-      "sha": "c35ed3e403f1ac3e75ab6a18424609fdcc54695f",
-      "short": "c35ed3e",
-      "message": "feat(codegen/hir): destructuring ASSIGNMENT [x, arr[i], o.k] = rhs + escopo de multi-declarator",
-      "author": "Daniel",
-      "date": "2026-07-04T23:41:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c35ed3e403f1ac3e75ab6a18424609fdcc54695f"
-    },
-    {
-      "sha": "a45e85deb16c8396869f0b4b13070e91e571b391",
-      "short": "a45e85d",
-      "message": "docs: auto-update cross-runtime parity badge (74.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T23:28:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a45e85deb16c8396869f0b4b13070e91e571b391"
-    },
-    {
-      "sha": "4d8e6522008685579ccb0df1b29e2721021765fb",
-      "short": "4d8e652",
-      "message": "feat(runtime/codegen): apply COMPLETO — thisArg roscado, Math.max/min como VALOR, proxy em invoke_method",
-      "author": "Daniel",
-      "date": "2026-07-04T23:20:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d8e6522008685579ccb0df1b29e2721021765fb"
-    },
-    {
-      "sha": "5e7538691f641c5c4bd829d23c7abd45f582b47a",
-      "short": "5e75386",
-      "message": "docs: auto-update cross-runtime parity badge (74.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T22:12:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e7538691f641c5c4bd829d23c7abd45f582b47a"
-    },
-    {
-      "sha": "7ce673d0930a13f221b5d9f30821db82e605b6b3",
-      "short": "7ce673d",
-      "message": "feat(runtime/codegen): Promise.resolve THENABLE-aware — getter de then que lança rejeita; then callable é adotado",
-      "author": "Daniel",
-      "date": "2026-07-04T22:04:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ce673d0930a13f221b5d9f30821db82e605b6b3"
-    },
-    {
-      "sha": "4af3aadb0860b199c19064a0a17beeb716ba408a",
-      "short": "4af3aad",
-      "message": "fix(codegen): rename do self-name desce em arrows aninhadas — trampoline cai (#1861)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-04T21:58:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4af3aadb0860b199c19064a0a17beeb716ba408a"
-    },
-    {
-      "sha": "bc03315a0bb439634dc74f7546a55ed5964461c8",
-      "short": "bc03315",
-      "message": "docs: auto-update cross-runtime parity badge (74.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T21:53:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc03315a0bb439634dc74f7546a55ed5964461c8"
-    },
-    {
-      "sha": "904a540c169adc4b110f96695aa08ded72789e13",
-      "short": "904a540",
-      "message": "feat(runtime/codegen): hooks [Symbol.match/replace/split] em métodos de string",
-      "author": "Daniel",
-      "date": "2026-07-04T21:45:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/904a540c169adc4b110f96695aa08ded72789e13"
-    },
-    {
-      "sha": "690e9e4465ad814e87b3b9f20470cf03ae83f244",
-      "short": "690e9e4",
-      "message": "docs: auto-update cross-runtime parity badge (74.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-04T21:33:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/690e9e4465ad814e87b3b9f20470cf03ae83f244"
+      "date": "2026-07-05T04:23:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3bf14c190dce420003253285416cbd059b492337"
     }
   ]
 }
