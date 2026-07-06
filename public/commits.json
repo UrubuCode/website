@@ -1,6 +1,14 @@
 {
-  "total": 3453,
+  "total": 3454,
   "commits": [
+    {
+      "sha": "70ed08f8eeb2883cf38652ddb386d844cf62fe92",
+      "short": "70ed08f",
+      "message": "fix(linker): link OpenGL framework on macOS — glutin CGL fallback needs it",
+      "author": "Daniel",
+      "date": "2026-07-06T16:23:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70ed08f8eeb2883cf38652ddb386d844cf62fe92"
+    },
     {
       "sha": "6c2be2690ccfeadac5207f337f57e4d4ac2d9dfd",
       "short": "6c2be26",
@@ -152,14 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-05T21:45:29Z",
       "url": "https://github.com/UrubuCode/rts/commit/2dd296e13e1f82f39693759d5c87647e0f8bf859"
-    },
-    {
-      "sha": "b1c25728b327c6531a75dcc6b0417215eff70552",
-      "short": "b1c2572",
-      "message": "feat(cli): run/compile straight from an http(s) URL",
-      "author": "Daniel",
-      "date": "2026-07-05T21:45:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1c25728b327c6531a75dcc6b0417215eff70552"
     }
   ]
 }
