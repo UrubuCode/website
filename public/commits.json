@@ -1,6 +1,134 @@
 {
-  "total": 3433,
+  "total": 3449,
   "commits": [
+    {
+      "sha": "921a0bbd6a18582e62314e422bb27858807b65ab",
+      "short": "921a0bb",
+      "message": "fix(linker): -lgcc_s fails when only the runtime libgcc_s.so.1 exists",
+      "author": "Daniel",
+      "date": "2026-07-06T02:16:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/921a0bbd6a18582e62314e422bb27858807b65ab"
+    },
+    {
+      "sha": "9ce8d71adec8611d78cfe1b525f3585a5baf12fb",
+      "short": "9ce8d71",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T02:11:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ce8d71adec8611d78cfe1b525f3585a5baf12fb"
+    },
+    {
+      "sha": "ca9025e979e7166f1607d95b4eef5efd77bddeb6",
+      "short": "ca9025e",
+      "message": "fix(egui): compile Wayland into the glow fallback",
+      "author": "Daniel",
+      "date": "2026-07-06T01:58:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca9025e979e7166f1607d95b4eef5efd77bddeb6"
+    },
+    {
+      "sha": "db472da1833b3894010ef732cead633386a3c39f",
+      "short": "db472da",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T01:52:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db472da1833b3894010ef732cead633386a3c39f"
+    },
+    {
+      "sha": "0a0e099abd576f72583a0e2167ff5df8536bdb74",
+      "short": "0a0e099",
+      "message": "fix(egui): compile GLX into the glow fallback — old-Mesa X11 GPUs",
+      "author": "Daniel",
+      "date": "2026-07-06T01:37:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a0e099abd576f72583a0e2167ff5df8536bdb74"
+    },
+    {
+      "sha": "4624b097065be4485ea9b3995c05fe368b5481b0",
+      "short": "4624b09",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T01:18:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4624b097065be4485ea9b3995c05fe368b5481b0"
+    },
+    {
+      "sha": "6b76ffeb20dd682f768795f9aa132dd413b619fd",
+      "short": "6b76ffe",
+      "message": "test(timers): setInterval assertion waits for the condition, not a fixed window",
+      "author": "Daniel",
+      "date": "2026-07-06T01:07:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b76ffeb20dd682f768795f9aa132dd413b619fd"
+    },
+    {
+      "sha": "102d5edb9b7ec5cdf126ec3776e0ec9ddcc63f32",
+      "short": "102d5ed",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T01:00:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/102d5edb9b7ec5cdf126ec3776e0ec9ddcc63f32"
+    },
+    {
+      "sha": "a46d9e6a32f00b302d525b19c28085a48ad782a6",
+      "short": "a46d9e6",
+      "message": "fix(egui): report openWindow failure + auto-fallback wgpu→glow",
+      "author": "Daniel",
+      "date": "2026-07-06T00:48:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a46d9e6a32f00b302d525b19c28085a48ad782a6"
+    },
+    {
+      "sha": "a82786d16cee6533c9577381cabd167bfa51677e",
+      "short": "a82786d",
+      "message": "fix(engine): 3 legacy-drain regressions — dynamic iteration + dispatch order",
+      "author": "Daniel",
+      "date": "2026-07-06T00:48:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a82786d16cee6533c9577381cabd167bfa51677e"
+    },
+    {
+      "sha": "b08741bfb9aa837c1dbcec7f839e8ac8f4cc48a7",
+      "short": "b08741b",
+      "message": "fix(aot): macOS objects must be PIC — arm64 Mach-O executables are PIE",
+      "author": "Daniel",
+      "date": "2026-07-05T22:40:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b08741bfb9aa837c1dbcec7f839e8ac8f4cc48a7"
+    },
+    {
+      "sha": "18f7cb7803a4180be71593ad84c9d8db5ca65995",
+      "short": "18f7cb7",
+      "message": "fix(linker): macOS AOT link needs winit/wgpu frameworks + libobjc",
+      "author": "Daniel",
+      "date": "2026-07-05T22:28:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18f7cb7803a4180be71593ad84c9d8db5ca65995"
+    },
+    {
+      "sha": "d2f6478c9baf8cdd07f24442dd45a7821790c89e",
+      "short": "d2f6478",
+      "message": "fix(ci): release binaries shipped a placeholder AOT archive",
+      "author": "Daniel",
+      "date": "2026-07-05T22:17:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d2f6478c9baf8cdd07f24442dd45a7821790c89e"
+    },
+    {
+      "sha": "6b12a64a507cd3364c2732e826cc660161adf85b",
+      "short": "6b12a64",
+      "message": "fix(cli): placeholder-archive error names the right crate (rts-adapters)",
+      "author": "Daniel",
+      "date": "2026-07-05T22:10:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b12a64a507cd3364c2732e826cc660161adf85b"
+    },
+    {
+      "sha": "2dd296e13e1f82f39693759d5c87647e0f8bf859",
+      "short": "2dd296e",
+      "message": "docs(examples): add rtscraft — raycast voxel demo game",
+      "author": "Daniel",
+      "date": "2026-07-05T21:45:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2dd296e13e1f82f39693759d5c87647e0f8bf859"
+    },
+    {
+      "sha": "b1c25728b327c6531a75dcc6b0417215eff70552",
+      "short": "b1c2572",
+      "message": "feat(cli): run/compile straight from an http(s) URL",
+      "author": "Daniel",
+      "date": "2026-07-05T21:45:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1c25728b327c6531a75dcc6b0417215eff70552"
+    },
     {
       "sha": "2d77e34169261567e52701beb2d80143cd088424",
       "short": "2d77e34",
@@ -32,134 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-05T08:53:20Z",
       "url": "https://github.com/UrubuCode/rts/commit/771085b06dcf03c8628fbcb5991179c8a7fbc9d9"
-    },
-    {
-      "sha": "61fe712dfa3d899922def698fa8511397c474b12",
-      "short": "61fe712",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T08:41:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61fe712dfa3d899922def698fa8511397c474b12"
-    },
-    {
-      "sha": "f5dce5b2a917564666428e29f3e33870a470f510",
-      "short": "f5dce5b",
-      "message": "fix(aot)+docs(readme)+ci: honest new-engine benchmarks, auto-updating bench table, AOT tail-call fix",
-      "author": "Daniel",
-      "date": "2026-07-05T08:32:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5dce5b2a917564666428e29f3e33870a470f510"
-    },
-    {
-      "sha": "550e923ccb83c710584454c261236575ceb01f44",
-      "short": "550e923",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T08:16:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/550e923ccb83c710584454c261236575ceb01f44"
-    },
-    {
-      "sha": "5c7390f90be0e92605c104d99ddfdba4a00cf7ad",
-      "short": "5c7390f",
-      "message": "chore: remove stale handoffs and stray artifacts from the repo root",
-      "author": "Daniel",
-      "date": "2026-07-05T08:08:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c7390f90be0e92605c104d99ddfdba4a00cf7ad"
-    },
-    {
-      "sha": "0dbee9e113f805973138fb7f0110652a91b79e30",
-      "short": "0dbee9e",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T07:29:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0dbee9e113f805973138fb7f0110652a91b79e30"
-    },
-    {
-      "sha": "0b5b77d2f7bb662c89939cdfa627fb65df326a20",
-      "short": "0b5b77d",
-      "message": "docs: translate all specs, README and RTS_ENGINE to English",
-      "author": "Daniel",
-      "date": "2026-07-05T07:20:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b5b77d2f7bb662c89939cdfa627fb65df326a20"
-    },
-    {
-      "sha": "04522c627c0ea5d60f4eebce6f67f58747c43d2b",
-      "short": "04522c6",
-      "message": "docs: surface/threading specs rewritten in English + CLAUDE.md/rules updated to current state",
-      "author": "Daniel",
-      "date": "2026-07-05T07:14:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/04522c627c0ea5d60f4eebce6f67f58747c43d2b"
-    },
-    {
-      "sha": "7335e88e3446ee708fac89d041aca5b4439c75fd",
-      "short": "7335e88",
-      "message": "docs(specs): surface — includeString, native(fn) reverse-FFI, threadLocal, aliases i32/i64/f64",
-      "author": "Daniel",
-      "date": "2026-07-05T06:49:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7335e88e3446ee708fac89d041aca5b4439c75fd"
-    },
-    {
-      "sha": "7881f39fa6d7664804d026d0b8dc2278b5329f44",
-      "short": "7881f39",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T06:44:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7881f39fa6d7664804d026d0b8dc2278b5329f44"
-    },
-    {
-      "sha": "85193d3165f2ebb84e6566d513c688c2214130c1",
-      "short": "85193d3",
-      "message": "docs(specs): rts-std-surface.md (redesign da superfície rts:*) + rts-threading-model.md (threading regional na engine)",
-      "author": "Daniel",
-      "date": "2026-07-05T06:36:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85193d3165f2ebb84e6566d513c688c2214130c1"
-    },
-    {
-      "sha": "3f2c0b932f561bb43ce04bc5440bc2e1fddd709e",
-      "short": "3f2c0b9",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T05:58:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f2c0b932f561bb43ce04bc5440bc2e1fddd709e"
-    },
-    {
-      "sha": "d6665ef51ebd68c080d48abb7607e73a48b6d028",
-      "short": "d6665ef",
-      "message": "refactor(runtime): getters de FormData/Headers/fs.readdir emitem PolyValue words (B2)",
-      "author": "Daniel",
-      "date": "2026-07-05T05:50:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6665ef51ebd68c080d48abb7607e73a48b6d028"
-    },
-    {
-      "sha": "3744b2194e8719de06f66c67e569589d3dd19b29",
-      "short": "3744b21",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T05:44:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3744b2194e8719de06f66c67e569589d3dd19b29"
-    },
-    {
-      "sha": "fc2de01493aa3b220a74a1deebead71efa052ffa",
-      "short": "fc2de01",
-      "message": "refactor(runtime): new Function embrulhada em thunk uniforme na criação (A3)",
-      "author": "Daniel",
-      "date": "2026-07-05T05:36:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc2de01493aa3b220a74a1deebead71efa052ffa"
-    },
-    {
-      "sha": "dc081033ddef2f2d1870943e7a90dc03e9c6c786",
-      "short": "dc08103",
-      "message": "docs: auto-update cross-runtime parity badge (76.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-05T05:28:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dc081033ddef2f2d1870943e7a90dc03e9c6c786"
-    },
-    {
-      "sha": "9b2e266222bd97f7fa43eda4e9ce3c17dc189289",
-      "short": "9b2e266",
-      "message": "refactor(runtime): rows de match/exec/matchAll como objetos SHAPED (fim do Entry::Map nos resultados regex)",
-      "author": "Daniel",
-      "date": "2026-07-05T05:19:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b2e266222bd97f7fa43eda4e9ce3c17dc189289"
     }
   ]
 }
