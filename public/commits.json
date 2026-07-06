@@ -1,6 +1,38 @@
 {
-  "total": 3449,
+  "total": 3453,
   "commits": [
+    {
+      "sha": "6c2be2690ccfeadac5207f337f57e4d4ac2d9dfd",
+      "short": "6c2be26",
+      "message": "docs: cross-runtime parity 77% + history snapshot 2026-07-06",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T07:14:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c2be2690ccfeadac5207f337f57e4d4ac2d9dfd"
+    },
+    {
+      "sha": "5b434d80007a56541f8be6a509cf381f37ba2b1b",
+      "short": "5b434d8",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T02:50:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5b434d80007a56541f8be6a509cf381f37ba2b1b"
+    },
+    {
+      "sha": "8caab539f8ba4aecb5333f537035c60cdecb353e",
+      "short": "8caab53",
+      "message": "fix(linker): raw ELF link needs -dynamic-linker — lld sets no PT_INTERP",
+      "author": "Daniel",
+      "date": "2026-07-06T02:38:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8caab539f8ba4aecb5333f537035c60cdecb353e"
+    },
+    {
+      "sha": "518b6102452bdc6efdc9932c90780265e3abc062",
+      "short": "518b610",
+      "message": "docs: auto-update cross-runtime parity badge (77%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-06T02:27:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/518b6102452bdc6efdc9932c90780265e3abc062"
+    },
     {
       "sha": "921a0bbd6a18582e62314e422bb27858807b65ab",
       "short": "921a0bb",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-05T21:45:05Z",
       "url": "https://github.com/UrubuCode/rts/commit/b1c25728b327c6531a75dcc6b0417215eff70552"
-    },
-    {
-      "sha": "2d77e34169261567e52701beb2d80143cd088424",
-      "short": "2d77e34",
-      "message": "docs: move RTS_ENGINE.md into docs/specs/rts-engine-dispatch.md with a status note",
-      "author": "Daniel",
-      "date": "2026-07-05T08:58:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d77e34169261567e52701beb2d80143cd088424"
-    },
-    {
-      "sha": "af71af93af77e22c75b86f0081d090772d45dfd6",
-      "short": "af71af9",
-      "message": "chore: move root shell scripts into scripts/",
-      "author": "Daniel",
-      "date": "2026-07-05T08:55:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af71af93af77e22c75b86f0081d090772d45dfd6"
-    },
-    {
-      "sha": "a39fc46391a8fdc55efac7b5550080d4a9e882d0",
-      "short": "a39fc46",
-      "message": "docs: translate the auto-generated cross-runtime stats block to English",
-      "author": "Daniel",
-      "date": "2026-07-05T08:53:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a39fc46391a8fdc55efac7b5550080d4a9e882d0"
-    },
-    {
-      "sha": "771085b06dcf03c8628fbcb5991179c8a7fbc9d9",
-      "short": "771085b",
-      "message": "chore(ci): move cross-runtime report/history into .github/, English-only workflows, drop package.json/bun.lock",
-      "author": "Daniel",
-      "date": "2026-07-05T08:53:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/771085b06dcf03c8628fbcb5991179c8a7fbc9d9"
     }
   ]
 }
