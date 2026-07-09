@@ -1,6 +1,22 @@
 {
-  "total": 3454,
+  "total": 3456,
   "commits": [
+    {
+      "sha": "729d985d7de79c3f63dd98571b6df7d17ee7d8c6",
+      "short": "729d985",
+      "message": "docs: auto-update cross-runtime parity badge (77.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-08T22:19:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/729d985d7de79c3f63dd98571b6df7d17ee7d8c6"
+    },
+    {
+      "sha": "68e73a215dcc6d10ae9855dce0182a37feb9dc1b",
+      "short": "68e73a2",
+      "message": "fix(engine): promote let-locals to Float64 on any fractional assignment (#1869) (#1875)",
+      "author": "Eric Tierre",
+      "date": "2026-07-08T22:07:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68e73a215dcc6d10ae9855dce0182a37feb9dc1b"
+    },
     {
       "sha": "70ed08f8eeb2883cf38652ddb386d844cf62fe92",
       "short": "70ed08f",
@@ -144,22 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-05T22:17:02Z",
       "url": "https://github.com/UrubuCode/rts/commit/d2f6478c9baf8cdd07f24442dd45a7821790c89e"
-    },
-    {
-      "sha": "6b12a64a507cd3364c2732e826cc660161adf85b",
-      "short": "6b12a64",
-      "message": "fix(cli): placeholder-archive error names the right crate (rts-adapters)",
-      "author": "Daniel",
-      "date": "2026-07-05T22:10:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b12a64a507cd3364c2732e826cc660161adf85b"
-    },
-    {
-      "sha": "2dd296e13e1f82f39693759d5c87647e0f8bf859",
-      "short": "2dd296e",
-      "message": "docs(examples): add rtscraft — raycast voxel demo game",
-      "author": "Daniel",
-      "date": "2026-07-05T21:45:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2dd296e13e1f82f39693759d5c87647e0f8bf859"
     }
   ]
 }
