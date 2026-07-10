@@ -1,6 +1,54 @@
 {
-  "total": 3456,
+  "total": 3462,
   "commits": [
+    {
+      "sha": "4a5f666bf6603c8bbe8460ca9aafc95d0960c67a",
+      "short": "4a5f666",
+      "message": "docs: auto-update cross-runtime parity badge (79.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-09T22:44:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a5f666bf6603c8bbe8460ca9aafc95d0960c67a"
+    },
+    {
+      "sha": "c450628463e814d8ccb5f7b19b2fcf76fba89cde",
+      "short": "c450628",
+      "message": "fix(engine): OrdinaryToPrimitive chain, Date numeric coercion, sparse holes, coercion callbacks (#1879)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-09T22:30:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c450628463e814d8ccb5f7b19b2fcf76fba89cde"
+    },
+    {
+      "sha": "d48ab0215d22029604f299be5290596962d90de6",
+      "short": "d48ab02",
+      "message": "docs: auto-update cross-runtime parity badge (78.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-09T22:28:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d48ab0215d22029604f299be5290596962d90de6"
+    },
+    {
+      "sha": "5631112d67daa26be47bc188980eaa5e1219be38",
+      "short": "5631112",
+      "message": "fix(engine): ToPrimitive on non-`+` operators + array-element coercion + dynamic localeCompare/codePointAt (#1878)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-09T22:12:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5631112d67daa26be47bc188980eaa5e1219be38"
+    },
+    {
+      "sha": "f306ceb2a5fc0d5fad028301a8b540749e390f48",
+      "short": "f306ceb",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-09T22:03:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f306ceb2a5fc0d5fad028301a8b540749e390f48"
+    },
+    {
+      "sha": "31b470143549c23a86a0880b2039cf3b98025fcf",
+      "short": "31b4701",
+      "message": "fix(engine): cross-runtime syntax/scoping cluster (6 fixtures) (#1877)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-09T21:42:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/31b470143549c23a86a0880b2039cf3b98025fcf"
+    },
     {
       "sha": "729d985d7de79c3f63dd98571b6df7d17ee7d8c6",
       "short": "729d985",
@@ -112,54 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-06T01:07:13Z",
       "url": "https://github.com/UrubuCode/rts/commit/6b76ffeb20dd682f768795f9aa132dd413b619fd"
-    },
-    {
-      "sha": "102d5edb9b7ec5cdf126ec3776e0ec9ddcc63f32",
-      "short": "102d5ed",
-      "message": "docs: auto-update cross-runtime parity badge (77%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-06T01:00:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/102d5edb9b7ec5cdf126ec3776e0ec9ddcc63f32"
-    },
-    {
-      "sha": "a46d9e6a32f00b302d525b19c28085a48ad782a6",
-      "short": "a46d9e6",
-      "message": "fix(egui): report openWindow failure + auto-fallback wgpu→glow",
-      "author": "Daniel",
-      "date": "2026-07-06T00:48:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a46d9e6a32f00b302d525b19c28085a48ad782a6"
-    },
-    {
-      "sha": "a82786d16cee6533c9577381cabd167bfa51677e",
-      "short": "a82786d",
-      "message": "fix(engine): 3 legacy-drain regressions — dynamic iteration + dispatch order",
-      "author": "Daniel",
-      "date": "2026-07-06T00:48:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a82786d16cee6533c9577381cabd167bfa51677e"
-    },
-    {
-      "sha": "b08741bfb9aa837c1dbcec7f839e8ac8f4cc48a7",
-      "short": "b08741b",
-      "message": "fix(aot): macOS objects must be PIC — arm64 Mach-O executables are PIE",
-      "author": "Daniel",
-      "date": "2026-07-05T22:40:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b08741bfb9aa837c1dbcec7f839e8ac8f4cc48a7"
-    },
-    {
-      "sha": "18f7cb7803a4180be71593ad84c9d8db5ca65995",
-      "short": "18f7cb7",
-      "message": "fix(linker): macOS AOT link needs winit/wgpu frameworks + libobjc",
-      "author": "Daniel",
-      "date": "2026-07-05T22:28:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18f7cb7803a4180be71593ad84c9d8db5ca65995"
-    },
-    {
-      "sha": "d2f6478c9baf8cdd07f24442dd45a7821790c89e",
-      "short": "d2f6478",
-      "message": "fix(ci): release binaries shipped a placeholder AOT archive",
-      "author": "Daniel",
-      "date": "2026-07-05T22:17:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d2f6478c9baf8cdd07f24442dd45a7821790c89e"
     }
   ]
 }
