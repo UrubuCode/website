@@ -1,165 +1,165 @@
 {
-  "total": 3518,
+  "total": 3556,
   "commits": [
     {
-      "sha": "9c17c3bc8b1ee45375017151e9e0f9cf58cf8eb0",
-      "short": "9c17c3b",
-      "message": "feat(node): crypto SHA-3 (sha3-256/384/512)",
+      "sha": "5b26b56330a28278495cabb0f2af4e30fd2131fa",
+      "short": "5b26b56",
+      "message": "feat(node): fs.Dirent class + readdirSync(path, { withFileTypes: true })",
       "author": "Daniel",
-      "date": "2026-07-11T18:39:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c17c3bc8b1ee45375017151e9e0f9cf58cf8eb0"
+      "date": "2026-07-12T00:35:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5b26b56330a28278495cabb0f2af4e30fd2131fa"
     },
     {
-      "sha": "dbccf4f4fb6ee30652b1946171e78eb1a2d24d47",
-      "short": "dbccf4f",
-      "message": "feat(node): crypto.hkdfSync (RFC 5869 HKDF)",
+      "sha": "cd1551d45ee1c94963553acd48bdf3acd135021f",
+      "short": "cd1551d",
+      "message": "feat(node): complete the fs.Stats class surface",
       "author": "Daniel",
-      "date": "2026-07-11T18:35:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dbccf4f4fb6ee30652b1946171e78eb1a2d24d47"
+      "date": "2026-07-12T00:22:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd1551d45ee1c94963553acd48bdf3acd135021f"
     },
     {
-      "sha": "7b48c4e6cbffa375cfaed7ad49bd1f84184f106e",
-      "short": "7b48c4e",
-      "message": "feat(node): util.parseArgs (CLI argument parser)",
+      "sha": "f8f9e88985bcc41b3c6d0b771aef165adb225dad",
+      "short": "f8f9e88",
+      "message": "feat(engine): object-backed method dispatch survives user-class name collisions",
       "author": "Daniel",
-      "date": "2026-07-11T18:30:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7b48c4e6cbffa375cfaed7ad49bd1f84184f106e"
+      "date": "2026-07-11T23:56:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f8f9e88985bcc41b3c6d0b771aef165adb225dad"
     },
     {
-      "sha": "9c6f529b40ac56fe988e2c2eaa0e746c4dc63c17",
-      "short": "9c6f529",
-      "message": "feat(node): node:net IP-address validators (isIP/isIPv4/isIPv6)",
+      "sha": "c8acbdc0c437ebb73553568b9921c8703cbdd65b",
+      "short": "c8acbdc",
+      "message": "feat(engine): runtime dispatch of object-backed class methods on untracked receivers",
       "author": "Daniel",
-      "date": "2026-07-11T18:23:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c6f529b40ac56fe988e2c2eaa0e746c4dc63c17"
+      "date": "2026-07-11T23:11:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8acbdc0c437ebb73553568b9921c8703cbdd65b"
     },
     {
-      "sha": "7e3b29a44118ca3d20ca8b13f7f16ea6da5a9eab",
-      "short": "7e3b29a",
-      "message": "feat(node): node:http stream-independent surface (METHODS/STATUS_CODES/validators)",
+      "sha": "ddcc3619753486d80c720b7b2b87fc8a4929b558",
+      "short": "ddcc361",
+      "message": "fix(node): process free-memory probe builds on macOS (libc::sysinfo is Linux-only)",
       "author": "Daniel",
-      "date": "2026-07-11T18:17:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e3b29a44118ca3d20ca8b13f7f16ea6da5a9eab"
+      "date": "2026-07-11T23:11:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddcc3619753486d80c720b7b2b87fc8a4929b558"
     },
     {
-      "sha": "364397d70c06388dc94377ca8d5eaaad643c7328",
-      "short": "364397d",
-      "message": "feat(node): node:child_process synchronous exec/spawn",
+      "sha": "0a7fba20fe0f4e81836839d02814edf907cfb6d7",
+      "short": "0a7fba2",
+      "message": "fix(node): Buffer.alloc/allocUnsafe throw RangeError on negative size",
       "author": "Daniel",
-      "date": "2026-07-11T18:10:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/364397d70c06388dc94377ca8d5eaaad643c7328"
+      "date": "2026-07-11T21:30:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a7fba20fe0f4e81836839d02814edf907cfb6d7"
     },
     {
-      "sha": "b7291c2c3e364a0c6eb571df84a9015527ba21dc",
-      "short": "b7291c2",
-      "message": "feat(node): fs.statfsSync (filesystem statistics)",
+      "sha": "e1f2611a95ed70bc956a07525a08ded0d485693d",
+      "short": "e1f2611",
+      "message": "fix(node): crypto.randomBytes throws RangeError on negative size",
       "author": "Daniel",
-      "date": "2026-07-11T18:02:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7291c2c3e364a0c6eb571df84a9015527ba21dc"
+      "date": "2026-07-11T21:24:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1f2611a95ed70bc956a07525a08ded0d485693d"
     },
     {
-      "sha": "54bb21071ea4ca5e9bcd9aaf94a4392faf9b6a7d",
-      "short": "54bb210",
-      "message": "feat(node): fs.utimesSync (set access/modify times)",
+      "sha": "fad9793c9a358eba7726a8b840b87a65e2628a29",
+      "short": "fad9793",
+      "message": "feat(node): hash.copy()",
       "author": "Daniel",
-      "date": "2026-07-11T17:58:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54bb21071ea4ca5e9bcd9aaf94a4392faf9b6a7d"
+      "date": "2026-07-11T21:18:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fad9793c9a358eba7726a8b840b87a65e2628a29"
     },
     {
-      "sha": "3886f4ced11873f0cbe9a4ee1b9dd8cb646fcfb1",
-      "short": "3886f4c",
-      "message": "feat(node): fs.chmodSync + fs.linkSync",
+      "sha": "b872526758a824f80a91006b7e14794b3a92e046",
+      "short": "b872526",
+      "message": "feat(node): util.format %j does JSON.stringify",
       "author": "Daniel",
-      "date": "2026-07-11T17:54:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3886f4ced11873f0cbe9a4ee1b9dd8cb646fcfb1"
+      "date": "2026-07-11T21:12:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b872526758a824f80a91006b7e14794b3a92e046"
     },
     {
-      "sha": "7898177ee80485a0f5e97673290ff5314ed97f9a",
-      "short": "7898177",
-      "message": "feat(node): fs.cpSync (file + recursive directory copy)",
+      "sha": "74b025c0d137ee573d728e65921ea60990b17322",
+      "short": "74b025c",
+      "message": "feat(node): hash.update(data, inputEncoding)",
       "author": "Daniel",
-      "date": "2026-07-11T17:51:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7898177ee80485a0f5e97673290ff5314ed97f9a"
+      "date": "2026-07-11T21:05:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/74b025c0d137ee573d728e65921ea60990b17322"
     },
     {
-      "sha": "d6b1d221d8c13741e37b7a258dfe32ef2538575c",
-      "short": "d6b1d22",
-      "message": "feat(node): node:fs file-descriptor family (openSync/readSync/writeSync/…)",
+      "sha": "7cc1021798f7636d234bdb6441dd28096ba7df63",
+      "short": "7cc1021",
+      "message": "refactor(node): standardize Win32 HANDLE FFI on isize",
       "author": "Daniel",
-      "date": "2026-07-11T17:40:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6b1d221d8c13741e37b7a258dfe32ef2538575c"
+      "date": "2026-07-11T20:58:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7cc1021798f7636d234bdb6441dd28096ba7df63"
     },
     {
-      "sha": "d4af7c9cabef3971d28b2efd251f14e48b70b174",
-      "short": "d4af7c9",
-      "message": "feat(node): fs.mkdtempSync + fs.readlinkSync",
+      "sha": "aee2163b15c97c334dc5caf5bd46480ed31113fd",
+      "short": "aee2163",
+      "message": "feat(node): Buffer.concat(list, totalLength)",
       "author": "Daniel",
-      "date": "2026-07-11T17:35:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4af7c9cabef3971d28b2efd251f14e48b70b174"
+      "date": "2026-07-11T20:51:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aee2163b15c97c334dc5caf5bd46480ed31113fd"
     },
     {
-      "sha": "4e93bc43d0833d4135376c4c4438d9700209e708",
-      "short": "4e93bc4",
-      "message": "feat(node): crypto.randomFillSync (in-place CSPRNG fill)",
+      "sha": "9df5bebd7685ef71c092eebd0d32e5bc689e014e",
+      "short": "9df5beb",
+      "message": "feat(node): fs utf16le/ucs2 encoding (read + write)",
       "author": "Daniel",
-      "date": "2026-07-11T17:31:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4e93bc43d0833d4135376c4c4438d9700209e708"
+      "date": "2026-07-11T20:45:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9df5bebd7685ef71c092eebd0d32e5bc689e014e"
     },
     {
-      "sha": "463ffbd5d247e38ddbf29cb8c8c8c472f2ceb78b",
-      "short": "463ffbd",
-      "message": "feat(node): crypto.scryptSync (RFC 7914 scrypt KDF)",
+      "sha": "01429d670bd0a589d6e547fa6d4d57f6f592e81e",
+      "short": "01429d6",
+      "message": "feat(node): Buffer.from utf16le/ucs2 encoding",
       "author": "Daniel",
-      "date": "2026-07-11T17:27:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/463ffbd5d247e38ddbf29cb8c8c8c472f2ceb78b"
+      "date": "2026-07-11T20:40:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01429d670bd0a589d6e547fa6d4d57f6f592e81e"
     },
     {
-      "sha": "c7f278bb2582e96f9dc522d3d1d00c68cb107c7d",
-      "short": "c7f278b",
-      "message": "feat(node): process.nextTick via engine microtask queue",
+      "sha": "227f2b1a9e2f745f809c8da405a71405a456c063",
+      "short": "227f2b1",
+      "message": "feat(node): Buffer.byteLength(string, encoding)",
       "author": "Daniel",
-      "date": "2026-07-11T17:23:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7f278bb2582e96f9dc522d3d1d00c68cb107c7d"
+      "date": "2026-07-11T20:35:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/227f2b1a9e2f745f809c8da405a71405a456c063"
     },
     {
-      "sha": "f9e46ebb199741d3a331b425a1e9f10010a8932c",
-      "short": "f9e46eb",
-      "message": "feat(node): zlib.crc32 (IEEE CRC-32 checksum)",
+      "sha": "3653c1caef601da482b8673433419e65aaa9fdb8",
+      "short": "3653c1c",
+      "message": "feat(node): crypto RIPEMD-160",
       "author": "Daniel",
-      "date": "2026-07-11T17:17:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9e46ebb199741d3a331b425a1e9f10010a8932c"
+      "date": "2026-07-11T20:30:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3653c1caef601da482b8673433419e65aaa9fdb8"
     },
     {
-      "sha": "8f2a5debb0dd7bb75d2131bae8d8c98e330e3cfb",
-      "short": "8f2a5de",
-      "message": "feat(node): node:dns lookup / resolve4 / resolve6 (OS resolver)",
+      "sha": "9afd5d9f0129877b1d3d4325a9e93c5f9e4318d9",
+      "short": "9afd5d9",
+      "message": "feat(node): crypto SHA-512/256 + SHA-512/224",
       "author": "Daniel",
-      "date": "2026-07-11T17:12:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8f2a5debb0dd7bb75d2131bae8d8c98e330e3cfb"
+      "date": "2026-07-11T20:23:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9afd5d9f0129877b1d3d4325a9e93c5f9e4318d9"
     },
     {
-      "sha": "2f4c03e26f0a292a2cfa702ee9875aebae874c81",
-      "short": "2f4c03e",
-      "message": "feat(node): assert.match / assert.doesNotMatch",
+      "sha": "01441778c5cedcdfa2798c5352a66781634fd5bc",
+      "short": "0144177",
+      "message": "refactor(node): extract fs encoding helpers into fs/codec.rs",
       "author": "Daniel",
-      "date": "2026-07-11T16:58:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2f4c03e26f0a292a2cfa702ee9875aebae874c81"
+      "date": "2026-07-11T20:16:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01441778c5cedcdfa2798c5352a66781634fd5bc"
     },
     {
-      "sha": "6a2034fc0a6592d2446bd1c06c2000fdc1904581",
-      "short": "6a2034f",
-      "message": "feat(node): crypto.pbkdf2Sync (PBKDF2 key derivation)",
+      "sha": "d3a39d42bed80fadd6fbdb6cccbf3e85a101fc7b",
+      "short": "d3a39d4",
+      "message": "feat(node): fs.appendFileSync(path, data, encoding)",
       "author": "Daniel",
-      "date": "2026-07-11T16:53:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a2034fc0a6592d2446bd1c06c2000fdc1904581"
+      "date": "2026-07-11T20:10:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d3a39d42bed80fadd6fbdb6cccbf3e85a101fc7b"
     },
     {
-      "sha": "e915aa440069045b5e0e34083ba9c57405b5d0a1",
-      "short": "e915aa4",
-      "message": "feat(node): util.inspect deep renderer + wire format %o/%O",
+      "sha": "392cd2b2408dd90aceebe12a6e5e13c9fbe5bc50",
+      "short": "392cd2b",
+      "message": "feat(node): fs.writeFileSync(path, data, encoding)",
       "author": "Daniel",
-      "date": "2026-07-11T16:48:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e915aa440069045b5e0e34083ba9c57405b5d0a1"
+      "date": "2026-07-11T20:07:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/392cd2b2408dd90aceebe12a6e5e13c9fbe5bc50"
     }
   ]
 }
