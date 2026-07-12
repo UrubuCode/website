@@ -1,6 +1,94 @@
 {
-  "total": 3556,
+  "total": 3567,
   "commits": [
+    {
+      "sha": "e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f",
+      "short": "e10f29c",
+      "message": "feat(node): fs.watchFile / unwatchFile — completing the node:fs module",
+      "author": "Daniel",
+      "date": "2026-07-12T02:33:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f"
+    },
+    {
+      "sha": "d2be4cb48d84d4de5bda487be580200cb6189313",
+      "short": "d2be4cb",
+      "message": "feat(node): fs.watch + FSWatcher — real OS filesystem notifications",
+      "author": "Daniel",
+      "date": "2026-07-12T02:16:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d2be4cb48d84d4de5bda487be580200cb6189313"
+    },
+    {
+      "sha": "177b2f672a0cdb8a786ee17a71458bae344408c2",
+      "short": "177b2f6",
+      "message": "fix(engine): obj_get reads a stored f64-bits Map value, not as a bogus handle",
+      "author": "Daniel",
+      "date": "2026-07-12T01:53:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/177b2f672a0cdb8a786ee17a71458bae344408c2"
+    },
+    {
+      "sha": "b20bb7729f697a6c944b031116353a68e83d794f",
+      "short": "b20bb77",
+      "message": "feat(node): fs.promises.open + FileHandle class",
+      "author": "Daniel",
+      "date": "2026-07-12T01:42:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b20bb7729f697a6c944b031116353a68e83d794f"
+    },
+    {
+      "sha": "5ce65db86f848beb0ec3016c89d5fbecffbf09c9",
+      "short": "5ce65db",
+      "message": "feat(node): node:fs/promises — the Promise-returning fs surface",
+      "author": "Daniel",
+      "date": "2026-07-12T01:37:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ce65db86f848beb0ec3016c89d5fbecffbf09c9"
+    },
+    {
+      "sha": "2d6c72c469042d8f75e824b9505d6b9b69e46e0f",
+      "short": "2d6c72c",
+      "message": "feat(node): fs callback (err-first) forms for the core functions",
+      "author": "Daniel",
+      "date": "2026-07-12T01:26:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d6c72c469042d8f75e824b9505d6b9b69e46e0f"
+    },
+    {
+      "sha": "e65549391f7ca9dca3b103e38b0b20603b36047f",
+      "short": "e655493",
+      "message": "feat(node): fs.globSync — filesystem glob matching",
+      "author": "Daniel",
+      "date": "2026-07-12T01:11:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e65549391f7ca9dca3b103e38b0b20603b36047f"
+    },
+    {
+      "sha": "6eb230b00069f7e368f0f26bd24f27129460807f",
+      "short": "6eb230b",
+      "message": "feat(node): fs opendirSync/Dir + readvSync/writevSync",
+      "author": "Daniel",
+      "date": "2026-07-12T01:07:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6eb230b00069f7e368f0f26bd24f27129460807f"
+    },
+    {
+      "sha": "7086bccf0e7f0c4434954998e9c10a46e8133767",
+      "short": "7086bcc",
+      "message": "fix(engine): a 0 handle from a nullable ): object registry return boxes as null",
+      "author": "Daniel",
+      "date": "2026-07-12T01:07:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7086bccf0e7f0c4434954998e9c10a46e8133767"
+    },
+    {
+      "sha": "ee4b12211fbc3136d25657a0006e0a865aab0454",
+      "short": "ee4b122",
+      "message": "feat(node): complete fs sync metadata surface (symlink/chown/fchmod family)",
+      "author": "Daniel",
+      "date": "2026-07-12T00:52:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee4b12211fbc3136d25657a0006e0a865aab0454"
+    },
+    {
+      "sha": "54fb67888788860c8ec59afd60182f0c5a0d7d99",
+      "short": "54fb678",
+      "message": "fix(linker): link iphlpapi for AOT (node:os networkInterfaces)",
+      "author": "Daniel",
+      "date": "2026-07-12T00:45:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54fb67888788860c8ec59afd60182f0c5a0d7d99"
+    },
     {
       "sha": "5b26b56330a28278495cabb0f2af4e30fd2131fa",
       "short": "5b26b56",
@@ -72,94 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-11T21:12:15Z",
       "url": "https://github.com/UrubuCode/rts/commit/b872526758a824f80a91006b7e14794b3a92e046"
-    },
-    {
-      "sha": "74b025c0d137ee573d728e65921ea60990b17322",
-      "short": "74b025c",
-      "message": "feat(node): hash.update(data, inputEncoding)",
-      "author": "Daniel",
-      "date": "2026-07-11T21:05:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74b025c0d137ee573d728e65921ea60990b17322"
-    },
-    {
-      "sha": "7cc1021798f7636d234bdb6441dd28096ba7df63",
-      "short": "7cc1021",
-      "message": "refactor(node): standardize Win32 HANDLE FFI on isize",
-      "author": "Daniel",
-      "date": "2026-07-11T20:58:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7cc1021798f7636d234bdb6441dd28096ba7df63"
-    },
-    {
-      "sha": "aee2163b15c97c334dc5caf5bd46480ed31113fd",
-      "short": "aee2163",
-      "message": "feat(node): Buffer.concat(list, totalLength)",
-      "author": "Daniel",
-      "date": "2026-07-11T20:51:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aee2163b15c97c334dc5caf5bd46480ed31113fd"
-    },
-    {
-      "sha": "9df5bebd7685ef71c092eebd0d32e5bc689e014e",
-      "short": "9df5beb",
-      "message": "feat(node): fs utf16le/ucs2 encoding (read + write)",
-      "author": "Daniel",
-      "date": "2026-07-11T20:45:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9df5bebd7685ef71c092eebd0d32e5bc689e014e"
-    },
-    {
-      "sha": "01429d670bd0a589d6e547fa6d4d57f6f592e81e",
-      "short": "01429d6",
-      "message": "feat(node): Buffer.from utf16le/ucs2 encoding",
-      "author": "Daniel",
-      "date": "2026-07-11T20:40:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01429d670bd0a589d6e547fa6d4d57f6f592e81e"
-    },
-    {
-      "sha": "227f2b1a9e2f745f809c8da405a71405a456c063",
-      "short": "227f2b1",
-      "message": "feat(node): Buffer.byteLength(string, encoding)",
-      "author": "Daniel",
-      "date": "2026-07-11T20:35:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/227f2b1a9e2f745f809c8da405a71405a456c063"
-    },
-    {
-      "sha": "3653c1caef601da482b8673433419e65aaa9fdb8",
-      "short": "3653c1c",
-      "message": "feat(node): crypto RIPEMD-160",
-      "author": "Daniel",
-      "date": "2026-07-11T20:30:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3653c1caef601da482b8673433419e65aaa9fdb8"
-    },
-    {
-      "sha": "9afd5d9f0129877b1d3d4325a9e93c5f9e4318d9",
-      "short": "9afd5d9",
-      "message": "feat(node): crypto SHA-512/256 + SHA-512/224",
-      "author": "Daniel",
-      "date": "2026-07-11T20:23:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9afd5d9f0129877b1d3d4325a9e93c5f9e4318d9"
-    },
-    {
-      "sha": "01441778c5cedcdfa2798c5352a66781634fd5bc",
-      "short": "0144177",
-      "message": "refactor(node): extract fs encoding helpers into fs/codec.rs",
-      "author": "Daniel",
-      "date": "2026-07-11T20:16:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01441778c5cedcdfa2798c5352a66781634fd5bc"
-    },
-    {
-      "sha": "d3a39d42bed80fadd6fbdb6cccbf3e85a101fc7b",
-      "short": "d3a39d4",
-      "message": "feat(node): fs.appendFileSync(path, data, encoding)",
-      "author": "Daniel",
-      "date": "2026-07-11T20:10:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3a39d42bed80fadd6fbdb6cccbf3e85a101fc7b"
-    },
-    {
-      "sha": "392cd2b2408dd90aceebe12a6e5e13c9fbe5bc50",
-      "short": "392cd2b",
-      "message": "feat(node): fs.writeFileSync(path, data, encoding)",
-      "author": "Daniel",
-      "date": "2026-07-11T20:07:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/392cd2b2408dd90aceebe12a6e5e13c9fbe5bc50"
     }
   ]
 }
