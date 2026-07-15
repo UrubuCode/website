@@ -1,6 +1,158 @@
 {
-  "total": 3567,
+  "total": 3586,
   "commits": [
+    {
+      "sha": "156ba156a947ee03a73a6e3de69db734c540b21b",
+      "short": "156ba15",
+      "message": "Merge: fetch binário (download de imagens)",
+      "author": "Marcos",
+      "date": "2026-07-15T00:51:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/156ba156a947ee03a73a6e3de69db734c540b21b"
+    },
+    {
+      "sha": "013fcdd9594529428bacb339e3f7ab6ea5cb9462",
+      "short": "013fcdd",
+      "message": "feat(fetch): fetchBytesAsync — download binário (bytes crus) para imagens",
+      "author": "Marcos",
+      "date": "2026-07-15T00:51:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/013fcdd9594529428bacb339e3f7ab6ea5cb9462"
+    },
+    {
+      "sha": "89952e469fa80936a9888089be0a8977a564c9e7",
+      "short": "89952e4",
+      "message": "Merge: decodificação de imagem (PNG/JPG/GIF/WebP) + GIF animado",
+      "author": "Marcos",
+      "date": "2026-07-15T00:40:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89952e469fa80936a9888089be0a8977a564c9e7"
+    },
+    {
+      "sha": "3fd3100b168788686061a1c186d49698063243bf",
+      "short": "3fd3100",
+      "message": "feat(imgdec): decodificação de imagem (PNG/JPEG/GIF/WebP) + GIF animado",
+      "author": "Marcos",
+      "date": "2026-07-15T00:40:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3fd3100b168788686061a1c186d49698063243bf"
+    },
+    {
+      "sha": "680d5c30b92d04e879edf8e7ec33ccdec53d1061",
+      "short": "680d5c3",
+      "message": "Merge: clipboard + fix handle-param + home de apresentação",
+      "author": "Marcos",
+      "date": "2026-07-15T00:12:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/680d5c30b92d04e879edf8e7ec33ccdec53d1061"
+    },
+    {
+      "sha": "1146af00be06063b8a1602ddee8da82ed1607ec5",
+      "short": "1146af0",
+      "message": "feat(browser): Ctrl+C/V (clipboard) + fix handle-param + home de apresentação",
+      "author": "Marcos",
+      "date": "2026-07-15T00:12:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1146af00be06063b8a1602ddee8da82ed1607ec5"
+    },
+    {
+      "sha": "4b8729911878e7d29f81a5cad9c4afdd3cb26c61",
+      "short": "4b87299",
+      "message": "Merge: fetch assíncrono (UI não congela no download)",
+      "author": "Marcos",
+      "date": "2026-07-14T23:44:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4b8729911878e7d29f81a5cad9c4afdd3cb26c61"
+    },
+    {
+      "sha": "9522d13dd33e701ca9c2af9b82f0b9a9ff23cffb",
+      "short": "9522d13",
+      "message": "feat(fetch): fetch assíncrono — a UI do browser nunca mais congela no download",
+      "author": "Marcos",
+      "date": "2026-07-14T23:44:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9522d13dd33e701ca9c2af9b82f0b9a9ff23cffb"
+    },
+    {
+      "sha": "92c221a311fce0db3832f518c900800bba19a3b6",
+      "short": "92c221a",
+      "message": "Merge: fix tela branca/travamento do browser (feedback Carregando)",
+      "author": "Marcos",
+      "date": "2026-07-14T22:59:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/92c221a311fce0db3832f518c900800bba19a3b6"
+    },
+    {
+      "sha": "185a423a2be3c07fabe186e24be517f585804e04",
+      "short": "185a423",
+      "message": "fix(browser): tela branca / travamento no fetch — feedback 'Carregando' + boot instantâneo",
+      "author": "Marcos",
+      "date": "2026-07-14T22:59:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/185a423a2be3c07fabe186e24be517f585804e04"
+    },
+    {
+      "sha": "2238501ef10261b6722ec078deec5ab5861885cb",
+      "short": "2238501",
+      "message": "Merge: getter de transition",
+      "author": "Marcos",
+      "date": "2026-07-14T22:47:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2238501ef10261b6722ec078deec5ab5861885cb"
+    },
+    {
+      "sha": "f91c7c715b482301883c038db46cb436b397b5d6",
+      "short": "f91c7c7",
+      "message": "feat(rts-dom): getter de transition em computedProperty",
+      "author": "Marcos",
+      "date": "2026-07-14T22:47:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f91c7c715b482301883c038db46cb436b397b5d6"
+    },
+    {
+      "sha": "cbd0f59ffb0e640559a455d4f3b2958eb57a8ca2",
+      "short": "cbd0f59",
+      "message": "Merge: z-index (empilhamento de elementos posicionados)",
+      "author": "Marcos",
+      "date": "2026-07-14T22:39:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cbd0f59ffb0e640559a455d4f3b2958eb57a8ca2"
+    },
+    {
+      "sha": "dfc9c257cf9092fdf535ce19542a2b9334b4abbc",
+      "short": "dfc9c25",
+      "message": "feat(rts-dom): z-index — ordem de empilhamento dos elementos posicionados",
+      "author": "Marcos",
+      "date": "2026-07-14T22:39:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dfc9c257cf9092fdf535ce19542a2b9334b4abbc"
+    },
+    {
+      "sha": "2009f7f0816627627c53f7cdb53c553401e0dc0a",
+      "short": "2009f7f",
+      "message": "Merge: transform + letter-spacing/text-decoration + aspect-ratio",
+      "author": "Marcos",
+      "date": "2026-07-14T22:36:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2009f7f0816627627c53f7cdb53c553401e0dc0a"
+    },
+    {
+      "sha": "c7b8b3fe38e40f4fd40f50c445e38e6620acae9d",
+      "short": "c7b8b3f",
+      "message": "feat(rts-dom): transform, letter-spacing/text-decoration, aspect-ratio",
+      "author": "Marcos",
+      "date": "2026-07-14T22:36:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7b8b3fe38e40f4fd40f50c445e38e6620acae9d"
+    },
+    {
+      "sha": "d0107288e59304875657fee4dc9a20f1a15a1713",
+      "short": "d010728",
+      "message": "Merge: mini-browser (input editável + fetch) + motor CSS Tailwind v4 + perf 60×",
+      "author": "Marcos",
+      "date": "2026-07-14T22:08:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0107288e59304875657fee4dc9a20f1a15a1713"
+    },
+    {
+      "sha": "19424ddcd84390edac36051be889e7f96dd28cf9",
+      "short": "19424dd",
+      "message": "feat(rts-dom): input editável + perf da cascade (60×) + CSS moderno (Tailwind v4)",
+      "author": "Marcos",
+      "date": "2026-07-14T22:07:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/19424ddcd84390edac36051be889e7f96dd28cf9"
+    },
+    {
+      "sha": "29e069eb8e5d120e8b780cdfa2c4e85f9408e0a4",
+      "short": "29e069e",
+      "message": "feat(browser): mini-browser (input editável + fetch real) + ligar fetch ao motor",
+      "author": "Marcos",
+      "date": "2026-07-14T22:07:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29e069eb8e5d120e8b780cdfa2c4e85f9408e0a4"
+    },
     {
       "sha": "e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f",
       "short": "e10f29c",
@@ -8,158 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-12T02:33:54Z",
       "url": "https://github.com/UrubuCode/rts/commit/e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f"
-    },
-    {
-      "sha": "d2be4cb48d84d4de5bda487be580200cb6189313",
-      "short": "d2be4cb",
-      "message": "feat(node): fs.watch + FSWatcher — real OS filesystem notifications",
-      "author": "Daniel",
-      "date": "2026-07-12T02:16:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d2be4cb48d84d4de5bda487be580200cb6189313"
-    },
-    {
-      "sha": "177b2f672a0cdb8a786ee17a71458bae344408c2",
-      "short": "177b2f6",
-      "message": "fix(engine): obj_get reads a stored f64-bits Map value, not as a bogus handle",
-      "author": "Daniel",
-      "date": "2026-07-12T01:53:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/177b2f672a0cdb8a786ee17a71458bae344408c2"
-    },
-    {
-      "sha": "b20bb7729f697a6c944b031116353a68e83d794f",
-      "short": "b20bb77",
-      "message": "feat(node): fs.promises.open + FileHandle class",
-      "author": "Daniel",
-      "date": "2026-07-12T01:42:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b20bb7729f697a6c944b031116353a68e83d794f"
-    },
-    {
-      "sha": "5ce65db86f848beb0ec3016c89d5fbecffbf09c9",
-      "short": "5ce65db",
-      "message": "feat(node): node:fs/promises — the Promise-returning fs surface",
-      "author": "Daniel",
-      "date": "2026-07-12T01:37:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ce65db86f848beb0ec3016c89d5fbecffbf09c9"
-    },
-    {
-      "sha": "2d6c72c469042d8f75e824b9505d6b9b69e46e0f",
-      "short": "2d6c72c",
-      "message": "feat(node): fs callback (err-first) forms for the core functions",
-      "author": "Daniel",
-      "date": "2026-07-12T01:26:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d6c72c469042d8f75e824b9505d6b9b69e46e0f"
-    },
-    {
-      "sha": "e65549391f7ca9dca3b103e38b0b20603b36047f",
-      "short": "e655493",
-      "message": "feat(node): fs.globSync — filesystem glob matching",
-      "author": "Daniel",
-      "date": "2026-07-12T01:11:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e65549391f7ca9dca3b103e38b0b20603b36047f"
-    },
-    {
-      "sha": "6eb230b00069f7e368f0f26bd24f27129460807f",
-      "short": "6eb230b",
-      "message": "feat(node): fs opendirSync/Dir + readvSync/writevSync",
-      "author": "Daniel",
-      "date": "2026-07-12T01:07:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6eb230b00069f7e368f0f26bd24f27129460807f"
-    },
-    {
-      "sha": "7086bccf0e7f0c4434954998e9c10a46e8133767",
-      "short": "7086bcc",
-      "message": "fix(engine): a 0 handle from a nullable ): object registry return boxes as null",
-      "author": "Daniel",
-      "date": "2026-07-12T01:07:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7086bccf0e7f0c4434954998e9c10a46e8133767"
-    },
-    {
-      "sha": "ee4b12211fbc3136d25657a0006e0a865aab0454",
-      "short": "ee4b122",
-      "message": "feat(node): complete fs sync metadata surface (symlink/chown/fchmod family)",
-      "author": "Daniel",
-      "date": "2026-07-12T00:52:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ee4b12211fbc3136d25657a0006e0a865aab0454"
-    },
-    {
-      "sha": "54fb67888788860c8ec59afd60182f0c5a0d7d99",
-      "short": "54fb678",
-      "message": "fix(linker): link iphlpapi for AOT (node:os networkInterfaces)",
-      "author": "Daniel",
-      "date": "2026-07-12T00:45:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54fb67888788860c8ec59afd60182f0c5a0d7d99"
-    },
-    {
-      "sha": "5b26b56330a28278495cabb0f2af4e30fd2131fa",
-      "short": "5b26b56",
-      "message": "feat(node): fs.Dirent class + readdirSync(path, { withFileTypes: true })",
-      "author": "Daniel",
-      "date": "2026-07-12T00:35:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5b26b56330a28278495cabb0f2af4e30fd2131fa"
-    },
-    {
-      "sha": "cd1551d45ee1c94963553acd48bdf3acd135021f",
-      "short": "cd1551d",
-      "message": "feat(node): complete the fs.Stats class surface",
-      "author": "Daniel",
-      "date": "2026-07-12T00:22:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd1551d45ee1c94963553acd48bdf3acd135021f"
-    },
-    {
-      "sha": "f8f9e88985bcc41b3c6d0b771aef165adb225dad",
-      "short": "f8f9e88",
-      "message": "feat(engine): object-backed method dispatch survives user-class name collisions",
-      "author": "Daniel",
-      "date": "2026-07-11T23:56:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f8f9e88985bcc41b3c6d0b771aef165adb225dad"
-    },
-    {
-      "sha": "c8acbdc0c437ebb73553568b9921c8703cbdd65b",
-      "short": "c8acbdc",
-      "message": "feat(engine): runtime dispatch of object-backed class methods on untracked receivers",
-      "author": "Daniel",
-      "date": "2026-07-11T23:11:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8acbdc0c437ebb73553568b9921c8703cbdd65b"
-    },
-    {
-      "sha": "ddcc3619753486d80c720b7b2b87fc8a4929b558",
-      "short": "ddcc361",
-      "message": "fix(node): process free-memory probe builds on macOS (libc::sysinfo is Linux-only)",
-      "author": "Daniel",
-      "date": "2026-07-11T23:11:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddcc3619753486d80c720b7b2b87fc8a4929b558"
-    },
-    {
-      "sha": "0a7fba20fe0f4e81836839d02814edf907cfb6d7",
-      "short": "0a7fba2",
-      "message": "fix(node): Buffer.alloc/allocUnsafe throw RangeError on negative size",
-      "author": "Daniel",
-      "date": "2026-07-11T21:30:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0a7fba20fe0f4e81836839d02814edf907cfb6d7"
-    },
-    {
-      "sha": "e1f2611a95ed70bc956a07525a08ded0d485693d",
-      "short": "e1f2611",
-      "message": "fix(node): crypto.randomBytes throws RangeError on negative size",
-      "author": "Daniel",
-      "date": "2026-07-11T21:24:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1f2611a95ed70bc956a07525a08ded0d485693d"
-    },
-    {
-      "sha": "fad9793c9a358eba7726a8b840b87a65e2628a29",
-      "short": "fad9793",
-      "message": "feat(node): hash.copy()",
-      "author": "Daniel",
-      "date": "2026-07-11T21:18:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fad9793c9a358eba7726a8b840b87a65e2628a29"
-    },
-    {
-      "sha": "b872526758a824f80a91006b7e14794b3a92e046",
-      "short": "b872526",
-      "message": "feat(node): util.format %j does JSON.stringify",
-      "author": "Daniel",
-      "date": "2026-07-11T21:12:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b872526758a824f80a91006b7e14794b3a92e046"
     }
   ]
 }
