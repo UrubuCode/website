@@ -1,6 +1,30 @@
 {
-  "total": 3586,
+  "total": 3589,
   "commits": [
+    {
+      "sha": "16f997c4a0c26b720eaf5bc51c4ddc621e4c6a21",
+      "short": "16f997c",
+      "message": "feat(browser): carrega e mostra imagens dos sites (<img src>)",
+      "author": "Marcos",
+      "date": "2026-07-15T01:58:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/16f997c4a0c26b720eaf5bc51c4ddc621e4c6a21"
+    },
+    {
+      "sha": "032b356dc5045172bbf7a2fd67e73fee2a059781",
+      "short": "032b356",
+      "message": "Merge: <img> renderizado pelo motor (pipeline de imagem completo)",
+      "author": "Marcos",
+      "date": "2026-07-15T01:55:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/032b356dc5045172bbf7a2fd67e73fee2a059781"
+    },
+    {
+      "sha": "7286acfaa65c8b0f1085b071cb81a02fa81d903e",
+      "short": "7286acf",
+      "message": "feat(dom): <img> renderizado pelo motor — pipeline de imagem completo",
+      "author": "Marcos",
+      "date": "2026-07-15T01:55:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7286acfaa65c8b0f1085b071cb81a02fa81d903e"
+    },
     {
       "sha": "156ba156a947ee03a73a6e3de69db734c540b21b",
       "short": "156ba15",
@@ -136,30 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-14T22:08:26Z",
       "url": "https://github.com/UrubuCode/rts/commit/d0107288e59304875657fee4dc9a20f1a15a1713"
-    },
-    {
-      "sha": "19424ddcd84390edac36051be889e7f96dd28cf9",
-      "short": "19424dd",
-      "message": "feat(rts-dom): input editável + perf da cascade (60×) + CSS moderno (Tailwind v4)",
-      "author": "Marcos",
-      "date": "2026-07-14T22:07:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/19424ddcd84390edac36051be889e7f96dd28cf9"
-    },
-    {
-      "sha": "29e069eb8e5d120e8b780cdfa2c4e85f9408e0a4",
-      "short": "29e069e",
-      "message": "feat(browser): mini-browser (input editável + fetch real) + ligar fetch ao motor",
-      "author": "Marcos",
-      "date": "2026-07-14T22:07:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29e069eb8e5d120e8b780cdfa2c4e85f9408e0a4"
-    },
-    {
-      "sha": "e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f",
-      "short": "e10f29c",
-      "message": "feat(node): fs.watchFile / unwatchFile — completing the node:fs module",
-      "author": "Daniel",
-      "date": "2026-07-12T02:33:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e10f29c145cc62d9b9da3caa1ae8d3efeee47f6f"
     }
   ]
 }
