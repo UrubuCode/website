@@ -1,6 +1,14 @@
 {
-  "total": 3589,
+  "total": 3590,
   "commits": [
+    {
+      "sha": "d16635cef695c819c2a36171c42183eff031334a",
+      "short": "d16635c",
+      "message": "fix(dom): setInnerHTML/setText desanexam filhos velhos dos índices",
+      "author": "Marcos",
+      "date": "2026-07-16T16:24:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d16635cef695c819c2a36171c42183eff031334a"
+    },
     {
       "sha": "16f997c4a0c26b720eaf5bc51c4ddc621e4c6a21",
       "short": "16f997c",
@@ -152,14 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-14T22:36:31Z",
       "url": "https://github.com/UrubuCode/rts/commit/c7b8b3fe38e40f4fd40f50c445e38e6620acae9d"
-    },
-    {
-      "sha": "d0107288e59304875657fee4dc9a20f1a15a1713",
-      "short": "d010728",
-      "message": "Merge: mini-browser (input editável + fetch) + motor CSS Tailwind v4 + perf 60×",
-      "author": "Marcos",
-      "date": "2026-07-14T22:08:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0107288e59304875657fee4dc9a20f1a15a1713"
     }
   ]
 }
