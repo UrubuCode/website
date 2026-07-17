@@ -1,6 +1,38 @@
 {
-  "total": 3620,
+  "total": 3624,
   "commits": [
+    {
+      "sha": "9f1c4e8afcc3b7b911da9aac5bb83123394a8489",
+      "short": "9f1c4e8",
+      "message": "feat(dom): runScripts executa <script src=data:...> (base64/texto) (#1910)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T18:54:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9f1c4e8afcc3b7b911da9aac5bb83123394a8489"
+    },
+    {
+      "sha": "f9abd15727da1b174077a0aa7f36c28d77cf7168",
+      "short": "f9abd15",
+      "message": "feat(ws): WebSocket client (RFC 6455) — namespace rts:ws sobre TCP/TLS (#1909)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T18:28:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9abd15727da1b174077a0aa7f36c28d77cf7168"
+    },
+    {
+      "sha": "81501fb114b83cf3ab982763a24a1199d3494e93",
+      "short": "81501fb",
+      "message": "fix(dom): runScripts só executa JAVASCRIPT — pula type=application/json etc. (#1908)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T17:37:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81501fb114b83cf3ab982763a24a1199d3494e93"
+    },
+    {
+      "sha": "36e3ede14cc98ead9ba887db12a5ee630678ceb6",
+      "short": "36e3ede",
+      "message": "feat(fetch): headers Sec-Fetch-* (destrava WhatsApp Web) + overrides de request pelo TS (#1907)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T17:30:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36e3ede14cc98ead9ba887db12a5ee630678ceb6"
+    },
     {
       "sha": "5d357f8f0c7cc47479e48ce9b8885b632387bef6",
       "short": "5d357f8",
@@ -128,38 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-17T02:27:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/5efc204562f5ece8b4398ce87c3b0ecd6f78bb8e"
-    },
-    {
-      "sha": "0b57d8256124541c8dfa57fce8fdf66299e88457",
-      "short": "0b57d82",
-      "message": "fix(fetch+render): charset ISO-8859-1/cp1252 no fetch + canvas branco na viewport (#1892)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:14:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b57d8256124541c8dfa57fce8fdf66299e88457"
-    },
-    {
-      "sha": "e641f2e92d4bf9f7dedcd4ad3251546ea6a97303",
-      "short": "e641f2e",
-      "message": "fix(dom): entidades HTML nomeadas comuns (&copy; &mdash; &hellip; ...) (#1891)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:03:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e641f2e92d4bf9f7dedcd4ad3251546ea6a97303"
-    },
-    {
-      "sha": "c2fb9207949e7d933fdac510a12f7d8b8e867bb1",
-      "short": "c2fb920",
-      "message": "fix(dom): JS não vaza como texto pintado + serialize cru de <script>/<style> + browser executa scripts (#1890)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T01:51:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2fb9207949e7d933fdac510a12f7d8b8e867bb1"
-    },
-    {
-      "sha": "77ed65cd818c7343fd351a667df576315e283158",
-      "short": "77ed65c",
-      "message": "feat(engine): async function DENTRO do <script> roda — fatia 2 do #207 (#1889)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T01:31:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/77ed65cd818c7343fd351a667df576315e283158"
     }
   ]
 }
