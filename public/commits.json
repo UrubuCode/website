@@ -1,6 +1,14 @@
 {
-  "total": 3618,
+  "total": 3620,
   "commits": [
+    {
+      "sha": "5d357f8f0c7cc47479e48ce9b8885b632387bef6",
+      "short": "5d357f8",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-07-17T04:57:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d357f8f0c7cc47479e48ce9b8885b632387bef6"
+    },
     {
       "sha": "ef62b95a0b38409397809e6c7229891c3291b35e",
       "short": "ef62b95",
@@ -8,6 +16,14 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-17T04:57:48Z",
       "url": "https://github.com/UrubuCode/rts/commit/ef62b95a0b38409397809e6c7229891c3291b35e"
+    },
+    {
+      "sha": "7e96cd1440dff6c864bee378b6ebabfc178cad37",
+      "short": "7e96cd1",
+      "message": "docs(dom): demo de render (hero+gradiente+grid+cards+footer) — paridade com Chrome",
+      "author": "Marcos",
+      "date": "2026-07-17T04:57:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e96cd1440dff6c864bee378b6ebabfc178cad37"
     },
     {
       "sha": "5dff21ec442178bb8b83a2f7c3d5d326259993a3",
@@ -144,22 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-17T01:31:41Z",
       "url": "https://github.com/UrubuCode/rts/commit/77ed65cd818c7343fd351a667df576315e283158"
-    },
-    {
-      "sha": "01412ef2620ad75a3ef945c7a1c42ffd99ae8475",
-      "short": "01412ef",
-      "message": "feat(engine): .then/.catch/.finally sobre chamada async + flag async no Arrow do HIR (#1888)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T00:54:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01412ef2620ad75a3ef945c7a1c42ffd99ae8475"
-    },
-    {
-      "sha": "0b49a094a8ffcc9b03e0df8abd03733f090f96a1",
-      "short": "0b49a09",
-      "message": "feat(dom+egui): :hover VIVO — o mouse sobre um elemento aplica as regras :hover (#1887)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T00:16:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b49a094a8ffcc9b03e0df8abd03733f090f96a1"
     }
   ]
 }
