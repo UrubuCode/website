@@ -1,6 +1,134 @@
 {
-  "total": 3602,
+  "total": 3618,
   "commits": [
+    {
+      "sha": "ef62b95a0b38409397809e6c7229891c3291b35e",
+      "short": "ef62b95",
+      "message": "docs(dom): demo de render (hero+gradiente+grid+cards+footer) — paridade com Chrome (#1906)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T04:57:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef62b95a0b38409397809e6c7229891c3291b35e"
+    },
+    {
+      "sha": "5dff21ec442178bb8b83a2f7c3d5d326259993a3",
+      "short": "5dff21e",
+      "message": "feat(dom): <svg> reserva a caixa (placeholder) — as caixas dos ícones/logo ocupam o espaço (#1905)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T04:50:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5dff21ec442178bb8b83a2f7c3d5d326259993a3"
+    },
+    {
+      "sha": "b3cc3a8118057e74147e810ef3ec1dc607f9027b",
+      "short": "b3cc3a8",
+      "message": "docs(dom): página de teste de paridade de layout (grid/flex/absolute/inline-block) (#1904)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T04:29:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b3cc3a8118057e74147e810ef3ec1dc607f9027b"
+    },
+    {
+      "sha": "e1e0eb085caf819838e70708492be4a05a68fd39",
+      "short": "e1e0eb0",
+      "message": "feat(dom): CSS Grid REAL — track-sizing (px/fr/auto/%) + auto-placement + cell align (#1903)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T04:21:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1e0eb085caf819838e70708492be4a05a68fd39"
+    },
+    {
+      "sha": "03ac8fda857d29e298e84628a876955f9c6d46d6",
+      "short": "03ac8fd",
+      "message": "feat(dom): calc() em height resolve o % contra a ALTURA (+ max-height propaga como CB) (#1902)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T04:03:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/03ac8fda857d29e298e84628a876955f9c6d46d6"
+    },
+    {
+      "sha": "2a1d5c2a9f45aa8fe1d0a388fc11b55b0993efd6",
+      "short": "2a1d5c2",
+      "message": "feat(dom): flex-grow no eixo VERTICAL + height:100% resolve contra o item crescido (#1901)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T03:52:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a1d5c2a9f45aa8fe1d0a388fc11b55b0993efd6"
+    },
+    {
+      "sha": "b25968d99d316db18dec23720ce0c199c32d1a42",
+      "short": "b25968d",
+      "message": "feat(dom): dumpTree — árvore com rect por nó (diagnóstico de paridade) (#1900)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T03:42:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b25968d99d316db18dec23720ce0c199c32d1a42"
+    },
+    {
+      "sha": "16ff9c21e5505bcbacc1567bae264f8e3056e6b7",
+      "short": "16ff9c2",
+      "message": "feat(dom): position:absolute ancora no containing block (não no viewport) (#1899)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T03:24:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/16ff9c21e5505bcbacc1567bae264f8e3056e6b7"
+    },
+    {
+      "sha": "821381fc9852956ced2d351081a4295fdc5de56c",
+      "short": "821381f",
+      "message": "feat(dom): inline-blocks consecutivos fluem LADO A LADO (botões do google) (#1898)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T03:17:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/821381fc9852956ced2d351081a4295fdc5de56c"
+    },
+    {
+      "sha": "5552db1348ffad73499b386c4006c724fc8d2bfa",
+      "short": "5552db1",
+      "message": "feat(fetch): mini-browser se identifica como navegador (UA + Accept) (#1897)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T03:01:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5552db1348ffad73499b386c4006c724fc8d2bfa"
+    },
+    {
+      "sha": "6d86f56e0c3f53ea86037331bd432e5a1d8b29b6",
+      "short": "6d86f56",
+      "message": "feat(dom): <a> azul+sublinhado (UA) + decoração POR RUN no inline-flow (#1896)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:51:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6d86f56e0c3f53ea86037331bd432e5a1d8b29b6"
+    },
+    {
+      "sha": "fdf03e2b95f5d0bba79c42ad320a34d87599010d",
+      "short": "fdf03e2",
+      "message": "feat(dom): unidades pt/pc (font-size:10pt do rodapé legado do google) (#1895)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:41:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fdf03e2b95f5d0bba79c42ad320a34d87599010d"
+    },
+    {
+      "sha": "9254b7ed65e07d87d2db6208b54438c16ff286d5",
+      "short": "9254b7e",
+      "message": "feat(dom): WIDGETS no inline-flow — input botão/campo flui na linha (item 8 #1793) (#1894)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:34:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9254b7ed65e07d87d2db6208b54438c16ff286d5"
+    },
+    {
+      "sha": "5efc204562f5ece8b4398ce87c3b0ecd6f78bb8e",
+      "short": "5efc204",
+      "message": "feat(dom): <center> + input hidden/submit — o HTML legado renderiza decente (#1893)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:27:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5efc204562f5ece8b4398ce87c3b0ecd6f78bb8e"
+    },
+    {
+      "sha": "0b57d8256124541c8dfa57fce8fdf66299e88457",
+      "short": "0b57d82",
+      "message": "fix(fetch+render): charset ISO-8859-1/cp1252 no fetch + canvas branco na viewport (#1892)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:14:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b57d8256124541c8dfa57fce8fdf66299e88457"
+    },
+    {
+      "sha": "e641f2e92d4bf9f7dedcd4ad3251546ea6a97303",
+      "short": "e641f2e",
+      "message": "fix(dom): entidades HTML nomeadas comuns (&copy; &mdash; &hellip; ...) (#1891)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T02:03:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e641f2e92d4bf9f7dedcd4ad3251546ea6a97303"
+    },
     {
       "sha": "c2fb9207949e7d933fdac510a12f7d8b8e867bb1",
       "short": "c2fb920",
@@ -32,134 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-17T00:16:45Z",
       "url": "https://github.com/UrubuCode/rts/commit/0b49a094a8ffcc9b03e0df8abd03733f090f96a1"
-    },
-    {
-      "sha": "75abfe97cb3655233646e505b4ed2ff511b7d960",
-      "short": "75abfe9",
-      "message": "feat(dom): recursos http(s) REAIS — <link>/<script src> baixam de CDN (#1886)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T00:00:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75abfe97cb3655233646e505b4ed2ff511b7d960"
-    },
-    {
-      "sha": "3fbfc84d626d3f0ab0d2c86b58da8fa335f08cee",
-      "short": "3fbfc84",
-      "message": "feat(dom+egui): clique REAL do mouse chega no addEventListener da página (#1885)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-16T23:45:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3fbfc84d626d3f0ab0d2c86b58da8fa335f08cee"
-    },
-    {
-      "sha": "9f1ed252e25d1a0dd66577f8f462b5379d0b9e2d",
-      "short": "9f1ed25",
-      "message": "feat(dom+engine): addEventListener com CALLBACK real — modelo de eventos do browser (#1884)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-16T23:23:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f1ed252e25d1a0dd66577f8f462b5379d0b9e2d"
-    },
-    {
-      "sha": "d6c8de04ba64aa18dbb25b73fb05dfd837ce4336",
-      "short": "d6c8de0",
-      "message": "test(cross-runtime): 68 fixtures focadas (uma coisa por arquivo) em 10 areas",
-      "author": "Marcos",
-      "date": "2026-07-16T21:54:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6c8de04ba64aa18dbb25b73fb05dfd837ce4336"
-    },
-    {
-      "sha": "72a3e37be31ac16d253bc10656f38665b9d59f75",
-      "short": "72a3e37",
-      "message": "feat(engine): new Function fala a ABI uniforme — JS sem tipos roda no <script> (#1883)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-16T21:53:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/72a3e37be31ac16d253bc10656f38665b9d59f75"
-    },
-    {
-      "sha": "26074f6fb331376b442bca7bd969fca4f817dee9",
-      "short": "26074f6",
-      "message": "feat(dom+engine): bloco <script> da página executa in-process + setters dinâmicos (#1882)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-16T21:24:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26074f6fb331376b442bca7bd969fca4f817dee9"
-    },
-    {
-      "sha": "a630ec3ae1d86ba0c9c8fd620d0022914c5478b0",
-      "short": "a630ec3",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-16T21:10:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a630ec3ae1d86ba0c9c8fd620d0022914c5478b0"
-    },
-    {
-      "sha": "9917d4cd8780a58345b75441da39b1e4e78f32ea",
-      "short": "9917d4c",
-      "message": "feat(node): node:dgram — UDP sockets, complete",
-      "author": "Daniel",
-      "date": "2026-07-16T20:59:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9917d4cd8780a58345b75441da39b1e4e78f32ea"
-    },
-    {
-      "sha": "d16635cef695c819c2a36171c42183eff031334a",
-      "short": "d16635c",
-      "message": "fix(dom): setInnerHTML/setText desanexam filhos velhos dos índices",
-      "author": "Marcos",
-      "date": "2026-07-16T16:24:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d16635cef695c819c2a36171c42183eff031334a"
-    },
-    {
-      "sha": "16f997c4a0c26b720eaf5bc51c4ddc621e4c6a21",
-      "short": "16f997c",
-      "message": "feat(browser): carrega e mostra imagens dos sites (<img src>)",
-      "author": "Marcos",
-      "date": "2026-07-15T01:58:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/16f997c4a0c26b720eaf5bc51c4ddc621e4c6a21"
-    },
-    {
-      "sha": "032b356dc5045172bbf7a2fd67e73fee2a059781",
-      "short": "032b356",
-      "message": "Merge: <img> renderizado pelo motor (pipeline de imagem completo)",
-      "author": "Marcos",
-      "date": "2026-07-15T01:55:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/032b356dc5045172bbf7a2fd67e73fee2a059781"
-    },
-    {
-      "sha": "7286acfaa65c8b0f1085b071cb81a02fa81d903e",
-      "short": "7286acf",
-      "message": "feat(dom): <img> renderizado pelo motor — pipeline de imagem completo",
-      "author": "Marcos",
-      "date": "2026-07-15T01:55:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7286acfaa65c8b0f1085b071cb81a02fa81d903e"
-    },
-    {
-      "sha": "156ba156a947ee03a73a6e3de69db734c540b21b",
-      "short": "156ba15",
-      "message": "Merge: fetch binário (download de imagens)",
-      "author": "Marcos",
-      "date": "2026-07-15T00:51:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/156ba156a947ee03a73a6e3de69db734c540b21b"
-    },
-    {
-      "sha": "013fcdd9594529428bacb339e3f7ab6ea5cb9462",
-      "short": "013fcdd",
-      "message": "feat(fetch): fetchBytesAsync — download binário (bytes crus) para imagens",
-      "author": "Marcos",
-      "date": "2026-07-15T00:51:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/013fcdd9594529428bacb339e3f7ab6ea5cb9462"
-    },
-    {
-      "sha": "89952e469fa80936a9888089be0a8977a564c9e7",
-      "short": "89952e4",
-      "message": "Merge: decodificação de imagem (PNG/JPG/GIF/WebP) + GIF animado",
-      "author": "Marcos",
-      "date": "2026-07-15T00:40:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89952e469fa80936a9888089be0a8977a564c9e7"
-    },
-    {
-      "sha": "3fd3100b168788686061a1c186d49698063243bf",
-      "short": "3fd3100",
-      "message": "feat(imgdec): decodificação de imagem (PNG/JPEG/GIF/WebP) + GIF animado",
-      "author": "Marcos",
-      "date": "2026-07-15T00:40:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3fd3100b168788686061a1c186d49698063243bf"
     }
   ]
 }
