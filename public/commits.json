@@ -1,6 +1,102 @@
 {
-  "total": 3590,
+  "total": 3602,
   "commits": [
+    {
+      "sha": "c2fb9207949e7d933fdac510a12f7d8b8e867bb1",
+      "short": "c2fb920",
+      "message": "fix(dom): JS não vaza como texto pintado + serialize cru de <script>/<style> + browser executa scripts (#1890)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T01:51:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2fb9207949e7d933fdac510a12f7d8b8e867bb1"
+    },
+    {
+      "sha": "77ed65cd818c7343fd351a667df576315e283158",
+      "short": "77ed65c",
+      "message": "feat(engine): async function DENTRO do <script> roda — fatia 2 do #207 (#1889)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T01:31:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/77ed65cd818c7343fd351a667df576315e283158"
+    },
+    {
+      "sha": "01412ef2620ad75a3ef945c7a1c42ffd99ae8475",
+      "short": "01412ef",
+      "message": "feat(engine): .then/.catch/.finally sobre chamada async + flag async no Arrow do HIR (#1888)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T00:54:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01412ef2620ad75a3ef945c7a1c42ffd99ae8475"
+    },
+    {
+      "sha": "0b49a094a8ffcc9b03e0df8abd03733f090f96a1",
+      "short": "0b49a09",
+      "message": "feat(dom+egui): :hover VIVO — o mouse sobre um elemento aplica as regras :hover (#1887)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T00:16:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b49a094a8ffcc9b03e0df8abd03733f090f96a1"
+    },
+    {
+      "sha": "75abfe97cb3655233646e505b4ed2ff511b7d960",
+      "short": "75abfe9",
+      "message": "feat(dom): recursos http(s) REAIS — <link>/<script src> baixam de CDN (#1886)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T00:00:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/75abfe97cb3655233646e505b4ed2ff511b7d960"
+    },
+    {
+      "sha": "3fbfc84d626d3f0ab0d2c86b58da8fa335f08cee",
+      "short": "3fbfc84",
+      "message": "feat(dom+egui): clique REAL do mouse chega no addEventListener da página (#1885)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-16T23:45:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3fbfc84d626d3f0ab0d2c86b58da8fa335f08cee"
+    },
+    {
+      "sha": "9f1ed252e25d1a0dd66577f8f462b5379d0b9e2d",
+      "short": "9f1ed25",
+      "message": "feat(dom+engine): addEventListener com CALLBACK real — modelo de eventos do browser (#1884)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-16T23:23:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9f1ed252e25d1a0dd66577f8f462b5379d0b9e2d"
+    },
+    {
+      "sha": "d6c8de04ba64aa18dbb25b73fb05dfd837ce4336",
+      "short": "d6c8de0",
+      "message": "test(cross-runtime): 68 fixtures focadas (uma coisa por arquivo) em 10 areas",
+      "author": "Marcos",
+      "date": "2026-07-16T21:54:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6c8de04ba64aa18dbb25b73fb05dfd837ce4336"
+    },
+    {
+      "sha": "72a3e37be31ac16d253bc10656f38665b9d59f75",
+      "short": "72a3e37",
+      "message": "feat(engine): new Function fala a ABI uniforme — JS sem tipos roda no <script> (#1883)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-16T21:53:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/72a3e37be31ac16d253bc10656f38665b9d59f75"
+    },
+    {
+      "sha": "26074f6fb331376b442bca7bd969fca4f817dee9",
+      "short": "26074f6",
+      "message": "feat(dom+engine): bloco <script> da página executa in-process + setters dinâmicos (#1882)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-16T21:24:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26074f6fb331376b442bca7bd969fca4f817dee9"
+    },
+    {
+      "sha": "a630ec3ae1d86ba0c9c8fd620d0022914c5478b0",
+      "short": "a630ec3",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-16T21:10:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a630ec3ae1d86ba0c9c8fd620d0022914c5478b0"
+    },
+    {
+      "sha": "9917d4cd8780a58345b75441da39b1e4e78f32ea",
+      "short": "9917d4c",
+      "message": "feat(node): node:dgram — UDP sockets, complete",
+      "author": "Daniel",
+      "date": "2026-07-16T20:59:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9917d4cd8780a58345b75441da39b1e4e78f32ea"
+    },
     {
       "sha": "d16635cef695c819c2a36171c42183eff031334a",
       "short": "d16635c",
@@ -64,102 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-15T00:40:42Z",
       "url": "https://github.com/UrubuCode/rts/commit/3fd3100b168788686061a1c186d49698063243bf"
-    },
-    {
-      "sha": "680d5c30b92d04e879edf8e7ec33ccdec53d1061",
-      "short": "680d5c3",
-      "message": "Merge: clipboard + fix handle-param + home de apresentação",
-      "author": "Marcos",
-      "date": "2026-07-15T00:12:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/680d5c30b92d04e879edf8e7ec33ccdec53d1061"
-    },
-    {
-      "sha": "1146af00be06063b8a1602ddee8da82ed1607ec5",
-      "short": "1146af0",
-      "message": "feat(browser): Ctrl+C/V (clipboard) + fix handle-param + home de apresentação",
-      "author": "Marcos",
-      "date": "2026-07-15T00:12:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1146af00be06063b8a1602ddee8da82ed1607ec5"
-    },
-    {
-      "sha": "4b8729911878e7d29f81a5cad9c4afdd3cb26c61",
-      "short": "4b87299",
-      "message": "Merge: fetch assíncrono (UI não congela no download)",
-      "author": "Marcos",
-      "date": "2026-07-14T23:44:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b8729911878e7d29f81a5cad9c4afdd3cb26c61"
-    },
-    {
-      "sha": "9522d13dd33e701ca9c2af9b82f0b9a9ff23cffb",
-      "short": "9522d13",
-      "message": "feat(fetch): fetch assíncrono — a UI do browser nunca mais congela no download",
-      "author": "Marcos",
-      "date": "2026-07-14T23:44:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9522d13dd33e701ca9c2af9b82f0b9a9ff23cffb"
-    },
-    {
-      "sha": "92c221a311fce0db3832f518c900800bba19a3b6",
-      "short": "92c221a",
-      "message": "Merge: fix tela branca/travamento do browser (feedback Carregando)",
-      "author": "Marcos",
-      "date": "2026-07-14T22:59:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92c221a311fce0db3832f518c900800bba19a3b6"
-    },
-    {
-      "sha": "185a423a2be3c07fabe186e24be517f585804e04",
-      "short": "185a423",
-      "message": "fix(browser): tela branca / travamento no fetch — feedback 'Carregando' + boot instantâneo",
-      "author": "Marcos",
-      "date": "2026-07-14T22:59:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/185a423a2be3c07fabe186e24be517f585804e04"
-    },
-    {
-      "sha": "2238501ef10261b6722ec078deec5ab5861885cb",
-      "short": "2238501",
-      "message": "Merge: getter de transition",
-      "author": "Marcos",
-      "date": "2026-07-14T22:47:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2238501ef10261b6722ec078deec5ab5861885cb"
-    },
-    {
-      "sha": "f91c7c715b482301883c038db46cb436b397b5d6",
-      "short": "f91c7c7",
-      "message": "feat(rts-dom): getter de transition em computedProperty",
-      "author": "Marcos",
-      "date": "2026-07-14T22:47:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f91c7c715b482301883c038db46cb436b397b5d6"
-    },
-    {
-      "sha": "cbd0f59ffb0e640559a455d4f3b2958eb57a8ca2",
-      "short": "cbd0f59",
-      "message": "Merge: z-index (empilhamento de elementos posicionados)",
-      "author": "Marcos",
-      "date": "2026-07-14T22:39:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cbd0f59ffb0e640559a455d4f3b2958eb57a8ca2"
-    },
-    {
-      "sha": "dfc9c257cf9092fdf535ce19542a2b9334b4abbc",
-      "short": "dfc9c25",
-      "message": "feat(rts-dom): z-index — ordem de empilhamento dos elementos posicionados",
-      "author": "Marcos",
-      "date": "2026-07-14T22:39:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dfc9c257cf9092fdf535ce19542a2b9334b4abbc"
-    },
-    {
-      "sha": "2009f7f0816627627c53f7cdb53c553401e0dc0a",
-      "short": "2009f7f",
-      "message": "Merge: transform + letter-spacing/text-decoration + aspect-ratio",
-      "author": "Marcos",
-      "date": "2026-07-14T22:36:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2009f7f0816627627c53f7cdb53c553401e0dc0a"
-    },
-    {
-      "sha": "c7b8b3fe38e40f4fd40f50c445e38e6620acae9d",
-      "short": "c7b8b3f",
-      "message": "feat(rts-dom): transform, letter-spacing/text-decoration, aspect-ratio",
-      "author": "Marcos",
-      "date": "2026-07-14T22:36:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7b8b3fe38e40f4fd40f50c445e38e6620acae9d"
     }
   ]
 }
