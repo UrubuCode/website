@@ -1,6 +1,126 @@
 {
-  "total": 3637,
+  "total": 3652,
   "commits": [
+    {
+      "sha": "17d39732bcd747db7c4368236bf6997f6dba4c22",
+      "short": "17d3973",
+      "message": "docs(node): mark node:fs 100% complete (full streaming surface)",
+      "author": "Daniel",
+      "date": "2026-07-18T06:42:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/17d39732bcd747db7c4368236bf6997f6dba4c22"
+    },
+    {
+      "sha": "625512fe9f751f0635214305e8dc99f48bc00c85",
+      "short": "625512f",
+      "message": "feat(node): FileHandle.readLines — readline.Interface line reader (fs 100%)",
+      "author": "Daniel",
+      "date": "2026-07-18T06:41:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/625512fe9f751f0635214305e8dc99f48bc00c85"
+    },
+    {
+      "sha": "5c8a89d1f899b852e37b87f73118b66685fc6600",
+      "short": "5c8a89d",
+      "message": "feat(node): FileHandle.createReadStream/createWriteStream/readableWebStream",
+      "author": "Daniel",
+      "date": "2026-07-18T06:35:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c8a89d1f899b852e37b87f73118b66685fc6600"
+    },
+    {
+      "sha": "34a1f5a00f59f9dbb834a090aa678a76c34cba18",
+      "short": "34a1f5a",
+      "message": "feat(node): fs.Utf8Stream — append-only fixed-encoding file writer",
+      "author": "Daniel",
+      "date": "2026-07-18T06:20:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/34a1f5a00f59f9dbb834a090aa678a76c34cba18"
+    },
+    {
+      "sha": "48dae2fa46f8bb187e361aec779ef7e983ca408c",
+      "short": "48dae2f",
+      "message": "docs(node): fs ReadStream/WriteStream done; .push-on-any sub-bug resolved",
+      "author": "Daniel",
+      "date": "2026-07-18T06:04:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/48dae2fa46f8bb187e361aec779ef7e983ca408c"
+    },
+    {
+      "sha": "f6183b876ce1b7871a0b7eb24444d701c60aa053",
+      "short": "f6183b8",
+      "message": "fix(engine): .push on an `any` receiver routes to an instance `push` method",
+      "author": "Daniel",
+      "date": "2026-07-18T06:04:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6183b876ce1b7871a0b7eb24444d701c60aa053"
+    },
+    {
+      "sha": "8386efc3ca3400ee4640570511a7083d30cd4214",
+      "short": "8386efc",
+      "message": "docs(node): track fs promises+WriteStream done, ReadStream #207 stream-delivery sub-bug",
+      "author": "Daniel",
+      "date": "2026-07-18T05:40:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8386efc3ca3400ee4640570511a7083d30cd4214"
+    },
+    {
+      "sha": "96f1053322ec3ba59c9e0a4f54f3bb4d9b713c8d",
+      "short": "96f1053",
+      "message": "feat(node): fs.WriteStream/ReadStream + createWriteStream/createReadStream",
+      "author": "Daniel",
+      "date": "2026-07-18T05:39:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96f1053322ec3ba59c9e0a4f54f3bb4d9b713c8d"
+    },
+    {
+      "sha": "ccbc6b9b5630ea53461e0a6ab4a6b7104ecd4213",
+      "short": "ccbc6b9",
+      "message": "feat(node): fs.promises sub-namespace import binding",
+      "author": "Daniel",
+      "date": "2026-07-18T04:53:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccbc6b9b5630ea53461e0a6ab4a6b7104ecd4213"
+    },
+    {
+      "sha": "cd8b0a706f7ff0898e77583661473853dcbd613b",
+      "short": "cd8b0a7",
+      "message": "docs(node): mark node:net 100% complete in the tracker + roadmap",
+      "author": "Daniel",
+      "date": "2026-07-18T03:41:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd8b0a706f7ff0898e77583661473853dcbd613b"
+    },
+    {
+      "sha": "b4414692513af987197e6eae374110366d897e1e",
+      "short": "b441469",
+      "message": "feat(node): net.SOMAXCONN + lossless object-backed field-slot writes",
+      "author": "Daniel",
+      "date": "2026-07-18T03:40:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b4414692513af987197e6eae374110366d897e1e"
+    },
+    {
+      "sha": "a0a98f1cebc59835f04ecae05b1164f0e16c345b",
+      "short": "a0a98f1",
+      "message": "docs(node): update completion tracker — os/path/url now 100%; landed engine fixes",
+      "author": "Daniel",
+      "date": "2026-07-18T03:16:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a0a98f1cebc59835f04ecae05b1164f0e16c345b"
+    },
+    {
+      "sha": "600583fe3e6a77f1197e7039904eabcb367ce7aa",
+      "short": "600583f",
+      "message": "feat(url): URL property setters (fully mutable) + engine InstanceSetter dispatch",
+      "author": "Daniel",
+      "date": "2026-07-18T03:14:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/600583fe3e6a77f1197e7039904eabcb367ce7aa"
+    },
+    {
+      "sha": "b111fdc5316085029d7619bf4e6e15434af2fee8",
+      "short": "b111fdc",
+      "message": "fix(engine): a local/param shadows a same-named builtin import in call position",
+      "author": "Daniel",
+      "date": "2026-07-18T03:02:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b111fdc5316085029d7619bf4e6e15434af2fee8"
+    },
+    {
+      "sha": "615d93b7cb8a80b4b62dc1aebe87b962bcb4f037",
+      "short": "615d93b",
+      "message": "feat(url): complete URLSearchParams (entries/forEach/size) + URL.toJSON, format(URL), searchParams↔url sync",
+      "author": "Daniel",
+      "date": "2026-07-18T02:52:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/615d93b7cb8a80b4b62dc1aebe87b962bcb4f037"
+    },
     {
       "sha": "6e08a86f43be1220bfec70e6a1d9614f5f5f23b9",
       "short": "6e08a86",
@@ -40,126 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-17T22:17:21Z",
       "url": "https://github.com/UrubuCode/rts/commit/2778bf2c018a17985cdc740c7b1f0d89c6ff6fc3"
-    },
-    {
-      "sha": "fcb0635c1f614995147f94f15c33eee6c3a288c6",
-      "short": "fcb0635",
-      "message": "feat(node): net.Server + net.Socket over real TCP",
-      "author": "Daniel",
-      "date": "2026-07-17T04:22:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fcb0635c1f614995147f94f15c33eee6c3a288c6"
-    },
-    {
-      "sha": "d471b17a50ecc597958a49250511d5e5db804ec4",
-      "short": "d471b17",
-      "message": "feat(engine): threading-model T1 — module globals are ONE binding across threads",
-      "author": "Daniel",
-      "date": "2026-07-17T01:09:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d471b17a50ecc597958a49250511d5e5db804ec4"
-    },
-    {
-      "sha": "eb50ddcb4732279b4e6542644c130bca3b678a23",
-      "short": "eb50ddc",
-      "message": "feat(node): net.BlockList + net.SocketAddress, and dgram's block lists",
-      "author": "Daniel",
-      "date": "2026-07-17T00:08:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eb50ddcb4732279b4e6542644c130bca3b678a23"
-    },
-    {
-      "sha": "8f3fccf909f9b74cfdd0bf013d37e4caa3a60339",
-      "short": "8f3fccf",
-      "message": "feat(ws): lado SERVIDOR (ws.serve/accept/closeServer) — multiplayer local (#1912)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T20:28:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8f3fccf909f9b74cfdd0bf013d37e4caa3a60339"
-    },
-    {
-      "sha": "2a9410546811374ea6835a20f5ab1c4d6b7e21a2",
-      "short": "2a94105",
-      "message": "feat(examples): melhora o fundo do Breakout — gradiente na página + arena polida",
-      "author": "Marcos",
-      "date": "2026-07-17T20:19:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a9410546811374ea6835a20f5ab1c4d6b7e21a2"
-    },
-    {
-      "sha": "279433ab0e946297637293e8084cc98f4644bf3f",
-      "short": "279433a",
-      "message": "feat(examples): jogo Breakout — frontend HTML/CSS + backend em TS",
-      "author": "Marcos",
-      "date": "2026-07-17T20:16:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/279433ab0e946297637293e8084cc98f4644bf3f"
-    },
-    {
-      "sha": "a1da3e10f278e1b01108e1be9d5c5be44d33dcd7",
-      "short": "a1da3e1",
-      "message": "docs(examples): app WhatsApp Web compilável a .exe + jogo de teste + gitignore .obj",
-      "author": "Marcos",
-      "date": "2026-07-17T19:32:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a1da3e10f278e1b01108e1be9d5c5be44d33dcd7"
-    },
-    {
-      "sha": "bb08f86cd2c8398e3338de1b1a426ce81cc4caa2",
-      "short": "bb08f86",
-      "message": "feat(dom): objeto window de browser injetado nos <script> da pagina (#1911)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T19:10:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb08f86cd2c8398e3338de1b1a426ce81cc4caa2"
-    },
-    {
-      "sha": "9f1c4e8afcc3b7b911da9aac5bb83123394a8489",
-      "short": "9f1c4e8",
-      "message": "feat(dom): runScripts executa <script src=data:...> (base64/texto) (#1910)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T18:54:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f1c4e8afcc3b7b911da9aac5bb83123394a8489"
-    },
-    {
-      "sha": "f9abd15727da1b174077a0aa7f36c28d77cf7168",
-      "short": "f9abd15",
-      "message": "feat(ws): WebSocket client (RFC 6455) — namespace rts:ws sobre TCP/TLS (#1909)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T18:28:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9abd15727da1b174077a0aa7f36c28d77cf7168"
-    },
-    {
-      "sha": "81501fb114b83cf3ab982763a24a1199d3494e93",
-      "short": "81501fb",
-      "message": "fix(dom): runScripts só executa JAVASCRIPT — pula type=application/json etc. (#1908)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T17:37:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81501fb114b83cf3ab982763a24a1199d3494e93"
-    },
-    {
-      "sha": "36e3ede14cc98ead9ba887db12a5ee630678ceb6",
-      "short": "36e3ede",
-      "message": "feat(fetch): headers Sec-Fetch-* (destrava WhatsApp Web) + overrides de request pelo TS (#1907)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T17:30:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/36e3ede14cc98ead9ba887db12a5ee630678ceb6"
-    },
-    {
-      "sha": "5d357f8f0c7cc47479e48ce9b8885b632387bef6",
-      "short": "5d357f8",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-07-17T04:57:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d357f8f0c7cc47479e48ce9b8885b632387bef6"
-    },
-    {
-      "sha": "ef62b95a0b38409397809e6c7229891c3291b35e",
-      "short": "ef62b95",
-      "message": "docs(dom): demo de render (hero+gradiente+grid+cards+footer) — paridade com Chrome (#1906)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T04:57:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef62b95a0b38409397809e6c7229891c3291b35e"
-    },
-    {
-      "sha": "7e96cd1440dff6c864bee378b6ebabfc178cad37",
-      "short": "7e96cd1",
-      "message": "docs(dom): demo de render (hero+gradiente+grid+cards+footer) — paridade com Chrome",
-      "author": "Marcos",
-      "date": "2026-07-17T04:57:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e96cd1440dff6c864bee378b6ebabfc178cad37"
     }
   ]
 }
