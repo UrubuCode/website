@@ -1,6 +1,110 @@
 {
-  "total": 3624,
+  "total": 3637,
   "commits": [
+    {
+      "sha": "6e08a86f43be1220bfec70e6a1d9614f5f5f23b9",
+      "short": "6e08a86",
+      "message": "docs(node): add node_completed.md completion tracker + roadmap; link from INDEX",
+      "author": "Daniel",
+      "date": "2026-07-18T01:44:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e08a86f43be1220bfec70e6a1d9614f5f5f23b9"
+    },
+    {
+      "sha": "a871ea2ceb50d658f7cf06b6bdd946bd0292e5f4",
+      "short": "a871ea2",
+      "message": "feat(node): node:querystring — complete the parse/stringify `options` param",
+      "author": "Daniel",
+      "date": "2026-07-18T00:31:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a871ea2ceb50d658f7cf06b6bdd946bd0292e5f4"
+    },
+    {
+      "sha": "442e2807186710f1868129a97db5fc843e037e48",
+      "short": "442e280",
+      "message": "feat(node): node:diagnostics_channel — Channel + TracingChannel (full .ts rewrite)",
+      "author": "Daniel",
+      "date": "2026-07-17T23:30:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/442e2807186710f1868129a97db5fc843e037e48"
+    },
+    {
+      "sha": "40674f403e79a331aada470719cb3340023f83a8",
+      "short": "40674f4",
+      "message": "feat(node): node:string_decoder — complete StringDecoder (text method + full surface)",
+      "author": "Daniel",
+      "date": "2026-07-17T22:56:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40674f403e79a331aada470719cb3340023f83a8"
+    },
+    {
+      "sha": "2778bf2c018a17985cdc740c7b1f0d89c6ff6fc3",
+      "short": "2778bf2",
+      "message": "feat(node): node:stream — Readable/Writable/Duplex/Transform/PassThrough + orchestration",
+      "author": "Daniel",
+      "date": "2026-07-17T22:17:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2778bf2c018a17985cdc740c7b1f0d89c6ff6fc3"
+    },
+    {
+      "sha": "fcb0635c1f614995147f94f15c33eee6c3a288c6",
+      "short": "fcb0635",
+      "message": "feat(node): net.Server + net.Socket over real TCP",
+      "author": "Daniel",
+      "date": "2026-07-17T04:22:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fcb0635c1f614995147f94f15c33eee6c3a288c6"
+    },
+    {
+      "sha": "d471b17a50ecc597958a49250511d5e5db804ec4",
+      "short": "d471b17",
+      "message": "feat(engine): threading-model T1 — module globals are ONE binding across threads",
+      "author": "Daniel",
+      "date": "2026-07-17T01:09:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d471b17a50ecc597958a49250511d5e5db804ec4"
+    },
+    {
+      "sha": "eb50ddcb4732279b4e6542644c130bca3b678a23",
+      "short": "eb50ddc",
+      "message": "feat(node): net.BlockList + net.SocketAddress, and dgram's block lists",
+      "author": "Daniel",
+      "date": "2026-07-17T00:08:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb50ddcb4732279b4e6542644c130bca3b678a23"
+    },
+    {
+      "sha": "8f3fccf909f9b74cfdd0bf013d37e4caa3a60339",
+      "short": "8f3fccf",
+      "message": "feat(ws): lado SERVIDOR (ws.serve/accept/closeServer) — multiplayer local (#1912)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T20:28:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f3fccf909f9b74cfdd0bf013d37e4caa3a60339"
+    },
+    {
+      "sha": "2a9410546811374ea6835a20f5ab1c4d6b7e21a2",
+      "short": "2a94105",
+      "message": "feat(examples): melhora o fundo do Breakout — gradiente na página + arena polida",
+      "author": "Marcos",
+      "date": "2026-07-17T20:19:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a9410546811374ea6835a20f5ab1c4d6b7e21a2"
+    },
+    {
+      "sha": "279433ab0e946297637293e8084cc98f4644bf3f",
+      "short": "279433a",
+      "message": "feat(examples): jogo Breakout — frontend HTML/CSS + backend em TS",
+      "author": "Marcos",
+      "date": "2026-07-17T20:16:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/279433ab0e946297637293e8084cc98f4644bf3f"
+    },
+    {
+      "sha": "a1da3e10f278e1b01108e1be9d5c5be44d33dcd7",
+      "short": "a1da3e1",
+      "message": "docs(examples): app WhatsApp Web compilável a .exe + jogo de teste + gitignore .obj",
+      "author": "Marcos",
+      "date": "2026-07-17T19:32:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a1da3e10f278e1b01108e1be9d5c5be44d33dcd7"
+    },
+    {
+      "sha": "bb08f86cd2c8398e3338de1b1a426ce81cc4caa2",
+      "short": "bb08f86",
+      "message": "feat(dom): objeto window de browser injetado nos <script> da pagina (#1911)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-17T19:10:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb08f86cd2c8398e3338de1b1a426ce81cc4caa2"
+    },
     {
       "sha": "9f1c4e8afcc3b7b911da9aac5bb83123394a8489",
       "short": "9f1c4e8",
@@ -56,110 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-17T04:57:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/7e96cd1440dff6c864bee378b6ebabfc178cad37"
-    },
-    {
-      "sha": "5dff21ec442178bb8b83a2f7c3d5d326259993a3",
-      "short": "5dff21e",
-      "message": "feat(dom): <svg> reserva a caixa (placeholder) — as caixas dos ícones/logo ocupam o espaço (#1905)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T04:50:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5dff21ec442178bb8b83a2f7c3d5d326259993a3"
-    },
-    {
-      "sha": "b3cc3a8118057e74147e810ef3ec1dc607f9027b",
-      "short": "b3cc3a8",
-      "message": "docs(dom): página de teste de paridade de layout (grid/flex/absolute/inline-block) (#1904)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T04:29:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b3cc3a8118057e74147e810ef3ec1dc607f9027b"
-    },
-    {
-      "sha": "e1e0eb085caf819838e70708492be4a05a68fd39",
-      "short": "e1e0eb0",
-      "message": "feat(dom): CSS Grid REAL — track-sizing (px/fr/auto/%) + auto-placement + cell align (#1903)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T04:21:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1e0eb085caf819838e70708492be4a05a68fd39"
-    },
-    {
-      "sha": "03ac8fda857d29e298e84628a876955f9c6d46d6",
-      "short": "03ac8fd",
-      "message": "feat(dom): calc() em height resolve o % contra a ALTURA (+ max-height propaga como CB) (#1902)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T04:03:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03ac8fda857d29e298e84628a876955f9c6d46d6"
-    },
-    {
-      "sha": "2a1d5c2a9f45aa8fe1d0a388fc11b55b0993efd6",
-      "short": "2a1d5c2",
-      "message": "feat(dom): flex-grow no eixo VERTICAL + height:100% resolve contra o item crescido (#1901)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T03:52:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a1d5c2a9f45aa8fe1d0a388fc11b55b0993efd6"
-    },
-    {
-      "sha": "b25968d99d316db18dec23720ce0c199c32d1a42",
-      "short": "b25968d",
-      "message": "feat(dom): dumpTree — árvore com rect por nó (diagnóstico de paridade) (#1900)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T03:42:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b25968d99d316db18dec23720ce0c199c32d1a42"
-    },
-    {
-      "sha": "16ff9c21e5505bcbacc1567bae264f8e3056e6b7",
-      "short": "16ff9c2",
-      "message": "feat(dom): position:absolute ancora no containing block (não no viewport) (#1899)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T03:24:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/16ff9c21e5505bcbacc1567bae264f8e3056e6b7"
-    },
-    {
-      "sha": "821381fc9852956ced2d351081a4295fdc5de56c",
-      "short": "821381f",
-      "message": "feat(dom): inline-blocks consecutivos fluem LADO A LADO (botões do google) (#1898)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T03:17:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/821381fc9852956ced2d351081a4295fdc5de56c"
-    },
-    {
-      "sha": "5552db1348ffad73499b386c4006c724fc8d2bfa",
-      "short": "5552db1",
-      "message": "feat(fetch): mini-browser se identifica como navegador (UA + Accept) (#1897)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T03:01:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5552db1348ffad73499b386c4006c724fc8d2bfa"
-    },
-    {
-      "sha": "6d86f56e0c3f53ea86037331bd432e5a1d8b29b6",
-      "short": "6d86f56",
-      "message": "feat(dom): <a> azul+sublinhado (UA) + decoração POR RUN no inline-flow (#1896)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:51:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6d86f56e0c3f53ea86037331bd432e5a1d8b29b6"
-    },
-    {
-      "sha": "fdf03e2b95f5d0bba79c42ad320a34d87599010d",
-      "short": "fdf03e2",
-      "message": "feat(dom): unidades pt/pc (font-size:10pt do rodapé legado do google) (#1895)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:41:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fdf03e2b95f5d0bba79c42ad320a34d87599010d"
-    },
-    {
-      "sha": "9254b7ed65e07d87d2db6208b54438c16ff286d5",
-      "short": "9254b7e",
-      "message": "feat(dom): WIDGETS no inline-flow — input botão/campo flui na linha (item 8 #1793) (#1894)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:34:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9254b7ed65e07d87d2db6208b54438c16ff286d5"
-    },
-    {
-      "sha": "5efc204562f5ece8b4398ce87c3b0ecd6f78bb8e",
-      "short": "5efc204",
-      "message": "feat(dom): <center> + input hidden/submit — o HTML legado renderiza decente (#1893)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-17T02:27:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5efc204562f5ece8b4398ce87c3b0ecd6f78bb8e"
     }
   ]
 }
