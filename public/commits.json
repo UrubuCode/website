@@ -1,6 +1,38 @@
 {
-  "total": 3672,
+  "total": 3676,
   "commits": [
+    {
+      "sha": "5cda7bcdbd9d38605efcf26679c461e186b31254",
+      "short": "5cda7bc",
+      "message": "Merge perf/delay-opengl32: 64 ms off every invocation",
+      "author": "Daniel",
+      "date": "2026-07-19T17:35:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5cda7bcdbd9d38605efcf26679c461e186b31254"
+    },
+    {
+      "sha": "5ea3c9a1b7f117a928b0b79e40d46d56486ec688",
+      "short": "5ea3c9a",
+      "message": "docs: Item 12 measured — opengl32 alone was 64 of the 65 ms",
+      "author": "Daniel",
+      "date": "2026-07-19T17:35:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ea3c9a1b7f117a928b0b79e40d46d56486ec688"
+    },
+    {
+      "sha": "d67fa9e060d3d2e7ee5555a524925b4fc3cbf31a",
+      "short": "d67fa9e",
+      "message": "perf: delay-load opengl32.dll — 64 ms off every invocation",
+      "author": "Daniel",
+      "date": "2026-07-19T17:34:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d67fa9e060d3d2e7ee5555a524925b4fc3cbf31a"
+    },
+    {
+      "sha": "1df8b4dd8bdd5a999c5af0036b8e017eb118ecef",
+      "short": "1df8b4d",
+      "message": "docs: Item 12 — GUI/audio DLL load investigated, delay-load rejected",
+      "author": "Daniel",
+      "date": "2026-07-19T16:57:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1df8b4dd8bdd5a999c5af0036b8e017eb118ecef"
+    },
     {
       "sha": "8999a23358995b9c639cb0a96680b1724b262f30",
       "short": "8999a23",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-18T20:47:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/8ab9d2135b994683f4f940124ce4e2255163768b"
-    },
-    {
-      "sha": "98539c1dbe50432c289efba21613fa888d9c1f92",
-      "short": "98539c1",
-      "message": "perf(engine): disable the Cranelift IR verifier in release builds",
-      "author": "Daniel",
-      "date": "2026-07-18T20:47:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/98539c1dbe50432c289efba21613fa888d9c1f92"
-    },
-    {
-      "sha": "6800f0a151f167ccff0864322a4345d41754e437",
-      "short": "6800f0a",
-      "message": "perf(cli): run test files in parallel, with a serial retry for flakes",
-      "author": "Daniel",
-      "date": "2026-07-18T20:45:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6800f0a151f167ccff0864322a4345d41754e437"
-    },
-    {
-      "sha": "0d4a4b8806ea71c8cb45f2f6183c3ccdf86c78d1",
-      "short": "0d4a4b8",
-      "message": "perf(engine): prune unreachable prelude functions before Cranelift",
-      "author": "Daniel",
-      "date": "2026-07-18T20:45:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0d4a4b8806ea71c8cb45f2f6183c3ccdf86c78d1"
-    },
-    {
-      "sha": "2bb704e21d05273f94b9b1565fa94ecadf1b854d",
-      "short": "2bb704e",
-      "message": "perf(engine): RTS_TIMING phase instrumentation + startup campaign plan",
-      "author": "Daniel",
-      "date": "2026-07-18T20:45:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2bb704e21d05273f94b9b1565fa94ecadf1b854d"
     }
   ]
 }
