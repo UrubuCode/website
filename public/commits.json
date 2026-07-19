@@ -1,165 +1,165 @@
 {
-  "total": 3652,
+  "total": 3672,
   "commits": [
     {
-      "sha": "17d39732bcd747db7c4368236bf6997f6dba4c22",
-      "short": "17d3973",
-      "message": "docs(node): mark node:fs 100% complete (full streaming surface)",
+      "sha": "8999a23358995b9c639cb0a96680b1724b262f30",
+      "short": "8999a23",
+      "message": "Merge perf/opt-level-hot-path: speed-optimize the compile path and runtime",
       "author": "Daniel",
-      "date": "2026-07-18T06:42:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/17d39732bcd747db7c4368236bf6997f6dba4c22"
+      "date": "2026-07-19T04:43:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8999a23358995b9c639cb0a96680b1724b262f30"
     },
     {
-      "sha": "625512fe9f751f0635214305e8dc99f48bc00c85",
-      "short": "625512f",
-      "message": "feat(node): FileHandle.readLines — readline.Interface line reader (fs 100%)",
+      "sha": "e7f3e995486927ae3620667e6ae9281372bed92b",
+      "short": "e7f3e99",
+      "message": "docs: Item 11 measured — opt-level on compile path + runtime",
       "author": "Daniel",
-      "date": "2026-07-18T06:41:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/625512fe9f751f0635214305e8dc99f48bc00c85"
+      "date": "2026-07-19T04:43:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7f3e995486927ae3620667e6ae9281372bed92b"
     },
     {
-      "sha": "5c8a89d1f899b852e37b87f73118b66685fc6600",
-      "short": "5c8a89d",
-      "message": "feat(node): FileHandle.createReadStream/createWriteStream/readableWebStream",
+      "sha": "8e614782a394e6dbe3fe3877ff121f892384887f",
+      "short": "8e61478",
+      "message": "perf: build the compile path and the runtime for SPEED, not size",
       "author": "Daniel",
-      "date": "2026-07-18T06:35:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c8a89d1f899b852e37b87f73118b66685fc6600"
+      "date": "2026-07-19T04:42:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8e614782a394e6dbe3fe3877ff121f892384887f"
     },
     {
-      "sha": "34a1f5a00f59f9dbb834a090aa678a76c34cba18",
-      "short": "34a1f5a",
-      "message": "feat(node): fs.Utf8Stream — append-only fixed-encoding file writer",
+      "sha": "5771f0be4aba38f050297f62ef56df7913d670ed",
+      "short": "5771f0b",
+      "message": "Merge perf/parallel-codegen: machine-compile across cores",
       "author": "Daniel",
-      "date": "2026-07-18T06:20:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/34a1f5a00f59f9dbb834a090aa678a76c34cba18"
+      "date": "2026-07-19T03:30:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5771f0be4aba38f050297f62ef56df7913d670ed"
     },
     {
-      "sha": "48dae2fa46f8bb187e361aec779ef7e983ca408c",
-      "short": "48dae2f",
-      "message": "docs(node): fs ReadStream/WriteStream done; .push-on-any sub-bug resolved",
+      "sha": "c2ec24d7b64d6eeebca45fac262e25f0d3eb28d8",
+      "short": "c2ec24d",
+      "message": "docs: Item 3 measured — parallel Cranelift 4.1x, startup 356 -> 244 ms",
       "author": "Daniel",
-      "date": "2026-07-18T06:04:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/48dae2fa46f8bb187e361aec779ef7e983ca408c"
+      "date": "2026-07-19T03:30:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2ec24d7b64d6eeebca45fac262e25f0d3eb28d8"
     },
     {
-      "sha": "f6183b876ce1b7871a0b7eb24444d701c60aa053",
-      "short": "f6183b8",
-      "message": "fix(engine): .push on an `any` receiver routes to an instance `push` method",
+      "sha": "7721e22f1dec5016d5337d2fb1f560ba90f5614f",
+      "short": "7721e22",
+      "message": "perf(engine): machine-compile functions across cores",
       "author": "Daniel",
-      "date": "2026-07-18T06:04:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f6183b876ce1b7871a0b7eb24444d701c60aa053"
+      "date": "2026-07-19T03:30:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7721e22f1dec5016d5337d2fb1f560ba90f5614f"
     },
     {
-      "sha": "8386efc3ca3400ee4640570511a7083d30cd4214",
-      "short": "8386efc",
-      "message": "docs(node): track fs promises+WriteStream done, ReadStream #207 stream-delivery sub-bug",
+      "sha": "ab81eb874e9d83532e25f56e5bfa6c782cad174b",
+      "short": "ab81eb8",
+      "message": "docs: record the adjacent fixes this campaign uncovered",
       "author": "Daniel",
-      "date": "2026-07-18T05:40:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8386efc3ca3400ee4640570511a7083d30cd4214"
+      "date": "2026-07-19T02:55:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab81eb874e9d83532e25f56e5bfa6c782cad174b"
     },
     {
-      "sha": "96f1053322ec3ba59c9e0a4f54f3bb4d9b713c8d",
-      "short": "96f1053",
-      "message": "feat(node): fs.WriteStream/ReadStream + createWriteStream/createReadStream",
+      "sha": "2749ccdb81e7c5ccee442f3b508424f88e9614d0",
+      "short": "2749ccd",
+      "message": "Merge fix/gc-pin-leak: runtime strings no longer pinned as permanent GC roots",
       "author": "Daniel",
-      "date": "2026-07-18T05:39:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96f1053322ec3ba59c9e0a4f54f3bb4d9b713c8d"
+      "date": "2026-07-19T00:55:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2749ccdb81e7c5ccee442f3b508424f88e9614d0"
     },
     {
-      "sha": "ccbc6b9b5630ea53461e0a6ab4a6b7104ecd4213",
-      "short": "ccbc6b9",
-      "message": "feat(node): fs.promises sub-namespace import binding",
+      "sha": "4bc96ad04ed8da2a516c0975d0300c062c3533ab",
+      "short": "4bc96ad",
+      "message": "fix(engine): stop pinning every runtime string; resume before marking",
       "author": "Daniel",
-      "date": "2026-07-18T04:53:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccbc6b9b5630ea53461e0a6ab4a6b7104ecd4213"
+      "date": "2026-07-19T00:55:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4bc96ad04ed8da2a516c0975d0300c062c3533ab"
     },
     {
-      "sha": "cd8b0a706f7ff0898e77583661473853dcbd613b",
-      "short": "cd8b0a7",
-      "message": "docs(node): mark node:net 100% complete in the tracker + roadmap",
+      "sha": "d1aff27b1d29f7e34935c6389c86d7589131dfcd",
+      "short": "d1aff27",
+      "message": "Merge fix/computed-member-primitive: primitives autobox on computed access",
       "author": "Daniel",
-      "date": "2026-07-18T03:41:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd8b0a706f7ff0898e77583661473853dcbd613b"
+      "date": "2026-07-19T00:11:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1aff27b1d29f7e34935c6389c86d7589131dfcd"
     },
     {
-      "sha": "b4414692513af987197e6eae374110366d897e1e",
-      "short": "b441469",
-      "message": "feat(node): net.SOMAXCONN + lossless object-backed field-slot writes",
+      "sha": "bc40920bf40d33d001377c853e57e7439269b214",
+      "short": "bc40920",
+      "message": "Merge fix/test-runner-timeout: a hung test file no longer stalls the suite",
       "author": "Daniel",
-      "date": "2026-07-18T03:40:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4414692513af987197e6eae374110366d897e1e"
+      "date": "2026-07-19T00:11:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc40920bf40d33d001377c853e57e7439269b214"
     },
     {
-      "sha": "a0a98f1cebc59835f04ecae05b1164f0e16c345b",
-      "short": "a0a98f1",
-      "message": "docs(node): update completion tracker — os/path/url now 100%; landed engine fixes",
+      "sha": "f151ee0d09be4cb16dd83411df8455e58fa05df8",
+      "short": "f151ee0",
+      "message": "docs: the prune's primitive-receiver gap is closed, not open",
       "author": "Daniel",
-      "date": "2026-07-18T03:16:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a0a98f1cebc59835f04ecae05b1164f0e16c345b"
+      "date": "2026-07-19T00:11:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f151ee0d09be4cb16dd83411df8455e58fa05df8"
     },
     {
-      "sha": "600583fe3e6a77f1197e7039904eabcb367ce7aa",
-      "short": "600583f",
-      "message": "feat(url): URL property setters (fully mutable) + engine InstanceSetter dispatch",
+      "sha": "c95af07a1b2afe11d97c37935aa0faf8de009219",
+      "short": "c95af07",
+      "message": "fix(adapters): computed member access on a primitive receiver",
       "author": "Daniel",
-      "date": "2026-07-18T03:14:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/600583fe3e6a77f1197e7039904eabcb367ce7aa"
+      "date": "2026-07-19T00:08:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c95af07a1b2afe11d97c37935aa0faf8de009219"
     },
     {
-      "sha": "b111fdc5316085029d7619bf4e6e15434af2fee8",
-      "short": "b111fdc",
-      "message": "fix(engine): a local/param shadows a same-named builtin import in call position",
+      "sha": "9d56a2bfa45966adef388b7980157ae7a37c656a",
+      "short": "9d56a2b",
+      "message": "fix(cli): kill a test child that outruns its deadline instead of stalling",
       "author": "Daniel",
-      "date": "2026-07-18T03:02:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b111fdc5316085029d7619bf4e6e15434af2fee8"
+      "date": "2026-07-18T21:28:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d56a2bfa45966adef388b7980157ae7a37c656a"
     },
     {
-      "sha": "615d93b7cb8a80b4b62dc1aebe87b962bcb4f037",
-      "short": "615d93b",
-      "message": "feat(url): complete URLSearchParams (entries/forEach/size) + URL.toJSON, format(URL), searchParams↔url sync",
+      "sha": "d70174822f5981f577082cc3199641824909e95a",
+      "short": "d701748",
+      "message": "Merge perf/startup-campaign: startup 890 -> 346 ms, suite 10 min -> 50 s",
       "author": "Daniel",
-      "date": "2026-07-18T02:52:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/615d93b7cb8a80b4b62dc1aebe87b962bcb4f037"
+      "date": "2026-07-18T21:11:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d70174822f5981f577082cc3199641824909e95a"
     },
     {
-      "sha": "6e08a86f43be1220bfec70e6a1d9614f5f5f23b9",
-      "short": "6e08a86",
-      "message": "docs(node): add node_completed.md completion tracker + roadmap; link from INDEX",
+      "sha": "8ab9d2135b994683f4f940124ce4e2255163768b",
+      "short": "8ab9d21",
+      "message": "docs: record measured results for items 1, 2 and 10",
       "author": "Daniel",
-      "date": "2026-07-18T01:44:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6e08a86f43be1220bfec70e6a1d9614f5f5f23b9"
+      "date": "2026-07-18T20:47:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8ab9d2135b994683f4f940124ce4e2255163768b"
     },
     {
-      "sha": "a871ea2ceb50d658f7cf06b6bdd946bd0292e5f4",
-      "short": "a871ea2",
-      "message": "feat(node): node:querystring — complete the parse/stringify `options` param",
+      "sha": "98539c1dbe50432c289efba21613fa888d9c1f92",
+      "short": "98539c1",
+      "message": "perf(engine): disable the Cranelift IR verifier in release builds",
       "author": "Daniel",
-      "date": "2026-07-18T00:31:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a871ea2ceb50d658f7cf06b6bdd946bd0292e5f4"
+      "date": "2026-07-18T20:47:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98539c1dbe50432c289efba21613fa888d9c1f92"
     },
     {
-      "sha": "442e2807186710f1868129a97db5fc843e037e48",
-      "short": "442e280",
-      "message": "feat(node): node:diagnostics_channel — Channel + TracingChannel (full .ts rewrite)",
+      "sha": "6800f0a151f167ccff0864322a4345d41754e437",
+      "short": "6800f0a",
+      "message": "perf(cli): run test files in parallel, with a serial retry for flakes",
       "author": "Daniel",
-      "date": "2026-07-17T23:30:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/442e2807186710f1868129a97db5fc843e037e48"
+      "date": "2026-07-18T20:45:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6800f0a151f167ccff0864322a4345d41754e437"
     },
     {
-      "sha": "40674f403e79a331aada470719cb3340023f83a8",
-      "short": "40674f4",
-      "message": "feat(node): node:string_decoder — complete StringDecoder (text method + full surface)",
+      "sha": "0d4a4b8806ea71c8cb45f2f6183c3ccdf86c78d1",
+      "short": "0d4a4b8",
+      "message": "perf(engine): prune unreachable prelude functions before Cranelift",
       "author": "Daniel",
-      "date": "2026-07-17T22:56:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40674f403e79a331aada470719cb3340023f83a8"
+      "date": "2026-07-18T20:45:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d4a4b8806ea71c8cb45f2f6183c3ccdf86c78d1"
     },
     {
-      "sha": "2778bf2c018a17985cdc740c7b1f0d89c6ff6fc3",
-      "short": "2778bf2",
-      "message": "feat(node): node:stream — Readable/Writable/Duplex/Transform/PassThrough + orchestration",
+      "sha": "2bb704e21d05273f94b9b1565fa94ecadf1b854d",
+      "short": "2bb704e",
+      "message": "perf(engine): RTS_TIMING phase instrumentation + startup campaign plan",
       "author": "Daniel",
-      "date": "2026-07-17T22:17:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2778bf2c018a17985cdc740c7b1f0d89c6ff6fc3"
+      "date": "2026-07-18T20:45:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2bb704e21d05273f94b9b1565fa94ecadf1b854d"
     }
   ]
 }
