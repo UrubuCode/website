@@ -1,6 +1,30 @@
 {
-  "total": 3711,
+  "total": 3715,
   "commits": [
+    {
+      "sha": "c96ac0f8342df855a051272b67dea7df39e9f1bc",
+      "short": "c96ac0f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T09:07:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c96ac0f8342df855a051272b67dea7df39e9f1bc"
+    },
+    {
+      "sha": "d1d231e929fe632c854d0dbf0a2fe7bfca5d8772",
+      "short": "d1d231e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-20T08:06:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1d231e929fe632c854d0dbf0a2fe7bfca5d8772"
+    },
+    {
+      "sha": "96fac84432287aa42a3cf3cbcb9adf5eb184932b",
+      "short": "96fac84",
+      "message": "perf(atomic): keep the shard mutex off the atomic fast path",
+      "author": "Daniel",
+      "date": "2026-07-20T08:04:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96fac84432287aa42a3cf3cbcb9adf5eb184932b"
+    },
     {
       "sha": "040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178",
       "short": "040c1f9",
@@ -8,6 +32,14 @@
       "author": "github-actions[bot]",
       "date": "2026-07-20T08:04:43Z",
       "url": "https://github.com/UrubuCode/rts/commit/040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178"
+    },
+    {
+      "sha": "879178af229d7b0ba7b99e6502952d36a290d6a7",
+      "short": "879178a",
+      "message": "docs: step 3 is blocked (JIT has no TLS) and was not worth it anyway",
+      "author": "Daniel",
+      "date": "2026-07-20T07:48:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/879178af229d7b0ba7b99e6502952d36a290d6a7"
     },
     {
       "sha": "c2169c3b7780c0fbcf99b1c843127045d6bcff3c",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-20T03:42:02Z",
       "url": "https://github.com/UrubuCode/rts/commit/fce1061001fdb4476c5c65fd49bac93ee10f073d"
-    },
-    {
-      "sha": "4eda0d9681dc226a98601215d43bdb9904c3951d",
-      "short": "4eda0d9",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T03:06:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4eda0d9681dc226a98601215d43bdb9904c3951d"
-    },
-    {
-      "sha": "4d70ff90c1ffbce5475e162609b0452b65d47768",
-      "short": "4d70ff9",
-      "message": "fix(ci): commit the README before rebasing in the benchmark update",
-      "author": "Daniel",
-      "date": "2026-07-20T02:44:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d70ff90c1ffbce5475e162609b0452b65d47768"
-    },
-    {
-      "sha": "2d52b48588f64949689046a85ad9c22ee8049eb3",
-      "short": "2d52b48",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T02:32:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d52b48588f64949689046a85ad9c22ee8049eb3"
-    },
-    {
-      "sha": "70b28565ec65ef8f668688dca13b27604dd4ef7b",
-      "short": "70b2856",
-      "message": "fix(ci): exit 0 after a successful benchmark run",
-      "author": "Daniel",
-      "date": "2026-07-20T02:18:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/70b28565ec65ef8f668688dca13b27604dd4ef7b"
     }
   ]
 }
