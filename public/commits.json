@@ -1,6 +1,22 @@
 {
-  "total": 3715,
+  "total": 3717,
   "commits": [
+    {
+      "sha": "910654c4a8c6ac21d9a699d55f1b54fd7f110a97",
+      "short": "910654c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T17:19:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/910654c4a8c6ac21d9a699d55f1b54fd7f110a97"
+    },
+    {
+      "sha": "84ac10c9bc8d6e141967280b6ff96fbf0fb5206e",
+      "short": "84ac10c",
+      "message": "feat(crypto/protobuf/buffer): AES-GCM/CBC, X25519, protobuf wire format + Buffer.from(array) fix (#1965)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-20T16:55:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84ac10c9bc8d6e141967280b6ff96fbf0fb5206e"
+    },
     {
       "sha": "c96ac0f8342df855a051272b67dea7df39e9f1bc",
       "short": "c96ac0f",
@@ -144,22 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-20T04:47:18Z",
       "url": "https://github.com/UrubuCode/rts/commit/dcbbff10074d88928c28bc10cb5d2ff814f65ab5"
-    },
-    {
-      "sha": "eb94ba01d8ad6781a6786decda363235290e1a0b",
-      "short": "eb94ba0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T04:04:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eb94ba01d8ad6781a6786decda363235290e1a0b"
-    },
-    {
-      "sha": "fce1061001fdb4476c5c65fd49bac93ee10f073d",
-      "short": "fce1061",
-      "message": "perf(aot): delay-load opengl32 in compiled binaries — ~57ms off every startup",
-      "author": "Daniel",
-      "date": "2026-07-20T03:42:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fce1061001fdb4476c5c65fd49bac93ee10f073d"
     }
   ]
 }
