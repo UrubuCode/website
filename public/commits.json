@@ -1,165 +1,165 @@
 {
-  "total": 3691,
+  "total": 3711,
   "commits": [
     {
-      "sha": "6aab475b300ee25eb26a0c29c9610ad94cfd520e",
-      "short": "6aab475",
+      "sha": "040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178",
+      "short": "040c1f9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T08:04:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178"
+    },
+    {
+      "sha": "c2169c3b7780c0fbcf99b1c843127045d6bcff3c",
+      "short": "c2169c3",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-20T07:42:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2169c3b7780c0fbcf99b1c843127045d6bcff3c"
+    },
+    {
+      "sha": "a347a01ed30fd7578eabf91ca47ec4bff73cf9cb",
+      "short": "a347a01",
+      "message": "perf(codegen): switch on integer cases lowers to a jump table",
+      "author": "Daniel",
+      "date": "2026-07-20T07:42:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a347a01ed30fd7578eabf91ca47ec4bff73cf9cb"
+    },
+    {
+      "sha": "392fdf8b05fe89dc9a553ba173dd4e1b1b7ff8fa",
+      "short": "392fdf8",
       "message": "docs: auto-update cross-runtime parity badge (72.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-20T02:06:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6aab475b300ee25eb26a0c29c9610ad94cfd520e"
+      "date": "2026-07-20T07:42:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/392fdf8b05fe89dc9a553ba173dd4e1b1b7ff8fa"
     },
     {
-      "sha": "6bd18c94233f3d041b4f0935f636ec05478c9f2a",
-      "short": "6bd18c9",
-      "message": "fix(ci): a bench that fails to compile no longer aborts the Benchmarks job",
+      "sha": "02cc34b7efcd76036e6f366df7176a79eeb691ae",
+      "short": "02cc34b",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-20T01:51:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6bd18c94233f3d041b4f0935f636ec05478c9f2a"
+      "date": "2026-07-20T07:28:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/02cc34b7efcd76036e6f366df7176a79eeb691ae"
     },
     {
-      "sha": "13d18342790090716d316288ccaa57d99e0d5b92",
-      "short": "13d1834",
+      "sha": "35f8a33a7cf63281ceec6e547576d888aee6ff8f",
+      "short": "35f8a33",
+      "message": "perf(codegen): num bit operations emit Cranelift instructions, not calls",
+      "author": "Daniel",
+      "date": "2026-07-20T07:27:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/35f8a33a7cf63281ceec6e547576d888aee6ff8f"
+    },
+    {
+      "sha": "339a950a469e62e0d44d6c383df82f20b19ebcd2",
+      "short": "339a950",
+      "message": "feat(codegen): build the intrinsic emission path — sqrt/abs/min/max as IR",
+      "author": "Daniel",
+      "date": "2026-07-20T07:07:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/339a950a469e62e0d44d6c383df82f20b19ebcd2"
+    },
+    {
+      "sha": "08545322d499a96dae17b5ad33874ab6703c5cab",
+      "short": "0854532",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T06:29:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/08545322d499a96dae17b5ad33874ab6703c5cab"
+    },
+    {
+      "sha": "0c0f4995ba3610f6777ea79cc31f4488e7592ea7",
+      "short": "0c0f499",
+      "message": "docs: cross-runtime parity 72.9% + history snapshot 2026-07-20",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T06:21:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c0f4995ba3610f6777ea79cc31f4488e7592ea7"
+    },
+    {
+      "sha": "f2aceb9406aeb02c25634e87ccf9ce279ef71e81",
+      "short": "f2aceb9",
+      "message": "docs: CRANELIFT_IMPLEMENTATION.md — plan to move runtime calls into native IR",
+      "author": "Daniel",
+      "date": "2026-07-20T06:12:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2aceb9406aeb02c25634e87ccf9ce279ef71e81"
+    },
+    {
+      "sha": "9dddb0838b734ee5c50e6ffa09e4a090abada247",
+      "short": "9dddb08",
+      "message": "perf(engine): hoist immutable module-global reads out of hot loops",
+      "author": "Daniel",
+      "date": "2026-07-20T06:04:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9dddb0838b734ee5c50e6ffa09e4a090abada247"
+    },
+    {
+      "sha": "6b144a2b19ec29c00e47cbc0c09a0f128f3f3c67",
+      "short": "6b144a2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T05:09:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b144a2b19ec29c00e47cbc0c09a0f128f3f3c67"
+    },
+    {
+      "sha": "261eab69f875d3140705201006497d6b39083999",
+      "short": "261eab6",
       "message": "docs: auto-update cross-runtime parity badge (72.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-20T01:33:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/13d18342790090716d316288ccaa57d99e0d5b92"
+      "date": "2026-07-20T05:00:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/261eab69f875d3140705201006497d6b39083999"
     },
     {
-      "sha": "4b785e8416682cccde8d11928e41424511ba30b0",
-      "short": "4b785e8",
-      "message": "fix(aot): deterministic class emission order — kills the AOT startup crash",
+      "sha": "dcbbff10074d88928c28bc10cb5d2ff814f65ab5",
+      "short": "dcbbff1",
+      "message": "perf(aot): delay-load the GUI/device/COM DLLs — 75.6ms -> 13.6ms startup",
       "author": "Daniel",
-      "date": "2026-07-20T01:22:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b785e8416682cccde8d11928e41424511ba30b0"
+      "date": "2026-07-20T04:47:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dcbbff10074d88928c28bc10cb5d2ff814f65ab5"
     },
     {
-      "sha": "1096c98431fde45a643a47b0ffa4df71e7430bf1",
-      "short": "1096c98",
-      "message": "fix(aot): install adapter hooks + skip prune — AOT startup crash 40% -> ~5%",
+      "sha": "eb94ba01d8ad6781a6786decda363235290e1a0b",
+      "short": "eb94ba0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T04:04:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb94ba01d8ad6781a6786decda363235290e1a0b"
+    },
+    {
+      "sha": "fce1061001fdb4476c5c65fd49bac93ee10f073d",
+      "short": "fce1061",
+      "message": "perf(aot): delay-load opengl32 in compiled binaries — ~57ms off every startup",
       "author": "Daniel",
-      "date": "2026-07-19T23:49:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1096c98431fde45a643a47b0ffa4df71e7430bf1"
+      "date": "2026-07-20T03:42:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fce1061001fdb4476c5c65fd49bac93ee10f073d"
     },
     {
-      "sha": "24ad23867b6774fbeb62c85c6b60eea12a52f4eb",
-      "short": "24ad238",
+      "sha": "4eda0d9681dc226a98601215d43bdb9904c3951d",
+      "short": "4eda0d9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-20T03:06:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4eda0d9681dc226a98601215d43bdb9904c3951d"
+    },
+    {
+      "sha": "4d70ff90c1ffbce5475e162609b0452b65d47768",
+      "short": "4d70ff9",
+      "message": "fix(ci): commit the README before rebasing in the benchmark update",
+      "author": "Daniel",
+      "date": "2026-07-20T02:44:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d70ff90c1ffbce5475e162609b0452b65d47768"
+    },
+    {
+      "sha": "2d52b48588f64949689046a85ad9c22ee8049eb3",
+      "short": "2d52b48",
       "message": "docs: auto-update cross-runtime parity badge (72.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-19T22:49:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/24ad23867b6774fbeb62c85c6b60eea12a52f4eb"
+      "date": "2026-07-20T02:32:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d52b48588f64949689046a85ad9c22ee8049eb3"
     },
     {
-      "sha": "a52ca5c73cb525db199319b42013003f4591cce3",
-      "short": "a52ca5c",
-      "message": "fix(ci): stage the versioned .exe in Benchmarks, not literal rts.exe",
+      "sha": "70b28565ec65ef8f668688dca13b27604dd4ef7b",
+      "short": "70b2856",
+      "message": "fix(ci): exit 0 after a successful benchmark run",
       "author": "Daniel",
-      "date": "2026-07-19T22:20:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a52ca5c73cb525db199319b42013003f4591cce3"
-    },
-    {
-      "sha": "f01548af0d7397d25c7890126e716654d130cb1b",
-      "short": "f01548a",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-19T22:16:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f01548af0d7397d25c7890126e716654d130cb1b"
-    },
-    {
-      "sha": "a38ab16ada725813000f7b45798d6b5aad6a974e",
-      "short": "a38ab16",
-      "message": "fix(ci): declare lchmod extern directly — unblock the macOS release build",
-      "author": "Daniel",
-      "date": "2026-07-19T22:03:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a38ab16ada725813000f7b45798d6b5aad6a974e"
-    },
-    {
-      "sha": "6fbf46fa97393764c70e56463bfa5ddf8f2115a1",
-      "short": "6fbf46f",
-      "message": "docs: §4a resolved — unit-test instability found and fixed (3 stale GC roots/tables)",
-      "author": "Daniel",
-      "date": "2026-07-19T21:00:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6fbf46fa97393764c70e56463bfa5ddf8f2115a1"
-    },
-    {
-      "sha": "76c39b1a36bd6c0be9d1271a4fc34d16c9270ca7",
-      "short": "76c39b1",
-      "message": "Merge fix/globalthis-stale-root: the unit-test binary is stable again",
-      "author": "Daniel",
-      "date": "2026-07-19T20:59:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/76c39b1a36bd6c0be9d1271a4fc34d16c9270ca7"
-    },
-    {
-      "sha": "a027ea60a30e665e34e85f34fd1b304d5576ed2d",
-      "short": "a027ea6",
-      "message": "fix(gc): reset the gcell store between programs — kills the residual crash",
-      "author": "Daniel",
-      "date": "2026-07-19T20:59:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a027ea60a30e665e34e85f34fd1b304d5576ed2d"
-    },
-    {
-      "sha": "72ed684258f40359fc217b70e87f6ce45c2d906d",
-      "short": "72ed684",
-      "message": "fix(engine): reset the handle-keyed value tables between programs",
-      "author": "Daniel",
-      "date": "2026-07-19T20:30:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/72ed684258f40359fc217b70e87f6ce45c2d906d"
-    },
-    {
-      "sha": "e0ec4881aacca73754edf9757281a0e0c67a814c",
-      "short": "e0ec488",
-      "message": "fix(gc): clear globalThis between programs — kills the unit-test crash",
-      "author": "Daniel",
-      "date": "2026-07-19T20:03:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0ec4881aacca73754edf9757281a0e0c67a814c"
-    },
-    {
-      "sha": "07cc8691bd330abe093e1976830e9e997928fa68",
-      "short": "07cc869",
-      "message": "docs: the unit-test binary is not stable — and it invalidates two rejections",
-      "author": "Daniel",
-      "date": "2026-07-19T19:35:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07cc8691bd330abe093e1976830e9e997928fa68"
-    },
-    {
-      "sha": "5cda7bcdbd9d38605efcf26679c461e186b31254",
-      "short": "5cda7bc",
-      "message": "Merge perf/delay-opengl32: 64 ms off every invocation",
-      "author": "Daniel",
-      "date": "2026-07-19T17:35:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cda7bcdbd9d38605efcf26679c461e186b31254"
-    },
-    {
-      "sha": "5ea3c9a1b7f117a928b0b79e40d46d56486ec688",
-      "short": "5ea3c9a",
-      "message": "docs: Item 12 measured — opengl32 alone was 64 of the 65 ms",
-      "author": "Daniel",
-      "date": "2026-07-19T17:35:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ea3c9a1b7f117a928b0b79e40d46d56486ec688"
-    },
-    {
-      "sha": "d67fa9e060d3d2e7ee5555a524925b4fc3cbf31a",
-      "short": "d67fa9e",
-      "message": "perf: delay-load opengl32.dll — 64 ms off every invocation",
-      "author": "Daniel",
-      "date": "2026-07-19T17:34:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d67fa9e060d3d2e7ee5555a524925b4fc3cbf31a"
-    },
-    {
-      "sha": "1df8b4dd8bdd5a999c5af0036b8e017eb118ecef",
-      "short": "1df8b4d",
-      "message": "docs: Item 12 — GUI/audio DLL load investigated, delay-load rejected",
-      "author": "Daniel",
-      "date": "2026-07-19T16:57:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1df8b4dd8bdd5a999c5af0036b8e017eb118ecef"
-    },
-    {
-      "sha": "8999a23358995b9c639cb0a96680b1724b262f30",
-      "short": "8999a23",
-      "message": "Merge perf/opt-level-hot-path: speed-optimize the compile path and runtime",
-      "author": "Daniel",
-      "date": "2026-07-19T04:43:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8999a23358995b9c639cb0a96680b1724b262f30"
+      "date": "2026-07-20T02:18:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70b28565ec65ef8f668688dca13b27604dd4ef7b"
     }
   ]
 }
