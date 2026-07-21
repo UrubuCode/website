@@ -1,165 +1,165 @@
 {
-  "total": 3722,
+  "total": 3744,
   "commits": [
     {
-      "sha": "376037967a6af2eb756d41526217355d28fafd58",
-      "short": "3760379",
+      "sha": "2afa82682cc68e32709070e57b66ce3dada295e1",
+      "short": "2afa826",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T07:47:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2afa82682cc68e32709070e57b66ce3dada295e1"
+    },
+    {
+      "sha": "81f873e04220ad8f08f49804e7ba0bc870e0f5a8",
+      "short": "81f873e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-21T07:25:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81f873e04220ad8f08f49804e7ba0bc870e0f5a8"
+    },
+    {
+      "sha": "22228cfe3a73435975aa052bec6fcd2054c91eda",
+      "short": "22228cf",
+      "message": "docs: step 10 slice 2 spike — GO on path B (baker), FuncId non-determinism rules out byte cache",
+      "author": "Daniel",
+      "date": "2026-07-21T07:20:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22228cfe3a73435975aa052bec6fcd2054c91eda"
+    },
+    {
+      "sha": "a843de7fa572a8b79bfdd9b12848d9960fce2abf",
+      "short": "a843de7",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T07:08:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a843de7fa572a8b79bfdd9b12848d9960fce2abf"
+    },
+    {
+      "sha": "cd2777b6ac028ea8ca4262abd0ce39ef1841ff6f",
+      "short": "cd2777b",
+      "message": "docs: step 10 slice 1 done (prelude cache on by default, 123→79ms)",
+      "author": "Daniel",
+      "date": "2026-07-21T06:54:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd2777b6ac028ea8ca4262abd0ce39ef1841ff6f"
+    },
+    {
+      "sha": "73623f0ffc229da1b618fe561ff923c9706e84a5",
+      "short": "73623f0",
+      "message": "fix(codegen): gate prelude cache to top-level compile — enable by default",
+      "author": "Daniel",
+      "date": "2026-07-21T06:54:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73623f0ffc229da1b618fe561ff923c9706e84a5"
+    },
+    {
+      "sha": "4d5a11c40869d40d85d2ddd63b37156e63ae2d1a",
+      "short": "4d5a11c",
+      "message": "feat(codegen): opt-in disk cache of the lowered prelude (step 10 slice 1)",
+      "author": "Daniel",
+      "date": "2026-07-21T06:25:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d5a11c40869d40d85d2ddd63b37156e63ae2d1a"
+    },
+    {
+      "sha": "4d61602005eb55a7fae4a319fd6771c42983eabf",
+      "short": "4d61602",
+      "message": "feat(codegen): serde-derive the LoweredProgram (prelude-cache foundation)",
+      "author": "Daniel",
+      "date": "2026-07-21T06:01:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d61602005eb55a7fae4a319fd6771c42983eabf"
+    },
+    {
+      "sha": "d48318e3e7a91a1a5581a9f6bdd01281d75d74ff",
+      "short": "d48318e",
+      "message": "feat(engine): shape-registry snapshot/seed API for the prelude cache",
+      "author": "Daniel",
+      "date": "2026-07-21T05:46:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d48318e3e7a91a1a5581a9f6bdd01281d75d74ff"
+    },
+    {
+      "sha": "8383ef61fc2cdcb40724d1ebfbdc7bfa38149f45",
+      "short": "8383ef6",
+      "message": "docs: step 10 plan — resident precompiled prelude, sliced, ~123→23ms target",
+      "author": "Daniel",
+      "date": "2026-07-21T05:38:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8383ef61fc2cdcb40724d1ebfbdc7bfa38149f45"
+    },
+    {
+      "sha": "628b8609384cf1e8b944a069e31fe08dc01d2443",
+      "short": "628b860",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T05:18:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/628b8609384cf1e8b944a069e31fe08dc01d2443"
+    },
+    {
+      "sha": "1336bb4472f122dfec301b2695c3fba5b73b03e3",
+      "short": "1336bb4",
       "message": "docs: auto-update cross-runtime parity badge (72.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-21T01:49:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/376037967a6af2eb756d41526217355d28fafd58"
+      "date": "2026-07-21T05:09:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1336bb4472f122dfec301b2695c3fba5b73b03e3"
     },
     {
-      "sha": "abaccf5f47a134b4d54330b1511dcc73f19d6ee0",
-      "short": "abaccf5",
-      "message": "docs: record step 5a (allocation storm fixed) + split 5b native load/store",
-      "author": "Daniel",
-      "date": "2026-07-21T00:31:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/abaccf5f47a134b4d54330b1511dcc73f19d6ee0"
-    },
-    {
-      "sha": "4da2ae6d0d1bb14faf13e1cd872dcdb1ad0e5f5f",
-      "short": "4da2ae6",
-      "message": "perf(typedarray): kill the per-element allocation storm on level-B views",
-      "author": "Daniel",
-      "date": "2026-07-21T00:31:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4da2ae6d0d1bb14faf13e1cd872dcdb1ad0e5f5f"
-    },
-    {
-      "sha": "2661376465e4cf057043d503841de18b2ecb4a2f",
-      "short": "2661376",
-      "message": "docs: record the NativeEmit API change and add steps 8-10",
-      "author": "Daniel",
-      "date": "2026-07-20T22:38:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2661376465e4cf057043d503841de18b2ecb4a2f"
-    },
-    {
-      "sha": "9722ee140a46d7bd845199736dcd931b3237090e",
-      "short": "9722ee1",
-      "message": "feat(registry): a member can carry its own Cranelift emitter",
-      "author": "Daniel",
-      "date": "2026-07-20T22:14:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9722ee140a46d7bd845199736dcd931b3237090e"
-    },
-    {
-      "sha": "910654c4a8c6ac21d9a699d55f1b54fd7f110a97",
-      "short": "910654c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T17:19:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/910654c4a8c6ac21d9a699d55f1b54fd7f110a97"
-    },
-    {
-      "sha": "84ac10c9bc8d6e141967280b6ff96fbf0fb5206e",
-      "short": "84ac10c",
-      "message": "feat(crypto/protobuf/buffer): AES-GCM/CBC, X25519, protobuf wire format + Buffer.from(array) fix (#1965)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-20T16:55:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84ac10c9bc8d6e141967280b6ff96fbf0fb5206e"
-    },
-    {
-      "sha": "c96ac0f8342df855a051272b67dea7df39e9f1bc",
-      "short": "c96ac0f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T09:07:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c96ac0f8342df855a051272b67dea7df39e9f1bc"
-    },
-    {
-      "sha": "d1d231e929fe632c854d0dbf0a2fe7bfca5d8772",
-      "short": "d1d231e",
+      "sha": "e201c8806b025160020d19274723e2e123333075",
+      "short": "e201c88",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-20T08:06:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1d231e929fe632c854d0dbf0a2fe7bfca5d8772"
+      "date": "2026-07-21T04:55:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e201c8806b025160020d19274723e2e123333075"
     },
     {
-      "sha": "96fac84432287aa42a3cf3cbcb9adf5eb184932b",
-      "short": "96fac84",
-      "message": "perf(atomic): keep the shard mutex off the atomic fast path",
+      "sha": "61b27636c243adda095a65d5933884e58a1a59cb",
+      "short": "61b2763",
+      "message": "docs: step 10 MEASURED — ~140ms startup is prelude recompilation, not DLL loading",
       "author": "Daniel",
-      "date": "2026-07-20T08:04:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96fac84432287aa42a3cf3cbcb9adf5eb184932b"
+      "date": "2026-07-21T04:42:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/61b27636c243adda095a65d5933884e58a1a59cb"
     },
     {
-      "sha": "040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178",
-      "short": "040c1f9",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T08:04:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/040c1f9b947ee7ab97035cc7f1ebfa87cbf2a178"
-    },
-    {
-      "sha": "879178af229d7b0ba7b99e6502952d36a290d6a7",
-      "short": "879178a",
-      "message": "docs: step 3 is blocked (JIT has no TLS) and was not worth it anyway",
+      "sha": "cb4d272a571c1db90ef511ec32cf38fffeb15fe5",
+      "short": "cb4d272",
+      "message": "docs: update ordering/board — 5b + 8 done, 10 is next",
       "author": "Daniel",
-      "date": "2026-07-20T07:48:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/879178af229d7b0ba7b99e6502952d36a290d6a7"
+      "date": "2026-07-21T04:41:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb4d272a571c1db90ef511ec32cf38fffeb15fe5"
     },
     {
-      "sha": "c2169c3b7780c0fbcf99b1c843127045d6bcff3c",
-      "short": "c2169c3",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "fb2a2259673309d9ede17fe32c0f69bafa27ea34",
+      "short": "fb2a225",
+      "message": "docs: step 5b done (native element access, 7.5s → 319ms, ~23x)",
       "author": "Daniel",
-      "date": "2026-07-20T07:42:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2169c3b7780c0fbcf99b1c843127045d6bcff3c"
+      "date": "2026-07-21T04:27:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fb2a2259673309d9ede17fe32c0f69bafa27ea34"
     },
     {
-      "sha": "a347a01ed30fd7578eabf91ca47ec4bff73cf9cb",
-      "short": "a347a01",
-      "message": "perf(codegen): switch on integer cases lowers to a jump table",
+      "sha": "bc9ac26f3226e6897780e4944ff37816b4ed5d38",
+      "short": "bc9ac26",
+      "message": "perf(typedarray): step 5b slice 5 — hoist the view base+len out of the loop",
       "author": "Daniel",
-      "date": "2026-07-20T07:42:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a347a01ed30fd7578eabf91ca47ec4bff73cf9cb"
+      "date": "2026-07-21T04:26:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc9ac26f3226e6897780e4944ff37816b4ed5d38"
     },
     {
-      "sha": "392fdf8b05fe89dc9a553ba173dd4e1b1b7ff8fa",
-      "short": "392fdf8",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T07:42:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/392fdf8b05fe89dc9a553ba173dd4e1b1b7ff8fa"
-    },
-    {
-      "sha": "02cc34b7efcd76036e6f366df7176a79eeb691ae",
-      "short": "02cc34b",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "36993e7fe02fdcc08e30dd5089e0696a9e5c3334",
+      "short": "36993e7",
+      "message": "perf(typedarray): step 5b slices 2-3 — inline native element load/store",
       "author": "Daniel",
-      "date": "2026-07-20T07:28:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/02cc34b7efcd76036e6f366df7176a79eeb691ae"
+      "date": "2026-07-21T02:50:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36993e7fe02fdcc08e30dd5089e0696a9e5c3334"
     },
     {
-      "sha": "35f8a33a7cf63281ceec6e547576d888aee6ff8f",
-      "short": "35f8a33",
-      "message": "perf(codegen): num bit operations emit Cranelift instructions, not calls",
+      "sha": "491ab47e1fc3539448fc039b591b7fc4dc1f6daf",
+      "short": "491ab47",
+      "message": "feat(typedarray): step 5b slice 1 — native base+len resolver for level-B views",
       "author": "Daniel",
-      "date": "2026-07-20T07:27:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/35f8a33a7cf63281ceec6e547576d888aee6ff8f"
+      "date": "2026-07-21T02:27:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/491ab47e1fc3539448fc039b591b7fc4dc1f6daf"
     },
     {
-      "sha": "339a950a469e62e0d44d6c383df82f20b19ebcd2",
-      "short": "339a950",
-      "message": "feat(codegen): build the intrinsic emission path — sqrt/abs/min/max as IR",
+      "sha": "4260bf535e349b73406f9b9c4a5b2e5f9bc23447",
+      "short": "4260bf5",
+      "message": "docs: mark step 8 done (Intrinsic enum deleted, 20 ops on specs)",
       "author": "Daniel",
-      "date": "2026-07-20T07:07:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/339a950a469e62e0d44d6c383df82f20b19ebcd2"
-    },
-    {
-      "sha": "08545322d499a96dae17b5ad33874ab6703c5cab",
-      "short": "0854532",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T06:29:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/08545322d499a96dae17b5ad33874ab6703c5cab"
-    },
-    {
-      "sha": "0c0f4995ba3610f6777ea79cc31f4488e7592ea7",
-      "short": "0c0f499",
-      "message": "docs: cross-runtime parity 72.9% + history snapshot 2026-07-20",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T06:21:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c0f4995ba3610f6777ea79cc31f4488e7592ea7"
+      "date": "2026-07-21T02:04:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4260bf535e349b73406f9b9c4a5b2e5f9bc23447"
     }
   ]
 }
