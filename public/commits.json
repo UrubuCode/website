@@ -1,6 +1,46 @@
 {
-  "total": 3717,
+  "total": 3722,
   "commits": [
+    {
+      "sha": "376037967a6af2eb756d41526217355d28fafd58",
+      "short": "3760379",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T01:49:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/376037967a6af2eb756d41526217355d28fafd58"
+    },
+    {
+      "sha": "abaccf5f47a134b4d54330b1511dcc73f19d6ee0",
+      "short": "abaccf5",
+      "message": "docs: record step 5a (allocation storm fixed) + split 5b native load/store",
+      "author": "Daniel",
+      "date": "2026-07-21T00:31:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/abaccf5f47a134b4d54330b1511dcc73f19d6ee0"
+    },
+    {
+      "sha": "4da2ae6d0d1bb14faf13e1cd872dcdb1ad0e5f5f",
+      "short": "4da2ae6",
+      "message": "perf(typedarray): kill the per-element allocation storm on level-B views",
+      "author": "Daniel",
+      "date": "2026-07-21T00:31:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4da2ae6d0d1bb14faf13e1cd872dcdb1ad0e5f5f"
+    },
+    {
+      "sha": "2661376465e4cf057043d503841de18b2ecb4a2f",
+      "short": "2661376",
+      "message": "docs: record the NativeEmit API change and add steps 8-10",
+      "author": "Daniel",
+      "date": "2026-07-20T22:38:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2661376465e4cf057043d503841de18b2ecb4a2f"
+    },
+    {
+      "sha": "9722ee140a46d7bd845199736dcd931b3237090e",
+      "short": "9722ee1",
+      "message": "feat(registry): a member can carry its own Cranelift emitter",
+      "author": "Daniel",
+      "date": "2026-07-20T22:14:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9722ee140a46d7bd845199736dcd931b3237090e"
+    },
     {
       "sha": "910654c4a8c6ac21d9a699d55f1b54fd7f110a97",
       "short": "910654c",
@@ -120,46 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-20T06:21:14Z",
       "url": "https://github.com/UrubuCode/rts/commit/0c0f4995ba3610f6777ea79cc31f4488e7592ea7"
-    },
-    {
-      "sha": "f2aceb9406aeb02c25634e87ccf9ce279ef71e81",
-      "short": "f2aceb9",
-      "message": "docs: CRANELIFT_IMPLEMENTATION.md — plan to move runtime calls into native IR",
-      "author": "Daniel",
-      "date": "2026-07-20T06:12:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2aceb9406aeb02c25634e87ccf9ce279ef71e81"
-    },
-    {
-      "sha": "9dddb0838b734ee5c50e6ffa09e4a090abada247",
-      "short": "9dddb08",
-      "message": "perf(engine): hoist immutable module-global reads out of hot loops",
-      "author": "Daniel",
-      "date": "2026-07-20T06:04:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9dddb0838b734ee5c50e6ffa09e4a090abada247"
-    },
-    {
-      "sha": "6b144a2b19ec29c00e47cbc0c09a0f128f3f3c67",
-      "short": "6b144a2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T05:09:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b144a2b19ec29c00e47cbc0c09a0f128f3f3c67"
-    },
-    {
-      "sha": "261eab69f875d3140705201006497d6b39083999",
-      "short": "261eab6",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-20T05:00:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/261eab69f875d3140705201006497d6b39083999"
-    },
-    {
-      "sha": "dcbbff10074d88928c28bc10cb5d2ff814f65ab5",
-      "short": "dcbbff1",
-      "message": "perf(aot): delay-load the GUI/device/COM DLLs — 75.6ms -> 13.6ms startup",
-      "author": "Daniel",
-      "date": "2026-07-20T04:47:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dcbbff10074d88928c28bc10cb5d2ff814f65ab5"
     }
   ]
 }
