@@ -1,6 +1,70 @@
 {
-  "total": 3744,
+  "total": 3752,
   "commits": [
+    {
+      "sha": "32089ff3b52f23814ff806675aa4eeb09c2121a6",
+      "short": "32089ff",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T09:25:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/32089ff3b52f23814ff806675aa4eeb09c2121a6"
+    },
+    {
+      "sha": "7ea313be932184fe63860dd7590ff923171b2dc5",
+      "short": "7ea313b",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T09:17:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ea313be932184fe63860dd7590ff923171b2dc5"
+    },
+    {
+      "sha": "449a9c16d3339edda2a75cf227f544fd3f5aab6b",
+      "short": "449a9c1",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-21T09:01:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/449a9c16d3339edda2a75cf227f544fd3f5aab6b"
+    },
+    {
+      "sha": "d0ed879ee9d160b37bf9ac5f3c37185edc6d2378",
+      "short": "d0ed879",
+      "message": "docs: step 10 slice 2 progress — bake+link foundation done (commits 1/2a/2b), consumer remaining",
+      "author": "Daniel",
+      "date": "2026-07-21T08:48:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0ed879ee9d160b37bf9ac5f3c37185edc6d2378"
+    },
+    {
+      "sha": "dfacb5736f603724522d597db99034c3d6812363",
+      "short": "dfacb57",
+      "message": "feat(build): opt-in link of the baked resident prelude into rts.exe (slice 2, commit 2b)",
+      "author": "Daniel",
+      "date": "2026-07-21T08:47:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dfacb5736f603724522d597db99034c3d6812363"
+    },
+    {
+      "sha": "bf2afd372e809b3d951fd1eec85182873b3dd45c",
+      "short": "bf2afd3",
+      "message": "feat(codegen): baker emits the resident-prelude symbol address table (slice 2, commit 2a)",
+      "author": "Daniel",
+      "date": "2026-07-21T08:13:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bf2afd372e809b3d951fd1eec85182873b3dd45c"
+    },
+    {
+      "sha": "45e94b320fd43718afadfde830e48f13105fe00c",
+      "short": "45e94b3",
+      "message": "harden(codegen): Drop-guard the bake/aot thread-locals + pin Linkage::merge note",
+      "author": "Daniel",
+      "date": "2026-07-21T08:10:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/45e94b320fd43718afadfde830e48f13105fe00c"
+    },
+    {
+      "sha": "cdd5fbbefbec0e0c46fbdb8c015cd1a6b2008ade",
+      "short": "cdd5fbb",
+      "message": "feat(codegen): rts-prelude-baker — bake resident prelude object + manifest (step 10 slice 2, commit 1)",
+      "author": "Daniel",
+      "date": "2026-07-21T08:05:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cdd5fbbefbec0e0c46fbdb8c015cd1a6b2008ade"
+    },
     {
       "sha": "2afa82682cc68e32709070e57b66ce3dada295e1",
       "short": "2afa826",
@@ -96,70 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-21T05:09:45Z",
       "url": "https://github.com/UrubuCode/rts/commit/1336bb4472f122dfec301b2695c3fba5b73b03e3"
-    },
-    {
-      "sha": "e201c8806b025160020d19274723e2e123333075",
-      "short": "e201c88",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-21T04:55:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e201c8806b025160020d19274723e2e123333075"
-    },
-    {
-      "sha": "61b27636c243adda095a65d5933884e58a1a59cb",
-      "short": "61b2763",
-      "message": "docs: step 10 MEASURED — ~140ms startup is prelude recompilation, not DLL loading",
-      "author": "Daniel",
-      "date": "2026-07-21T04:42:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61b27636c243adda095a65d5933884e58a1a59cb"
-    },
-    {
-      "sha": "cb4d272a571c1db90ef511ec32cf38fffeb15fe5",
-      "short": "cb4d272",
-      "message": "docs: update ordering/board — 5b + 8 done, 10 is next",
-      "author": "Daniel",
-      "date": "2026-07-21T04:41:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb4d272a571c1db90ef511ec32cf38fffeb15fe5"
-    },
-    {
-      "sha": "fb2a2259673309d9ede17fe32c0f69bafa27ea34",
-      "short": "fb2a225",
-      "message": "docs: step 5b done (native element access, 7.5s → 319ms, ~23x)",
-      "author": "Daniel",
-      "date": "2026-07-21T04:27:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb2a2259673309d9ede17fe32c0f69bafa27ea34"
-    },
-    {
-      "sha": "bc9ac26f3226e6897780e4944ff37816b4ed5d38",
-      "short": "bc9ac26",
-      "message": "perf(typedarray): step 5b slice 5 — hoist the view base+len out of the loop",
-      "author": "Daniel",
-      "date": "2026-07-21T04:26:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc9ac26f3226e6897780e4944ff37816b4ed5d38"
-    },
-    {
-      "sha": "36993e7fe02fdcc08e30dd5089e0696a9e5c3334",
-      "short": "36993e7",
-      "message": "perf(typedarray): step 5b slices 2-3 — inline native element load/store",
-      "author": "Daniel",
-      "date": "2026-07-21T02:50:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/36993e7fe02fdcc08e30dd5089e0696a9e5c3334"
-    },
-    {
-      "sha": "491ab47e1fc3539448fc039b591b7fc4dc1f6daf",
-      "short": "491ab47",
-      "message": "feat(typedarray): step 5b slice 1 — native base+len resolver for level-B views",
-      "author": "Daniel",
-      "date": "2026-07-21T02:27:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/491ab47e1fc3539448fc039b591b7fc4dc1f6daf"
-    },
-    {
-      "sha": "4260bf535e349b73406f9b9c4a5b2e5f9bc23447",
-      "short": "4260bf5",
-      "message": "docs: mark step 8 done (Intrinsic enum deleted, 20 ops on specs)",
-      "author": "Daniel",
-      "date": "2026-07-21T02:04:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4260bf535e349b73406f9b9c4a5b2e5f9bc23447"
     }
   ]
 }
