@@ -1,6 +1,94 @@
 {
-  "total": 3752,
+  "total": 3763,
   "commits": [
+    {
+      "sha": "1c0eaf26a163b46bd8ead8f596be07a5cf42523f",
+      "short": "1c0eaf2",
+      "message": "feat(egui): gpu3d — real 3D scene pass under the egui overlay (P7+ first slice) (#1966)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-22T01:45:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c0eaf26a163b46bd8ead8f596be07a5cf42523f"
+    },
+    {
+      "sha": "cc9f55cc2b3111bb5cf825e4653bcd52e997438c",
+      "short": "cc9f55c",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-22T01:33:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cc9f55cc2b3111bb5cf825e4653bcd52e997438c"
+    },
+    {
+      "sha": "87818916736adfd61490480b93767f9b6eca2ad6",
+      "short": "8781891",
+      "message": "docs: whole-program JIT cache (RTS_JIT_CACHE) — slice 2 extension, validated on binary",
+      "author": "Daniel",
+      "date": "2026-07-21T23:11:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87818916736adfd61490480b93767f9b6eca2ad6"
+    },
+    {
+      "sha": "9aff82f1dea3ae79f2f5f512b3a0ce060cfbfb33",
+      "short": "9aff82f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T23:09:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9aff82f1dea3ae79f2f5f512b3a0ce060cfbfb33"
+    },
+    {
+      "sha": "c8300be73e8f45a414d66a0557dd12d72238720f",
+      "short": "c8300be",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-21T23:00:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8300be73e8f45a414d66a0557dd12d72238720f"
+    },
+    {
+      "sha": "294f6b17e108f7e172811877c6c44c8ad81b5b67",
+      "short": "294f6b1",
+      "message": "feat(codegen): whole-program JIT disk cache (RTS_JIT_CACHE) — compile once, replay",
+      "author": "Daniel",
+      "date": "2026-07-21T22:56:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/294f6b17e108f7e172811877c6c44c8ad81b5b67"
+    },
+    {
+      "sha": "134c9fed9f17f54bf9074f1cf7b410b7cb71198c",
+      "short": "134c9fe",
+      "message": "feat(codegen): whole-program JIT cache foundation — bake_program + compile_replay",
+      "author": "Daniel",
+      "date": "2026-07-21T22:51:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/134c9fed9f17f54bf9074f1cf7b410b7cb71198c"
+    },
+    {
+      "sha": "9d88c2daff5beb0bc9b7cf76c00ad6ae4508fec2",
+      "short": "9d88c2d",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-21T22:43:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d88c2daff5beb0bc9b7cf76c00ad6ae4508fec2"
+    },
+    {
+      "sha": "58e077b9d08da0a93e5091785a20c87859696d68",
+      "short": "58e077b",
+      "message": "feat(codegen): resident prelude ON by default — slice 2 COMPLETE (731/731)",
+      "author": "Daniel",
+      "date": "2026-07-21T21:10:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58e077b9d08da0a93e5091785a20c87859696d68"
+    },
+    {
+      "sha": "2097d3d47bc8a0c9b454f904db2251753b38f8c3",
+      "short": "2097d3d",
+      "message": "feat(codegen): resident prelude via define_function_bytes replay (slice 2 — WORKING)",
+      "author": "Daniel",
+      "date": "2026-07-21T20:21:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2097d3d47bc8a0c9b454f904db2251753b38f8c3"
+    },
+    {
+      "sha": "bd4e932057bc50ea0140d1218cc1d99a1cacd890",
+      "short": "bd4e932",
+      "message": "feat(codegen): resident consumer engages (634→8 fns); pivot to define_function_bytes",
+      "author": "Daniel",
+      "date": "2026-07-21T19:46:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bd4e932057bc50ea0140d1218cc1d99a1cacd890"
+    },
     {
       "sha": "32089ff3b52f23814ff806675aa4eeb09c2121a6",
       "short": "32089ff",
@@ -72,94 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-21T07:47:26Z",
       "url": "https://github.com/UrubuCode/rts/commit/2afa82682cc68e32709070e57b66ce3dada295e1"
-    },
-    {
-      "sha": "81f873e04220ad8f08f49804e7ba0bc870e0f5a8",
-      "short": "81f873e",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-21T07:25:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81f873e04220ad8f08f49804e7ba0bc870e0f5a8"
-    },
-    {
-      "sha": "22228cfe3a73435975aa052bec6fcd2054c91eda",
-      "short": "22228cf",
-      "message": "docs: step 10 slice 2 spike — GO on path B (baker), FuncId non-determinism rules out byte cache",
-      "author": "Daniel",
-      "date": "2026-07-21T07:20:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/22228cfe3a73435975aa052bec6fcd2054c91eda"
-    },
-    {
-      "sha": "a843de7fa572a8b79bfdd9b12848d9960fce2abf",
-      "short": "a843de7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-21T07:08:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a843de7fa572a8b79bfdd9b12848d9960fce2abf"
-    },
-    {
-      "sha": "cd2777b6ac028ea8ca4262abd0ce39ef1841ff6f",
-      "short": "cd2777b",
-      "message": "docs: step 10 slice 1 done (prelude cache on by default, 123→79ms)",
-      "author": "Daniel",
-      "date": "2026-07-21T06:54:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd2777b6ac028ea8ca4262abd0ce39ef1841ff6f"
-    },
-    {
-      "sha": "73623f0ffc229da1b618fe561ff923c9706e84a5",
-      "short": "73623f0",
-      "message": "fix(codegen): gate prelude cache to top-level compile — enable by default",
-      "author": "Daniel",
-      "date": "2026-07-21T06:54:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/73623f0ffc229da1b618fe561ff923c9706e84a5"
-    },
-    {
-      "sha": "4d5a11c40869d40d85d2ddd63b37156e63ae2d1a",
-      "short": "4d5a11c",
-      "message": "feat(codegen): opt-in disk cache of the lowered prelude (step 10 slice 1)",
-      "author": "Daniel",
-      "date": "2026-07-21T06:25:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d5a11c40869d40d85d2ddd63b37156e63ae2d1a"
-    },
-    {
-      "sha": "4d61602005eb55a7fae4a319fd6771c42983eabf",
-      "short": "4d61602",
-      "message": "feat(codegen): serde-derive the LoweredProgram (prelude-cache foundation)",
-      "author": "Daniel",
-      "date": "2026-07-21T06:01:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d61602005eb55a7fae4a319fd6771c42983eabf"
-    },
-    {
-      "sha": "d48318e3e7a91a1a5581a9f6bdd01281d75d74ff",
-      "short": "d48318e",
-      "message": "feat(engine): shape-registry snapshot/seed API for the prelude cache",
-      "author": "Daniel",
-      "date": "2026-07-21T05:46:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d48318e3e7a91a1a5581a9f6bdd01281d75d74ff"
-    },
-    {
-      "sha": "8383ef61fc2cdcb40724d1ebfbdc7bfa38149f45",
-      "short": "8383ef6",
-      "message": "docs: step 10 plan — resident precompiled prelude, sliced, ~123→23ms target",
-      "author": "Daniel",
-      "date": "2026-07-21T05:38:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8383ef61fc2cdcb40724d1ebfbdc7bfa38149f45"
-    },
-    {
-      "sha": "628b8609384cf1e8b944a069e31fe08dc01d2443",
-      "short": "628b860",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-21T05:18:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/628b8609384cf1e8b944a069e31fe08dc01d2443"
-    },
-    {
-      "sha": "1336bb4472f122dfec301b2695c3fba5b73b03e3",
-      "short": "1336bb4",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-21T05:09:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1336bb4472f122dfec301b2695c3fba5b73b03e3"
     }
   ]
 }
