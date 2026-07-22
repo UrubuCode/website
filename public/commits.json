@@ -1,6 +1,30 @@
 {
-  "total": 3768,
+  "total": 3771,
   "commits": [
+    {
+      "sha": "32e0fb94c5f7d497a4dc0fe0d172ef12506dfd6c",
+      "short": "32e0fb9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-22T11:32:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/32e0fb94c5f7d497a4dc0fe0d172ef12506dfd6c"
+    },
+    {
+      "sha": "efd65885ca14b64c6fd0d1941daba26b91f3ca7a",
+      "short": "efd6588",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-22T11:24:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/efd65885ca14b64c6fd0d1941daba26b91f3ca7a"
+    },
+    {
+      "sha": "d8bacf0128fa06a8f553085083f4db120a75095d",
+      "short": "d8bacf0",
+      "message": "feat(egui): setVsync — runtime per-window vsync opt-out (uncapped fps) (#1970)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-22T11:10:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8bacf0128fa06a8f553085083f4db120a75095d"
+    },
     {
       "sha": "5de19fbf988d2b1514d9c232515455efefd7fadb",
       "short": "5de19fb",
@@ -136,30 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-21T09:25:29Z",
       "url": "https://github.com/UrubuCode/rts/commit/32089ff3b52f23814ff806675aa4eeb09c2121a6"
-    },
-    {
-      "sha": "7ea313be932184fe63860dd7590ff923171b2dc5",
-      "short": "7ea313b",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-21T09:17:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ea313be932184fe63860dd7590ff923171b2dc5"
-    },
-    {
-      "sha": "449a9c16d3339edda2a75cf227f544fd3f5aab6b",
-      "short": "449a9c1",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-21T09:01:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/449a9c16d3339edda2a75cf227f544fd3f5aab6b"
-    },
-    {
-      "sha": "d0ed879ee9d160b37bf9ac5f3c37185edc6d2378",
-      "short": "d0ed879",
-      "message": "docs: step 10 slice 2 progress — bake+link foundation done (commits 1/2a/2b), consumer remaining",
-      "author": "Daniel",
-      "date": "2026-07-21T08:48:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0ed879ee9d160b37bf9ac5f3c37185edc6d2378"
     }
   ]
 }
