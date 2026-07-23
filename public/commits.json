@@ -1,6 +1,14 @@
 {
-  "total": 3793,
+  "total": 3794,
   "commits": [
+    {
+      "sha": "4bd293b8cd3f5335284819d2056dd5f7684f5e9f",
+      "short": "4bd293b",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-22T19:13:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4bd293b8cd3f5335284819d2056dd5f7684f5e9f"
+    },
     {
       "sha": "8c8e9d1d413356ce22bf1969ca0bce959c6cae85",
       "short": "8c8e9d1",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-22T11:32:41Z",
       "url": "https://github.com/UrubuCode/rts/commit/32e0fb94c5f7d497a4dc0fe0d172ef12506dfd6c"
-    },
-    {
-      "sha": "efd65885ca14b64c6fd0d1941daba26b91f3ca7a",
-      "short": "efd6588",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T11:24:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/efd65885ca14b64c6fd0d1941daba26b91f3ca7a"
     }
   ]
 }
