@@ -1,6 +1,158 @@
 {
-  "total": 3805,
+  "total": 3824,
   "commits": [
+    {
+      "sha": "ed23f146c0c188531df44eb4d5ac6845f11ad4d7",
+      "short": "ed23f14",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T01:42:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed23f146c0c188531df44eb4d5ac6845f11ad4d7"
+    },
+    {
+      "sha": "53351dcf1b8e446524b67f671c0f8ea9e2fca0af",
+      "short": "53351dc",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T01:22:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/53351dcf1b8e446524b67f671c0f8ea9e2fca0af"
+    },
+    {
+      "sha": "3443e287ee405b8d137673ed724e5f63df3a911c",
+      "short": "3443e28",
+      "message": "docs: corrige a staticlib do AOT — é rts-adapters, não rts-runtime (#1996)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-24T01:20:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3443e287ee405b8d137673ed724e5f63df3a911c"
+    },
+    {
+      "sha": "9f221a631c721b9c5366533815ad2109b0c7586a",
+      "short": "9f221a6",
+      "message": "docs: auto-update cross-runtime parity badge (72.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T01:16:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9f221a631c721b9c5366533815ad2109b0c7586a"
+    },
+    {
+      "sha": "aa7b81e521e312c99346df262e5a1e954fb21307",
+      "short": "aa7b81e",
+      "message": "docs: tiered file-size ceilings (codegen 1000 / engine 700 / rest 500)",
+      "author": "Daniel",
+      "date": "2026-07-24T00:59:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aa7b81e521e312c99346df262e5a1e954fb21307"
+    },
+    {
+      "sha": "deecb37e76ac3fc2debb7da28364a87924e4f3da",
+      "short": "deecb37",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T00:58:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/deecb37e76ac3fc2debb7da28364a87924e4f3da"
+    },
+    {
+      "sha": "e6dc702f9c965f0cebfdc9dd419d975aa5361706",
+      "short": "e6dc702",
+      "message": "feat(rts-egui): texturing por UV per-vértice (substitui o triplanar) no scene pass 3D (#1994)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-24T00:51:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6dc702f9c965f0cebfdc9dd419d975aa5361706"
+    },
+    {
+      "sha": "e16755a6d1e89b5e5fcfd8c77b76af91f1043b8a",
+      "short": "e16755a",
+      "message": "docs: auto-update cross-runtime parity badge (72.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T00:50:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e16755a6d1e89b5e5fcfd8c77b76af91f1043b8a"
+    },
+    {
+      "sha": "a5d6e30e54deaf56b96d707752ab37e3b9a8c975",
+      "short": "a5d6e30",
+      "message": "feat(rts-egui): textura de imagem real no scene pass 3D (egui.textureUpload + triplanar) (#1991)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-24T00:36:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5d6e30e54deaf56b96d707752ab37e3b9a8c975"
+    },
+    {
+      "sha": "d5e0585bd1ae8f5a549b9e02424f6205d547d1b0",
+      "short": "d5e0585",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T00:32:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5e0585bd1ae8f5a549b9e02424f6205d547d1b0"
+    },
+    {
+      "sha": "b1cf73b3811604bd774b648250599faa20139a17",
+      "short": "b1cf73b",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T00:24:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1cf73b3811604bd774b648250599faa20139a17"
+    },
+    {
+      "sha": "7520f47ca4865deed0e50ca1289d3b52dee0b73e",
+      "short": "7520f47",
+      "message": "Merge: real Function.prototype object in the proto chain",
+      "author": "Daniel",
+      "date": "2026-07-24T00:11:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7520f47ca4865deed0e50ca1289d3b52dee0b73e"
+    },
+    {
+      "sha": "737f47c9fbde3dd590726a804075457c060f78c2",
+      "short": "737f47c",
+      "message": "refactor(engine): real Function.prototype object in the proto chain",
+      "author": "Daniel",
+      "date": "2026-07-23T23:26:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/737f47c9fbde3dd590726a804075457c060f78c2"
+    },
+    {
+      "sha": "e00fb5395a1065dbe42c04c154fd44db6bbff26c",
+      "short": "e00fb53",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-23T23:23:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e00fb5395a1065dbe42c04c154fd44db6bbff26c"
+    },
+    {
+      "sha": "270aa7231172c1b17660eb5b0f2d9136c8c5a715",
+      "short": "270aa72",
+      "message": "Merge: engine correctness — fn identity, complete mutation scan, unified proto seam",
+      "author": "Daniel",
+      "date": "2026-07-23T23:00:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/270aa7231172c1b17660eb5b0f2d9136c8c5a715"
+    },
+    {
+      "sha": "af91b6e9a01111ac9d5a19e0076c37250aa4a167",
+      "short": "af91b6e",
+      "message": "refactor(engine): unified proto_of_value + walk_proto_chain seam; migrate isPrototypeOf",
+      "author": "Daniel",
+      "date": "2026-07-23T22:59:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af91b6e9a01111ac9d5a19e0076c37250aa4a167"
+    },
+    {
+      "sha": "e6bd54bd6823a27ab1ae2bea899adb39c65d5641",
+      "short": "e6bd54b",
+      "message": "fix(engine): complete mutation/declared scan over all statement kinds",
+      "author": "Daniel",
+      "date": "2026-07-23T22:02:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6bd54bd6823a27ab1ae2bea899adb39c65d5641"
+    },
+    {
+      "sha": "94ad809208af9ce02daad6d53984ffa0f5dcac0b",
+      "short": "94ad809",
+      "message": "fix(engine): stable function-value identity for === / Object.is",
+      "author": "Daniel",
+      "date": "2026-07-23T21:35:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94ad809208af9ce02daad6d53984ffa0f5dcac0b"
+    },
+    {
+      "sha": "9ba39500baf7f803c8ab5ae5fde61e9069017fd4",
+      "short": "9ba3950",
+      "message": "chore: gitignore personal design docs (perf/state/proto/abi-codegen)",
+      "author": "Daniel",
+      "date": "2026-07-23T21:35:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ba39500baf7f803c8ab5ae5fde61e9069017fd4"
+    },
     {
       "sha": "87772a79b88f9d6cd2e25769547e798f06391617",
       "short": "87772a7",
@@ -8,158 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-23T17:20:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/87772a79b88f9d6cd2e25769547e798f06391617"
-    },
-    {
-      "sha": "d8beafe2772c86e7f1d1ba009f57cb1d588d6d86",
-      "short": "d8beafe",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T17:04:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8beafe2772c86e7f1d1ba009f57cb1d588d6d86"
-    },
-    {
-      "sha": "7b1b7821f726fdbcf148bdf810279ac5e7fe4422",
-      "short": "7b1b782",
-      "message": "ci: guard cross-runtime against false 0% from missing runtime libs",
-      "author": "Marcos",
-      "date": "2026-07-23T16:58:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7b1b7821f726fdbcf148bdf810279ac5e7fe4422"
-    },
-    {
-      "sha": "d4dd36cba266c9eb83c85baf64f1bd15825e0fef",
-      "short": "d4dd36c",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T16:50:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4dd36cba266c9eb83c85baf64f1bd15825e0fef"
-    },
-    {
-      "sha": "ad5a476355244f5699549cd0f52e43890c81432f",
-      "short": "ad5a476",
-      "message": "ci(debug): dump rts Linux startup stderr+cpu flags in cross-runtime (temp)",
-      "author": "Marcos",
-      "date": "2026-07-23T16:35:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad5a476355244f5699549cd0f52e43890c81432f"
-    },
-    {
-      "sha": "820c7d62721e463f1b5cbec83a1685d8b220747d",
-      "short": "820c7d6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T16:29:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/820c7d62721e463f1b5cbec83a1685d8b220747d"
-    },
-    {
-      "sha": "b1ca71e9bb83ca41fc33a9d53dc9c788050e0a30",
-      "short": "b1ca71e",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T16:11:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1ca71e9bb83ca41fc33a9d53dc9c788050e0a30"
-    },
-    {
-      "sha": "780d6bbfbd3d362a10ba53a498df20122f5c9d38",
-      "short": "780d6bb",
-      "message": "chore: purge testando-python-ignore scratch folder",
-      "author": "Marcos",
-      "date": "2026-07-23T16:06:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/780d6bbfbd3d362a10ba53a498df20122f5c9d38"
-    },
-    {
-      "sha": "fdba8fcd3b51067c619e9f44a7c6273feda2377d",
-      "short": "fdba8fc",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T14:10:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fdba8fcd3b51067c619e9f44a7c6273feda2377d"
-    },
-    {
-      "sha": "d48e63879fd9a6bdfbd53292f7403d0599e98d7b",
-      "short": "d48e638",
-      "message": "docs: auto-update cross-runtime parity badge (0%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T13:57:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d48e63879fd9a6bdfbd53292f7403d0599e98d7b"
-    },
-    {
-      "sha": "08c4e9d5290faa173c713fe7a1fbd296f91bba48",
-      "short": "08c4e9d",
-      "message": "feat(rts-egui): pipeline 3D wgpu (scene pass) + fixes de codegen (gcell) + net nonblocking (#1979)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-23T13:43:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/08c4e9d5290faa173c713fe7a1fbd296f91bba48"
-    },
-    {
-      "sha": "4bd293b8cd3f5335284819d2056dd5f7684f5e9f",
-      "short": "4bd293b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T19:13:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4bd293b8cd3f5335284819d2056dd5f7684f5e9f"
-    },
-    {
-      "sha": "8c8e9d1d413356ce22bf1969ca0bce959c6cae85",
-      "short": "8c8e9d1",
-      "message": "docs(cranelift): clear stale status wording + resolve the Atomics side-note (#1977)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-22T18:49:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c8e9d1d413356ce22bf1969ca0bce959c6cae85"
-    },
-    {
-      "sha": "9fec29f8f26bb82438eea70010297ad6d472a84f",
-      "short": "9fec29f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T18:15:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9fec29f8f26bb82438eea70010297ad6d472a84f"
-    },
-    {
-      "sha": "7286310a6a7676071ce262e9bbd2f812433596aa",
-      "short": "7286310",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T18:07:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7286310a6a7676071ce262e9bbd2f812433596aa"
-    },
-    {
-      "sha": "bafb4f0e4a8ff6df6a5f58ae8fc40ef933db1539",
-      "short": "bafb4f0",
-      "message": "docs(cranelift): dedup status board + refresh stale section statuses (#1976)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-22T17:53:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bafb4f0e4a8ff6df6a5f58ae8fc40ef933db1539"
-    },
-    {
-      "sha": "bc0ce51f8525c6d63a71b4ab698fbf29cd47e722",
-      "short": "bc0ce51",
-      "message": "docs(cranelift): finalize the campaign — step 9 done, AOT L2/L3 fixed, 6 discarded, 7 deferred (#1975)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-22T17:50:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc0ce51f8525c6d63a71b4ab698fbf29cd47e722"
-    },
-    {
-      "sha": "38e2c1b1c54dd81049a008c6d1f1b61f06aba524",
-      "short": "38e2c1b",
-      "message": "perf(codegen): step 9 — inline bitwise/%/** + fix AOT empty-string data-object aliasing (#1974)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-22T17:43:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38e2c1b1c54dd81049a008c6d1f1b61f06aba524"
-    },
-    {
-      "sha": "1bde9fa4ae2d103b208315243c1757394639b4da",
-      "short": "1bde9fa",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T17:31:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1bde9fa4ae2d103b208315243c1757394639b4da"
-    },
-    {
-      "sha": "aadd156aead9ff31902fad6f083e1564a543d028",
-      "short": "aadd156",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-22T17:23:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aadd156aead9ff31902fad6f083e1564a543d028"
     }
   ]
 }
