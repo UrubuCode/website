@@ -1,165 +1,165 @@
 {
-  "total": 3824,
+  "total": 3856,
   "commits": [
     {
-      "sha": "ed23f146c0c188531df44eb4d5ac6845f11ad4d7",
-      "short": "ed23f14",
+      "sha": "8f09d2a173cb178bbcdb4747ac694ab37bc19697",
+      "short": "8f09d2a",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-24T01:42:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed23f146c0c188531df44eb4d5ac6845f11ad4d7"
+      "date": "2026-07-24T06:43:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f09d2a173cb178bbcdb4747ac694ab37bc19697"
     },
     {
-      "sha": "53351dcf1b8e446524b67f671c0f8ea9e2fca0af",
-      "short": "53351dc",
+      "sha": "777e6e3fdd2c1e92a60473f1ef17a9b5f1551e61",
+      "short": "777e6e3",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-24T01:22:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53351dcf1b8e446524b67f671c0f8ea9e2fca0af"
+      "date": "2026-07-24T06:30:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/777e6e3fdd2c1e92a60473f1ef17a9b5f1551e61"
     },
     {
-      "sha": "3443e287ee405b8d137673ed724e5f63df3a911c",
-      "short": "3443e28",
-      "message": "docs: corrige a staticlib do AOT — é rts-adapters, não rts-runtime (#1996)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-24T01:20:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3443e287ee405b8d137673ed724e5f63df3a911c"
+      "sha": "8082d09a3be6973e28de4ce66cb798741c10b193",
+      "short": "8082d09",
+      "message": "Merge: rtse macro G4 — #[rtse::variable] fields (option A) + &mut self",
+      "author": "Daniel",
+      "date": "2026-07-24T06:22:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8082d09a3be6973e28de4ce66cb798741c10b193"
     },
     {
-      "sha": "9f221a631c721b9c5366533815ad2109b0c7586a",
-      "short": "9f221a6",
+      "sha": "91a3051114bd888778d7dfccb285ba9b44148f9e",
+      "short": "91a3051",
+      "message": "feat(engine): rtse macro G4 — #[rtse::variable] fields (option A)",
+      "author": "Daniel",
+      "date": "2026-07-24T06:22:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/91a3051114bd888778d7dfccb285ba9b44148f9e"
+    },
+    {
+      "sha": "76caa14aa57ba908119584f3db0e5825c2ffa725",
+      "short": "76caa14",
       "message": "docs: auto-update cross-runtime parity badge (72.5%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-24T01:16:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f221a631c721b9c5366533815ad2109b0c7586a"
+      "date": "2026-07-24T06:22:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/76caa14aa57ba908119584f3db0e5825c2ffa725"
     },
     {
-      "sha": "aa7b81e521e312c99346df262e5a1e954fb21307",
-      "short": "aa7b81e",
-      "message": "docs: tiered file-size ceilings (codegen 1000 / engine 700 / rest 500)",
+      "sha": "7e07bd8d1be7a6a4cab585b33f8ef36b18496297",
+      "short": "7e07bd8",
+      "message": "Merge: rtse macro AOT force-keep (#[used] per-class symbol array)",
       "author": "Daniel",
-      "date": "2026-07-24T00:59:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aa7b81e521e312c99346df262e5a1e954fb21307"
+      "date": "2026-07-24T06:08:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e07bd8d1be7a6a4cab585b33f8ef36b18496297"
     },
     {
-      "sha": "deecb37e76ac3fc2debb7da28364a87924e4f3da",
-      "short": "deecb37",
+      "sha": "c0667b989a673f09499e1f54423b328bc7fe0f45",
+      "short": "c0667b9",
+      "message": "feat(engine): rtse macro — AOT force-keep of generated symbols (#[used])",
+      "author": "Daniel",
+      "date": "2026-07-24T06:07:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c0667b989a673f09499e1f54423b328bc7fe0f45"
+    },
+    {
+      "sha": "434d507fc2062bfe4144b379f0190a4e480c3a73",
+      "short": "434d507",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-24T00:58:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/deecb37e76ac3fc2debb7da28364a87924e4f3da"
+      "date": "2026-07-24T05:58:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/434d507fc2062bfe4144b379f0190a4e480c3a73"
     },
     {
-      "sha": "e6dc702f9c965f0cebfdc9dd419d975aa5361706",
-      "short": "e6dc702",
-      "message": "feat(rts-egui): texturing por UV per-vértice (substitui o triplanar) no scene pass 3D (#1994)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-24T00:51:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6dc702f9c965f0cebfdc9dd419d975aa5361706"
+      "sha": "f40556074904d284128cecfc0da6605fbce360bf",
+      "short": "f405560",
+      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T05:49:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f40556074904d284128cecfc0da6605fbce360bf"
     },
     {
-      "sha": "e16755a6d1e89b5e5fcfd8c77b76af91f1043b8a",
-      "short": "e16755a",
+      "sha": "dbf6185d7b18a33f4a264d5ffb3159f8f7fcc06e",
+      "short": "dbf6185",
+      "message": "Merge: rtse macro G3 — &mut self mutating methods (with_rtse_mut)",
+      "author": "Daniel",
+      "date": "2026-07-24T05:36:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dbf6185d7b18a33f4a264d5ffb3159f8f7fcc06e"
+    },
+    {
+      "sha": "5649881b290e321f61d656fb3f41cb8f63f0740c",
+      "short": "5649881",
+      "message": "feat(engine): rtse macro G3 — &mut self mutating methods",
+      "author": "Daniel",
+      "date": "2026-07-24T05:36:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5649881b290e321f61d656fb3f41cb8f63f0740c"
+    },
+    {
+      "sha": "1e66aabce0bc7f0c8d65b1b192f3b23b8cdf4041",
+      "short": "1e66aab",
+      "message": "Merge: rtse macro G2 — static methods + &str params",
+      "author": "Daniel",
+      "date": "2026-07-24T05:26:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e66aabce0bc7f0c8d65b1b192f3b23b8cdf4041"
+    },
+    {
+      "sha": "20d746268178fbfb702d7e1ae86a6fb4f11faba6",
+      "short": "20d7462",
+      "message": "feat(engine): rtse macro G2 — static methods (#[rtse::statical]) + &str params",
+      "author": "Daniel",
+      "date": "2026-07-24T05:26:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/20d746268178fbfb702d7e1ae86a6fb4f11faba6"
+    },
+    {
+      "sha": "b31e265c733362beca7bb272491666fefeab9ff9",
+      "short": "b31e265",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T05:00:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b31e265c733362beca7bb272491666fefeab9ff9"
+    },
+    {
+      "sha": "27e79836b51a29b632135b283de37ed5b700a8fa",
+      "short": "27e7983",
+      "message": "Merge: #[rtse::class] authoring macro (G0+G1) + Entry::Rtse",
+      "author": "Daniel",
+      "date": "2026-07-24T04:37:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27e79836b51a29b632135b283de37ed5b700a8fa"
+    },
+    {
+      "sha": "77dd4ca2907af978965469f9e60fd3fa8b9d6b72",
+      "short": "77dd4ca",
+      "message": "feat(engine): #[rtse::class] authoring macro (G0+G1) + Entry::Rtse",
+      "author": "Daniel",
+      "date": "2026-07-24T04:37:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/77dd4ca2907af978965469f9e60fd3fa8b9d6b72"
+    },
+    {
+      "sha": "401eae7e930e262931c8281a000fc65a4306b1e7",
+      "short": "401eae7",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-24T03:41:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/401eae7e930e262931c8281a000fc65a4306b1e7"
+    },
+    {
+      "sha": "4a6ab58f28ac80e5e679590485cf02c977d58a2b",
+      "short": "4a6ab58",
       "message": "docs: auto-update cross-runtime parity badge (72.5%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-24T00:50:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e16755a6d1e89b5e5fcfd8c77b76af91f1043b8a"
+      "date": "2026-07-24T03:33:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a6ab58f28ac80e5e679590485cf02c977d58a2b"
     },
     {
-      "sha": "a5d6e30e54deaf56b96d707752ab37e3b9a8c975",
-      "short": "a5d6e30",
-      "message": "feat(rts-egui): textura de imagem real no scene pass 3D (egui.textureUpload + triplanar) (#1991)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-24T00:36:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5d6e30e54deaf56b96d707752ab37e3b9a8c975"
-    },
-    {
-      "sha": "d5e0585bd1ae8f5a549b9e02424f6205d547d1b0",
-      "short": "d5e0585",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-24T00:32:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5e0585bd1ae8f5a549b9e02424f6205d547d1b0"
-    },
-    {
-      "sha": "b1cf73b3811604bd774b648250599faa20139a17",
-      "short": "b1cf73b",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-24T00:24:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1cf73b3811604bd774b648250599faa20139a17"
-    },
-    {
-      "sha": "7520f47ca4865deed0e50ca1289d3b52dee0b73e",
-      "short": "7520f47",
-      "message": "Merge: real Function.prototype object in the proto chain",
+      "sha": "4e1c9dad6ceef4f4e0c82b829d80387c425f0def",
+      "short": "4e1c9da",
+      "message": "Merge: resolve proto-foundation optionals (document intentional artifacts)",
       "author": "Daniel",
-      "date": "2026-07-24T00:11:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7520f47ca4865deed0e50ca1289d3b52dee0b73e"
+      "date": "2026-07-24T03:18:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e1c9dad6ceef4f4e0c82b829d80387c425f0def"
     },
     {
-      "sha": "737f47c9fbde3dd590726a804075457c060f78c2",
-      "short": "737f47c",
-      "message": "refactor(engine): real Function.prototype object in the proto chain",
+      "sha": "f6513348df0a8cd0b5fd2805b43edb9ab4466594",
+      "short": "f651334",
+      "message": "docs(engine): mark the two intentional non-proto-foundation artifacts",
       "author": "Daniel",
-      "date": "2026-07-23T23:26:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/737f47c9fbde3dd590726a804075457c060f78c2"
-    },
-    {
-      "sha": "e00fb5395a1065dbe42c04c154fd44db6bbff26c",
-      "short": "e00fb53",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T23:23:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e00fb5395a1065dbe42c04c154fd44db6bbff26c"
-    },
-    {
-      "sha": "270aa7231172c1b17660eb5b0f2d9136c8c5a715",
-      "short": "270aa72",
-      "message": "Merge: engine correctness — fn identity, complete mutation scan, unified proto seam",
-      "author": "Daniel",
-      "date": "2026-07-23T23:00:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/270aa7231172c1b17660eb5b0f2d9136c8c5a715"
-    },
-    {
-      "sha": "af91b6e9a01111ac9d5a19e0076c37250aa4a167",
-      "short": "af91b6e",
-      "message": "refactor(engine): unified proto_of_value + walk_proto_chain seam; migrate isPrototypeOf",
-      "author": "Daniel",
-      "date": "2026-07-23T22:59:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af91b6e9a01111ac9d5a19e0076c37250aa4a167"
-    },
-    {
-      "sha": "e6bd54bd6823a27ab1ae2bea899adb39c65d5641",
-      "short": "e6bd54b",
-      "message": "fix(engine): complete mutation/declared scan over all statement kinds",
-      "author": "Daniel",
-      "date": "2026-07-23T22:02:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6bd54bd6823a27ab1ae2bea899adb39c65d5641"
-    },
-    {
-      "sha": "94ad809208af9ce02daad6d53984ffa0f5dcac0b",
-      "short": "94ad809",
-      "message": "fix(engine): stable function-value identity for === / Object.is",
-      "author": "Daniel",
-      "date": "2026-07-23T21:35:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94ad809208af9ce02daad6d53984ffa0f5dcac0b"
-    },
-    {
-      "sha": "9ba39500baf7f803c8ab5ae5fde61e9069017fd4",
-      "short": "9ba3950",
-      "message": "chore: gitignore personal design docs (perf/state/proto/abi-codegen)",
-      "author": "Daniel",
-      "date": "2026-07-23T21:35:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ba39500baf7f803c8ab5ae5fde61e9069017fd4"
-    },
-    {
-      "sha": "87772a79b88f9d6cd2e25769547e798f06391617",
-      "short": "87772a7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-23T17:20:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87772a79b88f9d6cd2e25769547e798f06391617"
+      "date": "2026-07-24T03:18:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6513348df0a8cd0b5fd2805b43edb9ab4466594"
     }
   ]
 }
