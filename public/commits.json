@@ -1,6 +1,22 @@
 {
-  "total": 3880,
+  "total": 3882,
   "commits": [
+    {
+      "sha": "a624ba50bee6a5d4d2d345c60d4f56d75f1927e4",
+      "short": "a624ba5",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-25T12:14:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a624ba50bee6a5d4d2d345c60d4f56d75f1927e4"
+    },
+    {
+      "sha": "76851844c333f123c7f392dee381d41419b3fcb9",
+      "short": "7685184",
+      "message": "test(perf): suite de performance opt-in cobrindo as issues #1999 e #2000",
+      "author": "Marcos",
+      "date": "2026-07-25T11:29:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/76851844c333f123c7f392dee381d41419b3fcb9"
+    },
     {
       "sha": "8319258177bc7a51d160b3cbcd970fd18e161f93",
       "short": "8319258",
@@ -144,22 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-25T01:21:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/cfefc6ca6145cfd153e9cb5c73dfb2cd3c412dc7"
-    },
-    {
-      "sha": "9620959a51839cd7519c9f8565ce177abd8d882c",
-      "short": "9620959",
-      "message": "perf(codegen): const o = arr[i] alcança o fast path de slot constante",
-      "author": "Marcos",
-      "date": "2026-07-25T01:06:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9620959a51839cd7519c9f8565ce177abd8d882c"
-    },
-    {
-      "sha": "312be017cc421a9196b7f06db2b765578f665458",
-      "short": "312be01",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T00:43:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/312be017cc421a9196b7f06db2b765578f665458"
     }
   ]
 }
