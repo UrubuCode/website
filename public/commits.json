@@ -1,6 +1,14 @@
 {
-  "total": 3904,
+  "total": 3905,
   "commits": [
+    {
+      "sha": "1eff5de59e2ad00b17030056399683b926a2d55a",
+      "short": "1eff5de",
+      "message": "fix(codegen): corpo de método resolve classes do programa — laço em método 20x -> 1x (#1999)",
+      "author": "Marcos",
+      "date": "2026-07-26T12:46:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1eff5de59e2ad00b17030056399683b926a2d55a"
+    },
     {
       "sha": "f1f401e905c33367023d3b975d9e91db0b84ec4c",
       "short": "f1f401e",
@@ -152,14 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-25T17:37:54Z",
       "url": "https://github.com/UrubuCode/rts/commit/41038ecc56c10a578699ab25506d6bce63a4f3ab"
-    },
-    {
-      "sha": "f08d6bdb0860d1804865e230084a00f5dc094e7e",
-      "short": "f08d6bd",
-      "message": "docs(macro): refresh feature list — case-preserve symbols, Option<Self>/Option<String>",
-      "author": "Daniel",
-      "date": "2026-07-25T14:27:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f08d6bdb0860d1804865e230084a00f5dc094e7e"
     }
   ]
 }
