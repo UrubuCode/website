@@ -1,6 +1,158 @@
 {
-  "total": 3905,
+  "total": 3924,
   "commits": [
+    {
+      "sha": "be99ac05f7b3460f4a2383f45faed80e1672e68f",
+      "short": "be99ac0",
+      "message": "feat(gpu): write_at — escrita parcial com offsets (poke de um corpo)",
+      "author": "Marcos",
+      "date": "2026-07-26T18:45:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/be99ac05f7b3460f4a2383f45faed80e1672e68f"
+    },
+    {
+      "sha": "a240684e11bb9b1656ba6669aa74b43e154db738",
+      "short": "a240684",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T18:38:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a240684e11bb9b1656ba6669aa74b43e154db738"
+    },
+    {
+      "sha": "1358bc8a43f45886fafa32ec872363d6a5b27c6f",
+      "short": "1358bc8",
+      "message": "feat(gpu): read_poll com espera DIRIGIDA por SubmissionIndex (timeout 1 ms)",
+      "author": "Marcos",
+      "date": "2026-07-26T18:31:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1358bc8a43f45886fafa32ec872363d6a5b27c6f"
+    },
+    {
+      "sha": "a54963c903a73a98e4fffafb752110df3c73b886",
+      "short": "a54963c",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T18:30:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a54963c903a73a98e4fffafb752110df3c73b886"
+    },
+    {
+      "sha": "3388fb1fa0f12c58fdee357e556806c55bd83f49",
+      "short": "3388fb1",
+      "message": "fix(gpu): staging REUSADO por buffer no read assincrono + log de falha de map",
+      "author": "Marcos",
+      "date": "2026-07-26T18:15:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3388fb1fa0f12c58fdee357e556806c55bd83f49"
+    },
+    {
+      "sha": "84b776a2d52dbc94331ace928556c9111dd3a1e1",
+      "short": "84b776a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T18:13:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84b776a2d52dbc94331ace928556c9111dd3a1e1"
+    },
+    {
+      "sha": "6cabf16e2821866502b9f81e1249d05140e92fd2",
+      "short": "6cabf16",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T18:05:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6cabf16e2821866502b9f81e1249d05140e92fd2"
+    },
+    {
+      "sha": "b360e04208c2f642ab8a16a49e692992f89866c9",
+      "short": "b360e04",
+      "message": "fix(gpu): read_poll — canal Disconnected e ERRO, nao \"em voo\"",
+      "author": "Marcos",
+      "date": "2026-07-26T17:51:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b360e04208c2f642ab8a16a49e692992f89866c9"
+    },
+    {
+      "sha": "c2f55320df0fe2240dc65b4e1a15e92c91425200",
+      "short": "c2f5532",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T17:37:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2f55320df0fe2240dc65b4e1a15e92c91425200"
+    },
+    {
+      "sha": "b63e1624e7fc18907674f9699078a478231da960",
+      "short": "b63e162",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T17:29:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b63e1624e7fc18907674f9699078a478231da960"
+    },
+    {
+      "sha": "8c743b84cc469456adb0dd976b79f2e07353154f",
+      "short": "8c743b8",
+      "message": "fix(render): cor da agua instanciada uniforme — o gradiente forte parecia dois liquidos",
+      "author": "Marcos",
+      "date": "2026-07-26T17:16:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c743b84cc469456adb0dd976b79f2e07353154f"
+    },
+    {
+      "sha": "0f93cced748e9f7996960edde3a74acba9f69884",
+      "short": "0f93cce",
+      "message": "feat(gpu): read_begin/read_poll — leitura assincrona nao-bloqueante",
+      "author": "Marcos",
+      "date": "2026-07-26T17:15:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0f93cced748e9f7996960edde3a74acba9f69884"
+    },
+    {
+      "sha": "d48c5ed7a2bfa2df1c4d0d7eb70cec82ea385251",
+      "short": "d48c5ed",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T16:55:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d48c5ed7a2bfa2df1c4d0d7eb70cec82ea385251"
+    },
+    {
+      "sha": "d5f081ac9a20d6a902a36edf6cc860b01a0674b1",
+      "short": "d5f081a",
+      "message": "feat(render): agua INSTANCIADA — 1 draw call lendo o storage buffer do rts:gpu",
+      "author": "Marcos",
+      "date": "2026-07-26T16:31:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5f081ac9a20d6a902a36edf6cc860b01a0674b1"
+    },
+    {
+      "sha": "edbd523cb354ccdca29c6afd793ca1110ccc539b",
+      "short": "edbd523",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T13:45:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/edbd523cb354ccdca29c6afd793ca1110ccc539b"
+    },
+    {
+      "sha": "cbb73037c853eac9f30009064d00fec0a4d1e248",
+      "short": "cbb7303",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T13:27:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cbb73037c853eac9f30009064d00fec0a4d1e248"
+    },
+    {
+      "sha": "6ff72f0c96fcb2fe41650d4146835267d29d34a3",
+      "short": "6ff72f0",
+      "message": "feat(gpu): namespace rts:gpu — compute WGSL no device compartilhado",
+      "author": "Marcos",
+      "date": "2026-07-26T13:21:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ff72f0c96fcb2fe41650d4146835267d29d34a3"
+    },
+    {
+      "sha": "131c9591e6a09011720def470b662aef6b0d617c",
+      "short": "131c959",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T13:19:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/131c9591e6a09011720def470b662aef6b0d617c"
+    },
+    {
+      "sha": "e49b06d4eb8f554ee5beeaf5f1922454a1e5d22d",
+      "short": "e49b06d",
+      "message": "fix(test): bundle usa métodos da String — suíte TS volta de 0/737 para 721/737 (#2005)",
+      "author": "Marcos",
+      "date": "2026-07-26T13:04:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e49b06d4eb8f554ee5beeaf5f1922454a1e5d22d"
+    },
     {
       "sha": "1eff5de59e2ad00b17030056399683b926a2d55a",
       "short": "1eff5de",
@@ -8,158 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-26T12:46:21Z",
       "url": "https://github.com/UrubuCode/rts/commit/1eff5de59e2ad00b17030056399683b926a2d55a"
-    },
-    {
-      "sha": "f1f401e905c33367023d3b975d9e91db0b84ec4c",
-      "short": "f1f401e",
-      "message": "refactor(abi): case-preserve symbol NAME — relax validate_symbol uppercase rule",
-      "author": "Daniel",
-      "date": "2026-07-26T07:04:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f1f401e905c33367023d3b975d9e91db0b84ec4c"
-    },
-    {
-      "sha": "5c0b0e0288d9a73f572460c9431ece93048eac6c",
-      "short": "5c0b0e0",
-      "message": "refactor(string): drain rts:string namespace — zero __RTS_FN_NS_STRING_*",
-      "author": "Daniel",
-      "date": "2026-07-26T06:44:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c0b0e0288d9a73f572460c9431ece93048eac6c"
-    },
-    {
-      "sha": "676fe968c5f98173fb9a3d72ef9f1f3b0f661c35",
-      "short": "676fe96",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T06:30:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/676fe968c5f98173fb9a3d72ef9f1f3b0f661c35"
-    },
-    {
-      "sha": "10a1b5df11c6aad98d225fe2a4958e02baf1b5fc",
-      "short": "10a1b5d",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T06:22:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10a1b5df11c6aad98d225fe2a4958e02baf1b5fc"
-    },
-    {
-      "sha": "6a6243dbebec6cc7c5717242218ec5b50be5f564",
-      "short": "6a6243d",
-      "message": "refactor(string): drop last GL_STRING class externs (dead split + AUTO rename)",
-      "author": "Daniel",
-      "date": "2026-07-26T06:07:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a6243dbebec6cc7c5717242218ec5b50be5f564"
-    },
-    {
-      "sha": "2ce05cee3da3e9b92547884fb2ce8fd6f1263652",
-      "short": "2ce05ce",
-      "message": "refactor(string): drop FROM_CHAR_CODE/FROM_CODE_POINT externs, route to strops",
-      "author": "Daniel",
-      "date": "2026-07-26T05:48:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ce05cee3da3e9b92547884fb2ce8fd6f1263652"
-    },
-    {
-      "sha": "28b283ec40c715b216c2095542cee8dc83e13ddf",
-      "short": "28b283e",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T05:54:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/28b283ec40c715b216c2095542cee8dc83e13ddf"
-    },
-    {
-      "sha": "73f3845f79c1b05710da69a260afa36357b8a6a7",
-      "short": "73f3845",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T05:46:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/73f3845f79c1b05710da69a260afa36357b8a6a7"
-    },
-    {
-      "sha": "0361854fb917f1df9602dbc718004e3f37f3e7c2",
-      "short": "0361854",
-      "message": "fix(string): raw-byte concat on dyn/vec string path (no UTF-8 decode)",
-      "author": "Daniel",
-      "date": "2026-07-26T03:52:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0361854fb917f1df9602dbc718004e3f37f3e7c2"
-    },
-    {
-      "sha": "ea99c338cd0d54668d30edb45edbbb8c6d25efe0",
-      "short": "ea99c33",
-      "message": "refactor(primitives): delete dead GL_STRING instance externs from string/rt.rs",
-      "author": "Daniel",
-      "date": "2026-07-26T03:13:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ea99c338cd0d54668d30edb45edbbb8c6d25efe0"
-    },
-    {
-      "sha": "f368763a0ae85aede80a323ae7c37b92766355d9",
-      "short": "f368763",
-      "message": "refactor(engine): drain codegen GL_STRING hardcode for migrated methods",
-      "author": "Daniel",
-      "date": "2026-07-26T02:49:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f368763a0ae85aede80a323ae7c37b92766355d9"
-    },
-    {
-      "sha": "c3ac01d0162d0aece3221160ea25fcea602c5846",
-      "short": "c3ac01d",
-      "message": "refactor(adapters): repoint dyndispatch string ops off GL_STRING externs",
-      "author": "Daniel",
-      "date": "2026-07-26T02:45:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c3ac01d0162d0aece3221160ea25fcea602c5846"
-    },
-    {
-      "sha": "9b4abaf5a634c4cb8aafe4b821be0a0acadc9950",
-      "short": "9b4abaf",
-      "message": "refactor(shared): repoint vec.rs *_AUTO string branch off GL_STRING externs",
-      "author": "Daniel",
-      "date": "2026-07-26T02:40:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b4abaf5a634c4cb8aafe4b821be0a0acadc9950"
-    },
-    {
-      "sha": "7cdbe2bbf80ed6d989638ad78460c3605b7ee756",
-      "short": "7cdbe2b",
-      "message": "refactor(engine): remove dead engine.str_* String bridge",
-      "author": "Daniel",
-      "date": "2026-07-26T02:38:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7cdbe2bbf80ed6d989638ad78460c3605b7ee756"
-    },
-    {
-      "sha": "5ea29bafa1eac55dbf06d1f1f07e8df533bed3a0",
-      "short": "5ea29ba",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T20:15:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ea29bafa1eac55dbf06d1f1f07e8df533bed3a0"
-    },
-    {
-      "sha": "8ff958d8692328713ea3e4711ce299fa7940ea81",
-      "short": "8ff958d",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T20:06:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8ff958d8692328713ea3e4711ce299fa7940ea81"
-    },
-    {
-      "sha": "b42c003f683e353bafbfca474287b7000d7445d2",
-      "short": "b42c003",
-      "message": "feat(engine): remove string.ts — String is a pure-Rust value-class (100% macro symbols)",
-      "author": "Daniel",
-      "date": "2026-07-25T19:52:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b42c003f683e353bafbfca474287b7000d7445d2"
-    },
-    {
-      "sha": "a1b319572e98f176392da9381619f55ba12cb9c9",
-      "short": "a1b3195",
-      "message": "feat(engine): method-as-value dispatcher — runtime_ci bound method values for primitives",
-      "author": "Daniel",
-      "date": "2026-07-25T19:21:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a1b319572e98f176392da9381619f55ba12cb9c9"
-    },
-    {
-      "sha": "41038ecc56c10a578699ab25506d6bce63a4f3ab",
-      "short": "41038ec",
-      "message": "feat(macro,engine): pure-Rust String value-class + runtime_ci primitive dispatch (foundation)",
-      "author": "Daniel",
-      "date": "2026-07-25T17:37:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/41038ecc56c10a578699ab25506d6bce63a4f3ab"
     }
   ]
 }
