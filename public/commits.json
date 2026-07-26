@@ -1,6 +1,118 @@
 {
-  "total": 3890,
+  "total": 3904,
   "commits": [
+    {
+      "sha": "f1f401e905c33367023d3b975d9e91db0b84ec4c",
+      "short": "f1f401e",
+      "message": "refactor(abi): case-preserve symbol NAME — relax validate_symbol uppercase rule",
+      "author": "Daniel",
+      "date": "2026-07-26T07:04:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1f401e905c33367023d3b975d9e91db0b84ec4c"
+    },
+    {
+      "sha": "5c0b0e0288d9a73f572460c9431ece93048eac6c",
+      "short": "5c0b0e0",
+      "message": "refactor(string): drain rts:string namespace — zero __RTS_FN_NS_STRING_*",
+      "author": "Daniel",
+      "date": "2026-07-26T06:44:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c0b0e0288d9a73f572460c9431ece93048eac6c"
+    },
+    {
+      "sha": "676fe968c5f98173fb9a3d72ef9f1f3b0f661c35",
+      "short": "676fe96",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T06:30:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/676fe968c5f98173fb9a3d72ef9f1f3b0f661c35"
+    },
+    {
+      "sha": "10a1b5df11c6aad98d225fe2a4958e02baf1b5fc",
+      "short": "10a1b5d",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T06:22:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/10a1b5df11c6aad98d225fe2a4958e02baf1b5fc"
+    },
+    {
+      "sha": "6a6243dbebec6cc7c5717242218ec5b50be5f564",
+      "short": "6a6243d",
+      "message": "refactor(string): drop last GL_STRING class externs (dead split + AUTO rename)",
+      "author": "Daniel",
+      "date": "2026-07-26T06:07:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a6243dbebec6cc7c5717242218ec5b50be5f564"
+    },
+    {
+      "sha": "2ce05cee3da3e9b92547884fb2ce8fd6f1263652",
+      "short": "2ce05ce",
+      "message": "refactor(string): drop FROM_CHAR_CODE/FROM_CODE_POINT externs, route to strops",
+      "author": "Daniel",
+      "date": "2026-07-26T05:48:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2ce05cee3da3e9b92547884fb2ce8fd6f1263652"
+    },
+    {
+      "sha": "28b283ec40c715b216c2095542cee8dc83e13ddf",
+      "short": "28b283e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T05:54:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/28b283ec40c715b216c2095542cee8dc83e13ddf"
+    },
+    {
+      "sha": "73f3845f79c1b05710da69a260afa36357b8a6a7",
+      "short": "73f3845",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T05:46:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73f3845f79c1b05710da69a260afa36357b8a6a7"
+    },
+    {
+      "sha": "0361854fb917f1df9602dbc718004e3f37f3e7c2",
+      "short": "0361854",
+      "message": "fix(string): raw-byte concat on dyn/vec string path (no UTF-8 decode)",
+      "author": "Daniel",
+      "date": "2026-07-26T03:52:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0361854fb917f1df9602dbc718004e3f37f3e7c2"
+    },
+    {
+      "sha": "ea99c338cd0d54668d30edb45edbbb8c6d25efe0",
+      "short": "ea99c33",
+      "message": "refactor(primitives): delete dead GL_STRING instance externs from string/rt.rs",
+      "author": "Daniel",
+      "date": "2026-07-26T03:13:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ea99c338cd0d54668d30edb45edbbb8c6d25efe0"
+    },
+    {
+      "sha": "f368763a0ae85aede80a323ae7c37b92766355d9",
+      "short": "f368763",
+      "message": "refactor(engine): drain codegen GL_STRING hardcode for migrated methods",
+      "author": "Daniel",
+      "date": "2026-07-26T02:49:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f368763a0ae85aede80a323ae7c37b92766355d9"
+    },
+    {
+      "sha": "c3ac01d0162d0aece3221160ea25fcea602c5846",
+      "short": "c3ac01d",
+      "message": "refactor(adapters): repoint dyndispatch string ops off GL_STRING externs",
+      "author": "Daniel",
+      "date": "2026-07-26T02:45:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3ac01d0162d0aece3221160ea25fcea602c5846"
+    },
+    {
+      "sha": "9b4abaf5a634c4cb8aafe4b821be0a0acadc9950",
+      "short": "9b4abaf",
+      "message": "refactor(shared): repoint vec.rs *_AUTO string branch off GL_STRING externs",
+      "author": "Daniel",
+      "date": "2026-07-26T02:40:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b4abaf5a634c4cb8aafe4b821be0a0acadc9950"
+    },
+    {
+      "sha": "7cdbe2bbf80ed6d989638ad78460c3605b7ee756",
+      "short": "7cdbe2b",
+      "message": "refactor(engine): remove dead engine.str_* String bridge",
+      "author": "Daniel",
+      "date": "2026-07-26T02:38:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7cdbe2bbf80ed6d989638ad78460c3605b7ee756"
+    },
     {
       "sha": "5ea29bafa1eac55dbf06d1f1f07e8df533bed3a0",
       "short": "5ea29ba",
@@ -48,118 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-25T14:27:29Z",
       "url": "https://github.com/UrubuCode/rts/commit/f08d6bdb0860d1804865e230084a00f5dc094e7e"
-    },
-    {
-      "sha": "131ccfd0123d6425d6a85681de1f32ed09d1efb1",
-      "short": "131ccfd",
-      "message": "refactor(shared): migrate Date to #[rtse::class], drop bespoke Entry::DateMs",
-      "author": "Daniel",
-      "date": "2026-07-25T14:26:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/131ccfd0123d6425d6a85681de1f32ed09d1efb1"
-    },
-    {
-      "sha": "9ac6a6c8dae310c6b2e4e5f921885a74f9f3de04",
-      "short": "9ac6a6c",
-      "message": "refactor(macro): case-preserve symbols + fallible/nullable returns; finish URL ctor migration",
-      "author": "Daniel",
-      "date": "2026-07-25T14:03:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ac6a6c8dae310c6b2e4e5f921885a74f9f3de04"
-    },
-    {
-      "sha": "a624ba50bee6a5d4d2d345c60d4f56d75f1927e4",
-      "short": "a624ba5",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T12:14:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a624ba50bee6a5d4d2d345c60d4f56d75f1927e4"
-    },
-    {
-      "sha": "76851844c333f123c7f392dee381d41419b3fcb9",
-      "short": "7685184",
-      "message": "test(perf): suite de performance opt-in cobrindo as issues #1999 e #2000",
-      "author": "Marcos",
-      "date": "2026-07-25T11:29:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/76851844c333f123c7f392dee381d41419b3fcb9"
-    },
-    {
-      "sha": "8319258177bc7a51d160b3cbcd970fd18e161f93",
-      "short": "8319258",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T07:17:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8319258177bc7a51d160b3cbcd970fd18e161f93"
-    },
-    {
-      "sha": "a74020e67ea4f9dbf3f5de6b09398922a91bd1b2",
-      "short": "a74020e",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-25T07:09:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a74020e67ea4f9dbf3f5de6b09398922a91bd1b2"
-    },
-    {
-      "sha": "e1e5f1341d89a3e52ddc360ebb824de394759100",
-      "short": "e1e5f13",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-25T06:53:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1e5f1341d89a3e52ddc360ebb824de394759100"
-    },
-    {
-      "sha": "bc44c27df0d456b9b7de4ac9f3b4502e405f243e",
-      "short": "bc44c27",
-      "message": "refactor(shared): migrate URL to #[rtse::class]",
-      "author": "Daniel",
-      "date": "2026-07-25T06:51:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc44c27df0d456b9b7de4ac9f3b4502e405f243e"
-    },
-    {
-      "sha": "15e916c6dbcce5d746da313b888db4ed8641f710",
-      "short": "15e916c",
-      "message": "refactor(std): migrate EventEmitter to #[rtse::class]",
-      "author": "Daniel",
-      "date": "2026-07-25T06:45:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/15e916c6dbcce5d746da313b888db4ed8641f710"
-    },
-    {
-      "sha": "892283839fce3b660a9eff1f0391107351cccc02",
-      "short": "8922838",
-      "message": "refactor(engine): remove dead GlobalClassSpec (old global-class ABI)",
-      "author": "Daniel",
-      "date": "2026-07-25T06:35:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/892283839fce3b660a9eff1f0391107351cccc02"
-    },
-    {
-      "sha": "c85cc8ab5e73932dfe7aee4cfcfa3a74b07d91e6",
-      "short": "c85cc8a",
-      "message": "refactor(engine): F2.1 — unified name→kind resolve() seam over the Registry",
-      "author": "Daniel",
-      "date": "2026-07-25T06:19:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c85cc8ab5e73932dfe7aee4cfcfa3a74b07d91e6"
-    },
-    {
-      "sha": "a1f62e7729fdf3a00f86305108b8839f3b332884",
-      "short": "a1f62e7",
-      "message": "fix(streams): revert to .ts streams (Rust reimpl not at parity)",
-      "author": "Daniel",
-      "date": "2026-07-25T05:17:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a1f62e7729fdf3a00f86305108b8839f3b332884"
-    },
-    {
-      "sha": "48b44851e81cddbf50ea193b6377b06768f616f2",
-      "short": "48b4485",
-      "message": "feat(macro): F1 — SelfHandle + `-> Self` (eliminate hand-declared residuals)",
-      "author": "Daniel",
-      "date": "2026-07-25T05:00:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/48b44851e81cddbf50ea193b6377b06768f616f2"
-    },
-    {
-      "sha": "8cf0bd68e7b18c4bd6d9ec87cf5da2559ec51256",
-      "short": "8cf0bd6",
-      "message": "feat(macro,cli): F0 — capture /// docs + revive rts emit-types (d.ts)",
-      "author": "Daniel",
-      "date": "2026-07-25T04:50:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8cf0bd68e7b18c4bd6d9ec87cf5da2559ec51256"
     }
   ]
 }
