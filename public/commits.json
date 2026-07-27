@@ -1,6 +1,14 @@
 {
-  "total": 3952,
+  "total": 3953,
   "commits": [
+    {
+      "sha": "021965a8fa17985a729d1cf48097a14f5cbae151",
+      "short": "021965a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T09:40:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/021965a8fa17985a729d1cf48097a14f5cbae151"
+    },
     {
       "sha": "1607259ab611767830292a0207c726df85fb9d04",
       "short": "1607259",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T06:32:15Z",
       "url": "https://github.com/UrubuCode/rts/commit/347b79e406d71161aec1eb65d95ab134d5814933"
-    },
-    {
-      "sha": "3c3f970db63fdbc6d540954ea4aa9bdb6d530d14",
-      "short": "3c3f970",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T02:42:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3c3f970db63fdbc6d540954ea4aa9bdb6d530d14"
     }
   ]
 }
