@@ -1,165 +1,165 @@
 {
-  "total": 3930,
+  "total": 3952,
   "commits": [
     {
-      "sha": "40bcb4785930974ae95da1d00ca14e2e453cc008",
-      "short": "40bcb47",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T02:00:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40bcb4785930974ae95da1d00ca14e2e453cc008"
-    },
-    {
-      "sha": "c2377555685fdd122ce1caee847b15aa2e8c19e6",
-      "short": "c237755",
+      "sha": "1607259ab611767830292a0207c726df85fb9d04",
+      "short": "1607259",
       "message": "docs: auto-update cross-runtime parity badge (70.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-27T01:51:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2377555685fdd122ce1caee847b15aa2e8c19e6"
+      "date": "2026-07-27T09:32:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1607259ab611767830292a0207c726df85fb9d04"
     },
     {
-      "sha": "821abbec2753a99f5a1f5c04b5649aca95662b2d",
-      "short": "821abbe",
-      "message": "fix(test): migra tests/examples que ainda chamavam o rts:string drenado",
+      "sha": "d7b02d502505e95c56716ab74be9f8b272f79296",
+      "short": "d7b02d5",
+      "message": "Merge: __rtsm_/__rtsn_/__rtsa_ symbol convention, macro single-source, fused field reads",
       "author": "Daniel",
-      "date": "2026-07-27T00:18:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/821abbec2753a99f5a1f5c04b5649aca95662b2d"
+      "date": "2026-07-27T09:10:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7b02d502505e95c56716ab74be9f8b272f79296"
     },
     {
-      "sha": "251c1f07dc5b48c394f6ffbf6ac2f47aa5829e8f",
-      "short": "251c1f0",
-      "message": "feat(engine): phase-0 optimization instrumentation (RTS_REPR_STATS)",
+      "sha": "6454c42bcdc8460cbf2016d878ebf2b029f2560b",
+      "short": "6454c42",
+      "message": "perf(heap): fuse POLY_TO_HANDLE + VEC_GET — 28% on the field-read path",
       "author": "Daniel",
-      "date": "2026-07-26T07:27:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/251c1f07dc5b48c394f6ffbf6ac2f47aa5829e8f"
+      "date": "2026-07-27T09:09:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6454c42bcdc8460cbf2016d878ebf2b029f2560b"
     },
     {
-      "sha": "171c8929edea950fab22019ada1a4aeced261ab2",
-      "short": "171c892",
+      "sha": "00efd92867a7bbed62e4df77dd77b34945eef8e2",
+      "short": "00efd92",
+      "message": "perf(probe): reserving Vec capacity buys 1.08x — hypothesis refuted",
+      "author": "Daniel",
+      "date": "2026-07-27T08:42:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00efd92867a7bbed62e4df77dd77b34945eef8e2"
+    },
+    {
+      "sha": "b4be31e42caca37ec6df5ac762a405396a4f9dc5",
+      "short": "b4be31e",
+      "message": "perf(probe): rtse_probe — the object cost is ALLOCATION, not layout",
+      "author": "Daniel",
+      "date": "2026-07-27T08:39:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b4be31e42caca37ec6df5ac762a405396a4f9dc5"
+    },
+    {
+      "sha": "d1ebb13df88113a0df09cf61f56e93faf21772f2",
+      "short": "d1ebb13",
+      "message": "feat(macro): value-carrying defaults + real #[rtse::symbol]",
+      "author": "Daniel",
+      "date": "2026-07-27T08:30:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1ebb13df88113a0df09cf61f56e93faf21772f2"
+    },
+    {
+      "sha": "abf4e0e2adf88f5188830a65e02e880650f2e310",
+      "short": "abf4e0e",
+      "message": "feat(macro): __rtsm_/__rtsn_/__rtsa_ symbol convention + symbol baker",
+      "author": "Daniel",
+      "date": "2026-07-27T08:05:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/abf4e0e2adf88f5188830a65e02e880650f2e310"
+    },
+    {
+      "sha": "4137aa9f2d578228fce276be48bb90ed7709e649",
+      "short": "4137aa9",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-26T19:08:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/171c8929edea950fab22019ada1a4aeced261ab2"
+      "date": "2026-07-27T07:25:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4137aa9f2d578228fce276be48bb90ed7709e649"
     },
     {
-      "sha": "2a57f083e4c7b32656d29d9511792735a88aef86",
-      "short": "2a57f08",
+      "sha": "231af2662c507d3a6516668303434805418c9736",
+      "short": "231af26",
       "message": "docs: auto-update cross-runtime parity badge (70.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-26T19:00:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a57f083e4c7b32656d29d9511792735a88aef86"
+      "date": "2026-07-27T07:17:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/231af2662c507d3a6516668303434805418c9736"
     },
     {
-      "sha": "be99ac05f7b3460f4a2383f45faed80e1672e68f",
-      "short": "be99ac0",
-      "message": "feat(gpu): write_at — escrita parcial com offsets (poke de um corpo)",
-      "author": "Marcos",
-      "date": "2026-07-26T18:45:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be99ac05f7b3460f4a2383f45faed80e1672e68f"
+      "sha": "d76c4c57d77221a98d9488a43834f86b52afb6ee",
+      "short": "d76c4c5",
+      "message": "chore(bench): remove field_arith.ts; keep the measurement lesson in the doc",
+      "author": "Daniel",
+      "date": "2026-07-27T06:49:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d76c4c57d77221a98d9488a43834f86b52afb6ee"
     },
     {
-      "sha": "a240684e11bb9b1656ba6669aa74b43e154db738",
-      "short": "a240684",
+      "sha": "69074875870f98b14bedeeca90830c0d8709fdaa",
+      "short": "6907487",
+      "message": "docs(perf): record the unbox-at-USE-not-at-READ rule; drop the prototype",
+      "author": "Daniel",
+      "date": "2026-07-27T06:47:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69074875870f98b14bedeeca90830c0d8709fdaa"
+    },
+    {
+      "sha": "dbf0a01fc3d78e191201a36de8599d0ad2552351",
+      "short": "dbf0a01",
+      "message": "docs: rts-macro single-source spec — #[rtse::symbol] + phase order",
+      "author": "Daniel",
+      "date": "2026-07-27T06:44:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dbf0a01fc3d78e191201a36de8599d0ad2552351"
+    },
+    {
+      "sha": "e17001540fb3a7473c745bf634fc3e7ff9570d22",
+      "short": "e170015",
+      "message": "refactor(macro): split rts-macro into submodules (was one 1530-line file)",
+      "author": "Daniel",
+      "date": "2026-07-27T06:40:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e17001540fb3a7473c745bf634fc3e7ff9570d22"
+    },
+    {
+      "sha": "b112439ecd85c658fc3c292d11abf33a2717558d",
+      "short": "b112439",
+      "message": "refactor(abi): extract the ABI contract into a standalone rts-abi crate",
+      "author": "Daniel",
+      "date": "2026-07-27T06:40:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b112439ecd85c658fc3c292d11abf33a2717558d"
+    },
+    {
+      "sha": "a207f5373ae5c730ee9fe8247d2bfd5bed78bd5c",
+      "short": "a207f53",
+      "message": "perf(build): ITERATION SPEED rule + dev profile — 39s -> 3.3s incremental",
+      "author": "Daniel",
+      "date": "2026-07-27T06:40:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a207f5373ae5c730ee9fe8247d2bfd5bed78bd5c"
+    },
+    {
+      "sha": "a15ff9a999ced5bf202fb2ce6429de8daf3fe0b7",
+      "short": "a15ff9a",
+      "message": "refactor(macro): #[rtse::abi] takes PLAIN Rust — the macro owns all ABI ceremony",
+      "author": "Daniel",
+      "date": "2026-07-27T05:49:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a15ff9a999ced5bf202fb2ce6429de8daf3fe0b7"
+    },
+    {
+      "sha": "58c613d6434cd025bd701250061b39b87b0b3e7d",
+      "short": "58c613d",
+      "message": "feat(macro): #[rtse::abi] — derive the ABI descriptor from the Rust signature",
+      "author": "Daniel",
+      "date": "2026-07-27T05:34:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58c613d6434cd025bd701250061b39b87b0b3e7d"
+    },
+    {
+      "sha": "7e1e1014196b3ca7c533489d26dff2209758d9ce",
+      "short": "7e1e101",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-26T18:38:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a240684e11bb9b1656ba6669aa74b43e154db738"
+      "date": "2026-07-27T06:40:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e1e1014196b3ca7c533489d26dff2209758d9ce"
     },
     {
-      "sha": "1358bc8a43f45886fafa32ec872363d6a5b27c6f",
-      "short": "1358bc8",
-      "message": "feat(gpu): read_poll com espera DIRIGIDA por SubmissionIndex (timeout 1 ms)",
-      "author": "Marcos",
-      "date": "2026-07-26T18:31:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1358bc8a43f45886fafa32ec872363d6a5b27c6f"
-    },
-    {
-      "sha": "a54963c903a73a98e4fffafb752110df3c73b886",
-      "short": "a54963c",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "sha": "347b79e406d71161aec1eb65d95ab134d5814933",
+      "short": "347b79e",
+      "message": "docs: cross-runtime parity 70.3% + history snapshot 2026-07-27",
       "author": "github-actions[bot]",
-      "date": "2026-07-26T18:30:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a54963c903a73a98e4fffafb752110df3c73b886"
+      "date": "2026-07-27T06:32:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/347b79e406d71161aec1eb65d95ab134d5814933"
     },
     {
-      "sha": "3388fb1fa0f12c58fdee357e556806c55bd83f49",
-      "short": "3388fb1",
-      "message": "fix(gpu): staging REUSADO por buffer no read assincrono + log de falha de map",
-      "author": "Marcos",
-      "date": "2026-07-26T18:15:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3388fb1fa0f12c58fdee357e556806c55bd83f49"
-    },
-    {
-      "sha": "84b776a2d52dbc94331ace928556c9111dd3a1e1",
-      "short": "84b776a",
+      "sha": "3c3f970db63fdbc6d540954ea4aa9bdb6d530d14",
+      "short": "3c3f970",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-26T18:13:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84b776a2d52dbc94331ace928556c9111dd3a1e1"
-    },
-    {
-      "sha": "6cabf16e2821866502b9f81e1249d05140e92fd2",
-      "short": "6cabf16",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T18:05:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6cabf16e2821866502b9f81e1249d05140e92fd2"
-    },
-    {
-      "sha": "b360e04208c2f642ab8a16a49e692992f89866c9",
-      "short": "b360e04",
-      "message": "fix(gpu): read_poll — canal Disconnected e ERRO, nao \"em voo\"",
-      "author": "Marcos",
-      "date": "2026-07-26T17:51:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b360e04208c2f642ab8a16a49e692992f89866c9"
-    },
-    {
-      "sha": "c2f55320df0fe2240dc65b4e1a15e92c91425200",
-      "short": "c2f5532",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T17:37:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2f55320df0fe2240dc65b4e1a15e92c91425200"
-    },
-    {
-      "sha": "b63e1624e7fc18907674f9699078a478231da960",
-      "short": "b63e162",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T17:29:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b63e1624e7fc18907674f9699078a478231da960"
-    },
-    {
-      "sha": "8c743b84cc469456adb0dd976b79f2e07353154f",
-      "short": "8c743b8",
-      "message": "fix(render): cor da agua instanciada uniforme — o gradiente forte parecia dois liquidos",
-      "author": "Marcos",
-      "date": "2026-07-26T17:16:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c743b84cc469456adb0dd976b79f2e07353154f"
-    },
-    {
-      "sha": "0f93cced748e9f7996960edde3a74acba9f69884",
-      "short": "0f93cce",
-      "message": "feat(gpu): read_begin/read_poll — leitura assincrona nao-bloqueante",
-      "author": "Marcos",
-      "date": "2026-07-26T17:15:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0f93cced748e9f7996960edde3a74acba9f69884"
-    },
-    {
-      "sha": "d48c5ed7a2bfa2df1c4d0d7eb70cec82ea385251",
-      "short": "d48c5ed",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T16:55:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d48c5ed7a2bfa2df1c4d0d7eb70cec82ea385251"
-    },
-    {
-      "sha": "d5f081ac9a20d6a902a36edf6cc860b01a0674b1",
-      "short": "d5f081a",
-      "message": "feat(render): agua INSTANCIADA — 1 draw call lendo o storage buffer do rts:gpu",
-      "author": "Marcos",
-      "date": "2026-07-26T16:31:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5f081ac9a20d6a902a36edf6cc860b01a0674b1"
+      "date": "2026-07-27T02:42:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c3f970db63fdbc6d540954ea4aa9bdb6d530d14"
     }
   ]
 }
