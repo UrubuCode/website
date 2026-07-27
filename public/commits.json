@@ -1,6 +1,86 @@
 {
-  "total": 3953,
+  "total": 3963,
   "commits": [
+    {
+      "sha": "330fa68551131795385fdc355a5a615aacf0aca5",
+      "short": "330fa68",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T19:14:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/330fa68551131795385fdc355a5a615aacf0aca5"
+    },
+    {
+      "sha": "e25559b8bd7dbba1f32f4675634c8d08af076ad9",
+      "short": "e25559b",
+      "message": "docs(examples): CRISTAIS 3D — game demo do pickle (rts:serde) + scene pass wgpu (#2011)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-27T18:58:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e25559b8bd7dbba1f32f4675634c8d08af076ad9"
+    },
+    {
+      "sha": "56805a039366d7cc90ad69d81e8512f2c3efd434",
+      "short": "56805a0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T18:57:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56805a039366d7cc90ad69d81e8512f2c3efd434"
+    },
+    {
+      "sha": "ef9fb48c0a29e6d543dc2b5425b7172e64bad84a",
+      "short": "ef9fb48",
+      "message": "test(serde): RTSP v1 golden format freeze + cross-process contract + spec (#2010)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-27T18:33:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef9fb48c0a29e6d543dc2b5425b7172e64bad84a"
+    },
+    {
+      "sha": "961a8f7e64e8e0a49d160e5bcbf328853a113821",
+      "short": "961a8f7",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T18:30:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/961a8f7e64e8e0a49d160e5bcbf328853a113821"
+    },
+    {
+      "sha": "1b74f1a7c708a751270135b22421ee6c6d32d91b",
+      "short": "1b74f1a",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T18:21:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1b74f1a7c708a751270135b22421ee6c6d32d91b"
+    },
+    {
+      "sha": "da07d07b38bae7858ada0e8faba58f04c11a0abe",
+      "short": "da07d07",
+      "message": "feat(serde): pickle phase 2+3 — class instances, Map/Set, functions by reference (#2009)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-27T18:07:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/da07d07b38bae7858ada0e8faba58f04c11a0abe"
+    },
+    {
+      "sha": "ed6f34a7406cd572dc2f23177d7bcc0b2e7cecf4",
+      "short": "ed6f34a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T18:00:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed6f34a7406cd572dc2f23177d7bcc0b2e7cecf4"
+    },
+    {
+      "sha": "2d56a4832ce4e442cf4663e80396cffb95338035",
+      "short": "2d56a48",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T17:52:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d56a4832ce4e442cf4663e80396cffb95338035"
+    },
+    {
+      "sha": "8d6b333c272ff2c6c54d4cb62947214ae509964c",
+      "short": "8d6b333",
+      "message": "feat(serde): pickle — deep binary serialization with cycles + shared identity (#2008)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-27T17:38:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d6b333c272ff2c6c54d4cb62947214ae509964c"
+    },
     {
       "sha": "021965a8fa17985a729d1cf48097a14f5cbae151",
       "short": "021965a",
@@ -80,86 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T07:17:04Z",
       "url": "https://github.com/UrubuCode/rts/commit/231af2662c507d3a6516668303434805418c9736"
-    },
-    {
-      "sha": "d76c4c57d77221a98d9488a43834f86b52afb6ee",
-      "short": "d76c4c5",
-      "message": "chore(bench): remove field_arith.ts; keep the measurement lesson in the doc",
-      "author": "Daniel",
-      "date": "2026-07-27T06:49:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d76c4c57d77221a98d9488a43834f86b52afb6ee"
-    },
-    {
-      "sha": "69074875870f98b14bedeeca90830c0d8709fdaa",
-      "short": "6907487",
-      "message": "docs(perf): record the unbox-at-USE-not-at-READ rule; drop the prototype",
-      "author": "Daniel",
-      "date": "2026-07-27T06:47:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/69074875870f98b14bedeeca90830c0d8709fdaa"
-    },
-    {
-      "sha": "dbf0a01fc3d78e191201a36de8599d0ad2552351",
-      "short": "dbf0a01",
-      "message": "docs: rts-macro single-source spec — #[rtse::symbol] + phase order",
-      "author": "Daniel",
-      "date": "2026-07-27T06:44:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dbf0a01fc3d78e191201a36de8599d0ad2552351"
-    },
-    {
-      "sha": "e17001540fb3a7473c745bf634fc3e7ff9570d22",
-      "short": "e170015",
-      "message": "refactor(macro): split rts-macro into submodules (was one 1530-line file)",
-      "author": "Daniel",
-      "date": "2026-07-27T06:40:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e17001540fb3a7473c745bf634fc3e7ff9570d22"
-    },
-    {
-      "sha": "b112439ecd85c658fc3c292d11abf33a2717558d",
-      "short": "b112439",
-      "message": "refactor(abi): extract the ABI contract into a standalone rts-abi crate",
-      "author": "Daniel",
-      "date": "2026-07-27T06:40:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b112439ecd85c658fc3c292d11abf33a2717558d"
-    },
-    {
-      "sha": "a207f5373ae5c730ee9fe8247d2bfd5bed78bd5c",
-      "short": "a207f53",
-      "message": "perf(build): ITERATION SPEED rule + dev profile — 39s -> 3.3s incremental",
-      "author": "Daniel",
-      "date": "2026-07-27T06:40:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a207f5373ae5c730ee9fe8247d2bfd5bed78bd5c"
-    },
-    {
-      "sha": "a15ff9a999ced5bf202fb2ce6429de8daf3fe0b7",
-      "short": "a15ff9a",
-      "message": "refactor(macro): #[rtse::abi] takes PLAIN Rust — the macro owns all ABI ceremony",
-      "author": "Daniel",
-      "date": "2026-07-27T05:49:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a15ff9a999ced5bf202fb2ce6429de8daf3fe0b7"
-    },
-    {
-      "sha": "58c613d6434cd025bd701250061b39b87b0b3e7d",
-      "short": "58c613d",
-      "message": "feat(macro): #[rtse::abi] — derive the ABI descriptor from the Rust signature",
-      "author": "Daniel",
-      "date": "2026-07-27T05:34:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58c613d6434cd025bd701250061b39b87b0b3e7d"
-    },
-    {
-      "sha": "7e1e1014196b3ca7c533489d26dff2209758d9ce",
-      "short": "7e1e101",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T06:40:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e1e1014196b3ca7c533489d26dff2209758d9ce"
-    },
-    {
-      "sha": "347b79e406d71161aec1eb65d95ab134d5814933",
-      "short": "347b79e",
-      "message": "docs: cross-runtime parity 70.3% + history snapshot 2026-07-27",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T06:32:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/347b79e406d71161aec1eb65d95ab134d5814933"
     }
   ]
 }
