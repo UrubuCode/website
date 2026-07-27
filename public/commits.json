@@ -1,6 +1,54 @@
 {
-  "total": 3924,
+  "total": 3930,
   "commits": [
+    {
+      "sha": "40bcb4785930974ae95da1d00ca14e2e453cc008",
+      "short": "40bcb47",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T02:00:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40bcb4785930974ae95da1d00ca14e2e453cc008"
+    },
+    {
+      "sha": "c2377555685fdd122ce1caee847b15aa2e8c19e6",
+      "short": "c237755",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T01:51:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2377555685fdd122ce1caee847b15aa2e8c19e6"
+    },
+    {
+      "sha": "821abbec2753a99f5a1f5c04b5649aca95662b2d",
+      "short": "821abbe",
+      "message": "fix(test): migra tests/examples que ainda chamavam o rts:string drenado",
+      "author": "Daniel",
+      "date": "2026-07-27T00:18:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/821abbec2753a99f5a1f5c04b5649aca95662b2d"
+    },
+    {
+      "sha": "251c1f07dc5b48c394f6ffbf6ac2f47aa5829e8f",
+      "short": "251c1f0",
+      "message": "feat(engine): phase-0 optimization instrumentation (RTS_REPR_STATS)",
+      "author": "Daniel",
+      "date": "2026-07-26T07:27:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/251c1f07dc5b48c394f6ffbf6ac2f47aa5829e8f"
+    },
+    {
+      "sha": "171c8929edea950fab22019ada1a4aeced261ab2",
+      "short": "171c892",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T19:08:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/171c8929edea950fab22019ada1a4aeced261ab2"
+    },
+    {
+      "sha": "2a57f083e4c7b32656d29d9511792735a88aef86",
+      "short": "2a57f08",
+      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-26T19:00:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a57f083e4c7b32656d29d9511792735a88aef86"
+    },
     {
       "sha": "be99ac05f7b3460f4a2383f45faed80e1672e68f",
       "short": "be99ac0",
@@ -112,54 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-26T16:31:42Z",
       "url": "https://github.com/UrubuCode/rts/commit/d5f081ac9a20d6a902a36edf6cc860b01a0674b1"
-    },
-    {
-      "sha": "edbd523cb354ccdca29c6afd793ca1110ccc539b",
-      "short": "edbd523",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T13:45:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/edbd523cb354ccdca29c6afd793ca1110ccc539b"
-    },
-    {
-      "sha": "cbb73037c853eac9f30009064d00fec0a4d1e248",
-      "short": "cbb7303",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T13:27:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cbb73037c853eac9f30009064d00fec0a4d1e248"
-    },
-    {
-      "sha": "6ff72f0c96fcb2fe41650d4146835267d29d34a3",
-      "short": "6ff72f0",
-      "message": "feat(gpu): namespace rts:gpu — compute WGSL no device compartilhado",
-      "author": "Marcos",
-      "date": "2026-07-26T13:21:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ff72f0c96fcb2fe41650d4146835267d29d34a3"
-    },
-    {
-      "sha": "131c9591e6a09011720def470b662aef6b0d617c",
-      "short": "131c959",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-26T13:19:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/131c9591e6a09011720def470b662aef6b0d617c"
-    },
-    {
-      "sha": "e49b06d4eb8f554ee5beeaf5f1922454a1e5d22d",
-      "short": "e49b06d",
-      "message": "fix(test): bundle usa métodos da String — suíte TS volta de 0/737 para 721/737 (#2005)",
-      "author": "Marcos",
-      "date": "2026-07-26T13:04:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e49b06d4eb8f554ee5beeaf5f1922454a1e5d22d"
-    },
-    {
-      "sha": "1eff5de59e2ad00b17030056399683b926a2d55a",
-      "short": "1eff5de",
-      "message": "fix(codegen): corpo de método resolve classes do programa — laço em método 20x -> 1x (#1999)",
-      "author": "Marcos",
-      "date": "2026-07-26T12:46:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1eff5de59e2ad00b17030056399683b926a2d55a"
     }
   ]
 }
