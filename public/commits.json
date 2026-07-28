@@ -1,6 +1,102 @@
 {
-  "total": 3963,
+  "total": 3982,
   "commits": [
+    {
+      "sha": "25a90d84c201c72559d355ca687b0bd4d9fbd287",
+      "short": "25a90d8",
+      "message": "feat(macro): rtse::sym! — class symbols become compile-checked",
+      "author": "Daniel",
+      "date": "2026-07-27T23:15:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/25a90d84c201c72559d355ca687b0bd4d9fbd287"
+    },
+    {
+      "sha": "181f73381c72443705e4b4b117009e6be82cefbb",
+      "short": "181f733",
+      "message": "refactor(number): one JS parseInt/parseFloat, in rts-primitives",
+      "author": "Daniel",
+      "date": "2026-07-27T22:45:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/181f73381c72443705e4b4b117009e6be82cefbb"
+    },
+    {
+      "sha": "c8d3a2d31058eb3b5b217eb67b4cf499455e7f39",
+      "short": "c8d3a2d",
+      "message": "feat(macro): Number statics + constants leave the hand-written path",
+      "author": "Daniel",
+      "date": "2026-07-27T22:27:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8d3a2d31058eb3b5b217eb67b4cf499455e7f39"
+    },
+    {
+      "sha": "7a149c9624090a1571c8adef8381fe9fc380f1d7",
+      "short": "7a149c9",
+      "message": "feat(macro): #[rtse::type] — a Rust struct returned to JS as a plain record",
+      "author": "Daniel",
+      "date": "2026-07-27T21:50:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7a149c9624090a1571c8adef8381fe9fc380f1d7"
+    },
+    {
+      "sha": "17e14d89b9b955773e81fff2b548f4409e62ebda",
+      "short": "17e14d8",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-27T20:42:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/17e14d89b9b955773e81fff2b548f4409e62ebda"
+    },
+    {
+      "sha": "f1fcdb57a0651c82449779affaf6506de2201c80",
+      "short": "f1fcdb5",
+      "message": "feat(macro): Number becomes a Rust value-class; class-instance parameters",
+      "author": "Daniel",
+      "date": "2026-07-27T20:42:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1fcdb57a0651c82449779affaf6506de2201c80"
+    },
+    {
+      "sha": "035d4a8ce74453c001307fa10bc4399074cbb478",
+      "short": "035d4a8",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T20:29:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/035d4a8ce74453c001307fa10bc4399074cbb478"
+    },
+    {
+      "sha": "5b660e3b0909b0e9bc8849e6c88f7e47a4bd307e",
+      "short": "5b660e3",
+      "message": "docs: auto-update cross-runtime parity badge (69.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T20:20:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5b660e3b0909b0e9bc8849e6c88f7e47a4bd307e"
+    },
+    {
+      "sha": "dd3972bca7d35ba98a2758cc6b840c75afa746a5",
+      "short": "dd3972b",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-27T20:03:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dd3972bca7d35ba98a2758cc6b840c75afa746a5"
+    },
+    {
+      "sha": "e20175761fc0ad0eefbeb6a27589593cfc147a4c",
+      "short": "e201757",
+      "message": "docs(examples): CRIPTA — rogue-FPS de labirinto infinito por seed + meta-save picklado (#2012)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-27T20:01:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e20175761fc0ad0eefbeb6a27589593cfc147a4c"
+    },
+    {
+      "sha": "1e3c721e37aeee90d544e707e9275810e16ed722",
+      "short": "1e3c721",
+      "message": "fix(engine): ToPrimitive reaches Rust value-class wrappers; kill a panic it exposed",
+      "author": "Daniel",
+      "date": "2026-07-27T19:56:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e3c721e37aeee90d544e707e9275810e16ed722"
+    },
+    {
+      "sha": "2534b0441bed795d22db0a89feb4629522759ed7",
+      "short": "2534b04",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-27T19:22:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2534b0441bed795d22db0a89feb4629522759ed7"
+    },
     {
       "sha": "330fa68551131795385fdc355a5a615aacf0aca5",
       "short": "330fa68",
@@ -8,6 +104,14 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T19:14:12Z",
       "url": "https://github.com/UrubuCode/rts/commit/330fa68551131795385fdc355a5a615aacf0aca5"
+    },
+    {
+      "sha": "430e556805f8780a378f76799163a70fed040c1e",
+      "short": "430e556",
+      "message": "feat(macro): Boolean becomes a Rust value-class; globals.rs stops naming it",
+      "author": "Daniel",
+      "date": "2026-07-27T19:10:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/430e556805f8780a378f76799163a70fed040c1e"
     },
     {
       "sha": "e25559b8bd7dbba1f32f4675634c8d08af076ad9",
@@ -24,6 +128,14 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T18:57:43Z",
       "url": "https://github.com/UrubuCode/rts/commit/56805a039366d7cc90ad69d81e8512f2c3efd434"
+    },
+    {
+      "sha": "38af7866ef87ca6b8870732188edcc7b8a060a2e",
+      "short": "38af786",
+      "message": "feat(macro): #[rtse::functioncall] — the call-without-new half of a class",
+      "author": "Daniel",
+      "date": "2026-07-27T18:39:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/38af7866ef87ca6b8870732188edcc7b8a060a2e"
     },
     {
       "sha": "ef9fb48c0a29e6d543dc2b5425b7172e64bad84a",
@@ -48,118 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T18:21:52Z",
       "url": "https://github.com/UrubuCode/rts/commit/1b74f1a7c708a751270135b22421ee6c6d32d91b"
-    },
-    {
-      "sha": "da07d07b38bae7858ada0e8faba58f04c11a0abe",
-      "short": "da07d07",
-      "message": "feat(serde): pickle phase 2+3 — class instances, Map/Set, functions by reference (#2009)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-27T18:07:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da07d07b38bae7858ada0e8faba58f04c11a0abe"
-    },
-    {
-      "sha": "ed6f34a7406cd572dc2f23177d7bcc0b2e7cecf4",
-      "short": "ed6f34a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T18:00:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed6f34a7406cd572dc2f23177d7bcc0b2e7cecf4"
-    },
-    {
-      "sha": "2d56a4832ce4e442cf4663e80396cffb95338035",
-      "short": "2d56a48",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T17:52:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d56a4832ce4e442cf4663e80396cffb95338035"
-    },
-    {
-      "sha": "8d6b333c272ff2c6c54d4cb62947214ae509964c",
-      "short": "8d6b333",
-      "message": "feat(serde): pickle — deep binary serialization with cycles + shared identity (#2008)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-27T17:38:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d6b333c272ff2c6c54d4cb62947214ae509964c"
-    },
-    {
-      "sha": "021965a8fa17985a729d1cf48097a14f5cbae151",
-      "short": "021965a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T09:40:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/021965a8fa17985a729d1cf48097a14f5cbae151"
-    },
-    {
-      "sha": "1607259ab611767830292a0207c726df85fb9d04",
-      "short": "1607259",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T09:32:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1607259ab611767830292a0207c726df85fb9d04"
-    },
-    {
-      "sha": "d7b02d502505e95c56716ab74be9f8b272f79296",
-      "short": "d7b02d5",
-      "message": "Merge: __rtsm_/__rtsn_/__rtsa_ symbol convention, macro single-source, fused field reads",
-      "author": "Daniel",
-      "date": "2026-07-27T09:10:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7b02d502505e95c56716ab74be9f8b272f79296"
-    },
-    {
-      "sha": "6454c42bcdc8460cbf2016d878ebf2b029f2560b",
-      "short": "6454c42",
-      "message": "perf(heap): fuse POLY_TO_HANDLE + VEC_GET — 28% on the field-read path",
-      "author": "Daniel",
-      "date": "2026-07-27T09:09:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6454c42bcdc8460cbf2016d878ebf2b029f2560b"
-    },
-    {
-      "sha": "00efd92867a7bbed62e4df77dd77b34945eef8e2",
-      "short": "00efd92",
-      "message": "perf(probe): reserving Vec capacity buys 1.08x — hypothesis refuted",
-      "author": "Daniel",
-      "date": "2026-07-27T08:42:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/00efd92867a7bbed62e4df77dd77b34945eef8e2"
-    },
-    {
-      "sha": "b4be31e42caca37ec6df5ac762a405396a4f9dc5",
-      "short": "b4be31e",
-      "message": "perf(probe): rtse_probe — the object cost is ALLOCATION, not layout",
-      "author": "Daniel",
-      "date": "2026-07-27T08:39:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4be31e42caca37ec6df5ac762a405396a4f9dc5"
-    },
-    {
-      "sha": "d1ebb13df88113a0df09cf61f56e93faf21772f2",
-      "short": "d1ebb13",
-      "message": "feat(macro): value-carrying defaults + real #[rtse::symbol]",
-      "author": "Daniel",
-      "date": "2026-07-27T08:30:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1ebb13df88113a0df09cf61f56e93faf21772f2"
-    },
-    {
-      "sha": "abf4e0e2adf88f5188830a65e02e880650f2e310",
-      "short": "abf4e0e",
-      "message": "feat(macro): __rtsm_/__rtsn_/__rtsa_ symbol convention + symbol baker",
-      "author": "Daniel",
-      "date": "2026-07-27T08:05:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/abf4e0e2adf88f5188830a65e02e880650f2e310"
-    },
-    {
-      "sha": "4137aa9f2d578228fce276be48bb90ed7709e649",
-      "short": "4137aa9",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T07:25:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4137aa9f2d578228fce276be48bb90ed7709e649"
-    },
-    {
-      "sha": "231af2662c507d3a6516668303434805418c9736",
-      "short": "231af26",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T07:17:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/231af2662c507d3a6516668303434805418c9736"
     }
   ]
 }
