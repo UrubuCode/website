@@ -1,6 +1,30 @@
 {
-  "total": 3992,
+  "total": 3995,
   "commits": [
+    {
+      "sha": "d7580c88e36a3f80faefca81f21f425336148879",
+      "short": "d7580c8",
+      "message": "feat(macro): raw-handle receiver — Symbol's description/toString converted",
+      "author": "Daniel",
+      "date": "2026-07-28T16:01:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7580c88e36a3f80faefca81f21f425336148879"
+    },
+    {
+      "sha": "cda4fc80181cbee1940b0bf5203f5ab018c33714",
+      "short": "cda4fc8",
+      "message": "docs: dependency-direction bans lifted — mirror tables become draining targets",
+      "author": "Daniel",
+      "date": "2026-07-28T16:00:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cda4fc80181cbee1940b0bf5203f5ab018c33714"
+    },
+    {
+      "sha": "687f4d1a223e01bc0acbe714ebe3e2766ed022fd",
+      "short": "687f4d1",
+      "message": "feat(macro): Symbol's ctor and statics converted",
+      "author": "Daniel",
+      "date": "2026-07-28T05:32:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/687f4d1a223e01bc0acbe714ebe3e2766ed022fd"
+    },
     {
       "sha": "d86bf311b41c6edd14ed46b9afb84038f08ec9f8",
       "short": "d86bf31",
@@ -136,30 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-27T20:29:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/035d4a8ce74453c001307fa10bc4399074cbb478"
-    },
-    {
-      "sha": "5b660e3b0909b0e9bc8849e6c88f7e47a4bd307e",
-      "short": "5b660e3",
-      "message": "docs: auto-update cross-runtime parity badge (69.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T20:20:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5b660e3b0909b0e9bc8849e6c88f7e47a4bd307e"
-    },
-    {
-      "sha": "dd3972bca7d35ba98a2758cc6b840c75afa746a5",
-      "short": "dd3972b",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-27T20:03:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dd3972bca7d35ba98a2758cc6b840c75afa746a5"
-    },
-    {
-      "sha": "e20175761fc0ad0eefbeb6a27589593cfc147a4c",
-      "short": "e201757",
-      "message": "docs(examples): CRIPTA — rogue-FPS de labirinto infinito por seed + meta-save picklado (#2012)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-27T20:01:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e20175761fc0ad0eefbeb6a27589593cfc147a4c"
     }
   ]
 }
