@@ -1,6 +1,86 @@
 {
-  "total": 3982,
+  "total": 3992,
   "commits": [
+    {
+      "sha": "d86bf311b41c6edd14ed46b9afb84038f08ec9f8",
+      "short": "d86bf31",
+      "message": "feat(macro): a ctor may return a raw handle; Proxy converted",
+      "author": "Daniel",
+      "date": "2026-07-28T05:07:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d86bf311b41c6edd14ed46b9afb84038f08ec9f8"
+    },
+    {
+      "sha": "9138e103c1e9dae448b00fc062a8719386774517",
+      "short": "9138e10",
+      "message": "refactor(engine): string pool moves down — 33 symbols stop being externs",
+      "author": "Daniel",
+      "date": "2026-07-28T04:14:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9138e103c1e9dae448b00fc062a8719386774517"
+    },
+    {
+      "sha": "e3786a04407b9bf3c399ea32afe7d8841c50f678",
+      "short": "e3786a0",
+      "message": "refactor: one declaration for the shared externs — 33 copies to 3",
+      "author": "Daniel",
+      "date": "2026-07-28T03:35:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3786a04407b9bf3c399ea32afe7d8841c50f678"
+    },
+    {
+      "sha": "a9f5e00aa61f8c2c7ab88444915e30b6bc9f5409",
+      "short": "a9f5e00",
+      "message": "perf(heap): fuse VEC_NEW + POLY_FROM_HANDLE — 11 -> 10 in-loop calls",
+      "author": "Daniel",
+      "date": "2026-07-28T02:58:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9f5e00aa61f8c2c7ab88444915e30b6bc9f5409"
+    },
+    {
+      "sha": "1acad47880cdf61fef99404cd496302dc32fd8ba",
+      "short": "1acad47",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-28T02:49:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1acad47880cdf61fef99404cd496302dc32fd8ba"
+    },
+    {
+      "sha": "8b38020b0c5c4e6bfa7fb8a6f8e6ed6b6b46f666",
+      "short": "8b38020",
+      "message": "refactor: dissolve rts-adapters into rts-runtime/src/adapters",
+      "author": "Daniel",
+      "date": "2026-07-28T02:46:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b38020b0c5c4e6bfa7fb8a6f8e6ed6b6b46f666"
+    },
+    {
+      "sha": "227602d7500752261208272f6ff7c27b160dc95e",
+      "short": "227602d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-28T02:20:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/227602d7500752261208272f6ff7c27b160dc95e"
+    },
+    {
+      "sha": "2393d5d1f78d1fe0c827bd6cc3e90c2fe31fdcbf",
+      "short": "2393d5d",
+      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-28T02:13:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2393d5d1f78d1fe0c827bd6cc3e90c2fe31fdcbf"
+    },
+    {
+      "sha": "419a994cd798ae7b7b007c0fb9e462d52ee0ae32",
+      "short": "419a994",
+      "message": "fix(registry): dedupe merged class members by symbol — repairs AOT",
+      "author": "Daniel",
+      "date": "2026-07-28T01:54:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/419a994cd798ae7b7b007c0fb9e462d52ee0ae32"
+    },
+    {
+      "sha": "f10a988387432217b28b9cd20784ce8d37d1828c",
+      "short": "f10a988",
+      "message": "refactor(adapters): compile-time slices leave the AOT crate; dead ic.rs deleted",
+      "author": "Daniel",
+      "date": "2026-07-28T00:53:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f10a988387432217b28b9cd20784ce8d37d1828c"
+    },
     {
       "sha": "25a90d84c201c72559d355ca687b0bd4d9fbd287",
       "short": "25a90d8",
@@ -80,86 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-07-27T20:01:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/e20175761fc0ad0eefbeb6a27589593cfc147a4c"
-    },
-    {
-      "sha": "1e3c721e37aeee90d544e707e9275810e16ed722",
-      "short": "1e3c721",
-      "message": "fix(engine): ToPrimitive reaches Rust value-class wrappers; kill a panic it exposed",
-      "author": "Daniel",
-      "date": "2026-07-27T19:56:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e3c721e37aeee90d544e707e9275810e16ed722"
-    },
-    {
-      "sha": "2534b0441bed795d22db0a89feb4629522759ed7",
-      "short": "2534b04",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T19:22:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2534b0441bed795d22db0a89feb4629522759ed7"
-    },
-    {
-      "sha": "330fa68551131795385fdc355a5a615aacf0aca5",
-      "short": "330fa68",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T19:14:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/330fa68551131795385fdc355a5a615aacf0aca5"
-    },
-    {
-      "sha": "430e556805f8780a378f76799163a70fed040c1e",
-      "short": "430e556",
-      "message": "feat(macro): Boolean becomes a Rust value-class; globals.rs stops naming it",
-      "author": "Daniel",
-      "date": "2026-07-27T19:10:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/430e556805f8780a378f76799163a70fed040c1e"
-    },
-    {
-      "sha": "e25559b8bd7dbba1f32f4675634c8d08af076ad9",
-      "short": "e25559b",
-      "message": "docs(examples): CRISTAIS 3D — game demo do pickle (rts:serde) + scene pass wgpu (#2011)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-27T18:58:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e25559b8bd7dbba1f32f4675634c8d08af076ad9"
-    },
-    {
-      "sha": "56805a039366d7cc90ad69d81e8512f2c3efd434",
-      "short": "56805a0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T18:57:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/56805a039366d7cc90ad69d81e8512f2c3efd434"
-    },
-    {
-      "sha": "38af7866ef87ca6b8870732188edcc7b8a060a2e",
-      "short": "38af786",
-      "message": "feat(macro): #[rtse::functioncall] — the call-without-new half of a class",
-      "author": "Daniel",
-      "date": "2026-07-27T18:39:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38af7866ef87ca6b8870732188edcc7b8a060a2e"
-    },
-    {
-      "sha": "ef9fb48c0a29e6d543dc2b5425b7172e64bad84a",
-      "short": "ef9fb48",
-      "message": "test(serde): RTSP v1 golden format freeze + cross-process contract + spec (#2010)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-27T18:33:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef9fb48c0a29e6d543dc2b5425b7172e64bad84a"
-    },
-    {
-      "sha": "961a8f7e64e8e0a49d160e5bcbf328853a113821",
-      "short": "961a8f7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T18:30:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/961a8f7e64e8e0a49d160e5bcbf328853a113821"
-    },
-    {
-      "sha": "1b74f1a7c708a751270135b22421ee6c6d32d91b",
-      "short": "1b74f1a",
-      "message": "docs: auto-update cross-runtime parity badge (70.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T18:21:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b74f1a7c708a751270135b22421ee6c6d32d91b"
     }
   ]
 }
