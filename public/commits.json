@@ -1,6 +1,134 @@
 {
-  "total": 3995,
+  "total": 4011,
   "commits": [
+    {
+      "sha": "f19dfe67192aa5e7c5f54d2025d894cbc37880fe",
+      "short": "f19dfe6",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T01:23:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f19dfe67192aa5e7c5f54d2025d894cbc37880fe"
+    },
+    {
+      "sha": "89c883a3e89df4669576d2c42c8e5208e1b24b28",
+      "short": "89c883a",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-29T01:00:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89c883a3e89df4669576d2c42c8e5208e1b24b28"
+    },
+    {
+      "sha": "75c5a79d292ac84c49d06e4422d1f11ed4e357e9",
+      "short": "75c5a79",
+      "message": "docs: the guide covers constant/ret_ts and the class recipe",
+      "author": "Daniel",
+      "date": "2026-07-29T00:32:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/75c5a79d292ac84c49d06e4422d1f11ed4e357e9"
+    },
+    {
+      "sha": "298bb4d7cf2e9c91a403cbaccfac04b220f60197",
+      "short": "298bb4d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T00:30:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/298bb4d7cf2e9c91a403cbaccfac04b220f60197"
+    },
+    {
+      "sha": "86fb75cabffe88711e307fbf6b8d10d4e1426601",
+      "short": "86fb75c",
+      "message": "feat(node): StringDecoder becomes a #[rtse::class] — the class recipe, proven",
+      "author": "Daniel",
+      "date": "2026-07-29T00:29:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/86fb75cabffe88711e307fbf6b8d10d4e1426601"
+    },
+    {
+      "sha": "7388119ed0d1931c84105b2febe911fdebcb02b4",
+      "short": "7388119",
+      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T00:23:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7388119ed0d1931c84105b2febe911fdebcb02b4"
+    },
+    {
+      "sha": "c9e7030b7478c3a7c992ae3b1be183456cac2073",
+      "short": "c9e7030",
+      "message": "feat(macro): #[rtse::function] gains `constant` — computed Constant members",
+      "author": "Daniel",
+      "date": "2026-07-29T00:20:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c9e7030b7478c3a7c992ae3b1be183456cac2073"
+    },
+    {
+      "sha": "ddd5519aef26efd4cbfe07bccb058f6c9ab00071",
+      "short": "ddd5519",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-29T00:08:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddd5519aef26efd4cbfe07bccb058f6c9ab00071"
+    },
+    {
+      "sha": "3633f55902254f5f676d735197c70bcf554dfc21",
+      "short": "3633f55",
+      "message": "feat(macro): convert the node:* surface to #[rtse::function]; 333 declarations",
+      "author": "Daniel",
+      "date": "2026-07-29T00:03:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3633f55902254f5f676d735197c70bcf554dfc21"
+    },
+    {
+      "sha": "26f6d092e3042a78844201eceda6f4ae5360ef3d",
+      "short": "26f6d09",
+      "message": "feat(macro): rts-engine + node/dom/input/render reachable; node:tty converted",
+      "author": "Daniel",
+      "date": "2026-07-28T22:36:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26f6d092e3042a78844201eceda6f4ae5360ef3d"
+    },
+    {
+      "sha": "3e96cc6626741a574de814e9a547eec3b68df9f8",
+      "short": "3e96cc6",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-28T22:12:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e96cc6626741a574de814e9a547eec3b68df9f8"
+    },
+    {
+      "sha": "8be310c2a69f38dd643e4de855dfcb2f77c2a546",
+      "short": "8be310c",
+      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-28T22:04:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8be310c2a69f38dd643e4de855dfcb2f77c2a546"
+    },
+    {
+      "sha": "c34c13b0b6fa3efcbcc04102824fb134b8dc502b",
+      "short": "c34c13b",
+      "message": "fix(ci): restore $LASTEXITCODE in the Windows build step; silence fn-cast lint",
+      "author": "Daniel",
+      "date": "2026-07-28T21:34:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c34c13b0b6fa3efcbcc04102824fb134b8dc502b"
+    },
+    {
+      "sha": "3145442d070d977a9207c146474079a8816668d4",
+      "short": "3145442",
+      "message": "refactor(abi): read signatures from the Registry too; abi_sig 52 -> 35 rows",
+      "author": "Daniel",
+      "date": "2026-07-28T20:49:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3145442d070d977a9207c146474079a8816668d4"
+    },
+    {
+      "sha": "71c9121c621f8790bcb6b36279355b4d69aba94f",
+      "short": "71c9121",
+      "message": "refactor(abi): the whole __rtsadp_* surface is DERIVED; 248 hand rows deleted",
+      "author": "Daniel",
+      "date": "2026-07-28T20:33:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71c9121c621f8790bcb6b36279355b4d69aba94f"
+    },
+    {
+      "sha": "2365950f5b29bb2754671aaf43b5d1aad2558c0d",
+      "short": "2365950",
+      "message": "feat(symbols): baker becomes the JIT vtable; 527 -> 165 hand-written rows",
+      "author": "Daniel",
+      "date": "2026-07-28T20:07:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2365950f5b29bb2754671aaf43b5d1aad2558c0d"
+    },
     {
       "sha": "d7580c88e36a3f80faefca81f21f425336148879",
       "short": "d7580c8",
@@ -32,134 +160,6 @@
       "author": "Daniel",
       "date": "2026-07-28T05:07:36Z",
       "url": "https://github.com/UrubuCode/rts/commit/d86bf311b41c6edd14ed46b9afb84038f08ec9f8"
-    },
-    {
-      "sha": "9138e103c1e9dae448b00fc062a8719386774517",
-      "short": "9138e10",
-      "message": "refactor(engine): string pool moves down — 33 symbols stop being externs",
-      "author": "Daniel",
-      "date": "2026-07-28T04:14:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9138e103c1e9dae448b00fc062a8719386774517"
-    },
-    {
-      "sha": "e3786a04407b9bf3c399ea32afe7d8841c50f678",
-      "short": "e3786a0",
-      "message": "refactor: one declaration for the shared externs — 33 copies to 3",
-      "author": "Daniel",
-      "date": "2026-07-28T03:35:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3786a04407b9bf3c399ea32afe7d8841c50f678"
-    },
-    {
-      "sha": "a9f5e00aa61f8c2c7ab88444915e30b6bc9f5409",
-      "short": "a9f5e00",
-      "message": "perf(heap): fuse VEC_NEW + POLY_FROM_HANDLE — 11 -> 10 in-loop calls",
-      "author": "Daniel",
-      "date": "2026-07-28T02:58:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a9f5e00aa61f8c2c7ab88444915e30b6bc9f5409"
-    },
-    {
-      "sha": "1acad47880cdf61fef99404cd496302dc32fd8ba",
-      "short": "1acad47",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-28T02:49:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1acad47880cdf61fef99404cd496302dc32fd8ba"
-    },
-    {
-      "sha": "8b38020b0c5c4e6bfa7fb8a6f8e6ed6b6b46f666",
-      "short": "8b38020",
-      "message": "refactor: dissolve rts-adapters into rts-runtime/src/adapters",
-      "author": "Daniel",
-      "date": "2026-07-28T02:46:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b38020b0c5c4e6bfa7fb8a6f8e6ed6b6b46f666"
-    },
-    {
-      "sha": "227602d7500752261208272f6ff7c27b160dc95e",
-      "short": "227602d",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-28T02:20:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/227602d7500752261208272f6ff7c27b160dc95e"
-    },
-    {
-      "sha": "2393d5d1f78d1fe0c827bd6cc3e90c2fe31fdcbf",
-      "short": "2393d5d",
-      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-28T02:13:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2393d5d1f78d1fe0c827bd6cc3e90c2fe31fdcbf"
-    },
-    {
-      "sha": "419a994cd798ae7b7b007c0fb9e462d52ee0ae32",
-      "short": "419a994",
-      "message": "fix(registry): dedupe merged class members by symbol — repairs AOT",
-      "author": "Daniel",
-      "date": "2026-07-28T01:54:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/419a994cd798ae7b7b007c0fb9e462d52ee0ae32"
-    },
-    {
-      "sha": "f10a988387432217b28b9cd20784ce8d37d1828c",
-      "short": "f10a988",
-      "message": "refactor(adapters): compile-time slices leave the AOT crate; dead ic.rs deleted",
-      "author": "Daniel",
-      "date": "2026-07-28T00:53:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f10a988387432217b28b9cd20784ce8d37d1828c"
-    },
-    {
-      "sha": "25a90d84c201c72559d355ca687b0bd4d9fbd287",
-      "short": "25a90d8",
-      "message": "feat(macro): rtse::sym! — class symbols become compile-checked",
-      "author": "Daniel",
-      "date": "2026-07-27T23:15:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/25a90d84c201c72559d355ca687b0bd4d9fbd287"
-    },
-    {
-      "sha": "181f73381c72443705e4b4b117009e6be82cefbb",
-      "short": "181f733",
-      "message": "refactor(number): one JS parseInt/parseFloat, in rts-primitives",
-      "author": "Daniel",
-      "date": "2026-07-27T22:45:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/181f73381c72443705e4b4b117009e6be82cefbb"
-    },
-    {
-      "sha": "c8d3a2d31058eb3b5b217eb67b4cf499455e7f39",
-      "short": "c8d3a2d",
-      "message": "feat(macro): Number statics + constants leave the hand-written path",
-      "author": "Daniel",
-      "date": "2026-07-27T22:27:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8d3a2d31058eb3b5b217eb67b4cf499455e7f39"
-    },
-    {
-      "sha": "7a149c9624090a1571c8adef8381fe9fc380f1d7",
-      "short": "7a149c9",
-      "message": "feat(macro): #[rtse::type] — a Rust struct returned to JS as a plain record",
-      "author": "Daniel",
-      "date": "2026-07-27T21:50:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7a149c9624090a1571c8adef8381fe9fc380f1d7"
-    },
-    {
-      "sha": "17e14d89b9b955773e81fff2b548f4409e62ebda",
-      "short": "17e14d8",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-27T20:42:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/17e14d89b9b955773e81fff2b548f4409e62ebda"
-    },
-    {
-      "sha": "f1fcdb57a0651c82449779affaf6506de2201c80",
-      "short": "f1fcdb5",
-      "message": "feat(macro): Number becomes a Rust value-class; class-instance parameters",
-      "author": "Daniel",
-      "date": "2026-07-27T20:42:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f1fcdb57a0651c82449779affaf6506de2201c80"
-    },
-    {
-      "sha": "035d4a8ce74453c001307fa10bc4399074cbb478",
-      "short": "035d4a8",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-27T20:29:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/035d4a8ce74453c001307fa10bc4399074cbb478"
     }
   ]
 }
