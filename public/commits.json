@@ -1,165 +1,165 @@
 {
-  "total": 4011,
+  "total": 4036,
   "commits": [
     {
-      "sha": "f19dfe67192aa5e7c5f54d2025d894cbc37880fe",
-      "short": "f19dfe6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-29T01:23:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f19dfe67192aa5e7c5f54d2025d894cbc37880fe"
-    },
-    {
-      "sha": "89c883a3e89df4669576d2c42c8e5208e1b24b28",
-      "short": "89c883a",
+      "sha": "ba834ebcc578192440fb8d0e27364be12fa878c7",
+      "short": "ba834eb",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-29T01:00:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89c883a3e89df4669576d2c42c8e5208e1b24b28"
+      "date": "2026-07-29T08:23:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ba834ebcc578192440fb8d0e27364be12fa878c7"
     },
     {
-      "sha": "75c5a79d292ac84c49d06e4422d1f11ed4e357e9",
-      "short": "75c5a79",
-      "message": "docs: the guide covers constant/ret_ts and the class recipe",
+      "sha": "80bcd8dcf763100172ee7cccffe2f8edcceb7cdd",
+      "short": "80bcd8d",
+      "message": "fix(gpu): derrubar o device ANTES do process::exit — suíte 744/744",
       "author": "Daniel",
-      "date": "2026-07-29T00:32:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75c5a79d292ac84c49d06e4422d1f11ed4e357e9"
+      "date": "2026-07-29T08:12:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80bcd8dcf763100172ee7cccffe2f8edcceb7cdd"
     },
     {
-      "sha": "298bb4d7cf2e9c91a403cbaccfac04b220f60197",
-      "short": "298bb4d",
+      "sha": "d6e14e1edc54736c82294d6f9409e05fcd8e4fc0",
+      "short": "d6e14e1",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-29T00:30:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/298bb4d7cf2e9c91a403cbaccfac04b220f60197"
+      "date": "2026-07-29T08:12:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6e14e1edc54736c82294d6f9409e05fcd8e4fc0"
     },
     {
-      "sha": "86fb75cabffe88711e307fbf6b8d10d4e1426601",
-      "short": "86fb75c",
-      "message": "feat(node): StringDecoder becomes a #[rtse::class] — the class recipe, proven",
-      "author": "Daniel",
-      "date": "2026-07-29T00:29:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/86fb75cabffe88711e307fbf6b8d10d4e1426601"
-    },
-    {
-      "sha": "7388119ed0d1931c84105b2febe911fdebcb02b4",
-      "short": "7388119",
-      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
+      "sha": "d27f055f95f9fe79a9d63d0c03b10bdec965a4b7",
+      "short": "d27f055",
+      "message": "docs: auto-update cross-runtime parity badge (69.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-29T00:23:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7388119ed0d1931c84105b2febe911fdebcb02b4"
+      "date": "2026-07-29T08:00:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d27f055f95f9fe79a9d63d0c03b10bdec965a4b7"
     },
     {
-      "sha": "c9e7030b7478c3a7c992ae3b1be183456cac2073",
-      "short": "c9e7030",
-      "message": "feat(macro): #[rtse::function] gains `constant` — computed Constant members",
+      "sha": "5360d972d181f7c4d2adb98172f022ba135fdf58",
+      "short": "5360d97",
+      "message": "fix(node,codegen): 2 bugs de motor + 6 testes reparados — suíte 2587/2587",
       "author": "Daniel",
-      "date": "2026-07-29T00:20:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9e7030b7478c3a7c992ae3b1be183456cac2073"
+      "date": "2026-07-29T07:55:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5360d972d181f7c4d2adb98172f022ba135fdf58"
     },
     {
-      "sha": "ddd5519aef26efd4cbfe07bccb058f6c9ab00071",
-      "short": "ddd5519",
+      "sha": "30f859e89d86792fbf9d1d2eb79f98432fac733c",
+      "short": "30f859e",
+      "message": "merge: shape-identity — 9 bugs reproduzidos corrigidos + inline caches",
+      "author": "Daniel",
+      "date": "2026-07-29T07:11:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30f859e89d86792fbf9d1d2eb79f98432fac733c"
+    },
+    {
+      "sha": "3c489eae6702946c2be612f9aa65e67a9caf1506",
+      "short": "3c489ea",
+      "message": "docs(shapes): registra D6 e o pré-requisito do P5 cumprido",
+      "author": "Daniel",
+      "date": "2026-07-29T06:37:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c489eae6702946c2be612f9aa65e67a9caf1506"
+    },
+    {
+      "sha": "e58432124aa11db878206b6c337ca997b15196f4",
+      "short": "e584321",
+      "message": "fix(gc): trace_children exaustivo — 4 variantes a mais seguravam handle",
+      "author": "Daniel",
+      "date": "2026-07-29T06:35:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e58432124aa11db878206b6c337ca997b15196f4"
+    },
+    {
+      "sha": "6e3babd94026d31bb523ca6bc248ed182a385fe9",
+      "short": "6e3babd",
+      "message": "docs(shapes): plano atualizado com o estado real e o escopo de P6",
+      "author": "Daniel",
+      "date": "2026-07-29T06:30:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e3babd94026d31bb523ca6bc248ed182a385fe9"
+    },
+    {
+      "sha": "18d9e351187cb2677c7f613a9023941e647132e1",
+      "short": "18d9e35",
+      "message": "perf(ic): inline cache de propriedade — leitura dinâmica 436ms → 20ms",
+      "author": "Daniel",
+      "date": "2026-07-29T06:27:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18d9e351187cb2677c7f613a9023941e647132e1"
+    },
+    {
+      "sha": "8bcb98b5fbcd9f1828d46447ce1f978166a5b6c4",
+      "short": "8bcb98b",
+      "message": "fix(gc): Entry::Rtse.props entra no trace_children; module_count conta canônicos",
+      "author": "Daniel",
+      "date": "2026-07-29T06:07:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8bcb98b5fbcd9f1828d46447ce1f978166a5b6c4"
+    },
+    {
+      "sha": "718a3d36c252f0c78a076781ad0b2059db64fe6c",
+      "short": "718a3d3",
+      "message": "fix(objstatic): Object.keys lê a shape VIVA, não a lista assada",
+      "author": "Daniel",
+      "date": "2026-07-29T06:01:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/718a3d36c252f0c78a076781ad0b2059db64fe6c"
+    },
+    {
+      "sha": "5e0d8da976ac84564042f43ec699020905697ec5",
+      "short": "5e0d8da",
+      "message": "fix(array): crescer array cria BURACO, não zero",
+      "author": "Daniel",
+      "date": "2026-07-29T06:01:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5e0d8da976ac84564042f43ec699020905697ec5"
+    },
+    {
+      "sha": "0172232d877b203c52fbffd58ef8f4c0c4774249",
+      "short": "0172232",
+      "message": "fix(shapes): identidade de classe deixa de ser alcançável por conteúdo",
+      "author": "Daniel",
+      "date": "2026-07-29T06:01:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0172232d877b203c52fbffd58ef8f4c0c4774249"
+    },
+    {
+      "sha": "3edb07ce00859f9e97f6ea900e0bbb3d41c27659",
+      "short": "3edb07c",
+      "message": "fix(cross-runtime): erro real no report, sentinela __RUNTIME_ERROR__ morta",
+      "author": "Daniel",
+      "date": "2026-07-29T06:00:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3edb07ce00859f9e97f6ea900e0bbb3d41c27659"
+    },
+    {
+      "sha": "1394afc1dab45183050969cf9cf790c9dbfa8fe3",
+      "short": "1394afc",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T04:19:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1394afc1dab45183050969cf9cf790c9dbfa8fe3"
+    },
+    {
+      "sha": "0cfe05328ef16d4488510e938161fbe468f00b72",
+      "short": "0cfe053",
+      "message": "docs: auto-update cross-runtime parity badge (69.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T04:10:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0cfe05328ef16d4488510e938161fbe468f00b72"
+    },
+    {
+      "sha": "94682c2b2fdc6ce3bd0b36a3a59cb3fe021f0880",
+      "short": "94682c2",
+      "message": "refactor(std): 220 símbolos de rts-std viram #[rtse::function] — a tabela .member(func()) morre junto",
+      "author": "Daniel",
+      "date": "2026-07-29T03:53:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94682c2b2fdc6ce3bd0b36a3a59cb3fe021f0880"
+    },
+    {
+      "sha": "54ebecb6fbafc5bdeb39adf627d1dc5df2d10a65",
+      "short": "54ebecb",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-29T03:28:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54ebecb6fbafc5bdeb39adf627d1dc5df2d10a65"
+    },
+    {
+      "sha": "0eb32b263a9b7df7aa30c87ae94069ceaf7469d9",
+      "short": "0eb32b2",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-29T00:08:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddd5519aef26efd4cbfe07bccb058f6c9ab00071"
-    },
-    {
-      "sha": "3633f55902254f5f676d735197c70bcf554dfc21",
-      "short": "3633f55",
-      "message": "feat(macro): convert the node:* surface to #[rtse::function]; 333 declarations",
-      "author": "Daniel",
-      "date": "2026-07-29T00:03:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3633f55902254f5f676d735197c70bcf554dfc21"
-    },
-    {
-      "sha": "26f6d092e3042a78844201eceda6f4ae5360ef3d",
-      "short": "26f6d09",
-      "message": "feat(macro): rts-engine + node/dom/input/render reachable; node:tty converted",
-      "author": "Daniel",
-      "date": "2026-07-28T22:36:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26f6d092e3042a78844201eceda6f4ae5360ef3d"
-    },
-    {
-      "sha": "3e96cc6626741a574de814e9a547eec3b68df9f8",
-      "short": "3e96cc6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-28T22:12:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3e96cc6626741a574de814e9a547eec3b68df9f8"
-    },
-    {
-      "sha": "8be310c2a69f38dd643e4de855dfcb2f77c2a546",
-      "short": "8be310c",
-      "message": "docs: auto-update cross-runtime parity badge (69.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-28T22:04:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8be310c2a69f38dd643e4de855dfcb2f77c2a546"
-    },
-    {
-      "sha": "c34c13b0b6fa3efcbcc04102824fb134b8dc502b",
-      "short": "c34c13b",
-      "message": "fix(ci): restore $LASTEXITCODE in the Windows build step; silence fn-cast lint",
-      "author": "Daniel",
-      "date": "2026-07-28T21:34:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c34c13b0b6fa3efcbcc04102824fb134b8dc502b"
-    },
-    {
-      "sha": "3145442d070d977a9207c146474079a8816668d4",
-      "short": "3145442",
-      "message": "refactor(abi): read signatures from the Registry too; abi_sig 52 -> 35 rows",
-      "author": "Daniel",
-      "date": "2026-07-28T20:49:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3145442d070d977a9207c146474079a8816668d4"
-    },
-    {
-      "sha": "71c9121c621f8790bcb6b36279355b4d69aba94f",
-      "short": "71c9121",
-      "message": "refactor(abi): the whole __rtsadp_* surface is DERIVED; 248 hand rows deleted",
-      "author": "Daniel",
-      "date": "2026-07-28T20:33:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71c9121c621f8790bcb6b36279355b4d69aba94f"
-    },
-    {
-      "sha": "2365950f5b29bb2754671aaf43b5d1aad2558c0d",
-      "short": "2365950",
-      "message": "feat(symbols): baker becomes the JIT vtable; 527 -> 165 hand-written rows",
-      "author": "Daniel",
-      "date": "2026-07-28T20:07:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2365950f5b29bb2754671aaf43b5d1aad2558c0d"
-    },
-    {
-      "sha": "d7580c88e36a3f80faefca81f21f425336148879",
-      "short": "d7580c8",
-      "message": "feat(macro): raw-handle receiver — Symbol's description/toString converted",
-      "author": "Daniel",
-      "date": "2026-07-28T16:01:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7580c88e36a3f80faefca81f21f425336148879"
-    },
-    {
-      "sha": "cda4fc80181cbee1940b0bf5203f5ab018c33714",
-      "short": "cda4fc8",
-      "message": "docs: dependency-direction bans lifted — mirror tables become draining targets",
-      "author": "Daniel",
-      "date": "2026-07-28T16:00:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cda4fc80181cbee1940b0bf5203f5ab018c33714"
-    },
-    {
-      "sha": "687f4d1a223e01bc0acbe714ebe3e2766ed022fd",
-      "short": "687f4d1",
-      "message": "feat(macro): Symbol's ctor and statics converted",
-      "author": "Daniel",
-      "date": "2026-07-28T05:32:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/687f4d1a223e01bc0acbe714ebe3e2766ed022fd"
-    },
-    {
-      "sha": "d86bf311b41c6edd14ed46b9afb84038f08ec9f8",
-      "short": "d86bf31",
-      "message": "feat(macro): a ctor may return a raw handle; Proxy converted",
-      "author": "Daniel",
-      "date": "2026-07-28T05:07:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d86bf311b41c6edd14ed46b9afb84038f08ec9f8"
+      "date": "2026-07-29T03:04:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0eb32b263a9b7df7aa30c87ae94069ceaf7469d9"
     }
   ]
 }
