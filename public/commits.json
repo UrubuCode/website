@@ -1,6 +1,38 @@
 {
-  "total": 4052,
+  "total": 4056,
   "commits": [
+    {
+      "sha": "5c1c91c03e5ca19811f2e6e31caa02988eb5c565",
+      "short": "5c1c91c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-30T01:02:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c1c91c03e5ca19811f2e6e31caa02988eb5c565"
+    },
+    {
+      "sha": "a21a933c22ab4af7fe011a9caf9b835ef81661ef",
+      "short": "a21a933",
+      "message": "docs: auto-update cross-runtime parity badge (70.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-30T00:53:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a21a933c22ab4af7fe011a9caf9b835ef81661ef"
+    },
+    {
+      "sha": "34fcd07270873cda4843f9fd5c4790f7ebfe8b74",
+      "short": "34fcd07",
+      "message": "merge: fix cross-runtime Date setUTC*/toJSON, extra-arg dispatch, class exprs",
+      "author": "Daniel",
+      "date": "2026-07-30T00:37:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/34fcd07270873cda4843f9fd5c4790f7ebfe8b74"
+    },
+    {
+      "sha": "87559d371d2a61ebb5902a1868b987a988bb510a",
+      "short": "87559d3",
+      "message": "fix(cross-runtime): Date setUTC*/toJSON/toISOString, extra-arg dispatch, class exprs",
+      "author": "Daniel",
+      "date": "2026-07-30T00:34:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87559d371d2a61ebb5902a1868b987a988bb510a"
+    },
     {
       "sha": "c2a381518cb47b54def71a912d3349e178e69ac5",
       "short": "c2a3815",
@@ -128,38 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-07-29T08:36:38Z",
       "url": "https://github.com/UrubuCode/rts/commit/0f7bdaf4fcfe6d6973fa2d7e18df680649d07d9f"
-    },
-    {
-      "sha": "ba834ebcc578192440fb8d0e27364be12fa878c7",
-      "short": "ba834eb",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-29T08:23:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ba834ebcc578192440fb8d0e27364be12fa878c7"
-    },
-    {
-      "sha": "80bcd8dcf763100172ee7cccffe2f8edcceb7cdd",
-      "short": "80bcd8d",
-      "message": "fix(gpu): derrubar o device ANTES do process::exit — suíte 744/744",
-      "author": "Daniel",
-      "date": "2026-07-29T08:12:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80bcd8dcf763100172ee7cccffe2f8edcceb7cdd"
-    },
-    {
-      "sha": "d6e14e1edc54736c82294d6f9409e05fcd8e4fc0",
-      "short": "d6e14e1",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-29T08:12:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6e14e1edc54736c82294d6f9409e05fcd8e4fc0"
-    },
-    {
-      "sha": "d27f055f95f9fe79a9d63d0c03b10bdec965a4b7",
-      "short": "d27f055",
-      "message": "docs: auto-update cross-runtime parity badge (69.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-29T08:00:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d27f055f95f9fe79a9d63d0c03b10bdec965a4b7"
     }
   ]
 }
