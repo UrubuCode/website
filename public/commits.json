@@ -1,6 +1,110 @@
 {
-  "total": 4104,
+  "total": 4117,
   "commits": [
+    {
+      "sha": "d417afd3518201363c18631269993c4241535410",
+      "short": "d417afd",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T13:40:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d417afd3518201363c18631269993c4241535410"
+    },
+    {
+      "sha": "85a4c6ac3732049e8ab5e9a828909c4e91a5a78a",
+      "short": "85a4c6a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T13:19:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/85a4c6ac3732049e8ab5e9a828909c4e91a5a78a"
+    },
+    {
+      "sha": "6c5d4757a85f91f2f5146a426c357f8d73568758",
+      "short": "6c5d475",
+      "message": "fix(engine): retorno de fn nativa declara handle; `this` pelo canal certo (#2047)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T13:16:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c5d4757a85f91f2f5146a426c357f8d73568758"
+    },
+    {
+      "sha": "93a788ba416c4638e5d23f9e7907464a27c822e1",
+      "short": "93a788b",
+      "message": "docs: auto-update cross-runtime parity badge (71.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T13:09:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93a788ba416c4638e5d23f9e7907464a27c822e1"
+    },
+    {
+      "sha": "87a4e7c256e72ea0bec1d6fc188207b3d454fe88",
+      "short": "87a4e7c",
+      "message": "feat(engine): protocolo .next() em values()/keys()/entries() de Array, Map e Set (#2046)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T12:53:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87a4e7c256e72ea0bec1d6fc188207b3d454fe88"
+    },
+    {
+      "sha": "abb1d2b7a104f4506a5fbfaf8487e0da6b8defc8",
+      "short": "abb1d2b",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T12:09:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/abb1d2b7a104f4506a5fbfaf8487e0da6b8defc8"
+    },
+    {
+      "sha": "e68732098146cd157ea87bdb916cd5897897bd13",
+      "short": "e687320",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T11:47:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e68732098146cd157ea87bdb916cd5897897bd13"
+    },
+    {
+      "sha": "84e18b62964af3c7b5250c32e8d2081fe5ce8e10",
+      "short": "84e18b6",
+      "message": "fix(engine): generator lazy com parâmetro sem anotação de tipo rende valores (#2045)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T11:44:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84e18b62964af3c7b5250c32e8d2081fe5ce8e10"
+    },
+    {
+      "sha": "d475e66f993559333d9570a74f4a84b133137e1e",
+      "short": "d475e66",
+      "message": "docs: auto-update cross-runtime parity badge (71.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T11:38:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d475e66f993559333d9570a74f4a84b133137e1e"
+    },
+    {
+      "sha": "27c672458573a9c3e772f6f22330b5b1a7a632f9",
+      "short": "27c6724",
+      "message": "fix(engine): iterador de generator sobrevive a qualquer borda dinâmica (#2043)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T11:23:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27c672458573a9c3e772f6f22330b5b1a7a632f9"
+    },
+    {
+      "sha": "f3325f03bc3d6955e0cee7fec13c48484196224c",
+      "short": "f3325f0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T09:36:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3325f03bc3d6955e0cee7fec13c48484196224c"
+    },
+    {
+      "sha": "2ba2bc1dec06619ef8a5a102c67e34446fedc5c7",
+      "short": "2ba2bc1",
+      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T09:28:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2ba2bc1dec06619ef8a5a102c67e34446fedc5c7"
+    },
+    {
+      "sha": "a20e6658b69f5fe8a79d8d0a727e8e36a4b0933e",
+      "short": "a20e665",
+      "message": "feat(engine): iterador de generator sobrevive ao retorno de outra função",
+      "author": "Marcos",
+      "date": "2026-07-31T09:13:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a20e6658b69f5fe8a79d8d0a727e8e36a4b0933e"
+    },
     {
       "sha": "c7f37ede2c855773b0a9bf86ba57b3312246172d",
       "short": "c7f37ed",
@@ -56,110 +160,6 @@
       "author": "Marcos",
       "date": "2026-07-31T06:50:56Z",
       "url": "https://github.com/UrubuCode/rts/commit/eba0fb0ddb66dbfdbd1728752a965790e719e78e"
-    },
-    {
-      "sha": "7da444bfc7a5bb1f3cd84bfee5afa4128bebc984",
-      "short": "7da444b",
-      "message": "fix(parser): não exigir `sem_captura` no hoist de generator fn-EXPRESSION",
-      "author": "Marcos",
-      "date": "2026-07-31T06:43:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7da444bfc7a5bb1f3cd84bfee5afa4128bebc984"
-    },
-    {
-      "sha": "9301874cc7ab3123208c2bd75c0caaa6f60ce375",
-      "short": "9301874",
-      "message": "feat(engine): generator aninhado + Object static/método sobre receiver-expressão (#2040)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T06:34:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9301874cc7ab3123208c2bd75c0caaa6f60ce375"
-    },
-    {
-      "sha": "df6727cc719eeef361f404236bd68448761b9f9b",
-      "short": "df6727c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T05:27:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/df6727cc719eeef361f404236bd68448761b9f9b"
-    },
-    {
-      "sha": "9c2f47d0e576965c2ede680921f14fe896f0e616",
-      "short": "9c2f47d",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T05:20:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c2f47d0e576965c2ede680921f14fe896f0e616"
-    },
-    {
-      "sha": "870795fa4781498c85e8e054fd321fbb96b66c0a",
-      "short": "870795f",
-      "message": "fix(engine): `new RegExp(re)` copia source/flags + ctor de string coage o argumento (#2037)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T05:05:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/870795fa4781498c85e8e054fd321fbb96b66c0a"
-    },
-    {
-      "sha": "a4d7c7df0b060b6c8ef18097974748934e15a08f",
-      "short": "a4d7c7d",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-07-31T05:03:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4d7c7df0b060b6c8ef18097974748934e15a08f"
-    },
-    {
-      "sha": "92c6ba20639151921e40db656d9be4d6963d77f7",
-      "short": "92c6ba2",
-      "message": "perf(objops): O(1) key add + descriptor build — 21x on getOwnPropertyDescriptors",
-      "author": "Daniel",
-      "date": "2026-07-31T05:02:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92c6ba20639151921e40db656d9be4d6963d77f7"
-    },
-    {
-      "sha": "cc64de3447fd355385a3de8203603a5eee4d35df",
-      "short": "cc64de3",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T05:00:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc64de3447fd355385a3de8203603a5eee4d35df"
-    },
-    {
-      "sha": "e148919bbabb39341be0e7b9c878975203f33030",
-      "short": "e148919",
-      "message": "fix(engine,dom): hoisting de `function` em qualquer profundidade + qualify em Rust (#2036)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T04:48:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e148919bbabb39341be0e7b9c878975203f33030"
-    },
-    {
-      "sha": "4c73b95c76d917fecbb92ab8c76d99474dd2f1ec",
-      "short": "4c73b95",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T04:47:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c73b95c76d917fecbb92ab8c76d99474dd2f1ec"
-    },
-    {
-      "sha": "d57f173d2aa7f8d2244d1f54ca2a2319ce10003f",
-      "short": "d57f173",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T04:39:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d57f173d2aa7f8d2244d1f54ca2a2319ce10003f"
-    },
-    {
-      "sha": "845ace44a9171ae69e2abed92acaf79b09b6cc63",
-      "short": "845ace4",
-      "message": "fix(engine,dom): closures com `this`+captura, shadowing, e escopo de página (#2034)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T04:24:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/845ace44a9171ae69e2abed92acaf79b09b6cc63"
-    },
-    {
-      "sha": "2d590482a517b304214c7a57b33ea3e4b9cc76c7",
-      "short": "2d59048",
-      "message": "perf(shapes): O(1) property read — kill the per-access key-vector clone",
-      "author": "Daniel",
-      "date": "2026-07-31T04:15:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d590482a517b304214c7a57b33ea3e4b9cc76c7"
     }
   ]
 }
