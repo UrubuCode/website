@@ -1,165 +1,165 @@
 {
-  "total": 4117,
+  "total": 4157,
   "commits": [
     {
-      "sha": "d417afd3518201363c18631269993c4241535410",
-      "short": "d417afd",
+      "sha": "e4e6bbd7f7d20a686a3db416ce80a09dbfd641d1",
+      "short": "e4e6bbd",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T13:40:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d417afd3518201363c18631269993c4241535410"
+      "date": "2026-07-31T18:45:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4e6bbd7f7d20a686a3db416ce80a09dbfd641d1"
     },
     {
-      "sha": "85a4c6ac3732049e8ab5e9a828909c4e91a5a78a",
-      "short": "85a4c6a",
+      "sha": "adc4b910005a6bfd361821c9356560c9d9f1da45",
+      "short": "adc4b91",
+      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T18:36:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/adc4b910005a6bfd361821c9356560c9d9f1da45"
+    },
+    {
+      "sha": "d5bc8f5b70fb5773f06a7d86f2c55f710136d601",
+      "short": "d5bc8f5",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-07-31T18:20:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5bc8f5b70fb5773f06a7d86f2c55f710136d601"
+    },
+    {
+      "sha": "277fd8cfa2665ac5649ef54327638a62b0cad53b",
+      "short": "277fd8c",
+      "message": "docs: working plan for the no_mangle drain campaign",
+      "author": "Daniel",
+      "date": "2026-07-31T18:20:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/277fd8cfa2665ac5649ef54327638a62b0cad53b"
+    },
+    {
+      "sha": "a8ca602c7b6ec6ce7433c7440e23543a4bdd8d05",
+      "short": "a8ca602",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T13:19:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85a4c6ac3732049e8ab5e9a828909c4e91a5a78a"
+      "date": "2026-07-31T18:18:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a8ca602c7b6ec6ce7433c7440e23543a4bdd8d05"
     },
     {
-      "sha": "6c5d4757a85f91f2f5146a426c357f8d73568758",
-      "short": "6c5d475",
-      "message": "fix(engine): retorno de fn nativa declara handle; `this` pelo canal certo (#2047)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T13:16:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c5d4757a85f91f2f5146a426c357f8d73568758"
-    },
-    {
-      "sha": "93a788ba416c4638e5d23f9e7907464a27c822e1",
-      "short": "93a788b",
-      "message": "docs: auto-update cross-runtime parity badge (71.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T13:09:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/93a788ba416c4638e5d23f9e7907464a27c822e1"
-    },
-    {
-      "sha": "87a4e7c256e72ea0bec1d6fc188207b3d454fe88",
-      "short": "87a4e7c",
-      "message": "feat(engine): protocolo .next() em values()/keys()/entries() de Array, Map e Set (#2046)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T12:53:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87a4e7c256e72ea0bec1d6fc188207b3d454fe88"
-    },
-    {
-      "sha": "abb1d2b7a104f4506a5fbfaf8487e0da6b8defc8",
-      "short": "abb1d2b",
+      "sha": "3adc87f1ab24605774a872e4a87ea654d4f7c273",
+      "short": "3adc87f",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T12:09:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/abb1d2b7a104f4506a5fbfaf8487e0da6b8defc8"
+      "date": "2026-07-31T17:57:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3adc87f1ab24605774a872e4a87ea654d4f7c273"
     },
     {
-      "sha": "e68732098146cd157ea87bdb916cd5897897bd13",
-      "short": "e687320",
-      "message": "docs: auto-update benchmark table",
+      "sha": "f43253c421412df2f926172c8d2697a584ab0f80",
+      "short": "f43253c",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-07-31T17:54:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f43253c421412df2f926172c8d2697a584ab0f80"
+    },
+    {
+      "sha": "441f906e7ead2c199ba8e73be0019baab4c70d79",
+      "short": "441f906",
+      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T11:47:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e68732098146cd157ea87bdb916cd5897897bd13"
+      "date": "2026-07-31T17:49:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/441f906e7ead2c199ba8e73be0019baab4c70d79"
     },
     {
-      "sha": "84e18b62964af3c7b5250c32e8d2081fe5ce8e10",
-      "short": "84e18b6",
-      "message": "fix(engine): generator lazy com parâmetro sem anotação de tipo rende valores (#2045)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T11:44:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84e18b62964af3c7b5250c32e8d2081fe5ce8e10"
+      "sha": "7d0cf914da7652456c4d2eec3083ff2f3189cc1d",
+      "short": "7d0cf91",
+      "message": "Merge branch 'main' into perf/on-hotpaths-o1",
+      "author": "Daniel",
+      "date": "2026-07-31T17:48:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7d0cf914da7652456c4d2eec3083ff2f3189cc1d"
     },
     {
-      "sha": "d475e66f993559333d9570a74f4a84b133137e1e",
-      "short": "d475e66",
-      "message": "docs: auto-update cross-runtime parity badge (71.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T11:38:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d475e66f993559333d9570a74f4a84b133137e1e"
+      "sha": "34acc679b70d5cd6562563b0a43d251a97d10aa6",
+      "short": "34acc67",
+      "message": "refactor(primitives): Object fully in the rtse system — `object.ts` deleted",
+      "author": "Daniel",
+      "date": "2026-07-31T17:41:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/34acc679b70d5cd6562563b0a43d251a97d10aa6"
     },
     {
-      "sha": "27c672458573a9c3e772f6f22330b5b1a7a632f9",
-      "short": "27c6724",
-      "message": "fix(engine): iterador de generator sobrevive a qualquer borda dinâmica (#2043)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T11:23:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27c672458573a9c3e772f6f22330b5b1a7a632f9"
-    },
-    {
-      "sha": "f3325f03bc3d6955e0cee7fec13c48484196224c",
-      "short": "f3325f0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T09:36:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3325f03bc3d6955e0cee7fec13c48484196224c"
-    },
-    {
-      "sha": "2ba2bc1dec06619ef8a5a102c67e34446fedc5c7",
-      "short": "2ba2bc1",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T09:28:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ba2bc1dec06619ef8a5a102c67e34446fedc5c7"
-    },
-    {
-      "sha": "a20e6658b69f5fe8a79d8d0a727e8e36a4b0933e",
-      "short": "a20e665",
-      "message": "feat(engine): iterador de generator sobrevive ao retorno de outra função",
+      "sha": "2b141d9340493948af176548d0f5c30e7be9211a",
+      "short": "2b141d9",
+      "message": "Revert \"feat(dom): microtask da página é drenada; `fetch` existe no escopo de página (#2059)\"",
       "author": "Marcos",
-      "date": "2026-07-31T09:13:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a20e6658b69f5fe8a79d8d0a727e8e36a4b0933e"
+      "date": "2026-07-31T17:29:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2b141d9340493948af176548d0f5c30e7be9211a"
     },
     {
-      "sha": "c7f37ede2c855773b0a9bf86ba57b3312246172d",
-      "short": "c7f37ed",
+      "sha": "42650b8e42c87cb81afa5e695c308f4f75ff04b5",
+      "short": "42650b8",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T07:52:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7f37ede2c855773b0a9bf86ba57b3312246172d"
+      "date": "2026-07-31T17:27:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/42650b8e42c87cb81afa5e695c308f4f75ff04b5"
     },
     {
-      "sha": "75435b0baa31efcb773d10406fcdd0f48a0c502b",
-      "short": "75435b0",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
+      "sha": "6d129188d09c7206d13d532c661810e42a8ba1fd",
+      "short": "6d12918",
+      "message": "feat(dom): microtask da página é drenada; `fetch` existe no escopo de página (#2059)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T17:24:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6d129188d09c7206d13d532c661810e42a8ba1fd"
+    },
+    {
+      "sha": "b73f7160571b4541462680accc6ee541af367e65",
+      "short": "b73f716",
+      "message": "merge: main into perf/on-hotpaths-o1 — Object statics stay `.ts`, instance surface stays Rust",
+      "author": "Daniel",
+      "date": "2026-07-31T16:45:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b73f7160571b4541462680accc6ee541af367e65"
+    },
+    {
+      "sha": "1c0f3ac8cd31c5ac62467177eb1997680387712e",
+      "short": "1c0f3ac",
+      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T07:43:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75435b0baa31efcb773d10406fcdd0f48a0c502b"
+      "date": "2026-07-31T17:18:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c0f3ac8cd31c5ac62467177eb1997680387712e"
     },
     {
-      "sha": "759f4302dc43bdb7ed73b136417da7603b28071f",
-      "short": "759f430",
-      "message": "feat(parser): generator levantado leva as funções IRMÃS que ele chama",
-      "author": "Marcos",
-      "date": "2026-07-31T07:28:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/759f4302dc43bdb7ed73b136417da7603b28071f"
+      "sha": "52114f2d19d23e18a78840c775acfa9fbb197982",
+      "short": "52114f2",
+      "message": "fix(engine): Promise.resolve(num).then entregava os BITS de f64, não o número (#2058)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T17:01:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/52114f2d19d23e18a78840c775acfa9fbb197982"
     },
     {
-      "sha": "4ee313b733ddef2705665b7786d00d4daa3978f8",
-      "short": "4ee313b",
+      "sha": "783d8f6ec73a24f4317d85a277049899cb85500f",
+      "short": "783d8f6",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T07:20:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ee313b733ddef2705665b7786d00d4daa3978f8"
+      "date": "2026-07-31T16:59:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/783d8f6ec73a24f4317d85a277049899cb85500f"
     },
     {
-      "sha": "367712d2206ebac68ae6d65849b13d7552b5db8f",
-      "short": "367712d",
-      "message": "docs: auto-update cross-runtime parity badge (71.1%)",
+      "sha": "40c04a4b46d84dc7a1256fd234e151f7f4e3af63",
+      "short": "40c04a4",
+      "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T07:11:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/367712d2206ebac68ae6d65849b13d7552b5db8f"
+      "date": "2026-07-31T16:39:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40c04a4b46d84dc7a1256fd234e151f7f4e3af63"
     },
     {
-      "sha": "dbc85efa656b077146e60aadb631cd04f1328444",
-      "short": "dbc85ef",
-      "message": "feat(primitives): estáticos de Object reificáveis como VALOR",
-      "author": "Marcos",
-      "date": "2026-07-31T06:56:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dbc85efa656b077146e60aadb631cd04f1328444"
+      "sha": "86529fa9dbe89efa0801fb5b8898541c646003e2",
+      "short": "86529fa",
+      "message": "fix(engine): um LOCAL sombreia o import de namespace (escopo de JS) (#2057)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-07-31T16:35:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/86529fa9dbe89efa0801fb5b8898541c646003e2"
     },
     {
-      "sha": "eba0fb0ddb66dbfdbd1728752a965790e719e78e",
-      "short": "eba0fb0",
-      "message": "fix(engine): alias de função generator preserva o protocolo do iterador",
-      "author": "Marcos",
-      "date": "2026-07-31T06:50:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eba0fb0ddb66dbfdbd1728752a965790e719e78e"
+      "sha": "de6118526427c09e01fcb09cbeadbbd7ec5a5d42",
+      "short": "de61185",
+      "message": "docs: auto-update cross-runtime parity badge (72.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T16:31:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de6118526427c09e01fcb09cbeadbbd7ec5a5d42"
     }
   ]
 }
