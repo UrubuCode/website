@@ -1,165 +1,165 @@
 {
-  "total": 4157,
+  "total": 4184,
   "commits": [
     {
-      "sha": "e4e6bbd7f7d20a686a3db416ce80a09dbfd641d1",
-      "short": "e4e6bbd",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T18:45:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e4e6bbd7f7d20a686a3db416ce80a09dbfd641d1"
+      "sha": "ae07d4eb78ff32a41e77d4b818c3b386aaf8a926",
+      "short": "ae07d4e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-01T01:49:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae07d4eb78ff32a41e77d4b818c3b386aaf8a926"
     },
     {
-      "sha": "adc4b910005a6bfd361821c9356560c9d9f1da45",
-      "short": "adc4b91",
+      "sha": "c3b73efc3046e9ac29b373c74c62c2c258c3f5fb",
+      "short": "c3b73ef",
+      "message": "refactor: N5 — rename the `input` and `render` areas, 27 symbols",
+      "author": "Daniel",
+      "date": "2026-08-01T00:18:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3b73efc3046e9ac29b373c74c62c2c258c3f5fb"
+    },
+    {
+      "sha": "173377083daf429c5f37a956ad8e8b749cbcd4fe",
+      "short": "1733770",
+      "message": "refactor: N5 — rename the `dom` area, 102 symbols (__RTS_FN_NS_DOM_* → __rtsm_dom_*)",
+      "author": "Daniel",
+      "date": "2026-08-01T00:09:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/173377083daf429c5f37a956ad8e8b749cbcd4fe"
+    },
+    {
+      "sha": "6132c5e76727ad7b7e238f1cb93d526b9077d80c",
+      "short": "6132c5e",
+      "message": "fix: N6-A — scope the stack-map collection to the module that resolves it",
+      "author": "Daniel",
+      "date": "2026-07-31T23:58:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6132c5e76727ad7b7e238f1cb93d526b9077d80c"
+    },
+    {
+      "sha": "299b90eeba372208d5647739f2f46414f3a410ea",
+      "short": "299b90e",
+      "message": "refactor: N2b — delete the four gc_surface.rs",
+      "author": "Daniel",
+      "date": "2026-07-31T23:45:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/299b90eeba372208d5647739f2f46414f3a410ea"
+    },
+    {
+      "sha": "6fb12080cefb6bdc0b167fdb50e7ee55889c6555",
+      "short": "6fb1208",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T23:37:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6fb12080cefb6bdc0b167fdb50e7ee55889c6555"
+    },
+    {
+      "sha": "58e354ab88685725d05ae0e2c015485dde6986bd",
+      "short": "58e354a",
+      "message": "refactor: N7 — delete 166 consumerless runtime symbols",
+      "author": "Daniel",
+      "date": "2026-07-31T23:29:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58e354ab88685725d05ae0e2c015485dde6986bd"
+    },
+    {
+      "sha": "4cf94b4db172f626ad2d57c8f5532fc83664526c",
+      "short": "4cf94b4",
+      "message": "docs: the GC scan is CONSERVATIVE — correct the claim that it is precise",
+      "author": "Daniel",
+      "date": "2026-07-31T23:10:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4cf94b4db172f626ad2d57c8f5532fc83664526c"
+    },
+    {
+      "sha": "39cb1b95b0eed7b5b009a55eeddfc3489d135266",
+      "short": "39cb1b9",
+      "message": "refactor: N3 — split the generator, machinery down and the scheduler stays",
+      "author": "Daniel",
+      "date": "2026-07-31T23:06:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39cb1b95b0eed7b5b009a55eeddfc3489d135266"
+    },
+    {
+      "sha": "d4807d5ec4c4f98eb84e6b440196ffd4dc7bb921",
+      "short": "d4807d5",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-07-31T23:02:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4807d5ec4c4f98eb84e6b440196ffd4dc7bb921"
+    },
+    {
+      "sha": "c91ad86ae7ea84bcdd1edf21e703a0a36a3690d6",
+      "short": "c91ad86",
+      "message": "refactor: N2+N4 — unify the GC, kill GC_COLLECT_HOOK, delete the __rtsa_ scope",
+      "author": "Daniel",
+      "date": "2026-07-31T22:50:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c91ad86ae7ea84bcdd1edf21e703a0a36a3690d6"
+    },
+    {
+      "sha": "3104e22d63b77dd7d777366faf47e482ed3931d0",
+      "short": "3104e22",
+      "message": "refactor: N0+N1 — create rts-natives, move the heap down into it",
+      "author": "Daniel",
+      "date": "2026-07-31T22:24:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3104e22d63b77dd7d777366faf47e482ed3931d0"
+    },
+    {
+      "sha": "f030e3196923420ad07cc07a075d30f96cdf9f0d",
+      "short": "f030e31",
+      "message": "docs: crate reorganization plan + the 626-symbol rename map",
+      "author": "Daniel",
+      "date": "2026-07-31T22:15:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f030e3196923420ad07cc07a075d30f96cdf9f0d"
+    },
+    {
+      "sha": "558953948bee7ae1d079204ff11f95a86d073712",
+      "short": "5589539",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-07-31T22:13:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/558953948bee7ae1d079204ff11f95a86d073712"
+    },
+    {
+      "sha": "084e946080fc5a14b29239584b182bf2efd16132",
+      "short": "084e946",
       "message": "docs: auto-update cross-runtime parity badge (71.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T18:36:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/adc4b910005a6bfd361821c9356560c9d9f1da45"
+      "date": "2026-07-31T22:04:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/084e946080fc5a14b29239584b182bf2efd16132"
     },
     {
-      "sha": "d5bc8f5b70fb5773f06a7d86f2c55f710136d601",
-      "short": "d5bc8f5",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "e22c5b39b706174feaff0da7eab14071b91b6bed",
+      "short": "e22c5b3",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-31T18:20:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5bc8f5b70fb5773f06a7d86f2c55f710136d601"
+      "date": "2026-07-31T21:48:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e22c5b39b706174feaff0da7eab14071b91b6bed"
     },
     {
-      "sha": "277fd8cfa2665ac5649ef54327638a62b0cad53b",
-      "short": "277fd8c",
-      "message": "docs: working plan for the no_mangle drain campaign",
+      "sha": "98d8d385cbc2f5f8468d94573206ed35e75c2853",
+      "short": "98d8d38",
+      "message": "refactor: preserve case in the symbol scope segment",
       "author": "Daniel",
-      "date": "2026-07-31T18:20:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/277fd8cfa2665ac5649ef54327638a62b0cad53b"
+      "date": "2026-07-31T21:23:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98d8d385cbc2f5f8468d94573206ed35e75c2853"
     },
     {
-      "sha": "a8ca602c7b6ec6ce7433c7440e23543a4bdd8d05",
-      "short": "a8ca602",
+      "sha": "43da695697808478d0084748dbfcb741053c554f",
+      "short": "43da695",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-07-31T18:18:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a8ca602c7b6ec6ce7433c7440e23543a4bdd8d05"
+      "date": "2026-07-31T20:56:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/43da695697808478d0084748dbfcb741053c554f"
     },
     {
-      "sha": "3adc87f1ab24605774a872e4a87ea654d4f7c273",
-      "short": "3adc87f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T17:57:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3adc87f1ab24605774a872e4a87ea654d4f7c273"
-    },
-    {
-      "sha": "f43253c421412df2f926172c8d2697a584ab0f80",
-      "short": "f43253c",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "f3de5e81a8da31d903f119a40be35750ba42876a",
+      "short": "f3de5e8",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-07-31T17:54:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f43253c421412df2f926172c8d2697a584ab0f80"
+      "date": "2026-07-31T20:31:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3de5e81a8da31d903f119a40be35750ba42876a"
     },
     {
-      "sha": "441f906e7ead2c199ba8e73be0019baab4c70d79",
-      "short": "441f906",
-      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T17:49:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/441f906e7ead2c199ba8e73be0019baab4c70d79"
-    },
-    {
-      "sha": "7d0cf914da7652456c4d2eec3083ff2f3189cc1d",
-      "short": "7d0cf91",
-      "message": "Merge branch 'main' into perf/on-hotpaths-o1",
+      "sha": "96cef482cef35ed253f27af14917be0369af1e2a",
+      "short": "96cef48",
+      "message": "refactor: drain rts-napi __RTS_* + this_slot; record campaign in the spec",
       "author": "Daniel",
-      "date": "2026-07-31T17:48:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7d0cf914da7652456c4d2eec3083ff2f3189cc1d"
-    },
-    {
-      "sha": "34acc679b70d5cd6562563b0a43d251a97d10aa6",
-      "short": "34acc67",
-      "message": "refactor(primitives): Object fully in the rtse system — `object.ts` deleted",
-      "author": "Daniel",
-      "date": "2026-07-31T17:41:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/34acc679b70d5cd6562563b0a43d251a97d10aa6"
-    },
-    {
-      "sha": "2b141d9340493948af176548d0f5c30e7be9211a",
-      "short": "2b141d9",
-      "message": "Revert \"feat(dom): microtask da página é drenada; `fetch` existe no escopo de página (#2059)\"",
-      "author": "Marcos",
-      "date": "2026-07-31T17:29:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b141d9340493948af176548d0f5c30e7be9211a"
-    },
-    {
-      "sha": "42650b8e42c87cb81afa5e695c308f4f75ff04b5",
-      "short": "42650b8",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T17:27:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/42650b8e42c87cb81afa5e695c308f4f75ff04b5"
-    },
-    {
-      "sha": "6d129188d09c7206d13d532c661810e42a8ba1fd",
-      "short": "6d12918",
-      "message": "feat(dom): microtask da página é drenada; `fetch` existe no escopo de página (#2059)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T17:24:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6d129188d09c7206d13d532c661810e42a8ba1fd"
-    },
-    {
-      "sha": "b73f7160571b4541462680accc6ee541af367e65",
-      "short": "b73f716",
-      "message": "merge: main into perf/on-hotpaths-o1 — Object statics stay `.ts`, instance surface stays Rust",
-      "author": "Daniel",
-      "date": "2026-07-31T16:45:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b73f7160571b4541462680accc6ee541af367e65"
-    },
-    {
-      "sha": "1c0f3ac8cd31c5ac62467177eb1997680387712e",
-      "short": "1c0f3ac",
-      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T17:18:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c0f3ac8cd31c5ac62467177eb1997680387712e"
-    },
-    {
-      "sha": "52114f2d19d23e18a78840c775acfa9fbb197982",
-      "short": "52114f2",
-      "message": "fix(engine): Promise.resolve(num).then entregava os BITS de f64, não o número (#2058)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T17:01:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52114f2d19d23e18a78840c775acfa9fbb197982"
-    },
-    {
-      "sha": "783d8f6ec73a24f4317d85a277049899cb85500f",
-      "short": "783d8f6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T16:59:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/783d8f6ec73a24f4317d85a277049899cb85500f"
-    },
-    {
-      "sha": "40c04a4b46d84dc7a1256fd234e151f7f4e3af63",
-      "short": "40c04a4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T16:39:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40c04a4b46d84dc7a1256fd234e151f7f4e3af63"
-    },
-    {
-      "sha": "86529fa9dbe89efa0801fb5b8898541c646003e2",
-      "short": "86529fa",
-      "message": "fix(engine): um LOCAL sombreia o import de namespace (escopo de JS) (#2057)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-07-31T16:35:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/86529fa9dbe89efa0801fb5b8898541c646003e2"
-    },
-    {
-      "sha": "de6118526427c09e01fcb09cbeadbbd7ec5a5d42",
-      "short": "de61185",
-      "message": "docs: auto-update cross-runtime parity badge (72.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-07-31T16:31:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de6118526427c09e01fcb09cbeadbbd7ec5a5d42"
+      "date": "2026-07-31T20:30:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96cef482cef35ed253f27af14917be0369af1e2a"
     }
   ]
 }
