@@ -1,6 +1,94 @@
 {
-  "total": 4236,
+  "total": 4247,
   "commits": [
+    {
+      "sha": "1d59c0d063db22490b38ad734e0a3b7293f07919",
+      "short": "1d59c0d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T12:14:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1d59c0d063db22490b38ad734e0a3b7293f07919"
+    },
+    {
+      "sha": "90941ed7cf9cd5d4e56ab54a0ccbaecf40ffad82",
+      "short": "90941ed",
+      "message": "docs: auto-update cross-runtime parity badge (72.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T12:05:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90941ed7cf9cd5d4e56ab54a0ccbaecf40ffad82"
+    },
+    {
+      "sha": "ed69e07bdf59655f553658cad7c9dc374ad3139b",
+      "short": "ed69e07",
+      "message": "fix(codegen): estático de classe alcançado pelo VALOR da classe",
+      "author": "Marcos",
+      "date": "2026-08-01T11:52:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed69e07bdf59655f553658cad7c9dc374ad3139b"
+    },
+    {
+      "sha": "304c9d257c205b9e6e5c727d81318fbfe01d782e",
+      "short": "304c9d2",
+      "message": "fix: commita a IMPLEMENTAÇÃO de TypedArray que ficou de fora de b6bf96cb",
+      "author": "Marcos",
+      "date": "2026-08-01T11:35:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/304c9d257c205b9e6e5c727d81318fbfe01d782e"
+    },
+    {
+      "sha": "1af2a5d1c170e143fc014b93121cb8a434610325",
+      "short": "1af2a5d",
+      "message": "merge: main remota",
+      "author": "Marcos",
+      "date": "2026-08-01T11:07:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1af2a5d1c170e143fc014b93121cb8a434610325"
+    },
+    {
+      "sha": "b6bf96cb43db5fad5f6facd04e9903de0b9439aa",
+      "short": "b6bf96c",
+      "message": "feat: sobrecargas de TypedArray, iteração, e construtor de Registry por tipo dinâmico",
+      "author": "Marcos",
+      "date": "2026-08-01T11:07:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b6bf96cb43db5fad5f6facd04e9903de0b9439aa"
+    },
+    {
+      "sha": "e65a7f6fe08de8c9964a1d7f2bdd310829f4880b",
+      "short": "e65a7f6",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T10:16:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e65a7f6fe08de8c9964a1d7f2bdd310829f4880b"
+    },
+    {
+      "sha": "8b43c16055cc5f19c39f6cd15608e2ad5958ec76",
+      "short": "8b43c16",
+      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T10:08:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b43c16055cc5f19c39f6cd15608e2ad5958ec76"
+    },
+    {
+      "sha": "3174fc515d28a9bd408410dd283e431e683af589",
+      "short": "3174fc5",
+      "message": "feat(exemplo): baixa os bundles de aplicação (RTS_BUNDLES=1), desligado por padrão",
+      "author": "Marcos",
+      "date": "2026-08-01T09:53:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3174fc515d28a9bd408410dd283e431e683af589"
+    },
+    {
+      "sha": "0e5518cc6a4620b54f74c5dc9aee6d8274a23567",
+      "short": "0e5518c",
+      "message": "refactor(runtime): uma codificação só para \"estático como valor\" (reduz hardcode)",
+      "author": "Marcos",
+      "date": "2026-08-01T09:22:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0e5518cc6a4620b54f74c5dc9aee6d8274a23567"
+    },
+    {
+      "sha": "afd523f0e41e7514ba79d778a79b7ce8269731bb",
+      "short": "afd523f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T08:09:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/afd523f0e41e7514ba79d778a79b7ce8269731bb"
+    },
     {
       "sha": "e58715f9c382b5023d80f7e4d716d67875543af2",
       "short": "e58715f",
@@ -72,94 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-01T07:00:38Z",
       "url": "https://github.com/UrubuCode/rts/commit/be04725ddde61f519d2feac74af086b845047ca2"
-    },
-    {
-      "sha": "b964857daae4b5988ee686d7c61a2122482a1214",
-      "short": "b964857",
-      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T06:52:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b964857daae4b5988ee686d7c61a2122482a1214"
-    },
-    {
-      "sha": "f6c1f94c90dcc92240c98aad64193faf77983f87",
-      "short": "f6c1f94",
-      "message": "merge: main remota",
-      "author": "Marcos",
-      "date": "2026-08-01T06:39:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f6c1f94c90dcc92240c98aad64193faf77983f87"
-    },
-    {
-      "sha": "a6473df9638986bc44d718621f42ce2a13f202ee",
-      "short": "a6473df",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T06:34:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a6473df9638986bc44d718621f42ce2a13f202ee"
-    },
-    {
-      "sha": "aef4d2dd392d097fd6346ff9ea3e4c7fb33370b9",
-      "short": "aef4d2d",
-      "message": "fix(parser): `;` solto abortava a state-machine do generator inteiro",
-      "author": "Marcos",
-      "date": "2026-08-01T06:29:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aef4d2dd392d097fd6346ff9ea3e4c7fb33370b9"
-    },
-    {
-      "sha": "abdb638af869ad3a6613ef0882e9345735a840e1",
-      "short": "abdb638",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T06:17:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/abdb638af869ad3a6613ef0882e9345735a840e1"
-    },
-    {
-      "sha": "e2ece93f156f72a0a6eb210ca65141a9361d2f2e",
-      "short": "e2ece93",
-      "message": "merge: main remota",
-      "author": "Marcos",
-      "date": "2026-08-01T06:10:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e2ece93f156f72a0a6eb210ca65141a9361d2f2e"
-    },
-    {
-      "sha": "43bdb30231379d89af2d0fd7a5888765e269be46",
-      "short": "43bdb30",
-      "message": "fix(parser): generator escrevia em variavel EXTERNA dentro do proprio frame",
-      "author": "Marcos",
-      "date": "2026-08-01T06:09:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/43bdb30231379d89af2d0fd7a5888765e269be46"
-    },
-    {
-      "sha": "b30f57b24f52b18a6ab6bba8cd6a8265e809ecf7",
-      "short": "b30f57b",
-      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T06:08:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b30f57b24f52b18a6ab6bba8cd6a8265e809ecf7"
-    },
-    {
-      "sha": "03fadfcd9b61b1d8e78a89e46f2844a0175ace15",
-      "short": "03fadfc",
-      "message": "fix(runtime): `yield*` sobre Set/Map/iteravel custom rendia `[]` em silencio",
-      "author": "Marcos",
-      "date": "2026-08-01T05:59:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03fadfcd9b61b1d8e78a89e46f2844a0175ace15"
-    },
-    {
-      "sha": "5147f8afa4a17d4b2c6aacbdd32a7f73a4ee34f3",
-      "short": "5147f8a",
-      "message": "fix(parser): captura de escopo em generator levantado",
-      "author": "Marcos",
-      "date": "2026-08-01T05:53:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5147f8afa4a17d4b2c6aacbdd32a7f73a4ee34f3"
-    },
-    {
-      "sha": "7937ff2cf6fec7c1602230f70b0c1cb19819411b",
-      "short": "7937ff2",
-      "message": "fix(codegen): método com 4 argumentos sobre receiver-expressão (#2039)",
-      "author": "Marcos",
-      "date": "2026-08-01T05:53:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7937ff2cf6fec7c1602230f70b0c1cb19819411b"
     }
   ]
 }
