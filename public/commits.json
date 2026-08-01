@@ -1,6 +1,134 @@
 {
-  "total": 4247,
+  "total": 4263,
   "commits": [
+    {
+      "sha": "a8849a7d15d73ae453361861d13a0a0e1b15feca",
+      "short": "a8849a7",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T18:48:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a8849a7d15d73ae453361861d13a0a0e1b15feca"
+    },
+    {
+      "sha": "522356b4d0f106d72b0a2dad9e3f87938a43c720",
+      "short": "522356b",
+      "message": "docs: auto-update cross-runtime parity badge (72.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T18:40:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/522356b4d0f106d72b0a2dad9e3f87938a43c720"
+    },
+    {
+      "sha": "d5878a559c8f1e0f5db97114346bd00e10c4d6b3",
+      "short": "d5878a5",
+      "message": "fix(parser,codegen): generator SM aceita fn-decl aninhada e bloco rotulado; new Function compila em thread de pilha grande (#2077)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-01T18:25:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5878a559c8f1e0f5db97114346bd00e10c4d6b3"
+    },
+    {
+      "sha": "e91ad7f73b5ab5200b9d6242219141e71dea030f",
+      "short": "e91ad7f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T18:16:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e91ad7f73b5ab5200b9d6242219141e71dea030f"
+    },
+    {
+      "sha": "01d1add61e2c32f7df2a32d19a264ce620b6e23c",
+      "short": "01d1add",
+      "message": "docs: auto-update cross-runtime parity badge (72.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T18:08:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01d1add61e2c32f7df2a32d19a264ce620b6e23c"
+    },
+    {
+      "sha": "a1520e4923bbe37eefc3464b4e3cb48a38b6fee0",
+      "short": "a1520e4",
+      "message": "fix(codegen): 5 gaps de bundle real — throw em generator SM, lifter, cell bitwise, static dinâmico (#2076)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-01T17:54:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a1520e4923bbe37eefc3464b4e3cb48a38b6fee0"
+    },
+    {
+      "sha": "b39e3f1f4bf8c391a835e9aeb141a73de08afb9c",
+      "short": "b39e3f1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T17:27:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b39e3f1f4bf8c391a835e9aeb141a73de08afb9c"
+    },
+    {
+      "sha": "7184a96c7e75c15ea5473f1bf726f8c257952d07",
+      "short": "7184a96",
+      "message": "docs: auto-update cross-runtime parity badge (72.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T17:19:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7184a96c7e75c15ea5473f1bf726f8c257952d07"
+    },
+    {
+      "sha": "9d10d3efb5f6678b73841659c2bcd157ee46f84f",
+      "short": "9d10d3e",
+      "message": "fix(codegen): `instanceof` com classe por VALOR devolvia false silencioso (#2073)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-01T17:04:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9d10d3efb5f6678b73841659c2bcd157ee46f84f"
+    },
+    {
+      "sha": "56953e209179a4f9e7894632e52d3beb80d75631",
+      "short": "56953e2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T15:47:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56953e209179a4f9e7894632e52d3beb80d75631"
+    },
+    {
+      "sha": "6a2520cc395321bff2ea1c0f229b0283bba1cb64",
+      "short": "6a2520c",
+      "message": "docs: auto-update cross-runtime parity badge (72.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T15:38:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a2520cc395321bff2ea1c0f229b0283bba1cb64"
+    },
+    {
+      "sha": "e43ce89ddf7bfde7bf488d80b2200875e9105dc9",
+      "short": "e43ce89",
+      "message": "test(codegen): testes unitários + cross-runtime do lifter recursivo; extrai rename.rs",
+      "author": "Marcos",
+      "date": "2026-08-01T15:24:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e43ce89ddf7bfde7bf488d80b2200875e9105dc9"
+    },
+    {
+      "sha": "1fbbe1c00cb47c590090788c8ea37cbb768157a4",
+      "short": "1fbbe1c",
+      "message": "merge: main remota",
+      "author": "Marcos",
+      "date": "2026-08-01T15:12:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1fbbe1c00cb47c590090788c8ea37cbb768157a4"
+    },
+    {
+      "sha": "c153ac46552b2105d03df0121e17f5fc1c336a4d",
+      "short": "c153ac4",
+      "message": "fix(codegen): lifter não traversava switch/labeled/do-while — self-name e capturas perdidos",
+      "author": "Marcos",
+      "date": "2026-08-01T15:12:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c153ac46552b2105d03df0121e17f5fc1c336a4d"
+    },
+    {
+      "sha": "e7e606b07dff791a8e7b41dabc4d55dfd24c512e",
+      "short": "e7e606b",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-01T14:25:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7e606b07dff791a8e7b41dabc4d55dfd24c512e"
+    },
+    {
+      "sha": "9c7b5c582965d180a31bbe8026da0ef384649b0a",
+      "short": "9c7b5c5",
+      "message": "fix(gc): marcar os globais de página como GC root — corrige segfault de bundle grande",
+      "author": "Marcos",
+      "date": "2026-08-01T14:02:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c7b5c582965d180a31bbe8026da0ef384649b0a"
+    },
     {
       "sha": "1d59c0d063db22490b38ad734e0a3b7293f07919",
       "short": "1d59c0d",
@@ -32,134 +160,6 @@
       "author": "Marcos",
       "date": "2026-08-01T11:35:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/304c9d257c205b9e6e5c727d81318fbfe01d782e"
-    },
-    {
-      "sha": "1af2a5d1c170e143fc014b93121cb8a434610325",
-      "short": "1af2a5d",
-      "message": "merge: main remota",
-      "author": "Marcos",
-      "date": "2026-08-01T11:07:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1af2a5d1c170e143fc014b93121cb8a434610325"
-    },
-    {
-      "sha": "b6bf96cb43db5fad5f6facd04e9903de0b9439aa",
-      "short": "b6bf96c",
-      "message": "feat: sobrecargas de TypedArray, iteração, e construtor de Registry por tipo dinâmico",
-      "author": "Marcos",
-      "date": "2026-08-01T11:07:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b6bf96cb43db5fad5f6facd04e9903de0b9439aa"
-    },
-    {
-      "sha": "e65a7f6fe08de8c9964a1d7f2bdd310829f4880b",
-      "short": "e65a7f6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T10:16:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e65a7f6fe08de8c9964a1d7f2bdd310829f4880b"
-    },
-    {
-      "sha": "8b43c16055cc5f19c39f6cd15608e2ad5958ec76",
-      "short": "8b43c16",
-      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T10:08:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b43c16055cc5f19c39f6cd15608e2ad5958ec76"
-    },
-    {
-      "sha": "3174fc515d28a9bd408410dd283e431e683af589",
-      "short": "3174fc5",
-      "message": "feat(exemplo): baixa os bundles de aplicação (RTS_BUNDLES=1), desligado por padrão",
-      "author": "Marcos",
-      "date": "2026-08-01T09:53:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3174fc515d28a9bd408410dd283e431e683af589"
-    },
-    {
-      "sha": "0e5518cc6a4620b54f74c5dc9aee6d8274a23567",
-      "short": "0e5518c",
-      "message": "refactor(runtime): uma codificação só para \"estático como valor\" (reduz hardcode)",
-      "author": "Marcos",
-      "date": "2026-08-01T09:22:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e5518cc6a4620b54f74c5dc9aee6d8274a23567"
-    },
-    {
-      "sha": "afd523f0e41e7514ba79d778a79b7ce8269731bb",
-      "short": "afd523f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T08:09:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/afd523f0e41e7514ba79d778a79b7ce8269731bb"
-    },
-    {
-      "sha": "e58715f9c382b5023d80f7e4d716d67875543af2",
-      "short": "e58715f",
-      "message": "docs: auto-update cross-runtime parity badge (72.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T08:01:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e58715f9c382b5023d80f7e4d716d67875543af2"
-    },
-    {
-      "sha": "dbf793561f2269e5fd280a02aad730357c7065d6",
-      "short": "dbf7935",
-      "message": "merge: main remota",
-      "author": "Marcos",
-      "date": "2026-08-01T07:45:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dbf793561f2269e5fd280a02aad730357c7065d6"
-    },
-    {
-      "sha": "ddc16b44090e663a90a03d7a26972ab49a7443fd",
-      "short": "ddc16b4",
-      "message": "fix(codegen): estático de `Object` lido como VALOR",
-      "author": "Marcos",
-      "date": "2026-08-01T07:45:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddc16b44090e663a90a03d7a26972ab49a7443fd"
-    },
-    {
-      "sha": "138ef886cb9d68488df315de97b09b40a39dd656",
-      "short": "138ef88",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T07:34:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/138ef886cb9d68488df315de97b09b40a39dd656"
-    },
-    {
-      "sha": "e7b0895007d544e30a02a4bee680adb9b8599ce3",
-      "short": "e7b0895",
-      "message": "docs: auto-update cross-runtime parity badge (72.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T07:25:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7b0895007d544e30a02a4bee680adb9b8599ce3"
-    },
-    {
-      "sha": "b464fbd9f5e609cb63b939c41a57155c2ad76a58",
-      "short": "b464fbd",
-      "message": "merge: main remota",
-      "author": "Marcos",
-      "date": "2026-08-01T07:10:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b464fbd9f5e609cb63b939c41a57155c2ad76a58"
-    },
-    {
-      "sha": "713c706552ae101cd6fca4982b18165f12f624be",
-      "short": "713c706",
-      "message": "fix(codegen): `this` em statement composto e coerção de local Bool não-booleano",
-      "author": "Marcos",
-      "date": "2026-08-01T07:10:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/713c706552ae101cd6fca4982b18165f12f624be"
-    },
-    {
-      "sha": "5d0f3708226aaafed3f67384aa9ed732b982c42d",
-      "short": "5d0f370",
-      "message": "fix(runtime): `valueOf`/`toString` de wrapper alcançado por valor DINÂMICO",
-      "author": "Marcos",
-      "date": "2026-08-01T07:10:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d0f3708226aaafed3f67384aa9ed732b982c42d"
-    },
-    {
-      "sha": "be04725ddde61f519d2feac74af086b845047ca2",
-      "short": "be04725",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T07:00:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be04725ddde61f519d2feac74af086b845047ca2"
     }
   ]
 }
