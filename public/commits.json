@@ -1,165 +1,165 @@
 {
-  "total": 4305,
+  "total": 4335,
   "commits": [
     {
-      "sha": "3014cde9d2c2e4c89b45440c6d449145f0687953",
-      "short": "3014cde",
-      "message": "fix(codegen): método ausente na superfície Number vai ao despacho dinâmico, não ao bail (#2097)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T01:49:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3014cde9d2c2e4c89b45440c6d449145f0687953"
+      "sha": "ea76fc13a6fd01891d1919b1460f89a1bcbf24ac",
+      "short": "ea76fc1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-02T07:18:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ea76fc13a6fd01891d1919b1460f89a1bcbf24ac"
     },
     {
-      "sha": "7f772f0a2f6b9218c732a69b86324899f1d5dbc7",
-      "short": "7f772f0",
-      "message": "fix(parser): `++`/`--` sobre capturada de generator agora é traduzido, não recusado (#2096)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T01:40:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7f772f0a2f6b9218c732a69b86324899f1d5dbc7"
+      "sha": "d393f566d1e81507bcf64bb5008b4c13e0000afb",
+      "short": "d393f56",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-02T07:10:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d393f566d1e81507bcf64bb5008b4c13e0000afb"
     },
     {
-      "sha": "84fc4c825fa8af97e7db213864014f91670dbd02",
-      "short": "84fc4c8",
-      "message": "fix(codegen,browser): closure capturando gcell/classe + página no cache (medição determinística) (#2095)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T01:22:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84fc4c825fa8af97e7db213864014f91670dbd02"
+      "sha": "e5195d6d12af7bff9f9f391d00bca1294d5a2387",
+      "short": "e5195d6",
+      "message": "refactor(gc): shape registry reads take a read lock, not the global Mutex (Tier 3.4)",
+      "author": "Daniel",
+      "date": "2026-08-02T06:54:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e5195d6d12af7bff9f9f391d00bca1294d5a2387"
     },
     {
-      "sha": "0420d016e775e6123bd77debd0e8391d3925fe39",
-      "short": "0420d01",
-      "message": "fix(parser): desugar eager de generator não descia em `try`/`switch`/rótulo (#2094)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T00:50:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0420d016e775e6123bd77debd0e8391d3925fe39"
+      "sha": "22e894e6a20b82615476548bcbfa4fb56ec03547",
+      "short": "22e894e",
+      "message": "perf(codegen): `x ** 2` folds to a multiply; `%` takes srem behind a runtime int guard",
+      "author": "Daniel",
+      "date": "2026-08-02T06:53:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22e894e6a20b82615476548bcbfa4fb56ec03547"
     },
     {
-      "sha": "81268ed0ed39808abb13ee657f131a67db527a09",
-      "short": "81268ed",
+      "sha": "e29a5d30759d3d33eaa1cbe003a89a712d18b87a",
+      "short": "e29a5d3",
+      "message": "perf(runtime): compare property keys without allocating — fn.name read 348 -> 283 ms",
+      "author": "Daniel",
+      "date": "2026-08-02T06:53:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e29a5d30759d3d33eaa1cbe003a89a712d18b87a"
+    },
+    {
+      "sha": "30ebc7c903fcc1e0db162c74df7eb1d110f2f00d",
+      "short": "30ebc7c",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-02T00:49:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81268ed0ed39808abb13ee657f131a67db527a09"
+      "date": "2026-08-02T06:42:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30ebc7c903fcc1e0db162c74df7eb1d110f2f00d"
     },
     {
-      "sha": "fb3c8fdfd50e680a1e05d1a5d5309c0960049f97",
-      "short": "fb3c8fd",
-      "message": "fix(codegen): argumentos EXTRAS num `new` são ignorados, não recusados (#2093)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T00:37:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb3c8fdfd50e680a1e05d1a5d5309c0960049f97"
+      "sha": "ac27f75ccc2a74b02be3690cadf704ef995ad4f5",
+      "short": "ac27f75",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-02T06:38:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac27f75ccc2a74b02be3690cadf704ef995ad4f5"
     },
     {
-      "sha": "ca75f7324cd482d88095831016059f25af0a5de3",
-      "short": "ca75f73",
-      "message": "feat(probe): kernel NUM — price each numeric width on the shapes where they differ",
+      "sha": "8f85ddfa5446fa7c05a736d7d349db0864683b2e",
+      "short": "8f85ddf",
+      "message": "perf(codegen): inline tag guard in front of the generic operator trampolines — tagged compare 2x",
       "author": "Daniel",
-      "date": "2026-08-02T00:34:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca75f7324cd482d88095831016059f25af0a5de3"
+      "date": "2026-08-02T06:31:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f85ddfa5446fa7c05a736d7d349db0864683b2e"
     },
     {
-      "sha": "6e1ce712c458822b73cd6d62e6a7901179520a18",
-      "short": "6e1ce71",
-      "message": "fix(parser): generator-expressão que ESCREVE captura passa a ser içável (por referência) (#2091)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T00:30:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6e1ce712c458822b73cd6d62e6a7901179520a18"
-    },
-    {
-      "sha": "912bd6f06062ead5471f25161628fe203b5a9cab",
-      "short": "912bd6f",
-      "message": "fix(codegen): compound-assign e `++`/`--` sobre alvo com PARTE EFETIVA (#2090)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T00:21:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/912bd6f06062ead5471f25161628fe203b5a9cab"
-    },
-    {
-      "sha": "6a77a5058c48942216f7a7fc55cc5cfd8fc3de0f",
-      "short": "6a77a50",
-      "message": "docs: CRANELIFT_IMPLEMENTATION.md §10 — measured results for the whole §7 plan",
+      "sha": "e8efe03673af6b6494b3d42fd9aea8bdfb4bc07b",
+      "short": "e8efe03",
+      "message": "perf(gc): per-shard live counters + cached env reads on the allocation path",
       "author": "Daniel",
-      "date": "2026-08-02T00:08:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a77a5058c48942216f7a7fc55cc5cfd8fc3de0f"
+      "date": "2026-08-02T06:30:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8efe03673af6b6494b3d42fd9aea8bdfb4bc07b"
     },
     {
-      "sha": "0f4099ecd702d99e9a5dfb1d5eee815282013859",
-      "short": "0f4099e",
-      "message": "feat(codegen): cold post-call error edge; overflow-checked int arithmetic behind RTS_INT_OVERFLOW",
+      "sha": "e12e56861385e65f61d861405098230b1f94ca07",
+      "short": "e12e568",
+      "message": "perf(runtime): both-strings fast path in STRING_CONCAT — accumulator loop 161 -> 105 ms",
       "author": "Daniel",
-      "date": "2026-08-02T00:07:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0f4099ecd702d99e9a5dfb1d5eee815282013859"
+      "date": "2026-08-02T06:30:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e12e56861385e65f61d861405098230b1f94ca07"
     },
     {
-      "sha": "249d8dd14179ece1bb49480a86b0d05914ef532b",
-      "short": "249d8dd",
-      "message": "fix(codegen,browser): `++`/`--` sobre cadeia de propriedades + cache de rede no mini-browser (#2089)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-02T00:02:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/249d8dd14179ece1bb49480a86b0d05914ef532b"
+      "sha": "f0b9b327ce44540e47ddaa95bf2a2ddcc44f8262",
+      "short": "f0b9b32",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-02T06:29:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f0b9b327ce44540e47ddaa95bf2a2ddcc44f8262"
     },
     {
-      "sha": "a4c8f096911e99ac7a64469081fac5cfb4f7da13",
-      "short": "a4c8f09",
+      "sha": "9dfb970739097d2b4d0466ae73a5f93748c38773",
+      "short": "9dfb970",
+      "message": "feat(probe): kernel W — C0's construction+write ladder; construction is a 48x lever, not a floor",
+      "author": "Daniel",
+      "date": "2026-08-02T06:17:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9dfb970739097d2b4d0466ae73a5f93748c38773"
+    },
+    {
+      "sha": "417c69bba64b28209db40c8202d135aef91cfcbb",
+      "short": "417c69b",
+      "message": "feat(gc): T3 thread-affine regions behind RTS_REGIONS=1 — 34% on construction, and it exposes a latent deadlock",
+      "author": "Daniel",
+      "date": "2026-08-02T06:14:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/417c69bba64b28209db40c8202d135aef91cfcbb"
+    },
+    {
+      "sha": "043c2a6687d1fab0a7d9347289040bf9ddab1ef9",
+      "short": "043c2a6",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-01T23:49:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4c8f096911e99ac7a64469081fac5cfb4f7da13"
+      "date": "2026-08-02T06:14:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/043c2a6687d1fab0a7d9347289040bf9ddab1ef9"
     },
     {
-      "sha": "5fefe232ead17f5842aa0f50cccce9483fce8726",
-      "short": "5fefe23",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T23:47:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5fefe232ead17f5842aa0f50cccce9483fce8726"
-    },
-    {
-      "sha": "d30daf51c60064bdab148bb6aea0502f5c799260",
-      "short": "d30daf5",
-      "message": "perf(codegen): emit a uniform-ABI thunk only for functions whose address is taken",
+      "sha": "592b64fc7f8eb4b0a33371c2ae3c208e9fa2fffa",
+      "short": "592b64f",
+      "message": "perf(codegen): allocate a class instance in ONE runtime call — `new P()` 632 -> 531 ns/iter",
       "author": "Daniel",
-      "date": "2026-08-01T23:40:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d30daf51c60064bdab148bb6aea0502f5c799260"
+      "date": "2026-08-02T06:04:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/592b64fc7f8eb4b0a33371c2ae3c208e9fa2fffa"
     },
     {
-      "sha": "8764d2fc3511661b8706ef822bba1e589e6da82b",
-      "short": "8764d2f",
-      "message": "docs: auto-update cross-runtime parity badge (73.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T23:39:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8764d2fc3511661b8706ef822bba1e589e6da82b"
+      "sha": "fbe084f904273eaf44f837664fd4be8834c4e786",
+      "short": "fbe084f",
+      "message": "perf(regex): cache the compiled automaton per (source, flags) — a literal in a loop goes 1662 -> 40 ms",
+      "author": "Daniel",
+      "date": "2026-08-02T04:03:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbe084f904273eaf44f837664fd4be8834c4e786"
     },
     {
-      "sha": "872e73d2c9ebd1d6e255a49088e357b0bf08b6cd",
-      "short": "872e73d",
-      "message": "fix(codegen): compound-assign sobre CADEIA de propriedades (`this.a.b += 1`) (#2088)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-01T23:25:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/872e73d2c9ebd1d6e255a49088e357b0bf08b6cd"
+      "sha": "99b938596ee1e45d1c24df7b982cf084cceb0ee8",
+      "short": "99b9385",
+      "message": "docs+instr(codegen): close item 6 — speculative design refuted at 91%, remap design priced; Cranelift plan COMPLETE",
+      "author": "Daniel",
+      "date": "2026-08-02T03:57:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/99b938596ee1e45d1c24df7b982cf084cceb0ee8"
     },
     {
-      "sha": "828f36b96fffe4839e8e8387c0bb372fe4d07088",
-      "short": "828f36b",
+      "sha": "9988ea74d6ded751ad55f037c90a3fa567767958",
+      "short": "9988ea7",
+      "message": "docs: CRANELIFT_IMPLEMENTATION.md — §3's inlining hypothesis tested and confirmed",
+      "author": "Daniel",
+      "date": "2026-08-02T03:36:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9988ea74d6ded751ad55f037c90a3fa567767958"
+    },
+    {
+      "sha": "a495332b11ed9c1150e2932c628c795370752251",
+      "short": "a495332",
+      "message": "perf(codegen): enable Cranelift's inlining pass, size-driven — 15% on a call-heavy benchmark",
+      "author": "Daniel",
+      "date": "2026-08-02T03:36:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a495332b11ed9c1150e2932c628c795370752251"
+    },
+    {
+      "sha": "1559fd3b3e0d2eadc0fdf4f2bf55367e36cd2013",
+      "short": "1559fd3",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-01T23:20:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/828f36b96fffe4839e8e8387c0bb372fe4d07088"
-    },
-    {
-      "sha": "245d24b7af55baeb3c04bb16f06f4e53e4defeb7",
-      "short": "245d24b",
-      "message": "fix(codegen): `<ClasseGlobal>.toString()` devolve a renderização `[native code]` (#2086)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-01T23:18:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/245d24b7af55baeb3c04bb16f06f4e53e4defeb7"
-    },
-    {
-      "sha": "9f218f8f95122b21f53def6f1909cd090743784e",
-      "short": "9f218f8",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-01T23:03:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f218f8f95122b21f53def6f1909cd090743784e"
+      "date": "2026-08-02T03:18:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1559fd3b3e0d2eadc0fdf4f2bf55367e36cd2013"
     }
   ]
 }
