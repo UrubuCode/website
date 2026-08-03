@@ -1,165 +1,165 @@
 {
-  "total": 4359,
+  "total": 4409,
   "commits": [
     {
-      "sha": "c8de259482d9f2f45a6c08a36c3c900cd583033f",
-      "short": "c8de259",
+      "sha": "9480055ca06c65c5a917d9941b6ea6a2b00671ba",
+      "short": "9480055",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-03T01:25:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8de259482d9f2f45a6c08a36c3c900cd583033f"
+      "date": "2026-08-03T09:17:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9480055ca06c65c5a917d9941b6ea6a2b00671ba"
     },
     {
-      "sha": "74f1bc2d9031fab7ae09c6ccc6722317cc2665be",
-      "short": "74f1bc2",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-03T01:17:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74f1bc2d9031fab7ae09c6ccc6722317cc2665be"
-    },
-    {
-      "sha": "79d7c8724ee50867ef62361c582b82eaad8791f8",
-      "short": "79d7c87",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-03T00:18:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/79d7c8724ee50867ef62361c582b82eaad8791f8"
-    },
-    {
-      "sha": "5fb2910ed14373017e372bc0dcce46276c8931a9",
-      "short": "5fb2910",
-      "message": "docs: §10 records what 3.1/3.2 measured, and that shipping 3.1 alone was a loss",
-      "author": "Daniel",
-      "date": "2026-08-02T23:53:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5fb2910ed14373017e372bc0dcce46276c8931a9"
-    },
-    {
-      "sha": "53be596d40680d267fd1d45e9652bfcfd9557275",
-      "short": "53be596",
-      "message": "fix(gc): a receiver used only through a field read was not a root — one `band` was hiding it",
-      "author": "Daniel",
-      "date": "2026-08-02T23:52:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53be596d40680d267fd1d45e9652bfcfd9557275"
-    },
-    {
-      "sha": "293d862e72396225cadea9435021b491903d231a",
-      "short": "293d862",
-      "message": "perf(codegen): Tier 3.2 — the object field read is real `load`s, not a call (600 -> 362 ms)",
-      "author": "Daniel",
-      "date": "2026-08-02T23:41:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/293d862e72396225cadea9435021b491903d231a"
-    },
-    {
-      "sha": "f91371aba06e8d0eb79df2f2ac2e2f2af768b369",
-      "short": "f91371a",
-      "message": "docs: RTS_ENVS.md — every environment variable the engine reads, with the file that reads it",
-      "author": "Daniel",
-      "date": "2026-08-02T23:27:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f91371aba06e8d0eb79df2f2ac2e2f2af768b369"
-    },
-    {
-      "sha": "61c5bf3ba423c82a1ab8790bab9a34088be74b6f",
-      "short": "61c5bf3",
-      "message": "refactor(gc): §8.4 — Entry::Vec carries inline-capable Slots, the prerequisite C2 was blocked on",
-      "author": "Daniel",
-      "date": "2026-08-02T23:17:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61c5bf3ba423c82a1ab8790bab9a34088be74b6f"
-    },
-    {
-      "sha": "8bb96bfcd8f74dcb8a5807851b516d2a015018f3",
-      "short": "8bb96bf",
+      "sha": "c26e7495932087265652424700eb543742daf2ce",
+      "short": "c26e749",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-02T23:08:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8bb96bfcd8f74dcb8a5807851b516d2a015018f3"
+      "date": "2026-08-03T08:54:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c26e7495932087265652424700eb543742daf2ce"
     },
     {
-      "sha": "219d360b0ce69d7b158672aabcb216edd045d976",
-      "short": "219d360",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-02T23:00:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/219d360b0ce69d7b158672aabcb216edd045d976"
-    },
-    {
-      "sha": "4182de55bd744aa9daa711f593db0e8ed08dacf0",
-      "short": "4182de5",
+      "sha": "fbd06ada81239d1ee3cdb5defe6500b8d7c70aa6",
+      "short": "fbd06ad",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-02T22:44:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4182de55bd744aa9daa711f593db0e8ed08dacf0"
+      "date": "2026-08-03T08:52:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbd06ada81239d1ee3cdb5defe6500b8d7c70aa6"
     },
     {
-      "sha": "9717267d2667fcece889da8f117d207f5168bf26",
-      "short": "9717267",
-      "message": "docs: Tier 3.2 cannot land soundly without the object/array representation split, and two GC bugs found",
+      "sha": "d1295952ccff2a4cccd40746115c84e1fbb86a8a",
+      "short": "d129595",
+      "message": "feat(codegen): L9 — measured against test262, and what the number found",
       "author": "Daniel",
-      "date": "2026-08-02T22:18:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9717267d2667fcece889da8f117d207f5168bf26"
+      "date": "2026-08-03T08:49:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1295952ccff2a4cccd40746115c84e1fbb86a8a"
     },
     {
-      "sha": "43e81113ec87991bf64a63cd3ae24d1322f126c8",
-      "short": "43e8111",
-      "message": "feat(gc): Tier 3.1 chunked stable-address slot storage behind RTS_SLAB=1",
-      "author": "Daniel",
-      "date": "2026-08-02T22:03:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/43e81113ec87991bf64a63cd3ae24d1322f126c8"
+      "sha": "df7f3a08cdcf8147e2371b7c75e2d24e56a829ba",
+      "short": "df7f3a0",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-03T08:45:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df7f3a08cdcf8147e2371b7c75e2d24e56a829ba"
     },
     {
-      "sha": "d1136cb7c672d0c0e86dc5ff69cbb98f7fef9835",
-      "short": "d1136cb",
-      "message": "fix(gc): the mark phase truncated at 1M steps and swept LIVE objects — 500k-element array read back as NaN",
+      "sha": "b7e47150abaf119d7d6f0b42f8c983bcd94f66f0",
+      "short": "b7e4715",
+      "message": "feat(codegen): L8.5 — source text in, tree out",
       "author": "Daniel",
-      "date": "2026-08-02T22:02:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1136cb7c672d0c0e86dc5ff69cbb98f7fef9835"
+      "date": "2026-08-03T08:37:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b7e47150abaf119d7d6f0b42f8c983bcd94f66f0"
     },
     {
-      "sha": "289dd2cf8bb19c707a3ef18e83dd8a64787ed9ee",
-      "short": "289dd2c",
-      "message": "docs: RTS_CLASS_IMPLEMENTATION.md — C5 and C6 status, with what each actually cost",
+      "sha": "e78eb55ac6eda4954c6bb25a287047e043e65b8d",
+      "short": "e78eb55",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-02T21:18:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/289dd2cf8bb19c707a3ef18e83dd8a64787ed9ee"
+      "date": "2026-08-03T08:28:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e78eb55ac6eda4954c6bb25a287047e043e65b8d"
     },
     {
-      "sha": "32aaf62306d1144379830e8c5b7498b18db6acff",
-      "short": "32aaf62",
-      "message": "docs: RTS_OPTIMIZATION.md §10 — measured results for every §5 Tier item",
+      "sha": "4563ee3e9380ccf8ea05e1ee4cdc9152a90b956c",
+      "short": "4563ee3",
+      "message": "docs(codegen): name the step the plan was missing, and refuse to fake L9",
       "author": "Daniel",
-      "date": "2026-08-02T21:17:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/32aaf62306d1144379830e8c5b7498b18db6acff"
+      "date": "2026-08-03T08:27:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4563ee3e9380ccf8ea05e1ee4cdc9152a90b956c"
     },
     {
-      "sha": "7310bd8fe7fee7640f1aba0de4c7e738749fd719",
-      "short": "7310bd8",
-      "message": "perf(gc): thread-local size-classed buffer recycler (RTS_BUMP=1) — and why Tier 4.2's bump pointer is blocked",
+      "sha": "239a3898b40d9a199e2b5389eee2296cbd751e88",
+      "short": "239a389",
+      "message": "feat(codegen): L7 and L8 — suspension, and the corners nobody likes",
       "author": "Daniel",
-      "date": "2026-08-02T21:07:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7310bd8fe7fee7640f1aba0de4c7e738749fd719"
+      "date": "2026-08-03T08:25:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/239a3898b40d9a199e2b5389eee2296cbd751e88"
     },
     {
-      "sha": "ce1210b57c8579d78f1f080ca983dc7979395d44",
-      "short": "ce1210b",
-      "message": "perf(runtime): read a shaped own slot BEFORE the dictionary probes — and Tier 3.3's premise is REFUTED",
+      "sha": "4894e07d77adb99a288b2c4ea56525d534fa7fca",
+      "short": "4894e07",
+      "message": "feat(codegen): L6 — modules, and the goal that is not a flag",
       "author": "Daniel",
-      "date": "2026-08-02T21:07:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce1210b57c8579d78f1f080ca983dc7979395d44"
+      "date": "2026-08-03T08:22:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4894e07d77adb99a288b2c4ea56525d534fa7fca"
     },
     {
-      "sha": "2ffa33a1e5c6844e2c7cad1792c8480b3c290ebf",
-      "short": "2ffa33a",
-      "message": "feat(hir,codegen): Tier 2.2 gate — a `native_int` bit separates declared i64 from an inferred literal",
+      "sha": "6ca90013b353ffa5d10c4ed5171811c35ddf84b7",
+      "short": "6ca9001",
+      "message": "feat(codegen): L5 — classes, and the order that is their semantics",
       "author": "Daniel",
-      "date": "2026-08-02T21:06:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ffa33a1e5c6844e2c7cad1792c8480b3c290ebf"
+      "date": "2026-08-03T08:20:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ca90013b353ffa5d10c4ed5171811c35ddf84b7"
     },
     {
-      "sha": "d5f737104c484020a83bba0058b4f5571dd2c20d",
-      "short": "d5f7371",
-      "message": "perf(codegen): tier-0 escape analysis — a non-escaping `new C()` loop goes 1050 ms -> 1 ms",
+      "sha": "67aaa19eff2f331aa2de28a528c5669464093125",
+      "short": "67aaa19",
+      "message": "feat(codegen): L4 — objects, templates, spread, and the chain boundary",
       "author": "Daniel",
-      "date": "2026-08-02T20:39:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5f737104c484020a83bba0058b4f5571dd2c20d"
+      "date": "2026-08-03T08:16:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/67aaa19eff2f331aa2de28a528c5669464093125"
+    },
+    {
+      "sha": "c2aa6a982a2e3a7e529349d5a8345c2f19ca038b",
+      "short": "c2aa6a9",
+      "message": "feat(codegen): L3 — the loops, switch, and labels",
+      "author": "Daniel",
+      "date": "2026-08-03T08:13:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2aa6a982a2e3a7e529349d5a8345c2f19ca038b"
+    },
+    {
+      "sha": "73cf993ca4b951ddfe82accc47654ff2d2c82d9f",
+      "short": "73cf993",
+      "message": "feat(codegen): L2 — destructuring, in both of the roles it has",
+      "author": "Daniel",
+      "date": "2026-08-03T08:10:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73cf993ca4b951ddfe82accc47654ff2d2c82d9f"
+    },
+    {
+      "sha": "8b3ce2374ae940effb752fff0a78d91c57866a98",
+      "short": "8b3ce23",
+      "message": "feat(codegen): L1 — every operator the language has",
+      "author": "Daniel",
+      "date": "2026-08-03T08:05:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b3ce2374ae940effb752fff0a78d91c57866a98"
+    },
+    {
+      "sha": "f35be1635172a7a17f3c3c7cfcac6ef7628b8b7b",
+      "short": "f35be16",
+      "message": "docs: audit what the runtime links, before it is expensive to find out",
+      "author": "Daniel",
+      "date": "2026-08-03T07:56:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f35be1635172a7a17f3c3c7cfcac6ef7628b8b7b"
+    },
+    {
+      "sha": "be14e41bc4e688f226cc33c2caeaccf80a846959",
+      "short": "be14e41",
+      "message": "chore: declare MIT in package metadata, not only in a file",
+      "author": "Daniel",
+      "date": "2026-08-03T07:48:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/be14e41bc4e688f226cc33c2caeaccf80a846959"
+    },
+    {
+      "sha": "ccd00c9e37ba1ee71cc3f45d0470203669d635b4",
+      "short": "ccd00c9",
+      "message": "docs: attribute ECMA-262, on the terms it actually asks for",
+      "author": "Daniel",
+      "date": "2026-08-03T07:39:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccd00c9e37ba1ee71cc3f45d0470203669d635b4"
+    },
+    {
+      "sha": "54cb1df23a569ade3ca7785d2efc5e8f06de0549",
+      "short": "54cb1df",
+      "message": "docs(codegen): audit the language against ECMA-262, and plan the rest",
+      "author": "Daniel",
+      "date": "2026-08-03T07:32:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54cb1df23a569ade3ca7785d2efc5e8f06de0549"
+    },
+    {
+      "sha": "7c081e1d9926a88a1830c3ae618890f28f699cfb",
+      "short": "7c081e1",
+      "message": "feat(codegen): rts-codegen — the language layer, and the tree it reads",
+      "author": "Daniel",
+      "date": "2026-08-03T07:11:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7c081e1d9926a88a1830c3ae618890f28f699cfb"
     }
   ]
 }
