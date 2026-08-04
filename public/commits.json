@@ -1,6 +1,38 @@
 {
-  "total": 4473,
+  "total": 4477,
   "commits": [
+    {
+      "sha": "353b3896330132599c9c481a23de4160826aca9c",
+      "short": "353b389",
+      "message": "feat(engine): the operators the runtime did not define",
+      "author": "Daniel",
+      "date": "2026-08-04T19:16:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/353b3896330132599c9c481a23de4160826aca9c"
+    },
+    {
+      "sha": "d11cff5e398c18f2c126f168ea59b40a9b4b5b7c",
+      "short": "d11cff5",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-04T19:15:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d11cff5e398c18f2c126f168ea59b40a9b4b5b7c"
+    },
+    {
+      "sha": "873b0fbefb965fefa35dbfae533c7d6b5e3000a8",
+      "short": "873b0fb",
+      "message": "fix(engine): check the entry-point set the compiler restates",
+      "author": "Daniel",
+      "date": "2026-08-04T18:24:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/873b0fbefb965fefa35dbfae533c7d6b5e3000a8"
+    },
+    {
+      "sha": "a4861da3b32ca7382bb7bce68e177262b13a6f5e",
+      "short": "a4861da",
+      "message": "feat(engine): strings a program wrote down, and typeof",
+      "author": "Daniel",
+      "date": "2026-08-04T18:04:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4861da3b32ca7382bb7bce68e177262b13a6f5e"
+    },
     {
       "sha": "090313c998a294b73ca0f4b29a89701384e980f4",
       "short": "090313c",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-04T07:41:21Z",
       "url": "https://github.com/UrubuCode/rts/commit/0cf999fbcadf9510329dd1728c8d79f88c68ddd8"
-    },
-    {
-      "sha": "ce0e933eb8a0e5045a648a3239e9a0de339c9397",
-      "short": "ce0e933",
-      "message": "feat(core): objects live in the region, and a reference is one kind of thing",
-      "author": "Daniel",
-      "date": "2026-08-04T07:34:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce0e933eb8a0e5045a648a3239e9a0de339c9397"
-    },
-    {
-      "sha": "b74f66e17599b74120ef909044f409e1bf56add8",
-      "short": "b74f66e",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-04T07:29:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b74f66e17599b74120ef909044f409e1bf56add8"
-    },
-    {
-      "sha": "8d4f03eaa7a16e9a8c03a069e7eb86986385bf1c",
-      "short": "8d4f03e",
-      "message": "feat(core): the heap compiled code addresses with arithmetic",
-      "author": "Daniel",
-      "date": "2026-08-04T07:28:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d4f03eaa7a16e9a8c03a069e7eb86986385bf1c"
-    },
-    {
-      "sha": "eece11289a1cf33f187eb1054b4df9415ea998d1",
-      "short": "eece112",
-      "message": "docs: an object is a struct, and the machine already says so — E4 did not use it",
-      "author": "Daniel",
-      "date": "2026-08-04T07:20:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eece11289a1cf33f187eb1054b4df9415ea998d1"
     }
   ]
 }
