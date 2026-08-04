@@ -1,6 +1,150 @@
 {
-  "total": 4409,
+  "total": 4427,
   "commits": [
+    {
+      "sha": "69dffd3aaea9e7fb65cb7b43fa4dc907d2fa61c6",
+      "short": "69dffd3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-03T22:08:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69dffd3aaea9e7fb65cb7b43fa4dc907d2fa61c6"
+    },
+    {
+      "sha": "a07d7a0c09a4c12c36ac94828aad6db649880d36",
+      "short": "a07d7a0",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-03T22:00:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a07d7a0c09a4c12c36ac94828aad6db649880d36"
+    },
+    {
+      "sha": "4773e1dfb6d896a8eb61b7479dcd047bd2c05ff2",
+      "short": "4773e1d",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-03T21:38:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4773e1dfb6d896a8eb61b7479dcd047bd2c05ff2"
+    },
+    {
+      "sha": "b139f182b583c08d663cab7380340a85d5a11be4",
+      "short": "b139f18",
+      "message": "feat(core): C6 — what a promise settled with, and the six phases are in",
+      "author": "Daniel",
+      "date": "2026-08-03T20:18:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b139f182b583c08d663cab7380340a85d5a11be4"
+    },
+    {
+      "sha": "c2a4c7b0a42f75705c28a50f9dde069d32346ed8",
+      "short": "c2a4c7b",
+      "message": "feat(core): C5 — mark and sweep, with the roots arriving rather than derived",
+      "author": "Daniel",
+      "date": "2026-08-03T19:43:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2a4c7b0a42f75705c28a50f9dde069d32346ed8"
+    },
+    {
+      "sha": "24ff737e9cd874505456ee41ea518678fb1c688f",
+      "short": "24ff737",
+      "message": "fix(core): delete coerce::names — a file for something that had an owner",
+      "author": "Daniel",
+      "date": "2026-08-03T19:40:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24ff737e9cd874505456ee41ea518678fb1c688f"
+    },
+    {
+      "sha": "98a76d38d27014182141dcbb244955944dfb399e",
+      "short": "98a76d3",
+      "message": "fix(core): one place spells the states that are not digits, and a vacuous test",
+      "author": "Daniel",
+      "date": "2026-08-03T19:29:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98a76d38d27014182141dcbb244955944dfb399e"
+    },
+    {
+      "sha": "ca50a65a7737a20bed6a7584ac068019edec762e",
+      "short": "ca50a65",
+      "message": "feat(core): C4 — coercion, where the order is the trap twice",
+      "author": "Daniel",
+      "date": "2026-08-03T19:24:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca50a65a7737a20bed6a7584ac068019edec762e"
+    },
+    {
+      "sha": "6b14ea6e90d5792beafe91460381083aae7962eb",
+      "short": "6b14ea6",
+      "message": "feat(core): C3 — objects, and a class turns out to need nothing new",
+      "author": "Daniel",
+      "date": "2026-08-03T19:19:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b14ea6e90d5792beafe91460381083aae7962eb"
+    },
+    {
+      "sha": "378b1778cca6d48f67b95265a53fc7a496cdcdb9",
+      "short": "378b177",
+      "message": "refactor: audit rts-codegen the same way, and close a second key space",
+      "author": "Daniel",
+      "date": "2026-08-03T19:13:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/378b1778cca6d48f67b95265a53fc7a496cdcdb9"
+    },
+    {
+      "sha": "ef4bcf48d1e199144f158def406d07ce70e46902",
+      "short": "ef4bcf4",
+      "message": "fix(core): stop re-deriving the encoding, and delete a second shape tree",
+      "author": "Daniel",
+      "date": "2026-08-03T19:08:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef4bcf48d1e199144f158def406d07ce70e46902"
+    },
+    {
+      "sha": "dea2ed4b9ea89eaa7204821338b90c5b3a7c70f5",
+      "short": "dea2ed4",
+      "message": "feat(core): C2 — text, and the representation that decides what a string is",
+      "author": "Daniel",
+      "date": "2026-08-03T18:58:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dea2ed4b9ea89eaa7204821338b90c5b3a7c70f5"
+    },
+    {
+      "sha": "56ad929a81bb04f2f1753a67dd684415706e4bae",
+      "short": "56ad929",
+      "message": "feat(core): C1 — a table of slots, and the two ways to read one",
+      "author": "Daniel",
+      "date": "2026-08-03T18:56:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56ad929a81bb04f2f1753a67dd684415706e4bae"
+    },
+    {
+      "sha": "ed58532295c152dba9e151b7d99281e76ec8064a",
+      "short": "ed58532",
+      "message": "feat(core): rts-core-rwk — what a value is, and the three ways to compare one",
+      "author": "Daniel",
+      "date": "2026-08-03T18:48:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed58532295c152dba9e151b7d99281e76ec8064a"
+    },
+    {
+      "sha": "4c827ca907f97affbc243d3084b326733d06efe8",
+      "short": "4c827ca",
+      "message": "docs: a crate boundary answers \"does this exist here\", not \"may I mention this\"",
+      "author": "Daniel",
+      "date": "2026-08-03T18:40:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c827ca907f97affbc243d3084b326733d06efe8"
+    },
+    {
+      "sha": "55494223593a4bea91ddf9faeaef7c81d62faf93",
+      "short": "5549422",
+      "message": "docs: four places and a rule for each, instead of a pile and none",
+      "author": "Daniel",
+      "date": "2026-08-03T17:00:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/55494223593a4bea91ddf9faeaef7c81d62faf93"
+    },
+    {
+      "sha": "8a07cf23443b1a76631949de58b875d103284110",
+      "short": "8a07cf2",
+      "message": "feat(baker): a second rendering — entry points reached by index, not by name",
+      "author": "Daniel",
+      "date": "2026-08-03T16:51:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8a07cf23443b1a76631949de58b875d103284110"
+    },
+    {
+      "sha": "3bf0ef90eef4138b43ba9cff5c4ac4f325b9b088",
+      "short": "3bf0ef9",
+      "message": "fix(codegen): the 92.3% was measured on a corpus missing 503 files",
+      "author": "Daniel",
+      "date": "2026-08-03T15:34:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3bf0ef90eef4138b43ba9cff5c4ac4f325b9b088"
+    },
     {
       "sha": "9480055ca06c65c5a917d9941b6ea6a2b00671ba",
       "short": "9480055",
@@ -16,150 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-03T08:54:53Z",
       "url": "https://github.com/UrubuCode/rts/commit/c26e7495932087265652424700eb543742daf2ce"
-    },
-    {
-      "sha": "fbd06ada81239d1ee3cdb5defe6500b8d7c70aa6",
-      "short": "fbd06ad",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-03T08:52:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fbd06ada81239d1ee3cdb5defe6500b8d7c70aa6"
-    },
-    {
-      "sha": "d1295952ccff2a4cccd40746115c84e1fbb86a8a",
-      "short": "d129595",
-      "message": "feat(codegen): L9 — measured against test262, and what the number found",
-      "author": "Daniel",
-      "date": "2026-08-03T08:49:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1295952ccff2a4cccd40746115c84e1fbb86a8a"
-    },
-    {
-      "sha": "df7f3a08cdcf8147e2371b7c75e2d24e56a829ba",
-      "short": "df7f3a0",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-03T08:45:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/df7f3a08cdcf8147e2371b7c75e2d24e56a829ba"
-    },
-    {
-      "sha": "b7e47150abaf119d7d6f0b42f8c983bcd94f66f0",
-      "short": "b7e4715",
-      "message": "feat(codegen): L8.5 — source text in, tree out",
-      "author": "Daniel",
-      "date": "2026-08-03T08:37:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7e47150abaf119d7d6f0b42f8c983bcd94f66f0"
-    },
-    {
-      "sha": "e78eb55ac6eda4954c6bb25a287047e043e65b8d",
-      "short": "e78eb55",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-03T08:28:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e78eb55ac6eda4954c6bb25a287047e043e65b8d"
-    },
-    {
-      "sha": "4563ee3e9380ccf8ea05e1ee4cdc9152a90b956c",
-      "short": "4563ee3",
-      "message": "docs(codegen): name the step the plan was missing, and refuse to fake L9",
-      "author": "Daniel",
-      "date": "2026-08-03T08:27:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4563ee3e9380ccf8ea05e1ee4cdc9152a90b956c"
-    },
-    {
-      "sha": "239a3898b40d9a199e2b5389eee2296cbd751e88",
-      "short": "239a389",
-      "message": "feat(codegen): L7 and L8 — suspension, and the corners nobody likes",
-      "author": "Daniel",
-      "date": "2026-08-03T08:25:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/239a3898b40d9a199e2b5389eee2296cbd751e88"
-    },
-    {
-      "sha": "4894e07d77adb99a288b2c4ea56525d534fa7fca",
-      "short": "4894e07",
-      "message": "feat(codegen): L6 — modules, and the goal that is not a flag",
-      "author": "Daniel",
-      "date": "2026-08-03T08:22:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4894e07d77adb99a288b2c4ea56525d534fa7fca"
-    },
-    {
-      "sha": "6ca90013b353ffa5d10c4ed5171811c35ddf84b7",
-      "short": "6ca9001",
-      "message": "feat(codegen): L5 — classes, and the order that is their semantics",
-      "author": "Daniel",
-      "date": "2026-08-03T08:20:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ca90013b353ffa5d10c4ed5171811c35ddf84b7"
-    },
-    {
-      "sha": "67aaa19eff2f331aa2de28a528c5669464093125",
-      "short": "67aaa19",
-      "message": "feat(codegen): L4 — objects, templates, spread, and the chain boundary",
-      "author": "Daniel",
-      "date": "2026-08-03T08:16:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67aaa19eff2f331aa2de28a528c5669464093125"
-    },
-    {
-      "sha": "c2aa6a982a2e3a7e529349d5a8345c2f19ca038b",
-      "short": "c2aa6a9",
-      "message": "feat(codegen): L3 — the loops, switch, and labels",
-      "author": "Daniel",
-      "date": "2026-08-03T08:13:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2aa6a982a2e3a7e529349d5a8345c2f19ca038b"
-    },
-    {
-      "sha": "73cf993ca4b951ddfe82accc47654ff2d2c82d9f",
-      "short": "73cf993",
-      "message": "feat(codegen): L2 — destructuring, in both of the roles it has",
-      "author": "Daniel",
-      "date": "2026-08-03T08:10:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/73cf993ca4b951ddfe82accc47654ff2d2c82d9f"
-    },
-    {
-      "sha": "8b3ce2374ae940effb752fff0a78d91c57866a98",
-      "short": "8b3ce23",
-      "message": "feat(codegen): L1 — every operator the language has",
-      "author": "Daniel",
-      "date": "2026-08-03T08:05:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b3ce2374ae940effb752fff0a78d91c57866a98"
-    },
-    {
-      "sha": "f35be1635172a7a17f3c3c7cfcac6ef7628b8b7b",
-      "short": "f35be16",
-      "message": "docs: audit what the runtime links, before it is expensive to find out",
-      "author": "Daniel",
-      "date": "2026-08-03T07:56:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f35be1635172a7a17f3c3c7cfcac6ef7628b8b7b"
-    },
-    {
-      "sha": "be14e41bc4e688f226cc33c2caeaccf80a846959",
-      "short": "be14e41",
-      "message": "chore: declare MIT in package metadata, not only in a file",
-      "author": "Daniel",
-      "date": "2026-08-03T07:48:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be14e41bc4e688f226cc33c2caeaccf80a846959"
-    },
-    {
-      "sha": "ccd00c9e37ba1ee71cc3f45d0470203669d635b4",
-      "short": "ccd00c9",
-      "message": "docs: attribute ECMA-262, on the terms it actually asks for",
-      "author": "Daniel",
-      "date": "2026-08-03T07:39:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccd00c9e37ba1ee71cc3f45d0470203669d635b4"
-    },
-    {
-      "sha": "54cb1df23a569ade3ca7785d2efc5e8f06de0549",
-      "short": "54cb1df",
-      "message": "docs(codegen): audit the language against ECMA-262, and plan the rest",
-      "author": "Daniel",
-      "date": "2026-08-03T07:32:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54cb1df23a569ade3ca7785d2efc5e8f06de0549"
-    },
-    {
-      "sha": "7c081e1d9926a88a1830c3ae618890f28f699cfb",
-      "short": "7c081e1",
-      "message": "feat(codegen): rts-codegen — the language layer, and the tree it reads",
-      "author": "Daniel",
-      "date": "2026-08-03T07:11:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7c081e1d9926a88a1830c3ae618890f28f699cfb"
     }
   ]
 }
