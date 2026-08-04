@@ -1,6 +1,86 @@
 {
-  "total": 4458,
+  "total": 4473,
   "commits": [
+    {
+      "sha": "090313c998a294b73ca0f4b29a89701384e980f4",
+      "short": "090313c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-04T09:39:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/090313c998a294b73ca0f4b29a89701384e980f4"
+    },
+    {
+      "sha": "50928ad0d911e8bade08e41298d6139fe0abe742",
+      "short": "50928ad",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-04T09:22:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50928ad0d911e8bade08e41298d6139fe0abe742"
+    },
+    {
+      "sha": "5e079f6b5e2f04ba1c53fb5432977c5ef36051c0",
+      "short": "5e079f6",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-04T09:15:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5e079f6b5e2f04ba1c53fb5432977c5ef36051c0"
+    },
+    {
+      "sha": "bb775f87f0dabb26d13c5f66d5bf0c6c6ed58a73",
+      "short": "bb775f8",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-04T09:13:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb775f87f0dabb26d13c5f66d5bf0c6c6ed58a73"
+    },
+    {
+      "sha": "8ef56f5b00da0f5082b31de6596178cbd5cae674",
+      "short": "8ef56f5",
+      "message": "feat(codegen): functions, calls and closures",
+      "author": "Daniel",
+      "date": "2026-08-04T09:12:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8ef56f5b00da0f5082b31de6596178cbd5cae674"
+    },
+    {
+      "sha": "a5b68ec86dd7a6f313dd0b65aca1462452630983",
+      "short": "a5b68ec",
+      "message": "feat(engine): a function's address, and a callable the runtime can jump to",
+      "author": "Daniel",
+      "date": "2026-08-04T08:59:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5b68ec86dd7a6f313dd0b65aca1462452630983"
+    },
+    {
+      "sha": "fc9e347a7aaa3bdcedfeac01287b167162279feb",
+      "short": "fc9e347",
+      "message": "feat(codegen): the operators a program is actually written with",
+      "author": "Daniel",
+      "date": "2026-08-04T08:59:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc9e347a7aaa3bdcedfeac01287b167162279feb"
+    },
+    {
+      "sha": "3786ccc6ab120565d096313f159f4f760b29dc83",
+      "short": "3786ccc",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-04T08:21:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3786ccc6ab120565d096313f159f4f760b29dc83"
+    },
+    {
+      "sha": "cdb6752c4e735e842f7c32409492bc0a091945f8",
+      "short": "cdb6752",
+      "message": "docs: CLAUDE.md and the plans, with the state a session left them in",
+      "author": "Daniel",
+      "date": "2026-08-04T08:01:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cdb6752c4e735e842f7c32409492bc0a091945f8"
+    },
+    {
+      "sha": "6b8fbb97f8ab79546c050c5a1529ce1ad71546c5",
+      "short": "6b8fbb9",
+      "message": "feat(cranelift): cached_set — a property write is 71.8 ns to 5.4",
+      "author": "Daniel",
+      "date": "2026-08-04T07:59:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b8fbb97f8ab79546c050c5a1529ce1ad71546c5"
+    },
     {
       "sha": "eaea5909e8ae65b0747f5d237e1e9126d5c82ff4",
       "short": "eaea590",
@@ -10,12 +90,52 @@
       "url": "https://github.com/UrubuCode/rts/commit/eaea5909e8ae65b0747f5d237e1e9126d5c82ff4"
     },
     {
+      "sha": "0b01a92dc5b4e7680249bfe44e39c984df06ae8c",
+      "short": "0b01a92",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-04T07:52:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b01a92dc5b4e7680249bfe44e39c984df06ae8c"
+    },
+    {
+      "sha": "ace40797b9574712bda3834079365ddbc15f98d2",
+      "short": "ace4079",
+      "message": "perf(codegen): guard what nothing proved — 27.9 ns to 3.1",
+      "author": "Daniel",
+      "date": "2026-08-04T07:50:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ace40797b9574712bda3834079365ddbc15f98d2"
+    },
+    {
       "sha": "85162874dec481023d922e6043cf124de92aeb66",
       "short": "8516287",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
       "date": "2026-08-04T07:46:34Z",
       "url": "https://github.com/UrubuCode/rts/commit/85162874dec481023d922e6043cf124de92aeb66"
+    },
+    {
+      "sha": "bb55d562080195cbb048ad2d660ccd8c198de0a8",
+      "short": "bb55d56",
+      "message": "perf: the cache was not missing — the benchmark was measuring the wrong thing",
+      "author": "Daniel",
+      "date": "2026-08-04T07:45:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bb55d562080195cbb048ad2d660ccd8c198de0a8"
+    },
+    {
+      "sha": "0cf999fbcadf9510329dd1728c8d79f88c68ddd8",
+      "short": "0cf999f",
+      "message": "perf(codegen): cached_get gets its first caller — 90.2 ns to 27.2",
+      "author": "Daniel",
+      "date": "2026-08-04T07:41:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0cf999fbcadf9510329dd1728c8d79f88c68ddd8"
+    },
+    {
+      "sha": "ce0e933eb8a0e5045a648a3239e9a0de339c9397",
+      "short": "ce0e933",
+      "message": "feat(core): objects live in the region, and a reference is one kind of thing",
+      "author": "Daniel",
+      "date": "2026-08-04T07:34:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce0e933eb8a0e5045a648a3239e9a0de339c9397"
     },
     {
       "sha": "b74f66e17599b74120ef909044f409e1bf56add8",
@@ -40,126 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-04T07:20:51Z",
       "url": "https://github.com/UrubuCode/rts/commit/eece11289a1cf33f187eb1054b4df9415ea998d1"
-    },
-    {
-      "sha": "9c41ff928ef6012859f8a006b8945fdd8d83b484",
-      "short": "9c41ff9",
-      "message": "perf(core): a property read allocated on every access",
-      "author": "Daniel",
-      "date": "2026-08-04T07:17:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c41ff928ef6012859f8a006b8945fdd8d83b484"
-    },
-    {
-      "sha": "d5ca78f3b22b4c9c0ab7edfcc0b3f6647f70a849",
-      "short": "d5ca78f",
-      "message": "feat: E4 — objects, property access, and the second agreement",
-      "author": "Daniel",
-      "date": "2026-08-04T07:09:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5ca78f3b22b4c9c0ab7edfcc0b3f6647f70a849"
-    },
-    {
-      "sha": "760607628dd06b8d64d408d8f41b8bcaf78830e0",
-      "short": "7606076",
-      "message": "perf(codegen): the type pass — 94 ns per pass becomes 0.91",
-      "author": "Daniel",
-      "date": "2026-08-04T06:59:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/760607628dd06b8d64d408d8f41b8bcaf78830e0"
-    },
-    {
-      "sha": "e1cbb356e5924d28482254ee4ac2af39ad71084d",
-      "short": "e1cbb35",
-      "message": "docs: rule out rayon as the reason the old engine is fast",
-      "author": "Daniel",
-      "date": "2026-08-04T06:46:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1cbb356e5924d28482254ee4ac2af39ad71084d"
-    },
-    {
-      "sha": "72ae384f4d35dfbd5946663487db566c3a5c9b8c",
-      "short": "72ae384",
-      "message": "perf: the new engine measured against the old one — 130x slower, and why",
-      "author": "Daniel",
-      "date": "2026-08-04T06:42:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/72ae384f4d35dfbd5946663487db566c3a5c9b8c"
-    },
-    {
-      "sha": "95d2d3cbedde85f07bbc7408916c025324b09cd8",
-      "short": "95d2d3c",
-      "message": "feat(core): the missing operators, and a bug in relational comparison",
-      "author": "Daniel",
-      "date": "2026-08-04T06:27:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/95d2d3cbedde85f07bbc7408916c025324b09cd8"
-    },
-    {
-      "sha": "78f232790251571a2604126d57d56b7a83084932",
-      "short": "78f2327",
-      "message": "feat(host): a program runs, and three defects that only running could find",
-      "author": "Daniel",
-      "date": "2026-08-04T06:20:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78f232790251571a2604126d57d56b7a83084932"
-    },
-    {
-      "sha": "f3c5867a9fea701e29b522796c376979bac9eb3e",
-      "short": "f3c5867",
-      "message": "fix(codegen): an operator is a call, because a generic operation cannot be compiled",
-      "author": "Daniel",
-      "date": "2026-08-04T06:10:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3c5867a9fea701e29b522796c376979bac9eb3e"
-    },
-    {
-      "sha": "ecfd7ed024d8f0e90f9a1c3721876146f99ab83b",
-      "short": "ecfd7ed",
-      "message": "refactor: redundancy audit of the new engine, and what it found",
-      "author": "Daniel",
-      "date": "2026-08-04T06:06:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ecfd7ed024d8f0e90f9a1c3721876146f99ab83b"
-    },
-    {
-      "sha": "648e740a8c757680838040ce834b54744d1000c5",
-      "short": "648e740",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-04T05:26:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/648e740a8c757680838040ce834b54744d1000c5"
-    },
-    {
-      "sha": "82e995b133e6256b01e5673a9cfdd0e8dbb64352",
-      "short": "82e995b",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-04T05:18:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/82e995b133e6256b01e5673a9cfdd0e8dbb64352"
-    },
-    {
-      "sha": "45e554f6784a5088f0e328bcd33b2bc776467416",
-      "short": "45e554f",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-04T05:02:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45e554f6784a5088f0e328bcd33b2bc776467416"
-    },
-    {
-      "sha": "756eb2c4a4fb79ea874a0040aa75dde962909a43",
-      "short": "756eb2c",
-      "message": "feat(codegen): E3 — loops, and the join whose predecessor does not exist yet",
-      "author": "Daniel",
-      "date": "2026-08-04T03:24:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/756eb2c4a4fb79ea874a0040aa75dde962909a43"
-    },
-    {
-      "sha": "1043ee205dd70178dbebf8a5de34f4259475affb",
-      "short": "1043ee2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-04T03:18:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1043ee205dd70178dbebf8a5de34f4259475affb"
-    },
-    {
-      "sha": "bd27b771d836ccc8aedaf4b5183b7989b702f37e",
-      "short": "bd27b77",
-      "message": "feat(codegen): E2 — calls, and the first control flow",
-      "author": "Daniel",
-      "date": "2026-08-04T03:18:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bd27b771d836ccc8aedaf4b5183b7989b702f37e"
     }
   ]
 }
