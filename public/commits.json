@@ -1,165 +1,165 @@
 {
-  "total": 4477,
+  "total": 4500,
   "commits": [
     {
-      "sha": "353b3896330132599c9c481a23de4160826aca9c",
-      "short": "353b389",
-      "message": "feat(engine): the operators the runtime did not define",
-      "author": "Daniel",
-      "date": "2026-08-04T19:16:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/353b3896330132599c9c481a23de4160826aca9c"
-    },
-    {
-      "sha": "d11cff5e398c18f2c126f168ea59b40a9b4b5b7c",
-      "short": "d11cff5",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-04T19:15:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d11cff5e398c18f2c126f168ea59b40a9b4b5b7c"
-    },
-    {
-      "sha": "873b0fbefb965fefa35dbfae533c7d6b5e3000a8",
-      "short": "873b0fb",
-      "message": "fix(engine): check the entry-point set the compiler restates",
-      "author": "Daniel",
-      "date": "2026-08-04T18:24:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/873b0fbefb965fefa35dbfae533c7d6b5e3000a8"
-    },
-    {
-      "sha": "a4861da3b32ca7382bb7bce68e177262b13a6f5e",
-      "short": "a4861da",
-      "message": "feat(engine): strings a program wrote down, and typeof",
-      "author": "Daniel",
-      "date": "2026-08-04T18:04:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4861da3b32ca7382bb7bce68e177262b13a6f5e"
-    },
-    {
-      "sha": "090313c998a294b73ca0f4b29a89701384e980f4",
-      "short": "090313c",
+      "sha": "6be1398a6bec6914da4d2303f052dc11b14bc17a",
+      "short": "6be1398",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-04T09:39:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/090313c998a294b73ca0f4b29a89701384e980f4"
+      "date": "2026-08-05T00:41:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6be1398a6bec6914da4d2303f052dc11b14bc17a"
     },
     {
-      "sha": "50928ad0d911e8bade08e41298d6139fe0abe742",
-      "short": "50928ad",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-04T09:22:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50928ad0d911e8bade08e41298d6139fe0abe742"
-    },
-    {
-      "sha": "5e079f6b5e2f04ba1c53fb5432977c5ef36051c0",
-      "short": "5e079f6",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-04T09:15:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e079f6b5e2f04ba1c53fb5432977c5ef36051c0"
-    },
-    {
-      "sha": "bb775f87f0dabb26d13c5f66d5bf0c6c6ed58a73",
-      "short": "bb775f8",
+      "sha": "25d029345fc53f9ea88985c46c01e3fd4c904838",
+      "short": "25d0293",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-04T09:13:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb775f87f0dabb26d13c5f66d5bf0c6c6ed58a73"
+      "date": "2026-08-05T00:33:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/25d029345fc53f9ea88985c46c01e3fd4c904838"
     },
     {
-      "sha": "8ef56f5b00da0f5082b31de6596178cbd5cae674",
-      "short": "8ef56f5",
-      "message": "feat(codegen): functions, calls and closures",
-      "author": "Daniel",
-      "date": "2026-08-04T09:12:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8ef56f5b00da0f5082b31de6596178cbd5cae674"
-    },
-    {
-      "sha": "a5b68ec86dd7a6f313dd0b65aca1462452630983",
-      "short": "a5b68ec",
-      "message": "feat(engine): a function's address, and a callable the runtime can jump to",
-      "author": "Daniel",
-      "date": "2026-08-04T08:59:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5b68ec86dd7a6f313dd0b65aca1462452630983"
-    },
-    {
-      "sha": "fc9e347a7aaa3bdcedfeac01287b167162279feb",
-      "short": "fc9e347",
-      "message": "feat(codegen): the operators a program is actually written with",
-      "author": "Daniel",
-      "date": "2026-08-04T08:59:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc9e347a7aaa3bdcedfeac01287b167162279feb"
-    },
-    {
-      "sha": "3786ccc6ab120565d096313f159f4f760b29dc83",
-      "short": "3786ccc",
+      "sha": "2f41dbe49dd5b35aeba42d1e2fb0b70e855a0a4b",
+      "short": "2f41dbe",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-04T08:21:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3786ccc6ab120565d096313f159f4f760b29dc83"
+      "date": "2026-08-05T00:18:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f41dbe49dd5b35aeba42d1e2fb0b70e855a0a4b"
     },
     {
-      "sha": "cdb6752c4e735e842f7c32409492bc0a091945f8",
-      "short": "cdb6752",
-      "message": "docs: CLAUDE.md and the plans, with the state a session left them in",
+      "sha": "17820ecbd1bc5736fec2246e5ecf96f88738c4e2",
+      "short": "17820ec",
+      "message": "fix(engine): a function could not hold a property",
       "author": "Daniel",
-      "date": "2026-08-04T08:01:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cdb6752c4e735e842f7c32409492bc0a091945f8"
+      "date": "2026-08-05T00:10:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/17820ecbd1bc5736fec2246e5ecf96f88738c4e2"
     },
     {
-      "sha": "6b8fbb97f8ab79546c050c5a1529ce1ad71546c5",
-      "short": "6b8fbb9",
-      "message": "feat(cranelift): cached_set — a property write is 71.8 ns to 5.4",
+      "sha": "383d801cbf0512ad6d9c28cfde3fcd67429a4cf1",
+      "short": "383d801",
+      "message": "feat(codegen): `++` and `--` on a computed element",
       "author": "Daniel",
-      "date": "2026-08-04T07:59:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b8fbb97f8ab79546c050c5a1529ce1ad71546c5"
+      "date": "2026-08-05T00:04:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/383d801cbf0512ad6d9c28cfde3fcd67429a4cf1"
     },
     {
-      "sha": "eaea5909e8ae65b0747f5d237e1e9126d5c82ff4",
-      "short": "eaea590",
+      "sha": "d1a4a2f6f1310d429ed54845259b84745b6e264a",
+      "short": "d1a4a2f",
+      "message": "feat(engine): a string has a length, and can be indexed",
+      "author": "Daniel",
+      "date": "2026-08-04T23:48:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d1a4a2f6f1310d429ed54845259b84745b6e264a"
+    },
+    {
+      "sha": "fb4651cdb2332f2d941a0246700821a842bab8d0",
+      "short": "fb4651c",
+      "message": "fix(engine): the eighth property of an object was silently lost",
+      "author": "Daniel",
+      "date": "2026-08-04T23:26:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fb4651cdb2332f2d941a0246700821a842bab8d0"
+    },
+    {
+      "sha": "e1cad02a876bdbd38e8741a71ecafae7d908ad70",
+      "short": "e1cad02",
+      "message": "fix(engine): three array bugs, all found by probing rather than reading",
+      "author": "Daniel",
+      "date": "2026-08-04T23:20:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1cad02a876bdbd38e8741a71ecafae7d908ad70"
+    },
+    {
+      "sha": "f3ad048de3ac8ed5e4105bda9c8ab0751d442067",
+      "short": "f3ad048",
+      "message": "fix(codegen): a captured name assigned in a loop crashed the compiler",
+      "author": "Daniel",
+      "date": "2026-08-04T23:15:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3ad048de3ac8ed5e4105bda9c8ab0751d442067"
+    },
+    {
+      "sha": "6336d94509d402cfcc12453c2785a28b99ea813a",
+      "short": "6336d94",
+      "message": "docs(codegen): the seven phases the plan had stopped recording",
+      "author": "Daniel",
+      "date": "2026-08-04T23:02:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6336d94509d402cfcc12453c2785a28b99ea813a"
+    },
+    {
+      "sha": "68788d75602d1c16f117a84a6263a81ca7d2dc58",
+      "short": "68788d7",
+      "message": "feat(engine): for-in, and the fourth analysis that had never seen a statement",
+      "author": "Daniel",
+      "date": "2026-08-04T22:49:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68788d75602d1c16f117a84a6263a81ca7d2dc58"
+    },
+    {
+      "sha": "6554cd00a5a115626eb4ecc283b4b266ffd1cf5b",
+      "short": "6554cd0",
+      "message": "feat(codegen): methods and computed keys in an object literal",
+      "author": "Daniel",
+      "date": "2026-08-04T21:51:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6554cd00a5a115626eb4ecc283b4b266ffd1cf5b"
+    },
+    {
+      "sha": "996c5914e34e7735a04ab9e1a75ae0ae1c7d9f52",
+      "short": "996c591",
+      "message": "feat(engine): delete, and a claim of mine that was false",
+      "author": "Daniel",
+      "date": "2026-08-04T21:48:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/996c5914e34e7735a04ab9e1a75ae0ae1c7d9f52"
+    },
+    {
+      "sha": "ed424c962d1f6abd4420e6205f70e44131a4a9a6",
+      "short": "ed424c9",
+      "message": "feat(codegen): undefined, NaN and Infinity",
+      "author": "Daniel",
+      "date": "2026-08-04T21:44:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed424c962d1f6abd4420e6205f70e44131a4a9a6"
+    },
+    {
+      "sha": "58f6f8239ae0f48fdf77b6bfa1d37635c9835c88",
+      "short": "58f6f82",
+      "message": "feat(engine): arrays",
+      "author": "Daniel",
+      "date": "2026-08-04T21:14:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58f6f8239ae0f48fdf77b6bfa1d37635c9835c88"
+    },
+    {
+      "sha": "1f8f06c5da8f260fd701b4ff53f2798ac2fc5fe4",
+      "short": "1f8f06c",
+      "message": "feat(codegen): switch, and the two analyses that had never seen one",
+      "author": "Daniel",
+      "date": "2026-08-04T20:37:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f8f06c5da8f260fd701b4ff53f2798ac2fc5fe4"
+    },
+    {
+      "sha": "9f1671b402be993ca337eb71b5ee98e8c59cfcb3",
+      "short": "9f1671b",
+      "message": "feat(codegen): labels, and the jumps that name one",
+      "author": "Daniel",
+      "date": "2026-08-04T20:19:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9f1671b402be993ca337eb71b5ee98e8c59cfcb3"
+    },
+    {
+      "sha": "0825c52b5c8a31cb6a58447b0eb0b94d5a544558",
+      "short": "0825c52",
+      "message": "feat(engine): computed property access, `in`, and the key agreement they broke",
+      "author": "Daniel",
+      "date": "2026-08-04T20:06:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0825c52b5c8a31cb6a58447b0eb0b94d5a544558"
+    },
+    {
+      "sha": "d5bdcb6671b938103ad69bbae55f26ae6f46a00b",
+      "short": "d5bdcb6",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-04T07:55:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eaea5909e8ae65b0747f5d237e1e9126d5c82ff4"
+      "date": "2026-08-04T19:42:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5bdcb6671b938103ad69bbae55f26ae6f46a00b"
     },
     {
-      "sha": "0b01a92dc5b4e7680249bfe44e39c984df06ae8c",
-      "short": "0b01a92",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-04T07:52:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b01a92dc5b4e7680249bfe44e39c984df06ae8c"
-    },
-    {
-      "sha": "ace40797b9574712bda3834079365ddbc15f98d2",
-      "short": "ace4079",
-      "message": "perf(codegen): guard what nothing proved — 27.9 ns to 3.1",
-      "author": "Daniel",
-      "date": "2026-08-04T07:50:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ace40797b9574712bda3834079365ddbc15f98d2"
-    },
-    {
-      "sha": "85162874dec481023d922e6043cf124de92aeb66",
-      "short": "8516287",
+      "sha": "fd26e6e3caa679e87c4d091b07412d382face216",
+      "short": "fd26e6e",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-04T07:46:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85162874dec481023d922e6043cf124de92aeb66"
-    },
-    {
-      "sha": "bb55d562080195cbb048ad2d660ccd8c198de0a8",
-      "short": "bb55d56",
-      "message": "perf: the cache was not missing — the benchmark was measuring the wrong thing",
-      "author": "Daniel",
-      "date": "2026-08-04T07:45:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb55d562080195cbb048ad2d660ccd8c198de0a8"
-    },
-    {
-      "sha": "0cf999fbcadf9510329dd1728c8d79f88c68ddd8",
-      "short": "0cf999f",
-      "message": "perf(codegen): cached_get gets its first caller — 90.2 ns to 27.2",
-      "author": "Daniel",
-      "date": "2026-08-04T07:41:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0cf999fbcadf9510329dd1728c8d79f88c68ddd8"
+      "date": "2026-08-04T19:34:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd26e6e3caa679e87c4d091b07412d382face216"
     }
   ]
 }
