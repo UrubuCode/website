@@ -1,6 +1,70 @@
 {
-  "total": 4534,
+  "total": 4543,
   "commits": [
+    {
+      "sha": "4a346247256e6c8b6aa8376bda85c67ed3fe992b",
+      "short": "4a34624",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-05T21:27:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a346247256e6c8b6aa8376bda85c67ed3fe992b"
+    },
+    {
+      "sha": "e9ad013b41a2bbaa56ab083140fcf2ea672004f7",
+      "short": "e9ad013",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-05T21:19:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e9ad013b41a2bbaa56ab083140fcf2ea672004f7"
+    },
+    {
+      "sha": "caee3cbac902e17bdbfadbcec3cb1fcc13f2a39d",
+      "short": "caee3cb",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-05T21:04:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/caee3cbac902e17bdbfadbcec3cb1fcc13f2a39d"
+    },
+    {
+      "sha": "238b30b86962c603be72a24b1200abdaae5825d6",
+      "short": "238b30b",
+      "message": "feat: the rest of the primordial surface, and a suite that found four bugs",
+      "author": "Daniel",
+      "date": "2026-08-05T20:49:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/238b30b86962c603be72a24b1200abdaae5825d6"
+    },
+    {
+      "sha": "d27df797fdcf1fb87b3d651d1ebcc1ba56400862",
+      "short": "d27df79",
+      "message": "feat: collections, bound functions, and methods on a primitive receiver",
+      "author": "Daniel",
+      "date": "2026-08-05T20:24:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d27df797fdcf1fb87b3d651d1ebcc1ba56400862"
+    },
+    {
+      "sha": "16281b434213a668c29f0c35455ea4e86fe81cad",
+      "short": "16281b4",
+      "message": "feat: symbols, the iteration protocol, and five more primordials",
+      "author": "Daniel",
+      "date": "2026-08-05T20:18:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/16281b434213a668c29f0c35455ea4e86fe81cad"
+    },
+    {
+      "sha": "e7aaceffca7334a816d6a29a706c49b38e2d463d",
+      "short": "e7aacef",
+      "message": "feat: a class is declared, and the wrapper it would be written as is derived",
+      "author": "Daniel",
+      "date": "2026-08-05T19:06:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7aaceffca7334a816d6a29a706c49b38e2d463d"
+    },
+    {
+      "sha": "d63f9862cbcac609fa420babb3bb31b26c78771f",
+      "short": "d63f986",
+      "message": "docs: the entries table was read by nobody, and two pointers went nowhere",
+      "author": "Daniel",
+      "date": "2026-08-05T08:10:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d63f9862cbcac609fa420babb3bb31b26c78771f"
+    },
     {
       "sha": "278ba89e08ffd2ac41fb7a7766fd3ad4566756dd",
       "short": "278ba89",
@@ -16,6 +80,14 @@
       "author": "github-actions[bot]",
       "date": "2026-08-05T07:18:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/57074a76856e5450c0b92eb57e87dd03210fc902"
+    },
+    {
+      "sha": "229dc33487a844087ef4a243adec39b4ad43cc73",
+      "short": "229dc33",
+      "message": "fix: a boolean returned across a foreign boundary is one byte",
+      "author": "Daniel",
+      "date": "2026-08-05T07:12:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/229dc33487a844087ef4a243adec39b4ad43cc73"
     },
     {
       "sha": "f4da7bf12e2d4a0b7a1c039eb2c07e280672937a",
@@ -88,78 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-05T05:17:32Z",
       "url": "https://github.com/UrubuCode/rts/commit/e4c7e6f0ae2ad3d925d549f69d83d3e5f4b9f8d0"
-    },
-    {
-      "sha": "9d453e2d27c75304dcb141f1a3864e2f8b5fb2f8",
-      "short": "9d453e2",
-      "message": "feat(codegen): a class, lowered into what a class already was",
-      "author": "Daniel",
-      "date": "2026-08-05T05:10:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9d453e2d27c75304dcb141f1a3864e2f8b5fb2f8"
-    },
-    {
-      "sha": "a04d06222439533b0e8081e477ba1ff3ecf05a82",
-      "short": "a04d062",
-      "message": "feat(core-rwk): a string inherits, so it has methods",
-      "author": "Daniel",
-      "date": "2026-08-05T05:01:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a04d06222439533b0e8081e477ba1ff3ecf05a82"
-    },
-    {
-      "sha": "07ac881ee617a038a3f39709f931d504643f54de",
-      "short": "07ac881",
-      "message": "feat(codegen): RegExp, as a name a program can read",
-      "author": "Daniel",
-      "date": "2026-08-05T04:38:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07ac881ee617a038a3f39709f931d504643f54de"
-    },
-    {
-      "sha": "4b9d1330813f5828462444668c5bf5d50a369a27",
-      "short": "4b9d133",
-      "message": "feat(codegen): a regular expression literal reaches a matching engine",
-      "author": "Daniel",
-      "date": "2026-08-05T04:31:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b9d1330813f5828462444668c5bf5d50a369a27"
-    },
-    {
-      "sha": "285db7b3a2dcebc5fc2b6bc5e6e5e15014137a6c",
-      "short": "285db7b",
-      "message": "docs(codegen): `using` waits on Symbol.dispose, not on the cleanup",
-      "author": "Daniel",
-      "date": "2026-08-05T03:00:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/285db7b3a2dcebc5fc2b6bc5e6e5e15014137a6c"
-    },
-    {
-      "sha": "6e915938c4ff9478ded67166a257882ba609f6ba",
-      "short": "6e91593",
-      "message": "feat(codegen): finally, on every path out",
-      "author": "Daniel",
-      "date": "2026-08-05T02:58:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6e915938c4ff9478ded67166a257882ba609f6ba"
-    },
-    {
-      "sha": "358234244dfb8d39b6e15ab08d409b727a504ad5",
-      "short": "3582342",
-      "message": "feat(cranelift): a cleanup is a piece, not a block",
-      "author": "Daniel",
-      "date": "2026-08-05T02:52:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/358234244dfb8d39b6e15ab08d409b727a504ad5"
-    },
-    {
-      "sha": "7c6b670d569658dc34a712cd322a94e871207b89",
-      "short": "7c6b670",
-      "message": "feat(codegen): `using` in a for-head reaches the tree",
-      "author": "Daniel",
-      "date": "2026-08-05T02:33:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7c6b670d569658dc34a712cd322a94e871207b89"
-    },
-    {
-      "sha": "11c7d6f5e54e471590f75590894c80400f3f7d48",
-      "short": "11c7d6f",
-      "message": "feat: throw and try/catch, on the regions the machine already had",
-      "author": "Daniel",
-      "date": "2026-08-05T02:23:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11c7d6f5e54e471590f75590894c80400f3f7d48"
     }
   ]
 }
