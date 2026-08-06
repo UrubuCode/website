@@ -1,6 +1,70 @@
 {
-  "total": 4543,
+  "total": 4551,
   "commits": [
+    {
+      "sha": "f9f06b5844e3e9761c06c8c8f8efec5d497db449",
+      "short": "f9f06b5",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-06T05:15:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9f06b5844e3e9761c06c8c8f8efec5d497db449"
+    },
+    {
+      "sha": "d85878522614d6725e64443f10e81d55c275e112",
+      "short": "d858785",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-06T05:06:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d85878522614d6725e64443f10e81d55c275e112"
+    },
+    {
+      "sha": "0862de94e1bac8f5d9dadf06d3900d0bd05aa496",
+      "short": "0862de9",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-06T04:51:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0862de94e1bac8f5d9dadf06d3900d0bd05aa496"
+    },
+    {
+      "sha": "e1759ce4bfd805695eba91ef90ea2c42018859fd",
+      "short": "e1759ce",
+      "message": "perf: three quadratics and two allocation storms removed; one of them mattered",
+      "author": "Daniel",
+      "date": "2026-08-06T04:49:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1759ce4bfd805695eba91ef90ea2c42018859fd"
+    },
+    {
+      "sha": "c6a37a8069415aa605abd0a2ff09de593f9bc614",
+      "short": "c6a37a8",
+      "message": "fix: a computed key reaches the same receiver a named one does, twice over",
+      "author": "Daniel",
+      "date": "2026-08-06T04:41:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c6a37a8069415aa605abd0a2ff09de593f9bc614"
+    },
+    {
+      "sha": "3f24e5cedea32b170cce3ebcb050b1a7c643a5ba",
+      "short": "3f24e5c",
+      "message": "fix: a write inside a constructor's arguments survives a loop",
+      "author": "Daniel",
+      "date": "2026-08-06T04:38:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f24e5cedea32b170cce3ebcb050b1a7c643a5ba"
+    },
+    {
+      "sha": "36be38d03bec54a5f74299c5e79858b6ef37875b",
+      "short": "36be38d",
+      "message": "feat: BigInt64Array and BigUint64Array, and a codec that speaks in words",
+      "author": "Daniel",
+      "date": "2026-08-06T03:49:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36be38d03bec54a5f74299c5e79858b6ef37875b"
+    },
+    {
+      "sha": "6a8fae2e16e86fbfce42603dcebf114ef313bdc4",
+      "short": "6a8fae2",
+      "message": "feat: a symbol and a bigint are primitives, on tags of their own",
+      "author": "Daniel",
+      "date": "2026-08-05T22:08:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a8fae2e16e86fbfce42603dcebf114ef313bdc4"
+    },
     {
       "sha": "4a346247256e6c8b6aa8376bda85c67ed3fe992b",
       "short": "4a34624",
@@ -96,70 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-05T06:52:15Z",
       "url": "https://github.com/UrubuCode/rts/commit/f4da7bf12e2d4a0b7a1c039eb2c07e280672937a"
-    },
-    {
-      "sha": "453819efbb834138565d19bf40ebb8be3fc4991d",
-      "short": "453819e",
-      "message": "feat(core-rwk): an array inherits, so it has methods",
-      "author": "Daniel",
-      "date": "2026-08-05T06:38:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/453819efbb834138565d19bf40ebb8be3fc4991d"
-    },
-    {
-      "sha": "322d295d2c70a9b1892444e37cfc0375434b0fc9",
-      "short": "322d295",
-      "message": "feat: `new` past the convention keeps its arguments too",
-      "author": "Daniel",
-      "date": "2026-08-05T06:29:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/322d295d2c70a9b1892444e37cfc0375434b0fc9"
-    },
-    {
-      "sha": "d84ac5b8bda14fd7743d0dcadf988c27066102f5",
-      "short": "d84ac5b",
-      "message": "feat: a call past the convention keeps its arguments, and ...rest reads them",
-      "author": "Daniel",
-      "date": "2026-08-05T06:23:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d84ac5b8bda14fd7743d0dcadf988c27066102f5"
-    },
-    {
-      "sha": "e5e2d20f0d3f07094fc0cad822abe7bd25785e37",
-      "short": "e5e2d20",
-      "message": "feat: the base of a chain allocates, so extending a built-in works",
-      "author": "Daniel",
-      "date": "2026-08-05T05:58:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5e2d20f0d3f07094fc0cad822abe7bd25785e37"
-    },
-    {
-      "sha": "81626772ae2aee606fc6ef8a060c1e23af452bb8",
-      "short": "8162677",
-      "message": "feat(core-rwk): Object, and the enumeration accessors had broken",
-      "author": "Daniel",
-      "date": "2026-08-05T05:48:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81626772ae2aee606fc6ef8a060c1e23af452bb8"
-    },
-    {
-      "sha": "67300fd22106f4206791e4e9e324127cf5615a12",
-      "short": "67300fd",
-      "message": "feat: accessor properties, kept out of the layout on purpose",
-      "author": "Daniel",
-      "date": "2026-08-05T05:41:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67300fd22106f4206791e4e9e324127cf5615a12"
-    },
-    {
-      "sha": "64c3e5cd01dc24d784c20099208a122babefc35e",
-      "short": "64c3e5c",
-      "message": "chore(core-rwk): drop an import the entry points stopped needing",
-      "author": "Daniel",
-      "date": "2026-08-05T05:17:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/64c3e5cd01dc24d784c20099208a122babefc35e"
-    },
-    {
-      "sha": "e4c7e6f0ae2ad3d925d549f69d83d3e5f4b9f8d0",
-      "short": "e4c7e6f",
-      "message": "feat(codegen): a global object, with the refusal kept",
-      "author": "Daniel",
-      "date": "2026-08-05T05:17:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e4c7e6f0ae2ad3d925d549f69d83d3e5f4b9f8d0"
     }
   ]
 }
