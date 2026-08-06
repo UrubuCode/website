@@ -1,165 +1,165 @@
 {
-  "total": 4571,
+  "total": 4598,
   "commits": [
     {
-      "sha": "bebe7977f3e45e997b34f4044d1800b9e5726771",
-      "short": "bebe797",
+      "sha": "3518d8ceb33707c30d5b9ad4181845db1c71d0fe",
+      "short": "3518d8c",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-06T09:13:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bebe7977f3e45e997b34f4044d1800b9e5726771"
+      "date": "2026-08-06T23:38:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3518d8ceb33707c30d5b9ad4181845db1c71d0fe"
     },
     {
-      "sha": "e9f78f007f412873630f2e096451fbbf545cc329",
-      "short": "e9f78f0",
+      "sha": "05a4458a2993250b0cd57fb172a986f83cc459c2",
+      "short": "05a4458",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-06T09:04:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e9f78f007f412873630f2e096451fbbf545cc329"
+      "date": "2026-08-06T23:18:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/05a4458a2993250b0cd57fb172a986f83cc459c2"
     },
     {
-      "sha": "96ef4aa93bf8baf03461be09a5846ecb6f25e723",
-      "short": "96ef4aa",
+      "sha": "f0aeff94cef575eacb56976116e3bb7a5061c4e5",
+      "short": "f0aeff9",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-06T08:37:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96ef4aa93bf8baf03461be09a5846ecb6f25e723"
+      "date": "2026-08-06T22:36:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f0aeff94cef575eacb56976116e3bb7a5061c4e5"
     },
     {
-      "sha": "9b6475353e0a19084e49abd1fc545927b342231c",
-      "short": "9b64753",
-      "message": "Add procedural skills and RULE 0b",
+      "sha": "55618ab47f53c7201d8894bc8f9920290acad13f",
+      "short": "55618ab",
+      "message": "feat: the fs classes on shared prototypes, node:buffer, and a real EventEmitter",
       "author": "Daniel",
-      "date": "2026-08-06T08:37:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b6475353e0a19084e49abd1fc545927b342231c"
+      "date": "2026-08-06T22:30:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/55618ab47f53c7201d8894bc8f9920290acad13f"
     },
     {
-      "sha": "a689a93ddc9378f2cdab85fbb90b904819c6785a",
-      "short": "a689a93",
-      "message": "perf: a replaced property is proved numeric like the local it became",
+      "sha": "bc9f32a1f5501dda1ca722af0b20e03024667cb3",
+      "short": "bc9f32a",
+      "message": "feat: fs reads and writes real bytes, and a no-encoding read answers them",
       "author": "Daniel",
-      "date": "2026-08-06T08:35:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a689a93ddc9378f2cdab85fbb90b904819c6785a"
+      "date": "2026-08-06T22:20:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc9f32a1f5501dda1ca722af0b20e03024667cb3"
     },
     {
-      "sha": "526a990395fa3118380f88af9c9100c8eebb05bc",
-      "short": "526a990",
-      "message": "perf: a property value may be any expression, and the dead zone is why it could not",
+      "sha": "c3ac31dcb6b26684b48cdb2c5086146276a1d030",
+      "short": "c3ac31d",
+      "message": "feat: a host can build a prototype, so its instances share one",
       "author": "Daniel",
-      "date": "2026-08-06T08:17:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/526a990395fa3118380f88af9c9100c8eebb05bc"
+      "date": "2026-08-06T22:18:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3ac31dcb6b26684b48cdb2c5086146276a1d030"
     },
     {
-      "sha": "e0669200f8217593a836b39ff2393b1e9b8f5f71",
-      "short": "e066920",
-      "message": "fix: a name mentioned only inside a template is still captured",
+      "sha": "1e1b4f8c1ffbc775a9faac4b50c721e067a7a585",
+      "short": "1e1b4f8",
+      "message": "feat: a host can reach the bytes behind a typed array",
       "author": "Daniel",
-      "date": "2026-08-06T07:54:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0669200f8217593a836b39ff2393b1e9b8f5f71"
+      "date": "2026-08-06T22:17:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e1b4f8c1ffbc775a9faac4b50c721e067a7a585"
     },
     {
-      "sha": "568186ebc97f81605cac6892748e3e7e0c413871",
-      "short": "568186e",
-      "message": "perf: an object that cannot leave its function is not built",
+      "sha": "da764f5cfd3ebdba2469f9a306ce249c479d627a",
+      "short": "da764f5",
+      "message": "fix: a host-made promise had no `.then`, so every reaction was unreachable",
       "author": "Daniel",
-      "date": "2026-08-06T07:42:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/568186ebc97f81605cac6892748e3e7e0c413871"
+      "date": "2026-08-06T22:13:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/da764f5cfd3ebdba2469f9a306ce249c479d627a"
     },
     {
-      "sha": "5d6bae37cd79c8b443e45df94445e77505d07c0d",
-      "short": "5d6bae3",
-      "message": "fix: a full heap ends the program instead of quietly computing a wrong answer",
+      "sha": "3542969b9949ea7f20eb5e96e4ab12b2e90ac143",
+      "short": "3542969",
+      "message": "feat: fs.promises, and the defect the test that proves it found",
       "author": "Daniel",
-      "date": "2026-08-06T07:05:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d6bae37cd79c8b443e45df94445e77505d07c0d"
+      "date": "2026-08-06T22:03:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3542969b9949ea7f20eb5e96e4ab12b2e90ac143"
     },
     {
-      "sha": "2392073bc766638b343f55791f073fa421fb596c",
-      "short": "2392073",
-      "message": "feat: the write barrier records what crosses a region instead of counting",
+      "sha": "bef06511259c41ba95ae34f0c5ea2324f77c4eb0",
+      "short": "bef0651",
+      "message": "feat: node:assert, events and querystring, and path/os/process against their references",
       "author": "Daniel",
-      "date": "2026-08-06T07:00:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2392073bc766638b343f55791f073fa421fb596c"
+      "date": "2026-08-06T21:50:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bef06511259c41ba95ae34f0c5ea2324f77c4eb0"
     },
     {
-      "sha": "078183cd683737e3e8cd770609a3cc8332341017",
-      "short": "078183c",
-      "message": "fix: a scheduler is numbered by its region, not always zero",
+      "sha": "f87bc1458be9dbc32972b97de271936aca4b2650",
+      "short": "f87bc14",
+      "message": "feat: node:fs, the whole synchronous surface its reference documents",
       "author": "Daniel",
-      "date": "2026-08-06T06:57:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/078183cd683737e3e8cd770609a3cc8332341017"
+      "date": "2026-08-06T21:47:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f87bc1458be9dbc32972b97de271936aca4b2650"
     },
     {
-      "sha": "f4fb11c4ef029097ed4959b79862202ea9f0829a",
-      "short": "f4fb11c",
-      "message": "perf: an `Aside` indexes by the cell again, so regions cost no memory",
+      "sha": "62a7c3b8062be34c8f87eb0ae8d1774605077c36",
+      "short": "62a7c3b",
+      "message": "feat: rts-node-rwk — fs, os, path, process, util, and console as a global",
       "author": "Daniel",
-      "date": "2026-08-06T06:50:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f4fb11c4ef029097ed4959b79862202ea9f0829a"
+      "date": "2026-08-06T21:40:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62a7c3b8062be34c8f87eb0ae8d1774605077c36"
     },
     {
-      "sha": "3b0e78a632d5a6c4a37e05212fed190f44dbb406",
-      "short": "3b0e78a",
-      "message": "feat: a heap per thread — the region model turned on, and code running on it",
+      "sha": "68de00a4aa98ea45a9168eb7ef0aa322eb6bf7f5",
+      "short": "68de00a",
+      "message": "feat: a module compiles, and 586 of the 818 suite files with it",
       "author": "Daniel",
-      "date": "2026-08-06T06:43:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3b0e78a632d5a6c4a37e05212fed190f44dbb406"
+      "date": "2026-08-06T21:09:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68de00a4aa98ea45a9168eb7ef0aa322eb6bf7f5"
     },
     {
-      "sha": "ce3f736251fd3c1d3d200897e8a27b4c32110f07",
-      "short": "ce3f736",
-      "message": "perf: lowering runs on the pool too — the old engine's constraint did not apply",
+      "sha": "0550d6f26026c452352ceb0fd2b48cfe8b06499a",
+      "short": "0550d6f",
+      "message": "feat: destructuring, in all three roles it is written in",
       "author": "Daniel",
-      "date": "2026-08-06T06:07:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce3f736251fd3c1d3d200897e8a27b4c32110f07"
+      "date": "2026-08-06T20:55:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0550d6f26026c452352ceb0fd2b48cfe8b06499a"
     },
     {
-      "sha": "386a0ebd6decff25578982e12d721cd99196e23a",
-      "short": "386a0eb",
-      "message": "test: measure which half of compiling is ours before redesigning the other",
+      "sha": "5bf447752ff2af45e6650bc0e539c9c296e9328d",
+      "short": "5bf4477",
+      "message": "feat: private members, computed member names and static blocks",
       "author": "Daniel",
-      "date": "2026-08-06T05:47:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/386a0ebd6decff25578982e12d721cd99196e23a"
+      "date": "2026-08-06T20:40:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5bf447752ff2af45e6650bc0e539c9c296e9328d"
     },
     {
-      "sha": "3508d2d9dddef13e50b4d1a52883f72346c4a3f7",
-      "short": "3508d2d",
-      "message": "perf: compile functions in parallel — 2.7x on a program with many of them",
+      "sha": "74cbc944ffe9827ac09547f992bbc5f25a5c5558",
+      "short": "74cbc94",
+      "message": "feat: a type assertion is erased and `?.` skips the rest of the chain",
       "author": "Daniel",
-      "date": "2026-08-06T05:29:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3508d2d9dddef13e50b4d1a52883f72346c4a3f7"
+      "date": "2026-08-06T20:32:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/74cbc944ffe9827ac09547f992bbc5f25a5c5558"
     },
     {
-      "sha": "f9f06b5844e3e9761c06c8c8f8efec5d497db449",
-      "short": "f9f06b5",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-06T05:15:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9f06b5844e3e9761c06c8c8f8efec5d497db449"
-    },
-    {
-      "sha": "8e5f88cd05e9c29b9e4f46f1f533fbbfcb922445",
-      "short": "8e5f88c",
-      "message": "perf: fold constant arithmetic, which removes a call site rather than an operation",
+      "sha": "6dc020c23435119dd8d58886574044ccdf8f7b13",
+      "short": "6dc020c",
+      "message": "test: what the new engine compiles of the suite, and what stops it",
       "author": "Daniel",
-      "date": "2026-08-06T05:15:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8e5f88cd05e9c29b9e4f46f1f533fbbfcb922445"
+      "date": "2026-08-06T20:23:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6dc020c23435119dd8d58886574044ccdf8f7b13"
     },
     {
-      "sha": "73764b4848bda05f47dd6b769505d0f05a63eb4f",
-      "short": "73764b4",
-      "message": "perf: a literal key is not a computed key — 150x on `o[\"alpha\"]`",
+      "sha": "f9e7e44d45907f75087d847eefb3f4a481a700f5",
+      "short": "f9e7e44",
+      "message": "feat: a property carries its own three flags, and a non-writable one sticks",
       "author": "Daniel",
-      "date": "2026-08-06T05:10:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/73764b4848bda05f47dd6b769505d0f05a63eb4f"
+      "date": "2026-08-06T19:53:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9e7e44d45907f75087d847eefb3f4a481a700f5"
     },
     {
-      "sha": "d85878522614d6725e64443f10e81d55c275e112",
-      "short": "d858785",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-06T05:06:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d85878522614d6725e64443f10e81d55c275e112"
+      "sha": "056b2deb39723477d98a9b542c768d9db3db470a",
+      "short": "056b2de",
+      "message": "feat: a tagged-template site has one strings object, so a tag can key on it",
+      "author": "Daniel",
+      "date": "2026-08-06T19:46:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/056b2deb39723477d98a9b542c768d9db3db470a"
+    },
+    {
+      "sha": "a4f9f7f4b61c82f727c9908724ccb12c12d59321",
+      "short": "a4f9f7f",
+      "message": "feat: a tagged template hands the tag its pieces, and `String.raw` is testable",
+      "author": "Daniel",
+      "date": "2026-08-06T19:31:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4f9f7f4b61c82f727c9908724ccb12c12d59321"
     }
   ]
 }
