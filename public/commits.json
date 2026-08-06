@@ -1,6 +1,134 @@
 {
-  "total": 4551,
+  "total": 4571,
   "commits": [
+    {
+      "sha": "bebe7977f3e45e997b34f4044d1800b9e5726771",
+      "short": "bebe797",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-06T09:13:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bebe7977f3e45e997b34f4044d1800b9e5726771"
+    },
+    {
+      "sha": "e9f78f007f412873630f2e096451fbbf545cc329",
+      "short": "e9f78f0",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-06T09:04:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e9f78f007f412873630f2e096451fbbf545cc329"
+    },
+    {
+      "sha": "96ef4aa93bf8baf03461be09a5846ecb6f25e723",
+      "short": "96ef4aa",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-06T08:37:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96ef4aa93bf8baf03461be09a5846ecb6f25e723"
+    },
+    {
+      "sha": "9b6475353e0a19084e49abd1fc545927b342231c",
+      "short": "9b64753",
+      "message": "Add procedural skills and RULE 0b",
+      "author": "Daniel",
+      "date": "2026-08-06T08:37:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b6475353e0a19084e49abd1fc545927b342231c"
+    },
+    {
+      "sha": "a689a93ddc9378f2cdab85fbb90b904819c6785a",
+      "short": "a689a93",
+      "message": "perf: a replaced property is proved numeric like the local it became",
+      "author": "Daniel",
+      "date": "2026-08-06T08:35:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a689a93ddc9378f2cdab85fbb90b904819c6785a"
+    },
+    {
+      "sha": "526a990395fa3118380f88af9c9100c8eebb05bc",
+      "short": "526a990",
+      "message": "perf: a property value may be any expression, and the dead zone is why it could not",
+      "author": "Daniel",
+      "date": "2026-08-06T08:17:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/526a990395fa3118380f88af9c9100c8eebb05bc"
+    },
+    {
+      "sha": "e0669200f8217593a836b39ff2393b1e9b8f5f71",
+      "short": "e066920",
+      "message": "fix: a name mentioned only inside a template is still captured",
+      "author": "Daniel",
+      "date": "2026-08-06T07:54:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e0669200f8217593a836b39ff2393b1e9b8f5f71"
+    },
+    {
+      "sha": "568186ebc97f81605cac6892748e3e7e0c413871",
+      "short": "568186e",
+      "message": "perf: an object that cannot leave its function is not built",
+      "author": "Daniel",
+      "date": "2026-08-06T07:42:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/568186ebc97f81605cac6892748e3e7e0c413871"
+    },
+    {
+      "sha": "5d6bae37cd79c8b443e45df94445e77505d07c0d",
+      "short": "5d6bae3",
+      "message": "fix: a full heap ends the program instead of quietly computing a wrong answer",
+      "author": "Daniel",
+      "date": "2026-08-06T07:05:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d6bae37cd79c8b443e45df94445e77505d07c0d"
+    },
+    {
+      "sha": "2392073bc766638b343f55791f073fa421fb596c",
+      "short": "2392073",
+      "message": "feat: the write barrier records what crosses a region instead of counting",
+      "author": "Daniel",
+      "date": "2026-08-06T07:00:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2392073bc766638b343f55791f073fa421fb596c"
+    },
+    {
+      "sha": "078183cd683737e3e8cd770609a3cc8332341017",
+      "short": "078183c",
+      "message": "fix: a scheduler is numbered by its region, not always zero",
+      "author": "Daniel",
+      "date": "2026-08-06T06:57:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/078183cd683737e3e8cd770609a3cc8332341017"
+    },
+    {
+      "sha": "f4fb11c4ef029097ed4959b79862202ea9f0829a",
+      "short": "f4fb11c",
+      "message": "perf: an `Aside` indexes by the cell again, so regions cost no memory",
+      "author": "Daniel",
+      "date": "2026-08-06T06:50:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f4fb11c4ef029097ed4959b79862202ea9f0829a"
+    },
+    {
+      "sha": "3b0e78a632d5a6c4a37e05212fed190f44dbb406",
+      "short": "3b0e78a",
+      "message": "feat: a heap per thread — the region model turned on, and code running on it",
+      "author": "Daniel",
+      "date": "2026-08-06T06:43:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3b0e78a632d5a6c4a37e05212fed190f44dbb406"
+    },
+    {
+      "sha": "ce3f736251fd3c1d3d200897e8a27b4c32110f07",
+      "short": "ce3f736",
+      "message": "perf: lowering runs on the pool too — the old engine's constraint did not apply",
+      "author": "Daniel",
+      "date": "2026-08-06T06:07:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce3f736251fd3c1d3d200897e8a27b4c32110f07"
+    },
+    {
+      "sha": "386a0ebd6decff25578982e12d721cd99196e23a",
+      "short": "386a0eb",
+      "message": "test: measure which half of compiling is ours before redesigning the other",
+      "author": "Daniel",
+      "date": "2026-08-06T05:47:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/386a0ebd6decff25578982e12d721cd99196e23a"
+    },
+    {
+      "sha": "3508d2d9dddef13e50b4d1a52883f72346c4a3f7",
+      "short": "3508d2d",
+      "message": "perf: compile functions in parallel — 2.7x on a program with many of them",
+      "author": "Daniel",
+      "date": "2026-08-06T05:29:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3508d2d9dddef13e50b4d1a52883f72346c4a3f7"
+    },
     {
       "sha": "f9f06b5844e3e9761c06c8c8f8efec5d497db449",
       "short": "f9f06b5",
@@ -10,156 +138,28 @@
       "url": "https://github.com/UrubuCode/rts/commit/f9f06b5844e3e9761c06c8c8f8efec5d497db449"
     },
     {
+      "sha": "8e5f88cd05e9c29b9e4f46f1f533fbbfcb922445",
+      "short": "8e5f88c",
+      "message": "perf: fold constant arithmetic, which removes a call site rather than an operation",
+      "author": "Daniel",
+      "date": "2026-08-06T05:15:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8e5f88cd05e9c29b9e4f46f1f533fbbfcb922445"
+    },
+    {
+      "sha": "73764b4848bda05f47dd6b769505d0f05a63eb4f",
+      "short": "73764b4",
+      "message": "perf: a literal key is not a computed key — 150x on `o[\"alpha\"]`",
+      "author": "Daniel",
+      "date": "2026-08-06T05:10:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73764b4848bda05f47dd6b769505d0f05a63eb4f"
+    },
+    {
       "sha": "d85878522614d6725e64443f10e81d55c275e112",
       "short": "d858785",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
       "date": "2026-08-06T05:06:38Z",
       "url": "https://github.com/UrubuCode/rts/commit/d85878522614d6725e64443f10e81d55c275e112"
-    },
-    {
-      "sha": "0862de94e1bac8f5d9dadf06d3900d0bd05aa496",
-      "short": "0862de9",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-06T04:51:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0862de94e1bac8f5d9dadf06d3900d0bd05aa496"
-    },
-    {
-      "sha": "e1759ce4bfd805695eba91ef90ea2c42018859fd",
-      "short": "e1759ce",
-      "message": "perf: three quadratics and two allocation storms removed; one of them mattered",
-      "author": "Daniel",
-      "date": "2026-08-06T04:49:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1759ce4bfd805695eba91ef90ea2c42018859fd"
-    },
-    {
-      "sha": "c6a37a8069415aa605abd0a2ff09de593f9bc614",
-      "short": "c6a37a8",
-      "message": "fix: a computed key reaches the same receiver a named one does, twice over",
-      "author": "Daniel",
-      "date": "2026-08-06T04:41:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c6a37a8069415aa605abd0a2ff09de593f9bc614"
-    },
-    {
-      "sha": "3f24e5cedea32b170cce3ebcb050b1a7c643a5ba",
-      "short": "3f24e5c",
-      "message": "fix: a write inside a constructor's arguments survives a loop",
-      "author": "Daniel",
-      "date": "2026-08-06T04:38:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f24e5cedea32b170cce3ebcb050b1a7c643a5ba"
-    },
-    {
-      "sha": "36be38d03bec54a5f74299c5e79858b6ef37875b",
-      "short": "36be38d",
-      "message": "feat: BigInt64Array and BigUint64Array, and a codec that speaks in words",
-      "author": "Daniel",
-      "date": "2026-08-06T03:49:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/36be38d03bec54a5f74299c5e79858b6ef37875b"
-    },
-    {
-      "sha": "6a8fae2e16e86fbfce42603dcebf114ef313bdc4",
-      "short": "6a8fae2",
-      "message": "feat: a symbol and a bigint are primitives, on tags of their own",
-      "author": "Daniel",
-      "date": "2026-08-05T22:08:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a8fae2e16e86fbfce42603dcebf114ef313bdc4"
-    },
-    {
-      "sha": "4a346247256e6c8b6aa8376bda85c67ed3fe992b",
-      "short": "4a34624",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-05T21:27:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4a346247256e6c8b6aa8376bda85c67ed3fe992b"
-    },
-    {
-      "sha": "e9ad013b41a2bbaa56ab083140fcf2ea672004f7",
-      "short": "e9ad013",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-05T21:19:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e9ad013b41a2bbaa56ab083140fcf2ea672004f7"
-    },
-    {
-      "sha": "caee3cbac902e17bdbfadbcec3cb1fcc13f2a39d",
-      "short": "caee3cb",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-05T21:04:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/caee3cbac902e17bdbfadbcec3cb1fcc13f2a39d"
-    },
-    {
-      "sha": "238b30b86962c603be72a24b1200abdaae5825d6",
-      "short": "238b30b",
-      "message": "feat: the rest of the primordial surface, and a suite that found four bugs",
-      "author": "Daniel",
-      "date": "2026-08-05T20:49:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/238b30b86962c603be72a24b1200abdaae5825d6"
-    },
-    {
-      "sha": "d27df797fdcf1fb87b3d651d1ebcc1ba56400862",
-      "short": "d27df79",
-      "message": "feat: collections, bound functions, and methods on a primitive receiver",
-      "author": "Daniel",
-      "date": "2026-08-05T20:24:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d27df797fdcf1fb87b3d651d1ebcc1ba56400862"
-    },
-    {
-      "sha": "16281b434213a668c29f0c35455ea4e86fe81cad",
-      "short": "16281b4",
-      "message": "feat: symbols, the iteration protocol, and five more primordials",
-      "author": "Daniel",
-      "date": "2026-08-05T20:18:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/16281b434213a668c29f0c35455ea4e86fe81cad"
-    },
-    {
-      "sha": "e7aaceffca7334a816d6a29a706c49b38e2d463d",
-      "short": "e7aacef",
-      "message": "feat: a class is declared, and the wrapper it would be written as is derived",
-      "author": "Daniel",
-      "date": "2026-08-05T19:06:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7aaceffca7334a816d6a29a706c49b38e2d463d"
-    },
-    {
-      "sha": "d63f9862cbcac609fa420babb3bb31b26c78771f",
-      "short": "d63f986",
-      "message": "docs: the entries table was read by nobody, and two pointers went nowhere",
-      "author": "Daniel",
-      "date": "2026-08-05T08:10:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d63f9862cbcac609fa420babb3bb31b26c78771f"
-    },
-    {
-      "sha": "278ba89e08ffd2ac41fb7a7766fd3ad4566756dd",
-      "short": "278ba89",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-05T07:26:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/278ba89e08ffd2ac41fb7a7766fd3ad4566756dd"
-    },
-    {
-      "sha": "57074a76856e5450c0b92eb57e87dd03210fc902",
-      "short": "57074a7",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-05T07:18:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/57074a76856e5450c0b92eb57e87dd03210fc902"
-    },
-    {
-      "sha": "229dc33487a844087ef4a243adec39b4ad43cc73",
-      "short": "229dc33",
-      "message": "fix: a boolean returned across a foreign boundary is one byte",
-      "author": "Daniel",
-      "date": "2026-08-05T07:12:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/229dc33487a844087ef4a243adec39b4ad43cc73"
-    },
-    {
-      "sha": "f4da7bf12e2d4a0b7a1c039eb2c07e280672937a",
-      "short": "f4da7bf",
-      "message": "feat: iteration, and the spread and `for-of` it was holding up",
-      "author": "Daniel",
-      "date": "2026-08-05T06:52:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f4da7bf12e2d4a0b7a1c039eb2c07e280672937a"
     }
   ]
 }
