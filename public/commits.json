@@ -1,6 +1,118 @@
 {
-  "total": 4629,
+  "total": 4643,
   "commits": [
+    {
+      "sha": "06ed161ec8420707642417b5565ec013604aa1c3",
+      "short": "06ed161",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-07T09:11:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06ed161ec8420707642417b5565ec013604aa1c3"
+    },
+    {
+      "sha": "498b0814835efe6c9bc843c2b0958385da871d06",
+      "short": "498b081",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-07T09:00:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/498b0814835efe6c9bc843c2b0958385da871d06"
+    },
+    {
+      "sha": "10d5135b284d13ac91b96ab21ae8165c7cd0b37a",
+      "short": "10d5135",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-07T08:45:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/10d5135b284d13ac91b96ab21ae8165c7cd0b37a"
+    },
+    {
+      "sha": "0472bc1f4f4f7521681416dcf3171272ee4dc19a",
+      "short": "0472bc1",
+      "message": "fix: three process aborts and two wrong answers an audit found",
+      "author": "Daniel",
+      "date": "2026-08-07T08:43:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0472bc1f4f4f7521681416dcf3171272ee4dc19a"
+    },
+    {
+      "sha": "21c9c374d1a0e10e5314bc40fe4696d8b642244e",
+      "short": "21c9c37",
+      "message": "refactor: rts-std-rwk is rts:test, rts:runtime and the globals",
+      "author": "Daniel",
+      "date": "2026-08-07T08:40:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/21c9c374d1a0e10e5314bc40fe4696d8b642244e"
+    },
+    {
+      "sha": "dfa5757b858636bd841afdc680a5d388fcde11f5",
+      "short": "dfa5757",
+      "message": "feat: a program can be several files — export, and the loader behind it",
+      "author": "Daniel",
+      "date": "2026-08-07T08:26:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dfa5757b858636bd841afdc680a5d388fcde11f5"
+    },
+    {
+      "sha": "d54560186a2bcb41296ea5919b9b4a681dbb8714",
+      "short": "d545601",
+      "message": "chore: remove audit scratch files an agent left in the repo root",
+      "author": "Daniel",
+      "date": "2026-08-07T07:53:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d54560186a2bcb41296ea5919b9b4a681dbb8714"
+    },
+    {
+      "sha": "3c749af2caf79ea665a39816fb767277bd96f19c",
+      "short": "3c749af",
+      "message": "feat: the Node globals a program reaches with no import line",
+      "author": "Daniel",
+      "date": "2026-08-07T07:53:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c749af2caf79ea665a39816fb767277bd96f19c"
+    },
+    {
+      "sha": "26273cd542f028b0dbfae61e67cb9fa94fcf0d92",
+      "short": "26273cd",
+      "message": "feat: node:inspector, and all 42 documented modules are now registered",
+      "author": "Daniel",
+      "date": "2026-08-07T07:45:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26273cd542f028b0dbfae61e67cb9fa94fcf0d92"
+    },
+    {
+      "sha": "723f0b54b57e9c87b970215fef2dd2dc824da38b",
+      "short": "723f0b5",
+      "message": "feat: node:http2 connects, serves, and answers over a real socket",
+      "author": "Daniel",
+      "date": "2026-08-07T07:26:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/723f0b54b57e9c87b970215fef2dd2dc824da38b"
+    },
+    {
+      "sha": "3d7105ff13cbf71410a2bd7e2dd55eed503579d5",
+      "short": "3d7105f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-07T07:21:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d7105ff13cbf71410a2bd7e2dd55eed503579d5"
+    },
+    {
+      "sha": "d085bc8fd5b4c04c3069aaab401b230b05235242",
+      "short": "d085bc8",
+      "message": "feat: node:http2 grows the session and stream lifecycle it had refused",
+      "author": "Daniel",
+      "date": "2026-08-07T07:14:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d085bc8fd5b4c04c3069aaab401b230b05235242"
+    },
+    {
+      "sha": "33b08c31d00658d305f240d67bb48d285958bda3",
+      "short": "33b08c3",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-07T07:11:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33b08c31d00658d305f240d67bb48d285958bda3"
+    },
+    {
+      "sha": "10804475187d99a41ae3bbf1494814a3d1be03ec",
+      "short": "1080447",
+      "message": "refactor: one event loop, registered by its sources instead of named by the host",
+      "author": "Daniel",
+      "date": "2026-08-07T07:08:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/10804475187d99a41ae3bbf1494814a3d1be03ec"
+    },
     {
       "sha": "66b67eebe2ec06488f516df8e1b579052eccbe43",
       "short": "66b67ee",
@@ -48,118 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-07T06:06:33Z",
       "url": "https://github.com/UrubuCode/rts/commit/538027cdf7116c4f88d867717b4f2f0deea71b30"
-    },
-    {
-      "sha": "1e79c018d37cf2402fedb048134b365f3e810a2f",
-      "short": "1e79c01",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T05:58:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e79c018d37cf2402fedb048134b365f3e810a2f"
-    },
-    {
-      "sha": "9400095fcf1ce87fd0a16161b832429ce02ea78d",
-      "short": "9400095",
-      "message": "feat: node:sqlite over turso_core, and a rounding it cannot yet avoid",
-      "author": "Daniel",
-      "date": "2026-08-07T05:58:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9400095fcf1ce87fd0a16161b832429ce02ea78d"
-    },
-    {
-      "sha": "966c00d814ebd044e99b222b4ead305d7fc80e07",
-      "short": "966c00d",
-      "message": "feat: node:wasi on wasmi, with the sandbox refusing unconditionally",
-      "author": "Daniel",
-      "date": "2026-08-07T05:55:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/966c00d814ebd044e99b222b4ead305d7fc80e07"
-    },
-    {
-      "sha": "ade5538af4f2d3e0b5838f7e4f8fd8e18bae6c2b",
-      "short": "ade5538",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T05:50:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ade5538af4f2d3e0b5838f7e4f8fd8e18bae6c2b"
-    },
-    {
-      "sha": "e9a8e6700cf23f24adfa7d0f92c044a06fdcf7fe",
-      "short": "e9a8e67",
-      "message": "chore: turso_core and wasmi, both pure Rust, both already vetted",
-      "author": "Daniel",
-      "date": "2026-08-07T05:39:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e9a8e6700cf23f24adfa7d0f92c044a06fdcf7fe"
-    },
-    {
-      "sha": "d71be70606bcdefc690bf3aa364cc7e4ece08898",
-      "short": "d71be70",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-07T05:34:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d71be70606bcdefc690bf3aa364cc7e4ece08898"
-    },
-    {
-      "sha": "a2b484a47a8b0cbb90b917df15d937a19c1103ce",
-      "short": "a2b484a",
-      "message": "feat: vm and repl written on the evaluator, and the re-entry that stops them",
-      "author": "Daniel",
-      "date": "2026-08-07T05:19:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a2b484a47a8b0cbb90b917df15d937a19c1103ce"
-    },
-    {
-      "sha": "54c3317cbcdefd0cf2bcbf54f5db14854e648d3b",
-      "short": "54c3317",
-      "message": "feat: a host hands down the one thing a module crate cannot do — evaluate source",
-      "author": "Daniel",
-      "date": "2026-08-07T05:11:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54c3317cbcdefd0cf2bcbf54f5db14854e648d3b"
-    },
-    {
-      "sha": "900c81c168c06b38a772f5b9f17829f7ddeed703",
-      "short": "900c81c",
-      "message": "feat: node:http2's framing and HPACK, and a refusal with a CVE behind it",
-      "author": "Daniel",
-      "date": "2026-08-07T05:07:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/900c81c168c06b38a772f5b9f17829f7ddeed703"
-    },
-    {
-      "sha": "900aa02de56e9f29857f5d277c6e35156ee63530",
-      "short": "900aa02",
-      "message": "feat: cluster, domain and trace_events — registered, and honest about being shells",
-      "author": "Daniel",
-      "date": "2026-08-07T05:06:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/900aa02de56e9f29857f5d277c6e35156ee63530"
-    },
-    {
-      "sha": "a435ec0dfbaf0b4e3270d697a1db01559f2dc846",
-      "short": "a435ec0",
-      "message": "feat: node:https, reused at the level where reuse was actually possible",
-      "author": "Daniel",
-      "date": "2026-08-07T04:19:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a435ec0dfbaf0b4e3270d697a1db01559f2dc846"
-    },
-    {
-      "sha": "79fd126b3fe43da1bc2f39304901d6dcc223ca36",
-      "short": "79fd126",
-      "message": "feat: X25519 is the TLS provider's preferred group",
-      "author": "Daniel",
-      "date": "2026-08-07T04:10:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/79fd126b3fe43da1bc2f39304901d6dcc223ca36"
-    },
-    {
-      "sha": "9b9e117841340584969cc14114f9b2f277a63d72",
-      "short": "9b9e117",
-      "message": "feat: node:tls on a pure-Rust provider, and the group it cannot yet offer",
-      "author": "Daniel",
-      "date": "2026-08-07T03:32:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b9e117841340584969cc14114f9b2f277a63d72"
-    },
-    {
-      "sha": "9d44ec874bca05ec81b09820a108dc972c20ab31",
-      "short": "9d44ec8",
-      "message": "feat: http, dgram, console, readline and node:test — and an ordering that was silently wrong",
-      "author": "Daniel",
-      "date": "2026-08-07T03:16:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9d44ec874bca05ec81b09820a108dc972c20ab31"
     }
   ]
 }
