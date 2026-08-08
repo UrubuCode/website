@@ -1,6 +1,70 @@
 {
-  "total": 4662,
+  "total": 4672,
   "commits": [
+    {
+      "sha": "72eddecd9da0ca6d6cbb6624a62c2622b36ed2e1",
+      "short": "72eddec",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-08T07:45:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/72eddecd9da0ca6d6cbb6624a62c2622b36ed2e1"
+    },
+    {
+      "sha": "a7a0c10ad9a9fde9889833e7eb159ac2cc7527ab",
+      "short": "a7a0c10",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-08T07:36:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7a0c10ad9a9fde9889833e7eb159ac2cc7527ab"
+    },
+    {
+      "sha": "e8443c79d188e5e5d0c87de8462f42ac92374d1c",
+      "short": "e8443c7",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-08T07:22:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8443c79d188e5e5d0c87de8462f42ac92374d1c"
+    },
+    {
+      "sha": "9e0813fb16d8edf79678648e9a91cd9ae54ffed2",
+      "short": "9e0813f",
+      "message": "fix: writing an array's length moves its elements with it",
+      "author": "Daniel",
+      "date": "2026-08-08T05:50:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e0813fb16d8edf79678648e9a91cd9ae54ffed2"
+    },
+    {
+      "sha": "bc4b19930f2fd03f5d7570d5db9bb5f2902c4ef2",
+      "short": "bc4b199",
+      "message": "fix: an array kept a stored zero, and `in` never asked about elements",
+      "author": "Daniel",
+      "date": "2026-08-08T05:42:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc4b19930f2fd03f5d7570d5db9bb5f2902c4ef2"
+    },
+    {
+      "sha": "f602e731fe24271cdd0537b9240accedb758b002",
+      "short": "f602e73",
+      "message": "fix: a cleanup copy erased the bindings of the block it copied",
+      "author": "Daniel",
+      "date": "2026-08-08T05:21:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f602e731fe24271cdd0537b9240accedb758b002"
+    },
+    {
+      "sha": "e7ccfef808cac58b3538960472c835bcb0dcc28e",
+      "short": "e7ccfef",
+      "message": "test: measure every .ts under tests/, not only the 818 at its top level",
+      "author": "Daniel",
+      "date": "2026-08-08T05:10:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7ccfef808cac58b3538960472c835bcb0dcc28e"
+    },
+    {
+      "sha": "c8afd6c9b89375fec89e9463e77cdb49fb6fede2",
+      "short": "c8afd6c",
+      "message": "docs: narrow the try/finally crash to a cleanup reading outside itself",
+      "author": "Daniel",
+      "date": "2026-08-08T05:07:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8afd6c9b89375fec89e9463e77cdb49fb6fede2"
+    },
     {
       "sha": "a0208056e194bf079681600d571f9c020f12fdb6",
       "short": "a020805",
@@ -10,12 +74,28 @@
       "url": "https://github.com/UrubuCode/rts/commit/a0208056e194bf079681600d571f9c020f12fdb6"
     },
     {
+      "sha": "a2d592dbdc8fc2836e9a1c138084b7618ac89a3e",
+      "short": "a2d592d",
+      "message": "fix: the class refusal test was left failing by the change before it",
+      "author": "Daniel",
+      "date": "2026-08-08T05:01:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a2d592dbdc8fc2836e9a1c138084b7618ac89a3e"
+    },
+    {
       "sha": "4e2060fbcdb27fa3fcc0828fafe25e984a119f19",
       "short": "4e2060f",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
       "date": "2026-08-08T04:53:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/4e2060fbcdb27fa3fcc0828fafe25e984a119f19"
+    },
+    {
+      "sha": "de54638edc36ab332a23509abc0f94e3d82a00e4",
+      "short": "de54638",
+      "message": "feat: `#x in o` asks whether an object carries a private member",
+      "author": "Daniel",
+      "date": "2026-08-08T04:50:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de54638edc36ab332a23509abc0f94e3d82a00e4"
     },
     {
       "sha": "665b4a8efef2446b1bb0cd1d8a30dcb19cd327b0",
@@ -80,86 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-07T22:55:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/39888fef887294ec5ed0de2c52a7865c65cb6868"
-    },
-    {
-      "sha": "8972062deef05e7614b3f2e08da7f0ef29880b59",
-      "short": "8972062",
-      "message": "feat: a TypeScript enum is the object TypeScript's own emitter makes of it",
-      "author": "Daniel",
-      "date": "2026-08-07T22:27:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8972062deef05e7614b3f2e08da7f0ef29880b59"
-    },
-    {
-      "sha": "e8c9c94791ba8622543c4fd3e27f907796fddd85",
-      "short": "e8c9c94",
-      "message": "feat: an object literal spreads and sets __proto__, and the wrapper stops eating a brace",
-      "author": "Daniel",
-      "date": "2026-08-07T21:45:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8c9c94791ba8622543c4fd3e27f907796fddd85"
-    },
-    {
-      "sha": "99b63bb2554ec47764442b97120f38bb4a2fc3f8",
-      "short": "99b63bb",
-      "message": "fix: restore run_fixture.rs, deleted by accident",
-      "author": "Daniel",
-      "date": "2026-08-07T21:04:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/99b63bb2554ec47764442b97120f38bb4a2fc3f8"
-    },
-    {
-      "sha": "1870c537f07aa2c26e94404286a0bdff58c23d94",
-      "short": "1870c53",
-      "message": "fix: the throw check crashed the compiler, and three refusals were the host's own",
-      "author": "Daniel",
-      "date": "2026-08-07T21:04:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1870c537f07aa2c26e94404286a0bdff58c23d94"
-    },
-    {
-      "sha": "49c7761d5c0d6b306fd4379d53eaa728ce0210ee",
-      "short": "49c7761",
-      "message": "feat: a parameter can destructure and can default",
-      "author": "Daniel",
-      "date": "2026-08-07T20:50:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49c7761d5c0d6b306fd4379d53eaa728ce0210ee"
-    },
-    {
-      "sha": "382d394c116e149fd27e754f80c58b0ce5c6b86f",
-      "short": "382d394",
-      "message": "feat: a throw crosses a frame, so `try` around a call compiles",
-      "author": "Daniel",
-      "date": "2026-08-07T20:37:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/382d394c116e149fd27e754f80c58b0ce5c6b86f"
-    },
-    {
-      "sha": "5c7e733895f6f997db3046c7a7ba6e632a8e557c",
-      "short": "5c7e733",
-      "message": "feat: close the documented gaps in thirteen node modules",
-      "author": "Daniel",
-      "date": "2026-08-07T19:53:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c7e733895f6f997db3046c7a7ba6e632a8e557c"
-    },
-    {
-      "sha": "1352a3e87ba931ec427976d65a4e6d2b0b4459de",
-      "short": "1352a3e",
-      "message": "feat: async functions and await compile, over the machine's own promises",
-      "author": "Daniel",
-      "date": "2026-08-07T19:53:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1352a3e87ba931ec427976d65a4e6d2b0b4459de"
-    },
-    {
-      "sha": "d93a02ae1be66b4272128d0e0a06d31f9a9c6368",
-      "short": "d93a02a",
-      "message": "fix: tls.createServer and tls.connect aborted the process",
-      "author": "Daniel",
-      "date": "2026-08-07T19:14:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d93a02ae1be66b4272128d0e0a06d31f9a9c6368"
-    },
-    {
-      "sha": "06ed161ec8420707642417b5565ec013604aa1c3",
-      "short": "06ed161",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T09:11:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/06ed161ec8420707642417b5565ec013604aa1c3"
     }
   ]
 }
