@@ -1,6 +1,158 @@
 {
-  "total": 4643,
+  "total": 4662,
   "commits": [
+    {
+      "sha": "a0208056e194bf079681600d571f9c020f12fdb6",
+      "short": "a020805",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-08T05:01:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a0208056e194bf079681600d571f9c020f12fdb6"
+    },
+    {
+      "sha": "4e2060fbcdb27fa3fcc0828fafe25e984a119f19",
+      "short": "4e2060f",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-08T04:53:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e2060fbcdb27fa3fcc0828fafe25e984a119f19"
+    },
+    {
+      "sha": "665b4a8efef2446b1bb0cd1d8a30dcb19cd327b0",
+      "short": "665b4a8",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-08T04:39:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/665b4a8efef2446b1bb0cd1d8a30dcb19cd327b0"
+    },
+    {
+      "sha": "fa410d76a65d61e610cd4dd773d3351a826e74f7",
+      "short": "fa410d7",
+      "message": "feat: AggregateError joins the error family",
+      "author": "Daniel",
+      "date": "2026-08-08T03:57:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa410d76a65d61e610cd4dd773d3351a826e74f7"
+    },
+    {
+      "sha": "d5f0f18d20b8b999ddf6a225865cd5864be91ac5",
+      "short": "d5f0f18",
+      "message": "feat: a function can declare more than four parameters",
+      "author": "Daniel",
+      "date": "2026-08-08T02:40:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5f0f18d20b8b999ddf6a225865cd5864be91ac5"
+    },
+    {
+      "sha": "77982d2f1c761eb4bbc0aadadd60f3b5271ff9fa",
+      "short": "77982d2",
+      "message": "feat: an accessor's name can be an expression",
+      "author": "Daniel",
+      "date": "2026-08-08T01:05:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/77982d2f1c761eb4bbc0aadadd60f3b5271ff9fa"
+    },
+    {
+      "sha": "830731878c35185a1de8001ff5bb296c09909b99",
+      "short": "8307318",
+      "message": "feat: a TypeScript parameter property is the parameter and the assignment it means",
+      "author": "Daniel",
+      "date": "2026-08-08T00:53:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/830731878c35185a1de8001ff5bb296c09909b99"
+    },
+    {
+      "sha": "4d6ec33e306219a45f66295ecb40b9edeef9b662",
+      "short": "4d6ec33",
+      "message": "feat: a standalone module runs its exports, and queueMicrotask resolves",
+      "author": "Daniel",
+      "date": "2026-08-08T00:06:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d6ec33e306219a45f66295ecb40b9edeef9b662"
+    },
+    {
+      "sha": "763028beb1a4b4891319f71c3ec0a809edc84b42",
+      "short": "763028b",
+      "message": "feat: `this` inside an arrow is the enclosing function's",
+      "author": "Daniel",
+      "date": "2026-08-07T23:47:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/763028beb1a4b4891319f71c3ec0a809edc84b42"
+    },
+    {
+      "sha": "39888fef887294ec5ed0de2c52a7865c65cb6868",
+      "short": "39888fe",
+      "message": "feat: `arguments` is bound where a function has any of its own",
+      "author": "Daniel",
+      "date": "2026-08-07T22:55:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39888fef887294ec5ed0de2c52a7865c65cb6868"
+    },
+    {
+      "sha": "8972062deef05e7614b3f2e08da7f0ef29880b59",
+      "short": "8972062",
+      "message": "feat: a TypeScript enum is the object TypeScript's own emitter makes of it",
+      "author": "Daniel",
+      "date": "2026-08-07T22:27:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8972062deef05e7614b3f2e08da7f0ef29880b59"
+    },
+    {
+      "sha": "e8c9c94791ba8622543c4fd3e27f907796fddd85",
+      "short": "e8c9c94",
+      "message": "feat: an object literal spreads and sets __proto__, and the wrapper stops eating a brace",
+      "author": "Daniel",
+      "date": "2026-08-07T21:45:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8c9c94791ba8622543c4fd3e27f907796fddd85"
+    },
+    {
+      "sha": "99b63bb2554ec47764442b97120f38bb4a2fc3f8",
+      "short": "99b63bb",
+      "message": "fix: restore run_fixture.rs, deleted by accident",
+      "author": "Daniel",
+      "date": "2026-08-07T21:04:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/99b63bb2554ec47764442b97120f38bb4a2fc3f8"
+    },
+    {
+      "sha": "1870c537f07aa2c26e94404286a0bdff58c23d94",
+      "short": "1870c53",
+      "message": "fix: the throw check crashed the compiler, and three refusals were the host's own",
+      "author": "Daniel",
+      "date": "2026-08-07T21:04:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1870c537f07aa2c26e94404286a0bdff58c23d94"
+    },
+    {
+      "sha": "49c7761d5c0d6b306fd4379d53eaa728ce0210ee",
+      "short": "49c7761",
+      "message": "feat: a parameter can destructure and can default",
+      "author": "Daniel",
+      "date": "2026-08-07T20:50:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49c7761d5c0d6b306fd4379d53eaa728ce0210ee"
+    },
+    {
+      "sha": "382d394c116e149fd27e754f80c58b0ce5c6b86f",
+      "short": "382d394",
+      "message": "feat: a throw crosses a frame, so `try` around a call compiles",
+      "author": "Daniel",
+      "date": "2026-08-07T20:37:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/382d394c116e149fd27e754f80c58b0ce5c6b86f"
+    },
+    {
+      "sha": "5c7e733895f6f997db3046c7a7ba6e632a8e557c",
+      "short": "5c7e733",
+      "message": "feat: close the documented gaps in thirteen node modules",
+      "author": "Daniel",
+      "date": "2026-08-07T19:53:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c7e733895f6f997db3046c7a7ba6e632a8e557c"
+    },
+    {
+      "sha": "1352a3e87ba931ec427976d65a4e6d2b0b4459de",
+      "short": "1352a3e",
+      "message": "feat: async functions and await compile, over the machine's own promises",
+      "author": "Daniel",
+      "date": "2026-08-07T19:53:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1352a3e87ba931ec427976d65a4e6d2b0b4459de"
+    },
+    {
+      "sha": "d93a02ae1be66b4272128d0e0a06d31f9a9c6368",
+      "short": "d93a02a",
+      "message": "fix: tls.createServer and tls.connect aborted the process",
+      "author": "Daniel",
+      "date": "2026-08-07T19:14:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d93a02ae1be66b4272128d0e0a06d31f9a9c6368"
+    },
     {
       "sha": "06ed161ec8420707642417b5565ec013604aa1c3",
       "short": "06ed161",
@@ -8,158 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-07T09:11:10Z",
       "url": "https://github.com/UrubuCode/rts/commit/06ed161ec8420707642417b5565ec013604aa1c3"
-    },
-    {
-      "sha": "498b0814835efe6c9bc843c2b0958385da871d06",
-      "short": "498b081",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T09:00:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/498b0814835efe6c9bc843c2b0958385da871d06"
-    },
-    {
-      "sha": "10d5135b284d13ac91b96ab21ae8165c7cd0b37a",
-      "short": "10d5135",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-07T08:45:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10d5135b284d13ac91b96ab21ae8165c7cd0b37a"
-    },
-    {
-      "sha": "0472bc1f4f4f7521681416dcf3171272ee4dc19a",
-      "short": "0472bc1",
-      "message": "fix: three process aborts and two wrong answers an audit found",
-      "author": "Daniel",
-      "date": "2026-08-07T08:43:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0472bc1f4f4f7521681416dcf3171272ee4dc19a"
-    },
-    {
-      "sha": "21c9c374d1a0e10e5314bc40fe4696d8b642244e",
-      "short": "21c9c37",
-      "message": "refactor: rts-std-rwk is rts:test, rts:runtime and the globals",
-      "author": "Daniel",
-      "date": "2026-08-07T08:40:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/21c9c374d1a0e10e5314bc40fe4696d8b642244e"
-    },
-    {
-      "sha": "dfa5757b858636bd841afdc680a5d388fcde11f5",
-      "short": "dfa5757",
-      "message": "feat: a program can be several files — export, and the loader behind it",
-      "author": "Daniel",
-      "date": "2026-08-07T08:26:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dfa5757b858636bd841afdc680a5d388fcde11f5"
-    },
-    {
-      "sha": "d54560186a2bcb41296ea5919b9b4a681dbb8714",
-      "short": "d545601",
-      "message": "chore: remove audit scratch files an agent left in the repo root",
-      "author": "Daniel",
-      "date": "2026-08-07T07:53:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d54560186a2bcb41296ea5919b9b4a681dbb8714"
-    },
-    {
-      "sha": "3c749af2caf79ea665a39816fb767277bd96f19c",
-      "short": "3c749af",
-      "message": "feat: the Node globals a program reaches with no import line",
-      "author": "Daniel",
-      "date": "2026-08-07T07:53:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3c749af2caf79ea665a39816fb767277bd96f19c"
-    },
-    {
-      "sha": "26273cd542f028b0dbfae61e67cb9fa94fcf0d92",
-      "short": "26273cd",
-      "message": "feat: node:inspector, and all 42 documented modules are now registered",
-      "author": "Daniel",
-      "date": "2026-08-07T07:45:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26273cd542f028b0dbfae61e67cb9fa94fcf0d92"
-    },
-    {
-      "sha": "723f0b54b57e9c87b970215fef2dd2dc824da38b",
-      "short": "723f0b5",
-      "message": "feat: node:http2 connects, serves, and answers over a real socket",
-      "author": "Daniel",
-      "date": "2026-08-07T07:26:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/723f0b54b57e9c87b970215fef2dd2dc824da38b"
-    },
-    {
-      "sha": "3d7105ff13cbf71410a2bd7e2dd55eed503579d5",
-      "short": "3d7105f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T07:21:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d7105ff13cbf71410a2bd7e2dd55eed503579d5"
-    },
-    {
-      "sha": "d085bc8fd5b4c04c3069aaab401b230b05235242",
-      "short": "d085bc8",
-      "message": "feat: node:http2 grows the session and stream lifecycle it had refused",
-      "author": "Daniel",
-      "date": "2026-08-07T07:14:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d085bc8fd5b4c04c3069aaab401b230b05235242"
-    },
-    {
-      "sha": "33b08c31d00658d305f240d67bb48d285958bda3",
-      "short": "33b08c3",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-07T07:11:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/33b08c31d00658d305f240d67bb48d285958bda3"
-    },
-    {
-      "sha": "10804475187d99a41ae3bbf1494814a3d1be03ec",
-      "short": "1080447",
-      "message": "refactor: one event loop, registered by its sources instead of named by the host",
-      "author": "Daniel",
-      "date": "2026-08-07T07:08:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10804475187d99a41ae3bbf1494814a3d1be03ec"
-    },
-    {
-      "sha": "66b67eebe2ec06488f516df8e1b579052eccbe43",
-      "short": "66b67ee",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-07T06:57:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/66b67eebe2ec06488f516df8e1b579052eccbe43"
-    },
-    {
-      "sha": "d302b29d7638fa568c8ccf9f7ca312c286cc08ab",
-      "short": "d302b29",
-      "message": "fix: a timer with nothing after it fires, and timers stop crossing threads",
-      "author": "Daniel",
-      "date": "2026-08-07T06:50:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d302b29d7638fa568c8ccf9f7ca312c286cc08ab"
-    },
-    {
-      "sha": "30e853cac3b0189299703f60da919679e28349a8",
-      "short": "30e853c",
-      "message": "feat: node:worker_threads runs a real thread with a real engine",
-      "author": "Daniel",
-      "date": "2026-08-07T06:46:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/30e853cac3b0189299703f60da919679e28349a8"
-    },
-    {
-      "sha": "9f853e3fca1ed4aa21fd3581aa160743d18306d8",
-      "short": "9f853e3",
-      "message": "fix: builtinModules is the array it is in Node, not a function",
-      "author": "Daniel",
-      "date": "2026-08-07T06:21:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f853e3fca1ed4aa21fd3581aa160743d18306d8"
-    },
-    {
-      "sha": "6191070bd10755f0b9fb9a928f1864b8ccbcabe7",
-      "short": "6191070",
-      "message": "fix: the context slot is a stack, so a program can evaluate source",
-      "author": "Daniel",
-      "date": "2026-08-07T06:20:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6191070bd10755f0b9fb9a928f1864b8ccbcabe7"
-    },
-    {
-      "sha": "538027cdf7116c4f88d867717b4f2f0deea71b30",
-      "short": "538027c",
-      "message": "fix: a large INTEGER from sqlite is a bigint, not a rounded double",
-      "author": "Daniel",
-      "date": "2026-08-07T06:06:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/538027cdf7116c4f88d867717b4f2f0deea71b30"
     }
   ]
 }
