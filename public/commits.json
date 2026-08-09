@@ -1,165 +1,165 @@
 {
-  "total": 4702,
+  "total": 4742,
   "commits": [
     {
-      "sha": "374dcb7681aa3f3abcab54f1cb1cff3814aa9c61",
-      "short": "374dcb7",
+      "sha": "455acd915f9a44be2a944410e40f4ab9340622b3",
+      "short": "455acd9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-09T05:52:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/455acd915f9a44be2a944410e40f4ab9340622b3"
+    },
+    {
+      "sha": "d9a1f2a27b0fd81ffdae9a4cc3967a01d94c974a",
+      "short": "d9a1f2a",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-09T05:44:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d9a1f2a27b0fd81ffdae9a4cc3967a01d94c974a"
+    },
+    {
+      "sha": "5ea3cc675311aca30a0f55bfbd2b779b71b3c8ea",
+      "short": "5ea3cc6",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-09T00:55:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/374dcb7681aa3f3abcab54f1cb1cff3814aa9c61"
+      "date": "2026-08-09T05:29:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ea3cc675311aca30a0f55bfbd2b779b71b3c8ea"
     },
     {
-      "sha": "c5469e12eaf05cb95e0037230b78b13d17c6386e",
-      "short": "c5469e1",
-      "message": "docs: generators are built, and the number that says so",
-      "author": "Daniel",
-      "date": "2026-08-09T00:42:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c5469e12eaf05cb95e0037230b78b13d17c6386e"
-    },
-    {
-      "sha": "18f6661200f930cb128af2a4f594673b6d7908a4",
-      "short": "18f6661",
-      "message": "feat: generators run",
-      "author": "Daniel",
-      "date": "2026-08-09T00:33:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18f6661200f930cb128af2a4f594673b6d7908a4"
-    },
-    {
-      "sha": "b1c32dd63f5c2ad9f2f075af7ec5dad0f56431c9",
-      "short": "b1c32dd",
+      "sha": "4fb9bbcf76f2eb414c314d13ac077e08ad39a4ed",
+      "short": "4fb9bbc",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-09T00:11:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1c32dd63f5c2ad9f2f075af7ec5dad0f56431c9"
+      "date": "2026-08-09T05:00:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4fb9bbcf76f2eb414c314d13ac077e08ad39a4ed"
     },
     {
-      "sha": "c3a70140f662c3c117a5a411c6070e3741c303f6",
-      "short": "c3a7014",
+      "sha": "c18005866357b051cc84592ee7bc8692608e9d7d",
+      "short": "c180058",
+      "message": "chore: one script that measures both engines over one corpus",
+      "author": "Daniel",
+      "date": "2026-08-09T04:56:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c18005866357b051cc84592ee7bc8692608e9d7d"
+    },
+    {
+      "sha": "6dd9963242a1c31a51a3b22da8f041a79ccbef79",
+      "short": "6dd9963",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-09T00:04:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c3a70140f662c3c117a5a411c6070e3741c303f6"
+      "date": "2026-08-09T04:51:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6dd9963242a1c31a51a3b22da8f041a79ccbef79"
     },
     {
-      "sha": "646cdb76bd16abd37724feac12af0f2d8bb8496c",
-      "short": "646cdb7",
-      "message": "docs: the frame's home, answered rather than open",
+      "sha": "dc942ded8f16fc6d8181f3e66c6cfea63691adad",
+      "short": "dc942de",
+      "message": "docs: 575 of 797, and the denominator that moved",
       "author": "Daniel",
-      "date": "2026-08-09T00:03:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/646cdb76bd16abd37724feac12af0f2d8bb8496c"
+      "date": "2026-08-09T04:41:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dc942ded8f16fc6d8181f3e66c6cfea63691adad"
     },
     {
-      "sha": "b0aa52d1f5b8b9e808588cdbb34486d4030493e8",
-      "short": "b0aa52d",
-      "message": "feat: a frame wider than a cell, in the cells after it",
+      "sha": "7843d4798075f23be8feec7f8a386485c6c39f73",
+      "short": "7843d47",
+      "message": "feat: an error says where it came from",
       "author": "Daniel",
-      "date": "2026-08-09T00:03:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b0aa52d1f5b8b9e808588cdbb34486d4030493e8"
+      "date": "2026-08-09T04:37:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7843d4798075f23be8feec7f8a386485c6c39f73"
     },
     {
-      "sha": "1e9f2405c5981f4537622352df0c06f4ef83380a",
-      "short": "1e9f240",
-      "message": "test: where a generator's frame lives, answered by running one",
+      "sha": "501b668e69d042ee4f8a54c51d17df6de960ca7f",
+      "short": "501b668",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-08T23:56:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e9f2405c5981f4537622352df0c06f4ef83380a"
+      "date": "2026-08-09T04:36:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/501b668e69d042ee4f8a54c51d17df6de960ca7f"
     },
     {
-      "sha": "4b81ab40c8af44378b3267d974bf59d0cd490656",
-      "short": "4b81ab4",
-      "message": "feat: rts:gpu no motor novo — o que eu tinha declarado bloqueado (#2102)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-08T23:49:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b81ab40c8af44378b3267d974bf59d0cd490656"
-    },
-    {
-      "sha": "406c92d2045b5e64e0211b355671b4f2faf1effa",
-      "short": "406c92d",
-      "message": "docs: the architecture generators must have, and the question to answer first",
+      "sha": "7bbe631ce34d684aa11cdcb9466449db1fb67dbc",
+      "short": "7bbe631",
+      "message": "chore: drop the tests for surfaces this engine will not have in that shape",
       "author": "Daniel",
-      "date": "2026-08-08T23:35:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/406c92d2045b5e64e0211b355671b4f2faf1effa"
+      "date": "2026-08-09T04:24:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7bbe631ce34d684aa11cdcb9466449db1fb67dbc"
     },
     {
-      "sha": "460975c529fbe77608f6286d92248ea282dacd8c",
-      "short": "460975c",
-      "message": "docs: say what the new engine actually does, with the number that produced it",
+      "sha": "cedb7f1924cdaf18d266666261544a95704f2f01",
+      "short": "cedb7f1",
+      "message": "docs: 581 of 818, and the column the throw moved",
       "author": "Daniel",
-      "date": "2026-08-08T23:32:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/460975c529fbe77608f6286d92248ea282dacd8c"
+      "date": "2026-08-09T04:16:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cedb7f1924cdaf18d266666261544a95704f2f01"
     },
     {
-      "sha": "9135e15c131569af58edf993a1e36c29ce06d4be",
-      "short": "9135e15",
+      "sha": "5871ba36f89685d0a37f7a78f6ae307d78ea8d10",
+      "short": "5871ba3",
+      "message": "feat: rts.time and rts.gc, with what each can say truthfully",
+      "author": "Daniel",
+      "date": "2026-08-09T04:11:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5871ba36f89685d0a37f7a78f6ae307d78ea8d10"
+    },
+    {
+      "sha": "38ac3085b460dfb5c3452bd5605c34ad515eb688",
+      "short": "38ac308",
+      "message": "feat: the bare `rts` specifier, with the arithmetic it can answer exactly",
+      "author": "Daniel",
+      "date": "2026-08-09T04:05:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/38ac3085b460dfb5c3452bd5605c34ad515eb688"
+    },
+    {
+      "sha": "29501b2bac4d8f3e7baa9c51b1e4669487204411",
+      "short": "29501b2",
+      "message": "fix: the TypeError says what the value was, and new Function is named absent",
+      "author": "Daniel",
+      "date": "2026-08-09T03:54:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29501b2bac4d8f3e7baa9c51b1e4669487204411"
+    },
+    {
+      "sha": "47571b2658a0a24002324e212da9cc0ac20f6fce",
+      "short": "47571b2",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-08T23:27:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9135e15c131569af58edf993a1e36c29ce06d4be"
+      "date": "2026-08-09T03:47:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/47571b2658a0a24002324e212da9cc0ac20f6fce"
     },
     {
-      "sha": "07a660f83285babb996fb32fa464017f3562be80",
-      "short": "07a660f",
+      "sha": "3f5c15490ef5cb485600753e0fde07f3b33e3569",
+      "short": "3f5c154",
+      "message": "fix: a class body binds its own name, which its static block reads",
+      "author": "Daniel",
+      "date": "2026-08-09T03:43:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f5c15490ef5cb485600753e0fde07f3b33e3569"
+    },
+    {
+      "sha": "c04779eaa66552c406cdd1a1168c6907e46b3473",
+      "short": "c04779e",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-08T23:19:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07a660f83285babb996fb32fa464017f3562be80"
+      "date": "2026-08-09T03:38:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c04779eaa66552c406cdd1a1168c6907e46b3473"
     },
     {
-      "sha": "e79900cd63d68425aa27b9713375e5fc53ac2fec",
-      "short": "e79900c",
-      "message": "test: move the suite off the namespaces the old engine provided",
+      "sha": "af0c5a03faa9444eca70ad5e8afbdc554b0df29b",
+      "short": "af0c5a0",
+      "message": "feat: a native can raise a catchable error, and every native asks",
       "author": "Daniel",
-      "date": "2026-08-08T23:10:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e79900cd63d68425aa27b9713375e5fc53ac2fec"
+      "date": "2026-08-09T03:17:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af0c5a03faa9444eca70ad5e8afbdc554b0df29b"
     },
     {
-      "sha": "a730cb8a79e4ee15c81c6db16531844389c975f0",
-      "short": "a730cb8",
-      "message": "fix: awaiting a timer reported a deadlock one instant after it settled",
+      "sha": "f2cc1f3419f3c59f79e0870c4e856b94933fb59e",
+      "short": "f2cc1f3",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-08T23:08:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a730cb8a79e4ee15c81c6db16531844389c975f0"
+      "date": "2026-08-09T03:00:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2cc1f3419f3c59f79e0870c4e856b94933fb59e"
     },
     {
-      "sha": "5cc0750f3f85a8355d900e909fa5434f509fd705",
-      "short": "5cc0750",
-      "message": "docs: retirar um número de fps que não media o motor, e registrar as skills",
-      "author": "Marcos",
-      "date": "2026-08-08T23:04:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cc0750f3f85a8355d900e909fa5434f509fd705"
-    },
-    {
-      "sha": "1471b7c48542ef9267a54506ba85c92bda8fffa9",
-      "short": "1471b7c",
-      "message": "feat: Math.random, which was not there at all",
+      "sha": "f4cf905c4c4fe72a8d8499f53d220ce3c90a218a",
+      "short": "f4cf905",
+      "message": "docs: 577 of 818, and what the day added",
       "author": "Daniel",
-      "date": "2026-08-08T22:58:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1471b7c48542ef9267a54506ba85c92bda8fffa9"
-    },
-    {
-      "sha": "40a4bc22cb7de9851106d04dfec1b880d3cb6aab",
-      "short": "40a4bc2",
-      "message": "docs: rts:gpu não estava bloqueado — a afirmação era falsa",
-      "author": "Marcos",
-      "date": "2026-08-08T22:54:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40a4bc22cb7de9851106d04dfec1b880d3cb6aab"
-    },
-    {
-      "sha": "92e2bc11060a0f40eb60494a489921d246fed2cf",
-      "short": "92e2bc1",
-      "message": "fix: a subclass lost every field it declared",
-      "author": "Daniel",
-      "date": "2026-08-08T22:54:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92e2bc11060a0f40eb60494a489921d246fed2cf"
-    },
-    {
-      "sha": "1fae4f065d6da1d2c3d8f82b7a75e832c1d4d0dd",
-      "short": "1fae4f0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-08T22:51:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1fae4f065d6da1d2c3d8f82b7a75e832c1d4d0dd"
+      "date": "2026-08-09T02:53:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f4cf905c4c4fe72a8d8499f53d220ce3c90a218a"
     }
   ]
 }
