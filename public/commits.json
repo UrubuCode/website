@@ -1,6 +1,70 @@
 {
-  "total": 4742,
+  "total": 4750,
   "commits": [
+    {
+      "sha": "8633889be281d2039e8e2c6bffe22036ae479dba",
+      "short": "8633889",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-09T17:44:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8633889be281d2039e8e2c6bffe22036ae479dba"
+    },
+    {
+      "sha": "bbc17aa2dba627f344028847c69833d8a7e39989",
+      "short": "bbc17aa",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-09T17:35:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bbc17aa2dba627f344028847c69833d8a7e39989"
+    },
+    {
+      "sha": "d60ab30ddf939a39e3aee37c4c32433b1f028fdd",
+      "short": "d60ab30",
+      "message": "perf(scene3d): um draw call por GRUPO, não por objeto (#2107)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-09T17:19:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d60ab30ddf939a39e3aee37c4c32433b1f028fdd"
+    },
+    {
+      "sha": "d9aa361e713f74b233e4f801c04d601a3bbec00a",
+      "short": "d9aa361",
+      "message": "perf: o acesso indexado para de fazer dois trabalhos mortos por acesso (#2106)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-09T17:18:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d9aa361e713f74b233e4f801c04d601a3bbec00a"
+    },
+    {
+      "sha": "f1d3ca6a02333171173e5cab98ba3e5c857de3c5",
+      "short": "f1d3ca6",
+      "message": "perf: um array global de módulo é lido tão rápido quanto um parâmetro (#2105)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-09T17:18:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1d3ca6a02333171173e5cab98ba3e5c857de3c5"
+    },
+    {
+      "sha": "c1dafd48856d3e7615438b007d28568d5d7831da",
+      "short": "c1dafd4",
+      "message": "fix: um buffer de rts:buffer era coletado enquanto o programa ainda o usava (#2104)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-09T17:18:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c1dafd48856d3e7615438b007d28568d5d7831da"
+    },
+    {
+      "sha": "1c644568b55da4bec83b1dc37e960473bc517842",
+      "short": "1c64456",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-09T13:28:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c644568b55da4bec83b1dc37e960473bc517842"
+    },
+    {
+      "sha": "7dffc40d92ea1c70bb6cdbb5baccebb443bf1de7",
+      "short": "7dffc40",
+      "message": "docs: o motor passou a lançar durante o porte, e a nota ficou para trás (#2103)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-09T13:04:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7dffc40d92ea1c70bb6cdbb5baccebb443bf1de7"
+    },
     {
       "sha": "455acd915f9a44be2a944410e40f4ab9340622b3",
       "short": "455acd9",
@@ -96,70 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-09T04:11:19Z",
       "url": "https://github.com/UrubuCode/rts/commit/5871ba36f89685d0a37f7a78f6ae307d78ea8d10"
-    },
-    {
-      "sha": "38ac3085b460dfb5c3452bd5605c34ad515eb688",
-      "short": "38ac308",
-      "message": "feat: the bare `rts` specifier, with the arithmetic it can answer exactly",
-      "author": "Daniel",
-      "date": "2026-08-09T04:05:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38ac3085b460dfb5c3452bd5605c34ad515eb688"
-    },
-    {
-      "sha": "29501b2bac4d8f3e7baa9c51b1e4669487204411",
-      "short": "29501b2",
-      "message": "fix: the TypeError says what the value was, and new Function is named absent",
-      "author": "Daniel",
-      "date": "2026-08-09T03:54:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29501b2bac4d8f3e7baa9c51b1e4669487204411"
-    },
-    {
-      "sha": "47571b2658a0a24002324e212da9cc0ac20f6fce",
-      "short": "47571b2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T03:47:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47571b2658a0a24002324e212da9cc0ac20f6fce"
-    },
-    {
-      "sha": "3f5c15490ef5cb485600753e0fde07f3b33e3569",
-      "short": "3f5c154",
-      "message": "fix: a class body binds its own name, which its static block reads",
-      "author": "Daniel",
-      "date": "2026-08-09T03:43:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f5c15490ef5cb485600753e0fde07f3b33e3569"
-    },
-    {
-      "sha": "c04779eaa66552c406cdd1a1168c6907e46b3473",
-      "short": "c04779e",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T03:38:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c04779eaa66552c406cdd1a1168c6907e46b3473"
-    },
-    {
-      "sha": "af0c5a03faa9444eca70ad5e8afbdc554b0df29b",
-      "short": "af0c5a0",
-      "message": "feat: a native can raise a catchable error, and every native asks",
-      "author": "Daniel",
-      "date": "2026-08-09T03:17:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af0c5a03faa9444eca70ad5e8afbdc554b0df29b"
-    },
-    {
-      "sha": "f2cc1f3419f3c59f79e0870c4e856b94933fb59e",
-      "short": "f2cc1f3",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-09T03:00:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2cc1f3419f3c59f79e0870c4e856b94933fb59e"
-    },
-    {
-      "sha": "f4cf905c4c4fe72a8d8499f53d220ce3c90a218a",
-      "short": "f4cf905",
-      "message": "docs: 577 of 818, and what the day added",
-      "author": "Daniel",
-      "date": "2026-08-09T02:53:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f4cf905c4c4fe72a8d8499f53d220ce3c90a218a"
     }
   ]
 }
