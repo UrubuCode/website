@@ -1,6 +1,94 @@
 {
-  "total": 4812,
+  "total": 4823,
   "commits": [
+    {
+      "sha": "2a2e19b441037a78f5472845e88159db9ed4db51",
+      "short": "2a2e19b",
+      "message": "refactor: the crates get their real names — no `-rwk` anywhere",
+      "author": "Daniel",
+      "date": "2026-08-10T18:37:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a2e19b441037a78f5472845e88159db9ed4db51"
+    },
+    {
+      "sha": "f2888072dcf032eb2cbd15213e06be1e5e08e771",
+      "short": "f288807",
+      "message": "fix: an AOT object is position-independent where the loader requires it",
+      "author": "Daniel",
+      "date": "2026-08-10T18:16:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2888072dcf032eb2cbd15213e06be1e5e08e771"
+    },
+    {
+      "sha": "46910d99788b073fc4d28804cbe5e717538dd4d1",
+      "short": "46910d9",
+      "message": "refactor: delete the old engine — fifteen crates, and nothing on the path noticed",
+      "author": "Daniel",
+      "date": "2026-08-10T18:07:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/46910d99788b073fc4d28804cbe5e717538dd4d1"
+    },
+    {
+      "sha": "6596ae9bd477d83366139ddc7e27e75a1ec8fd34",
+      "short": "6596ae9",
+      "message": "refactor: the d.ts declares globals, and the old AOT archive path is deleted",
+      "author": "Daniel",
+      "date": "2026-08-10T17:42:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6596ae9bd477d83366139ddc7e27e75a1ec8fd34"
+    },
+    {
+      "sha": "dc7431845e2eb352e49fc7313bc07587043cfa8a",
+      "short": "dc74318",
+      "message": "docs: CLAUDE.md stops describing a crate that was deleted",
+      "author": "Daniel",
+      "date": "2026-08-10T17:03:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dc7431845e2eb352e49fc7313bc07587043cfa8a"
+    },
+    {
+      "sha": "f5d08d2e43f516fa59226cbaec9e06434cb388b8",
+      "short": "f5d08d2",
+      "message": "feat: `rts emit-types` describes this engine, and `rts-codegen-new` is deleted",
+      "author": "Daniel",
+      "date": "2026-08-10T17:02:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5d08d2e43f516fa59226cbaec9e06434cb388b8"
+    },
+    {
+      "sha": "e82859a7ed6654b664489ae588be2c086bf6cadd",
+      "short": "e82859a",
+      "message": "feat: `rts ir` shows the engine that is actually running",
+      "author": "Daniel",
+      "date": "2026-08-10T16:36:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e82859a7ed6654b664489ae588be2c086bf6cadd"
+    },
+    {
+      "sha": "8c03a2a08e8eaeed90532451d80b45d7e61842b6",
+      "short": "8c03a2a",
+      "message": "Merge: bigint reaches its own shift and power, and the tree drops a C dependency",
+      "author": "Daniel",
+      "date": "2026-08-10T16:23:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c03a2a08e8eaeed90532451d80b45d7e61842b6"
+    },
+    {
+      "sha": "caaa5682c90ea70cf1ba7f2ae17ae4b2013d4689",
+      "short": "caaa568",
+      "message": "docs: the handoff for the two changes on this branch",
+      "author": "Marcos",
+      "date": "2026-08-10T11:44:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/caaa5682c90ea70cf1ba7f2ae17ae4b2013d4689"
+    },
+    {
+      "sha": "6dd865d1ad7eb973ac7f74abab2a51a791f8c559",
+      "short": "6dd865d",
+      "message": "build: drop `stacker`, so the tree carries one less C dependency",
+      "author": "Marcos",
+      "date": "2026-08-10T11:44:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6dd865d1ad7eb973ac7f74abab2a51a791f8c559"
+    },
+    {
+      "sha": "a80bbcf6338b73dceaf6a08fe313d53a50ecd821",
+      "short": "a80bbcf",
+      "message": "fix: bigint reaches its own `<<`, `>>`, `**` and `~`, and refuses a count it cannot build",
+      "author": "Marcos",
+      "date": "2026-08-10T11:44:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a80bbcf6338b73dceaf6a08fe313d53a50ecd821"
+    },
     {
       "sha": "36b723ec63887b566ccae552734ee96457143016",
       "short": "36b723e",
@@ -72,94 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-10T08:29:17Z",
       "url": "https://github.com/UrubuCode/rts/commit/1d01920258752fa6234237acc6b10d9695d01357"
-    },
-    {
-      "sha": "4457cf287748600903d315d884538aeb33518522",
-      "short": "4457cf2",
-      "message": "fix: an await parked on a promise is a waiter, so its rejection is handled",
-      "author": "Daniel",
-      "date": "2026-08-10T08:28:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4457cf287748600903d315d884538aeb33518522"
-    },
-    {
-      "sha": "0e44943427daa7d7aed71e5695c2ce60a3b021b7",
-      "short": "0e44943",
-      "message": "fix: the KDFs derive the right bytes, and node:crypto has a kdf again",
-      "author": "Daniel",
-      "date": "2026-08-10T08:23:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e44943427daa7d7aed71e5695c2ce60a3b021b7"
-    },
-    {
-      "sha": "25aa64d19b27418879ab2a29a82bac90ae8ba273",
-      "short": "25aa64d",
-      "message": "feat: the archive an AOT-compiled program links against",
-      "author": "Daniel",
-      "date": "2026-08-10T08:07:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/25aa64d19b27418879ab2a29a82bac90ae8ba273"
-    },
-    {
-      "sha": "22f9cff6b5aa4360b1953a8fac9a9b8fb1608f0e",
-      "short": "22f9cff",
-      "message": "fix: destructuring took the whole iterator instead of what the pattern names",
-      "author": "Daniel",
-      "date": "2026-08-10T07:55:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/22f9cff6b5aa4360b1953a8fac9a9b8fb1608f0e"
-    },
-    {
-      "sha": "728883011c98c710fd1d7ed41bfe4ca7e11e97e3",
-      "short": "7288830",
-      "message": "feat: `rts run` and `rts test` enter through the new engine",
-      "author": "Daniel",
-      "date": "2026-08-10T07:41:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/728883011c98c710fd1d7ed41bfe4ca7e11e97e3"
-    },
-    {
-      "sha": "38e0f2a8745e94f44e5a8b8110109965fd1dab8e",
-      "short": "38e0f2a",
-      "message": "chore: remove four surfaces the engine cannot honestly provide",
-      "author": "Daniel",
-      "date": "2026-08-10T07:13:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38e0f2a8745e94f44e5a8b8110109965fd1dab8e"
-    },
-    {
-      "sha": "7aa52b0a0b6a5b6d919a7dda7b8a5c72a4e22f18",
-      "short": "7aa52b0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-10T05:38:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7aa52b0a0b6a5b6d919a7dda7b8a5c72a4e22f18"
-    },
-    {
-      "sha": "e55b753e79df8cf98dbe91b23ae266730ad3c3de",
-      "short": "e55b753",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-10T05:32:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e55b753e79df8cf98dbe91b23ae266730ad3c3de"
-    },
-    {
-      "sha": "7ab626ca671fc67238135ae2d5f5600e821196d1",
-      "short": "7ab626c",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Daniel",
-      "date": "2026-08-10T05:18:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ab626ca671fc67238135ae2d5f5600e821196d1"
-    },
-    {
-      "sha": "ed93f447927e0053ad8c287e4a8f51c383cd9264",
-      "short": "ed93f44",
-      "message": "feat: 720 -> 735 of 800, and a compile-time refusal the language never asked for",
-      "author": "Daniel",
-      "date": "2026-08-10T05:18:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed93f447927e0053ad8c287e4a8f51c383cd9264"
-    },
-    {
-      "sha": "24f60c52cdaafdf4820e59a0891f4b6f422f2d46",
-      "short": "24f60c5",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-10T04:58:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/24f60c52cdaafdf4820e59a0891f4b6f422f2d46"
     }
   ]
 }
