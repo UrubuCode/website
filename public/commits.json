@@ -1,165 +1,165 @@
 {
-  "total": 4775,
+  "total": 4797,
   "commits": [
     {
-      "sha": "63ce4d83c936e2b0c6c72f4b04b6980356916a78",
-      "short": "63ce4d8",
+      "sha": "7aa52b0a0b6a5b6d919a7dda7b8a5c72a4e22f18",
+      "short": "7aa52b0",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T00:30:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63ce4d83c936e2b0c6c72f4b04b6980356916a78"
+      "date": "2026-08-10T05:38:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7aa52b0a0b6a5b6d919a7dda7b8a5c72a4e22f18"
     },
     {
-      "sha": "74c2a122e58af74b1f14f40934e046952be8161e",
-      "short": "74c2a12",
+      "sha": "e55b753e79df8cf98dbe91b23ae266730ad3c3de",
+      "short": "e55b753",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T00:24:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74c2a122e58af74b1f14f40934e046952be8161e"
+      "date": "2026-08-10T05:32:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e55b753e79df8cf98dbe91b23ae266730ad3c3de"
     },
     {
-      "sha": "8458246d5993e8e31c67759cfa3232f47d2b690a",
-      "short": "8458246",
+      "sha": "7ab626ca671fc67238135ae2d5f5600e821196d1",
+      "short": "7ab626c",
       "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Daniel",
-      "date": "2026-08-10T00:09:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8458246d5993e8e31c67759cfa3232f47d2b690a"
+      "date": "2026-08-10T05:18:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ab626ca671fc67238135ae2d5f5600e821196d1"
     },
     {
-      "sha": "fda48cb6e047c9f837141f453d2e604fed0d7303",
-      "short": "fda48cb",
-      "message": "chore: the benchmarks run on the new engine, where the surface they used is gone",
+      "sha": "ed93f447927e0053ad8c287e4a8f51c383cd9264",
+      "short": "ed93f44",
+      "message": "feat: 720 -> 735 of 800, and a compile-time refusal the language never asked for",
       "author": "Daniel",
-      "date": "2026-08-10T00:09:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fda48cb6e047c9f837141f453d2e604fed0d7303"
+      "date": "2026-08-10T05:18:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed93f447927e0053ad8c287e4a8f51c383cd9264"
     },
     {
-      "sha": "74194d62935fc5c55ed0983290eae7273890be04",
-      "short": "74194d6",
+      "sha": "24f60c52cdaafdf4820e59a0891f4b6f422f2d46",
+      "short": "24f60c5",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T00:08:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74194d62935fc5c55ed0983290eae7273890be04"
+      "date": "2026-08-10T04:58:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24f60c52cdaafdf4820e59a0891f4b6f422f2d46"
     },
     {
-      "sha": "ca7d047583dcb0719c7a5e000df0f953a83e3faa",
-      "short": "ca7d047",
+      "sha": "d72af670207966d867a7df9395ba5221b765458d",
+      "short": "d72af67",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T00:00:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca7d047583dcb0719c7a5e000df0f953a83e3faa"
+      "date": "2026-08-10T04:52:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d72af670207966d867a7df9395ba5221b765458d"
     },
     {
-      "sha": "61ce29e6f1bad03992db051a8b4f329fb14d3e85",
-      "short": "61ce29e",
-      "message": "docs: the run command in CLAUDE.md points at the engine being replaced",
+      "sha": "ca85fa0294eb6346b3ae46cd4804b936b431ee28",
+      "short": "ca85fa0",
+      "message": "feat: 698 -> 720 of 800, and the optional chain was calling what it had short-circuited",
       "author": "Daniel",
-      "date": "2026-08-09T23:45:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61ce29e6f1bad03992db051a8b4f329fb14d3e85"
+      "date": "2026-08-10T04:37:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca85fa0294eb6346b3ae46cd4804b936b431ee28"
     },
     {
-      "sha": "d41336a0b953f06d3c1ca1d10c0820a3a7e1f9e8",
-      "short": "d41336a",
-      "message": "fix: 599 -> 626 of 797, and the regression the suite could not see",
-      "author": "Daniel",
-      "date": "2026-08-09T23:43:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d41336a0b953f06d3c1ca1d10c0820a3a7e1f9e8"
-    },
-    {
-      "sha": "6ab92208c3c96d711afebf95d115e3075b25aa4d",
-      "short": "6ab9220",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-09T23:43:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ab92208c3c96d711afebf95d115e3075b25aa4d"
-    },
-    {
-      "sha": "390f4e7d41d825b7aa0811e3468171e01481ae97",
-      "short": "390f4e7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T23:11:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/390f4e7d41d825b7aa0811e3468171e01481ae97"
-    },
-    {
-      "sha": "95d99199aceca68ff0ff1ae99708ec53e5dc3b6b",
-      "short": "95d9919",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T23:02:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/95d99199aceca68ff0ff1ae99708ec53e5dc3b6b"
-    },
-    {
-      "sha": "5b9e0c0d0058480861cdb93ea124af8f40295cad",
-      "short": "5b9e0c0",
-      "message": "docs: the pre-merge gate was green without measuring anything",
-      "author": "Daniel",
-      "date": "2026-08-09T22:56:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5b9e0c0d0058480861cdb93ea124af8f40295cad"
-    },
-    {
-      "sha": "a2a75a0bf3f85cea7113b36323531ca07d23f0ae",
-      "short": "a2a75a0",
-      "message": "chore: tira do repositório um artefato de teste que entrou por engano",
-      "author": "Marcos",
-      "date": "2026-08-09T22:48:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a2a75a0bf3f85cea7113b36323531ca07d23f0ae"
-    },
-    {
-      "sha": "31e612ef56a3b781f3f3944d04c3923b134ce5c2",
-      "short": "31e612e",
-      "message": "fix: `delete a[0]` apaga de verdade, e Math ganha clz32/imul (#2109)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-09T22:47:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/31e612ef56a3b781f3f3944d04c3923b134ce5c2"
-    },
-    {
-      "sha": "b429c8a4d6df63ad7e463a96b1d0514e33c8f679",
-      "short": "b429c8a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T22:21:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b429c8a4d6df63ad7e463a96b1d0514e33c8f679"
-    },
-    {
-      "sha": "86f91cab5610a7f8d70689d119f95c89e67884cb",
-      "short": "86f91ca",
-      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-09T22:13:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/86f91cab5610a7f8d70689d119f95c89e67884cb"
-    },
-    {
-      "sha": "d59174ab6fc23249d81fae2e437dd488151d70a2",
-      "short": "d59174a",
+      "sha": "f8b7624546c2118071676f59923773997acfed04",
+      "short": "f8b7624",
       "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Daniel",
-      "date": "2026-08-09T21:58:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d59174ab6fc23249d81fae2e437dd488151d70a2"
+      "date": "2026-08-10T04:12:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f8b7624546c2118071676f59923773997acfed04"
     },
     {
-      "sha": "03ee3e93dd541f89b328b18685aadcba4f87b94f",
-      "short": "03ee3e9",
+      "sha": "764c0867f662560e7afaf22ea58d99f2fb8864f7",
+      "short": "764c086",
+      "message": "fix: the crash my own gate could not see, and two bug classes attacked at the root",
+      "author": "Daniel",
+      "date": "2026-08-10T04:12:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/764c0867f662560e7afaf22ea58d99f2fb8864f7"
+    },
+    {
+      "sha": "9e0cd3d761c87ec06406921b2fd945f9ebbac35c",
+      "short": "9e0cd3d",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-09T21:50:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03ee3e93dd541f89b328b18685aadcba4f87b94f"
+      "date": "2026-08-10T04:06:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e0cd3d761c87ec06406921b2fd945f9ebbac35c"
     },
     {
-      "sha": "c100574c4e58ffa4c9a66f657c153020557b68cb",
-      "short": "c100574",
-      "message": "Merge origin/main: sparse arrays, indexed-access perf, and the eleven wrong answers",
-      "author": "Daniel",
-      "date": "2026-08-09T21:41:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c100574c4e58ffa4c9a66f657c153020557b68cb"
-    },
-    {
-      "sha": "2649ab40baa4179a655aec1686dcafed49c421d2",
-      "short": "2649ab4",
+      "sha": "42fa41671ced7a8e163a3ba11d571a56b318a64f",
+      "short": "42fa416",
       "message": "docs: auto-update cross-runtime parity badge (73.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-09T21:41:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2649ab40baa4179a655aec1686dcafed49c421d2"
+      "date": "2026-08-10T04:00:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/42fa41671ced7a8e163a3ba11d571a56b318a64f"
+    },
+    {
+      "sha": "9165f811754882a33c89035d06ea530cafa1be43",
+      "short": "9165f81",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-08-10T03:46:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9165f811754882a33c89035d06ea530cafa1be43"
+    },
+    {
+      "sha": "9cde6a278dcb3c1b15cf7ac3cbc053158cc0555a",
+      "short": "9cde6a2",
+      "message": "fix: 669 -> 698 of 800, and a fix from last round was answering wrongly",
+      "author": "Daniel",
+      "date": "2026-08-10T03:46:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9cde6a278dcb3c1b15cf7ac3cbc053158cc0555a"
+    },
+    {
+      "sha": "e4ad5d06ad31c1091c1457147c9ebc019dc3012e",
+      "short": "e4ad5d0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-10T03:16:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4ad5d06ad31c1091c1457147c9ebc019dc3012e"
+    },
+    {
+      "sha": "51ef7bc549153f1ccc8ebd41119f1cb5f5f59019",
+      "short": "51ef7bc",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-10T03:10:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/51ef7bc549153f1ccc8ebd41119f1cb5f5f59019"
+    },
+    {
+      "sha": "a9ceb37092cee219e11bc242144afc52f5f9ca8d",
+      "short": "a9ceb37",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-08-10T02:55:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9ceb37092cee219e11bc242144afc52f5f9ca8d"
+    },
+    {
+      "sha": "654101741a3cfd1908aa6d7c20d1ef7b51cadef9",
+      "short": "6541017",
+      "message": "fix: 631 -> 669 of 797, and top-level await never compiled at all",
+      "author": "Daniel",
+      "date": "2026-08-10T02:55:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/654101741a3cfd1908aa6d7c20d1ef7b51cadef9"
+    },
+    {
+      "sha": "b9912bae783612543237ae041232f2829b688e3d",
+      "short": "b9912ba",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-10T02:16:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b9912bae783612543237ae041232f2829b688e3d"
+    },
+    {
+      "sha": "b72daf1b8715c38857c4d06c4331ab719b5d5bb7",
+      "short": "b72daf1",
+      "message": "docs: auto-update cross-runtime parity badge (73.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-10T02:10:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b72daf1b8715c38857c4d06c4331ab719b5d5bb7"
+    },
+    {
+      "sha": "4919d66490f0693e8d9efe8800a2b1838a3fecc1",
+      "short": "4919d66",
+      "message": "fix: TypeScript's `this` parameter is the receiver's type, not an argument",
+      "author": "Daniel",
+      "date": "2026-08-10T01:57:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4919d66490f0693e8d9efe8800a2b1838a3fecc1"
     }
   ]
 }
