@@ -1,165 +1,165 @@
 {
-  "total": 4840,
+  "total": 4869,
   "commits": [
     {
-      "sha": "20c8e183042a550b59869fc9b21dd102df763147",
-      "short": "20c8e18",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-10T21:31:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/20c8e183042a550b59869fc9b21dd102df763147"
-    },
-    {
-      "sha": "3ccd15288a5bb028969595bbb23e681e5ced4604",
-      "short": "3ccd152",
-      "message": "feat: N-API classes — and the \"three doors\" claim finally kept",
-      "author": "Daniel",
-      "date": "2026-08-10T21:18:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3ccd15288a5bb028969595bbb23e681e5ced4604"
-    },
-    {
-      "sha": "8ca35af172b34d443cc624c3afefdf13bf1f00c9",
-      "short": "8ca35af",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-10T21:11:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8ca35af172b34d443cc624c3afefdf13bf1f00c9"
-    },
-    {
-      "sha": "782e11a041be464f7f447c25980863683698965f",
-      "short": "782e11a",
-      "message": "feat: N-API errors — a throw is a value, and it lives in the runtime's one slot",
-      "author": "Daniel",
-      "date": "2026-08-10T21:07:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/782e11a041be464f7f447c25980863683698965f"
-    },
-    {
-      "sha": "779fbf21e866f5646b0a8c73f5bac09580c7c9bb",
-      "short": "779fbf2",
+      "sha": "22895a0dd60b1b0aedc63aa85f80a92dcbc23768",
+      "short": "22895a0",
       "message": "docs: auto-update cross-runtime parity badge (61%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T21:06:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/779fbf21e866f5646b0a8c73f5bac09580c7c9bb"
+      "date": "2026-08-11T06:28:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22895a0dd60b1b0aedc63aa85f80a92dcbc23768"
     },
     {
-      "sha": "a07495be2fd6d0af97a5d65a4931c1aad540d4cb",
-      "short": "a07495b",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "sha": "8058775f9fdf9dd46ed6a0582df60481a9aacfc7",
+      "short": "8058775",
+      "message": "Merge branch 'perf/compile-and-startup'",
       "author": "Daniel",
-      "date": "2026-08-10T20:55:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a07495be2fd6d0af97a5d65a4931c1aad540d4cb"
+      "date": "2026-08-11T06:16:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8058775f9fdf9dd46ed6a0582df60481a9aacfc7"
     },
     {
-      "sha": "dd70092d63931b67ee230441ef318d6d8bdff56f",
-      "short": "dd70092",
+      "sha": "18c05d2e2f45fdf3e3b800b1bcc5097d68aaca44",
+      "short": "18c05d2",
+      "message": "perf: build each `typeof` answer once, and refute the premise behind it",
+      "author": "Daniel",
+      "date": "2026-08-11T05:36:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18c05d2e2f45fdf3e3b800b1bcc5097d68aaca44"
+    },
+    {
+      "sha": "fc9d05abeb7cbd248ea9f72dd42a01dd7f483581",
+      "short": "fc9d05a",
+      "message": "perf: compile a file 25-49% faster, measured per file",
+      "author": "Daniel",
+      "date": "2026-08-11T05:11:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc9d05abeb7cbd248ea9f72dd42a01dd7f483581"
+    },
+    {
+      "sha": "65c09ce6d8a883f2f74eeb4f25516b2a06a8a18f",
+      "short": "65c09ce",
       "message": "docs: auto-update cross-runtime parity badge (60.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-10T20:55:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dd70092d63931b67ee230441ef318d6d8bdff56f"
+      "date": "2026-08-11T03:14:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/65c09ce6d8a883f2f74eeb4f25516b2a06a8a18f"
     },
     {
-      "sha": "d5ec35103ae01a2a2d9db003cf29022ca6a7085c",
-      "short": "d5ec351",
-      "message": "feat: N-API P7b — any thread asks, the JavaScript thread calls",
+      "sha": "f275930ed8aec07637c084bc4338024d2a1a5260",
+      "short": "f275930",
+      "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Daniel",
-      "date": "2026-08-10T20:45:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5ec35103ae01a2a2d9db003cf29022ca6a7085c"
+      "date": "2026-08-11T03:05:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f275930ed8aec07637c084bc4338024d2a1a5260"
     },
     {
-      "sha": "6787d88a8b28ca0237198b79cf95d6ae76aaba79",
-      "short": "6787d88",
+      "sha": "4b0d0ca0bf442b337417442f83eede471b5db9b5",
+      "short": "4b0d0ca",
+      "message": "refactor(napi): delete the old crate, and take its name",
+      "author": "Daniel",
+      "date": "2026-08-11T03:04:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4b0d0ca0bf442b337417442f83eede471b5db9b5"
+    },
+    {
+      "sha": "ca83aca390b0200dd39632924da5c0370553da20",
+      "short": "ca83aca",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T02:17:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca83aca390b0200dd39632924da5c0370553da20"
+    },
+    {
+      "sha": "4973fe500bb55b11fa523550884d9583de8141f7",
+      "short": "4973fe5",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Daniel",
+      "date": "2026-08-11T02:08:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4973fe500bb55b11fa523550884d9583de8141f7"
+    },
+    {
+      "sha": "c7abea829b553bf74bae00b9126a1eeafb3cd75d",
+      "short": "c7abea8",
+      "message": "feat(napi): the twenty-one symbols the old crate had and this one did not",
+      "author": "Daniel",
+      "date": "2026-08-11T02:07:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7abea829b553bf74bae00b9126a1eeafb3cd75d"
+    },
+    {
+      "sha": "fff905a99c6609eb3a3e71d88997f741d921927f",
+      "short": "fff905a",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T01:57:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fff905a99c6609eb3a3e71d88997f741d921927f"
+    },
+    {
+      "sha": "61293a1a03bc82cae74f132dcff0dc2530f49729",
+      "short": "61293a1",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-10T20:44:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6787d88a8b28ca0237198b79cf95d6ae76aaba79"
+      "date": "2026-08-11T01:46:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/61293a1a03bc82cae74f132dcff0dc2530f49729"
     },
     {
-      "sha": "cf8675ed62bb4e2d737233459f625030be72a9f0",
-      "short": "cf8675e",
-      "message": "feat: N-API P7a — work off the JavaScript thread, and back",
+      "sha": "d707c2ff39e0b3761d8cd2df192cabb00f87fb1a",
+      "short": "d707c2f",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-08-11T01:36:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d707c2ff39e0b3761d8cd2df192cabb00f87fb1a"
+    },
+    {
+      "sha": "27635e727d8c4597fae4366a3f481b077059b642",
+      "short": "27635e7",
+      "message": "feat: a real npm addon runs",
       "author": "Daniel",
-      "date": "2026-08-10T20:33:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf8675ed62bb4e2d737233459f625030be72a9f0"
+      "date": "2026-08-11T01:31:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27635e727d8c4597fae4366a3f481b077059b642"
     },
     {
-      "sha": "fb63186ac205b44de57d8dbb48d5a3fb4f493fd7",
-      "short": "fb63186",
-      "message": "feat: N-API P6 — the collector tells someone",
+      "sha": "b98b98fdda4f044d66c6da33a1ce9854d2c31f8b",
+      "short": "b98b98f",
+      "message": "perf: as chaves de um objeto de opções são resolvidas UMA vez, não por chamada",
+      "author": "Marcos",
+      "date": "2026-08-11T01:19:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b98b98fdda4f044d66c6da33a1ce9854d2c31f8b"
+    },
+    {
+      "sha": "708fa2321ca068227df26680f7e9afa6ef288a0b",
+      "short": "708fa23",
+      "message": "feat: `rts napi <file.node>` — and a real addon measured against it",
       "author": "Daniel",
-      "date": "2026-08-10T20:26:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb63186ac205b44de57d8dbb48d5a3fb4f493fd7"
+      "date": "2026-08-10T23:21:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/708fa2321ca068227df26680f7e9afa6ef288a0b"
     },
     {
-      "sha": "a0fe642da297eb35bf0140282457a7a37dd3911d",
-      "short": "a0fe642",
-      "message": "feat: N-API P5 — an addon's own pointer, behind a JavaScript object",
+      "sha": "e30dc786c2e09398c8bd48cc5c249652e948605e",
+      "short": "e30dc78",
+      "message": "feat: N-API — the rest of the value surface, every coercion the language's own",
       "author": "Daniel",
-      "date": "2026-08-10T19:59:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a0fe642da297eb35bf0140282457a7a37dd3911d"
+      "date": "2026-08-10T23:09:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e30dc786c2e09398c8bd48cc5c249652e948605e"
     },
     {
-      "sha": "22c60af35266c5cf2ac953582571a04ef2a0c779",
-      "short": "22c60af",
-      "message": "feat: N-API P4 — references, and the collector learns to be watched",
+      "sha": "07317d6e78d6f12a6b91f098b7acc4f02ce9194c",
+      "short": "07317d6",
+      "message": "feat: N-API P8c — the loader",
       "author": "Daniel",
-      "date": "2026-08-10T19:46:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/22c60af35266c5cf2ac953582571a04ef2a0c779"
+      "date": "2026-08-10T22:39:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/07317d6e78d6f12a6b91f098b7acc4f02ce9194c"
     },
     {
-      "sha": "81562de8b2797069e42e3ccae1852fd5be3c9f80",
-      "short": "81562de",
-      "message": "feat: N-API P3 — calling, in both directions",
+      "sha": "9871f806db1f91371f26fe6f838c1de59b615574",
+      "short": "9871f80",
+      "message": "feat: N-API P8b — the symbols are exported, not merely present",
       "author": "Daniel",
-      "date": "2026-08-10T19:18:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81562de8b2797069e42e3ccae1852fd5be3c9f80"
+      "date": "2026-08-10T22:26:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9871f806db1f91371f26fe6f838c1de59b615574"
     },
     {
-      "sha": "b26c0e922586c059061d566973303317af689958",
-      "short": "b26c0e9",
-      "message": "feat: N-API P2 — objects, properties and arrays",
-      "author": "Daniel",
-      "date": "2026-08-10T19:07:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b26c0e922586c059061d566973303317af689958"
-    },
-    {
-      "sha": "b46ea2048a2b4daa643e501e1432f0d6eba0828d",
-      "short": "b46ea20",
-      "message": "feat: N-API starts again, as a rewrite — and the collector learns an external root",
-      "author": "Daniel",
-      "date": "2026-08-10T18:59:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b46ea2048a2b4daa643e501e1432f0d6eba0828d"
-    },
-    {
-      "sha": "f2f7c4e50447031e1cbcfbd0af0b351e1bda2489",
-      "short": "f2f7c4e",
-      "message": "docs: auto-update cross-runtime parity badge (61%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-10T18:54:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2f7c4e50447031e1cbcfbd0af0b351e1bda2489"
-    },
-    {
-      "sha": "2a2e19b441037a78f5472845e88159db9ed4db51",
-      "short": "2a2e19b",
-      "message": "refactor: the crates get their real names — no `-rwk` anywhere",
-      "author": "Daniel",
-      "date": "2026-08-10T18:37:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a2e19b441037a78f5472845e88159db9ed4db51"
-    },
-    {
-      "sha": "f2888072dcf032eb2cbd15213e06be1e5e08e771",
-      "short": "f288807",
-      "message": "fix: an AOT object is position-independent where the loader requires it",
-      "author": "Daniel",
-      "date": "2026-08-10T18:16:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2888072dcf032eb2cbd15213e06be1e5e08e771"
-    },
-    {
-      "sha": "46910d99788b073fc4d28804cbe5e717538dd4d1",
-      "short": "46910d9",
-      "message": "refactor: delete the old engine — fifteen crates, and nothing on the path noticed",
-      "author": "Daniel",
-      "date": "2026-08-10T18:07:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/46910d99788b073fc4d28804cbe5e717538dd4d1"
+      "sha": "aea2684f685eb7f6c3486b26ceed1c642c6e0086",
+      "short": "aea2684",
+      "message": "docs: o número da suíte volta a ser medido",
+      "author": "Marcos",
+      "date": "2026-08-10T22:21:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aea2684f685eb7f6c3486b26ceed1c642c6e0086"
     }
   ]
 }
