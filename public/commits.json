@@ -1,6 +1,110 @@
 {
-  "total": 4869,
+  "total": 4882,
   "commits": [
+    {
+      "sha": "ae6324c03c412559d5e718a97ef5abff8f6450e5",
+      "short": "ae6324c",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T09:37:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae6324c03c412559d5e718a97ef5abff8f6450e5"
+    },
+    {
+      "sha": "b00ac83a39ea700bf48d03977468586e7cc24ade",
+      "short": "b00ac83",
+      "message": "perf: JSON.stringify stops allocating a name per value and a key per element",
+      "author": "Daniel",
+      "date": "2026-08-11T09:26:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b00ac83a39ea700bf48d03977468586e7cc24ade"
+    },
+    {
+      "sha": "9daab40d57473d41b373ad0a0899532c8cbb98cc",
+      "short": "9daab40",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T09:18:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9daab40d57473d41b373ad0a0899532c8cbb98cc"
+    },
+    {
+      "sha": "634b5d53883cf342098e4016cadbee92c5cde2c8",
+      "short": "634b5d5",
+      "message": "perf: cache the five names by a list, not by two fields",
+      "author": "Daniel",
+      "date": "2026-08-11T09:07:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/634b5d53883cf342098e4016cadbee92c5cde2c8"
+    },
+    {
+      "sha": "a94fa0ecb49d1a23e3b7c6cae77c8a9608e7a826",
+      "short": "a94fa0e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-11T09:00:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a94fa0ecb49d1a23e3b7c6cae77c8a9608e7a826"
+    },
+    {
+      "sha": "f2ed3b1be4692c8fa527397baff49bb2859bb4f3",
+      "short": "f2ed3b1",
+      "message": "perf: remember the two keys the runtime asks for by name",
+      "author": "Daniel",
+      "date": "2026-08-11T08:52:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2ed3b1be4692c8fa527397baff49bb2859bb4f3"
+    },
+    {
+      "sha": "f8ea9a29af5fa80f5e8c5f35569aa296aacd5268",
+      "short": "f8ea9a2",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T08:48:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f8ea9a29af5fa80f5e8c5f35569aa296aacd5268"
+    },
+    {
+      "sha": "728d756df3ea72bc50cccc96493596cb343297c0",
+      "short": "728d756",
+      "message": "perf: one borrow and one key lookup per property access, and no setter walk",
+      "author": "Daniel",
+      "date": "2026-08-11T08:28:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/728d756df3ea72bc50cccc96493596cb343297c0"
+    },
+    {
+      "sha": "03b93b043f434743fb4f4f907b559a2959c20bfc",
+      "short": "03b93b0",
+      "message": "perf: one prototype lookup per `new`, not two",
+      "author": "Daniel",
+      "date": "2026-08-11T08:01:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/03b93b043f434743fb4f4f907b559a2959c20bfc"
+    },
+    {
+      "sha": "f3dae0eb861c5a89b4e03df816983cd8d99dd191",
+      "short": "f3dae0e",
+      "message": "perf: count why escape analysis refuses, and refute the plan that followed",
+      "author": "Daniel",
+      "date": "2026-08-11T07:47:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3dae0eb861c5a89b4e03df816983cd8d99dd191"
+    },
+    {
+      "sha": "4702a3e2db93b35cf8669ec91368345fb818567a",
+      "short": "4702a3e",
+      "message": "docs: auto-update cross-runtime parity badge (61%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T07:41:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4702a3e2db93b35cf8669ec91368345fb818567a"
+    },
+    {
+      "sha": "9c057939353a1da4e8b84921b0ad19d4af90ca36",
+      "short": "9c05793",
+      "message": "perf: fifteen inline slots, because a property past the seventh cost 17x",
+      "author": "Daniel",
+      "date": "2026-08-11T07:26:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c057939353a1da4e8b84921b0ad19d4af90ca36"
+    },
+    {
+      "sha": "8b746251e371a725989c2f54ed29948fbf155be3",
+      "short": "8b74625",
+      "message": "perf: report inline-cache misses, and record the 17x cliff they expose",
+      "author": "Daniel",
+      "date": "2026-08-11T06:35:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b746251e371a725989c2f54ed29948fbf155be3"
+    },
     {
       "sha": "22895a0dd60b1b0aedc63aa85f80a92dcbc23768",
       "short": "22895a0",
@@ -56,110 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-11T03:04:55Z",
       "url": "https://github.com/UrubuCode/rts/commit/4b0d0ca0bf442b337417442f83eede471b5db9b5"
-    },
-    {
-      "sha": "ca83aca390b0200dd39632924da5c0370553da20",
-      "short": "ca83aca",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T02:17:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca83aca390b0200dd39632924da5c0370553da20"
-    },
-    {
-      "sha": "4973fe500bb55b11fa523550884d9583de8141f7",
-      "short": "4973fe5",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Daniel",
-      "date": "2026-08-11T02:08:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4973fe500bb55b11fa523550884d9583de8141f7"
-    },
-    {
-      "sha": "c7abea829b553bf74bae00b9126a1eeafb3cd75d",
-      "short": "c7abea8",
-      "message": "feat(napi): the twenty-one symbols the old crate had and this one did not",
-      "author": "Daniel",
-      "date": "2026-08-11T02:07:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7abea829b553bf74bae00b9126a1eeafb3cd75d"
-    },
-    {
-      "sha": "fff905a99c6609eb3a3e71d88997f741d921927f",
-      "short": "fff905a",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T01:57:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fff905a99c6609eb3a3e71d88997f741d921927f"
-    },
-    {
-      "sha": "61293a1a03bc82cae74f132dcff0dc2530f49729",
-      "short": "61293a1",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-11T01:46:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/61293a1a03bc82cae74f132dcff0dc2530f49729"
-    },
-    {
-      "sha": "d707c2ff39e0b3761d8cd2df192cabb00f87fb1a",
-      "short": "d707c2f",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-08-11T01:36:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d707c2ff39e0b3761d8cd2df192cabb00f87fb1a"
-    },
-    {
-      "sha": "27635e727d8c4597fae4366a3f481b077059b642",
-      "short": "27635e7",
-      "message": "feat: a real npm addon runs",
-      "author": "Daniel",
-      "date": "2026-08-11T01:31:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27635e727d8c4597fae4366a3f481b077059b642"
-    },
-    {
-      "sha": "b98b98fdda4f044d66c6da33a1ce9854d2c31f8b",
-      "short": "b98b98f",
-      "message": "perf: as chaves de um objeto de opções são resolvidas UMA vez, não por chamada",
-      "author": "Marcos",
-      "date": "2026-08-11T01:19:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b98b98fdda4f044d66c6da33a1ce9854d2c31f8b"
-    },
-    {
-      "sha": "708fa2321ca068227df26680f7e9afa6ef288a0b",
-      "short": "708fa23",
-      "message": "feat: `rts napi <file.node>` — and a real addon measured against it",
-      "author": "Daniel",
-      "date": "2026-08-10T23:21:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/708fa2321ca068227df26680f7e9afa6ef288a0b"
-    },
-    {
-      "sha": "e30dc786c2e09398c8bd48cc5c249652e948605e",
-      "short": "e30dc78",
-      "message": "feat: N-API — the rest of the value surface, every coercion the language's own",
-      "author": "Daniel",
-      "date": "2026-08-10T23:09:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e30dc786c2e09398c8bd48cc5c249652e948605e"
-    },
-    {
-      "sha": "07317d6e78d6f12a6b91f098b7acc4f02ce9194c",
-      "short": "07317d6",
-      "message": "feat: N-API P8c — the loader",
-      "author": "Daniel",
-      "date": "2026-08-10T22:39:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07317d6e78d6f12a6b91f098b7acc4f02ce9194c"
-    },
-    {
-      "sha": "9871f806db1f91371f26fe6f838c1de59b615574",
-      "short": "9871f80",
-      "message": "feat: N-API P8b — the symbols are exported, not merely present",
-      "author": "Daniel",
-      "date": "2026-08-10T22:26:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9871f806db1f91371f26fe6f838c1de59b615574"
-    },
-    {
-      "sha": "aea2684f685eb7f6c3486b26ceed1c642c6e0086",
-      "short": "aea2684",
-      "message": "docs: o número da suíte volta a ser medido",
-      "author": "Marcos",
-      "date": "2026-08-10T22:21:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aea2684f685eb7f6c3486b26ceed1c642c6e0086"
     }
   ]
 }
