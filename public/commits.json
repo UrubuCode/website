@@ -1,165 +1,165 @@
 {
-  "total": 4898,
+  "total": 4921,
   "commits": [
     {
-      "sha": "e7b54d89ba6b970ca937258e222f2f1e5a418d9d",
-      "short": "e7b54d8",
+      "sha": "4f628107d8b158af37ebb936e99ee5d5e99fd576",
+      "short": "4f62810",
       "message": "docs: auto-update cross-runtime parity badge (60.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-12T00:46:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7b54d89ba6b970ca937258e222f2f1e5a418d9d"
+      "date": "2026-08-12T06:24:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f628107d8b158af37ebb936e99ee5d5e99fd576"
     },
     {
-      "sha": "512e604298a41a252c5c42eb1181c070872457e4",
-      "short": "512e604",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-08-12T00:35:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/512e604298a41a252c5c42eb1181c070872457e4"
-    },
-    {
-      "sha": "63d479fd28f7bf3ad2c1bf9d6c0f824a37bddd1d",
-      "short": "63d479f",
-      "message": "fix: o alocador `single_pass` MISCOMPILA — o padrao do JIT volta a `backtracking`",
-      "author": "Marcos",
-      "date": "2026-08-11T21:40:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63d479fd28f7bf3ad2c1bf9d6c0f824a37bddd1d"
-    },
-    {
-      "sha": "99ab5748c76666b1233f041e052a4d169f220efb",
-      "short": "99ab574",
-      "message": "fix: o fixture dos backends entra na SUITE, e nao so roda",
-      "author": "Marcos",
-      "date": "2026-08-11T20:21:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/99ab5748c76666b1233f041e052a4d169f220efb"
-    },
-    {
-      "sha": "ff365bfa9c26bd3c24128a13841fdc385066652d",
-      "short": "ff365bf",
-      "message": "feat: `rts:rigid` DIZ o que nao pode fazer — backends() e supports()",
-      "author": "Marcos",
-      "date": "2026-08-11T20:19:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff365bfa9c26bd3c24128a13841fdc385066652d"
-    },
-    {
-      "sha": "a194258605202b468d0af02371cc60baee8d7a48",
-      "short": "a194258",
-      "message": "feat: rts-physics aceita QUALQUER motor — a fronteira, e as duas regras que ela obriga",
-      "author": "Marcos",
-      "date": "2026-08-11T20:12:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a194258605202b468d0af02371cc60baee8d7a48"
-    },
-    {
-      "sha": "5032fa8535aa45c18d98b3a3be6bb2fa3d142056",
-      "short": "5032fa8",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T20:08:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5032fa8535aa45c18d98b3a3be6bb2fa3d142056"
-    },
-    {
-      "sha": "a215b5e3c2fd29583edb2bd3bf4fb5206e96853f",
-      "short": "a215b5e",
-      "message": "merge: origin/main — os dois lados acharam INLINE_SLOTS = 15 por caminhos diferentes",
-      "author": "Marcos",
-      "date": "2026-08-11T19:44:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a215b5e3c2fd29583edb2bd3bf4fb5206e96853f"
-    },
-    {
-      "sha": "a5fb55031e98a9a15866c45e02b12ce6bfb355fb",
-      "short": "a5fb550",
-      "message": "merge: a auditoria da cena densa e a saturacao do solver",
-      "author": "Marcos",
-      "date": "2026-08-11T17:41:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5fb55031e98a9a15866c45e02b12ce6bfb355fb"
-    },
-    {
-      "sha": "0671c7822501872d18c68b2afa69551ae374fd2d",
-      "short": "0671c78",
-      "message": "test: onde a cena densa deixa de ser a mesma cena, e onde o solver satura",
-      "author": "Marcos",
-      "date": "2026-08-11T17:07:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0671c7822501872d18c68b2afa69551ae374fd2d"
-    },
-    {
-      "sha": "083621a5e9ce0b87430ce9b1f2db07cf0e0886bd",
-      "short": "083621a",
-      "message": "merge: rts:rigid — o solver paralelo em Rust",
-      "author": "Marcos",
-      "date": "2026-08-11T16:02:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/083621a5e9ce0b87430ce9b1f2db07cf0e0886bd"
-    },
-    {
-      "sha": "f3455ec12b8025a44d663c8fdc367323ae7d66ae",
-      "short": "f3455ec",
-      "message": "feat: rts:rigid — um solver de corpos rígidos paralelo, em Rust",
-      "author": "Marcos",
-      "date": "2026-08-11T15:58:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3455ec12b8025a44d663c8fdc367323ae7d66ae"
-    },
-    {
-      "sha": "ae6324c03c412559d5e718a97ef5abff8f6450e5",
-      "short": "ae6324c",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T09:37:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae6324c03c412559d5e718a97ef5abff8f6450e5"
-    },
-    {
-      "sha": "b00ac83a39ea700bf48d03977468586e7cc24ade",
-      "short": "b00ac83",
-      "message": "perf: JSON.stringify stops allocating a name per value and a key per element",
-      "author": "Daniel",
-      "date": "2026-08-11T09:26:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b00ac83a39ea700bf48d03977468586e7cc24ade"
-    },
-    {
-      "sha": "9daab40d57473d41b373ad0a0899532c8cbb98cc",
-      "short": "9daab40",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T09:18:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9daab40d57473d41b373ad0a0899532c8cbb98cc"
-    },
-    {
-      "sha": "634b5d53883cf342098e4016cadbee92c5cde2c8",
-      "short": "634b5d5",
-      "message": "perf: cache the five names by a list, not by two fields",
-      "author": "Daniel",
-      "date": "2026-08-11T09:07:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/634b5d53883cf342098e4016cadbee92c5cde2c8"
-    },
-    {
-      "sha": "a94fa0ecb49d1a23e3b7c6cae77c8a9608e7a826",
-      "short": "a94fa0e",
+      "sha": "6df401527c424bdcc463ab819909c407c2f58d7c",
+      "short": "6df4015",
       "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-11T09:00:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a94fa0ecb49d1a23e3b7c6cae77c8a9608e7a826"
+      "date": "2026-08-12T06:14:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6df401527c424bdcc463ab819909c407c2f58d7c"
     },
     {
-      "sha": "f2ed3b1be4692c8fa527397baff49bb2859bb4f3",
-      "short": "f2ed3b1",
-      "message": "perf: remember the two keys the runtime asks for by name",
+      "sha": "db93b75ac16c56107adcce442f38e01124ef281c",
+      "short": "db93b75",
+      "message": "docs: what phase 6 would take, recorded where the decision is made",
       "author": "Daniel",
-      "date": "2026-08-11T08:52:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2ed3b1be4692c8fa527397baff49bb2859bb4f3"
+      "date": "2026-08-12T06:08:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db93b75ac16c56107adcce442f38e01124ef281c"
     },
     {
-      "sha": "f8ea9a29af5fa80f5e8c5f35569aa296aacd5268",
-      "short": "f8ea9a2",
+      "sha": "7c6ebf8606eeda0159530166a6ed54b0943cd6e0",
+      "short": "7c6ebf8",
+      "message": "perf: a callee's read form comes from the claim, not from the position",
+      "author": "Daniel",
+      "date": "2026-08-12T06:08:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7c6ebf8606eeda0159530166a6ed54b0943cd6e0"
+    },
+    {
+      "sha": "04c467dea129b58acf959601481f661515aa3e3f",
+      "short": "04c467d",
+      "message": "perf: one value guarded twice is one guard",
+      "author": "Daniel",
+      "date": "2026-08-12T06:01:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/04c467dea129b58acf959601481f661515aa3e3f"
+    },
+    {
+      "sha": "9255cf17341b3ea17940969f496304e2d297913f",
+      "short": "9255cf1",
+      "message": "perf: a claim's first spend, and it can only take a guard AWAY",
+      "author": "Daniel",
+      "date": "2026-08-12T05:54:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9255cf17341b3ea17940969f496304e2d297913f"
+    },
+    {
+      "sha": "36c3bb18ce50732ea3a2186df8ae3393e6fc3304",
+      "short": "36c3bb1",
+      "message": "feat: a class field keeps what it was declared to hold",
+      "author": "Daniel",
+      "date": "2026-08-12T04:20:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36c3bb18ce50732ea3a2186df8ae3393e6fc3304"
+    },
+    {
+      "sha": "185d232b13d561dedf08b72589e25670a7960fe6",
+      "short": "185d232",
+      "message": "merge: a campanha do type pass comeca por um contador, e o contador ja disse algo",
+      "author": "Daniel",
+      "date": "2026-08-12T03:35:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/185d232b13d561dedf08b72589e25670a7960fe6"
+    },
+    {
+      "sha": "29fedfee47fbcd665f0b2efff0eaa963939b6655",
+      "short": "29fedfe",
+      "message": "feat: the type pass answers, is spent on nothing, and counts",
+      "author": "Daniel",
+      "date": "2026-08-12T03:35:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29fedfee47fbcd665f0b2efff0eaa963939b6655"
+    },
+    {
+      "sha": "8f041c9b95b0ab3c698f6df11f935821bb745a63",
+      "short": "8f041c9",
       "message": "docs: auto-update cross-runtime parity badge (60.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-11T08:48:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f8ea9a29af5fa80f5e8c5f35569aa296aacd5268"
+      "date": "2026-08-12T02:53:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f041c9b95b0ab3c698f6df11f935821bb745a63"
     },
     {
-      "sha": "728d756df3ea72bc50cccc96493596cb343297c0",
-      "short": "728d756",
-      "message": "perf: one borrow and one key lookup per property access, and no setter walk",
+      "sha": "ef5f03e494232d2ed34bed20258c331399f53d3c",
+      "short": "ef5f03e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Daniel",
-      "date": "2026-08-11T08:28:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/728d756df3ea72bc50cccc96493596cb343297c0"
+      "date": "2026-08-12T02:43:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef5f03e494232d2ed34bed20258c331399f53d3c"
+    },
+    {
+      "sha": "83f6b0ddaff2b453cf5d296bd548459801c3986d",
+      "short": "83f6b0d",
+      "message": "merge: um sitio de leitura pode lembrar ONDE encontrou a resposta",
+      "author": "Daniel",
+      "date": "2026-08-12T02:33:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/83f6b0ddaff2b453cf5d296bd548459801c3986d"
+    },
+    {
+      "sha": "d52d6b2eac6a7b24c91ac3d05775746fd97622a4",
+      "short": "d52d6b2",
+      "message": "perf: a read site may remember where it last found the answer",
+      "author": "Daniel",
+      "date": "2026-08-12T01:52:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d52d6b2eac6a7b24c91ac3d05775746fd97622a4"
+    },
+    {
+      "sha": "414824cce8c16a9eb28fef4ff88ef31308862e68",
+      "short": "414824c",
+      "message": "chore: RTS_CL_OPT, so the opt_level claim can be re-checked",
+      "author": "Daniel",
+      "date": "2026-08-11T22:50:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/414824cce8c16a9eb28fef4ff88ef31308862e68"
+    },
+    {
+      "sha": "fda50967679d7e95b674babdb805bc01b4670b8c",
+      "short": "fda5096",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-12T02:22:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fda50967679d7e95b674babdb805bc01b4670b8c"
+    },
+    {
+      "sha": "55b30b247ba673be26c80d5452463f1cf7425d73",
+      "short": "55b30b2",
+      "message": "fix: os testes de `coerce` acompanham a assinatura que emprestou",
+      "author": "Marcos",
+      "date": "2026-08-12T02:12:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/55b30b247ba673be26c80d5452463f1cf7425d73"
+    },
+    {
+      "sha": "eb0de9837c14e37a4653f6dadf51ae80495b6789",
+      "short": "eb0de98",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-08-12T02:09:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb0de9837c14e37a4653f6dadf51ae80495b6789"
+    },
+    {
+      "sha": "e11f6ed782d22e37cedf7aa7ab48909cd796c7e0",
+      "short": "e11f6ed",
+      "message": "perf: `a + b` empresta o lado que ja e string — concat -30%",
+      "author": "Marcos",
+      "date": "2026-08-12T02:08:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e11f6ed782d22e37cedf7aa7ab48909cd796c7e0"
+    },
+    {
+      "sha": "8db7a64218645a7a4e2ffc9f6d22158854e6da7f",
+      "short": "8db7a64",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-12T02:01:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8db7a64218645a7a4e2ffc9f6d22158854e6da7f"
+    },
+    {
+      "sha": "6f6e2b02de3ca1fefe062becfebbb84e83867af6",
+      "short": "6f6e2b0",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-08-12T01:51:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6f6e2b02de3ca1fefe062becfebbb84e83867af6"
     }
   ]
 }
