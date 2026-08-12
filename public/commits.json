@@ -1,6 +1,102 @@
 {
-  "total": 4882,
+  "total": 4898,
   "commits": [
+    {
+      "sha": "e7b54d89ba6b970ca937258e222f2f1e5a418d9d",
+      "short": "e7b54d8",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-12T00:46:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7b54d89ba6b970ca937258e222f2f1e5a418d9d"
+    },
+    {
+      "sha": "512e604298a41a252c5c42eb1181c070872457e4",
+      "short": "512e604",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos",
+      "date": "2026-08-12T00:35:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/512e604298a41a252c5c42eb1181c070872457e4"
+    },
+    {
+      "sha": "63d479fd28f7bf3ad2c1bf9d6c0f824a37bddd1d",
+      "short": "63d479f",
+      "message": "fix: o alocador `single_pass` MISCOMPILA — o padrao do JIT volta a `backtracking`",
+      "author": "Marcos",
+      "date": "2026-08-11T21:40:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/63d479fd28f7bf3ad2c1bf9d6c0f824a37bddd1d"
+    },
+    {
+      "sha": "99ab5748c76666b1233f041e052a4d169f220efb",
+      "short": "99ab574",
+      "message": "fix: o fixture dos backends entra na SUITE, e nao so roda",
+      "author": "Marcos",
+      "date": "2026-08-11T20:21:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/99ab5748c76666b1233f041e052a4d169f220efb"
+    },
+    {
+      "sha": "ff365bfa9c26bd3c24128a13841fdc385066652d",
+      "short": "ff365bf",
+      "message": "feat: `rts:rigid` DIZ o que nao pode fazer — backends() e supports()",
+      "author": "Marcos",
+      "date": "2026-08-11T20:19:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff365bfa9c26bd3c24128a13841fdc385066652d"
+    },
+    {
+      "sha": "a194258605202b468d0af02371cc60baee8d7a48",
+      "short": "a194258",
+      "message": "feat: rts-physics aceita QUALQUER motor — a fronteira, e as duas regras que ela obriga",
+      "author": "Marcos",
+      "date": "2026-08-11T20:12:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a194258605202b468d0af02371cc60baee8d7a48"
+    },
+    {
+      "sha": "5032fa8535aa45c18d98b3a3be6bb2fa3d142056",
+      "short": "5032fa8",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-11T20:08:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5032fa8535aa45c18d98b3a3be6bb2fa3d142056"
+    },
+    {
+      "sha": "a215b5e3c2fd29583edb2bd3bf4fb5206e96853f",
+      "short": "a215b5e",
+      "message": "merge: origin/main — os dois lados acharam INLINE_SLOTS = 15 por caminhos diferentes",
+      "author": "Marcos",
+      "date": "2026-08-11T19:44:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a215b5e3c2fd29583edb2bd3bf4fb5206e96853f"
+    },
+    {
+      "sha": "a5fb55031e98a9a15866c45e02b12ce6bfb355fb",
+      "short": "a5fb550",
+      "message": "merge: a auditoria da cena densa e a saturacao do solver",
+      "author": "Marcos",
+      "date": "2026-08-11T17:41:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5fb55031e98a9a15866c45e02b12ce6bfb355fb"
+    },
+    {
+      "sha": "0671c7822501872d18c68b2afa69551ae374fd2d",
+      "short": "0671c78",
+      "message": "test: onde a cena densa deixa de ser a mesma cena, e onde o solver satura",
+      "author": "Marcos",
+      "date": "2026-08-11T17:07:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0671c7822501872d18c68b2afa69551ae374fd2d"
+    },
+    {
+      "sha": "083621a5e9ce0b87430ce9b1f2db07cf0e0886bd",
+      "short": "083621a",
+      "message": "merge: rts:rigid — o solver paralelo em Rust",
+      "author": "Marcos",
+      "date": "2026-08-11T16:02:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/083621a5e9ce0b87430ce9b1f2db07cf0e0886bd"
+    },
+    {
+      "sha": "f3455ec12b8025a44d663c8fdc367323ae7d66ae",
+      "short": "f3455ec",
+      "message": "feat: rts:rigid — um solver de corpos rígidos paralelo, em Rust",
+      "author": "Marcos",
+      "date": "2026-08-11T15:58:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3455ec12b8025a44d663c8fdc367323ae7d66ae"
+    },
     {
       "sha": "ae6324c03c412559d5e718a97ef5abff8f6450e5",
       "short": "ae6324c",
@@ -64,102 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-11T08:28:08Z",
       "url": "https://github.com/UrubuCode/rts/commit/728d756df3ea72bc50cccc96493596cb343297c0"
-    },
-    {
-      "sha": "03b93b043f434743fb4f4f907b559a2959c20bfc",
-      "short": "03b93b0",
-      "message": "perf: one prototype lookup per `new`, not two",
-      "author": "Daniel",
-      "date": "2026-08-11T08:01:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03b93b043f434743fb4f4f907b559a2959c20bfc"
-    },
-    {
-      "sha": "f3dae0eb861c5a89b4e03df816983cd8d99dd191",
-      "short": "f3dae0e",
-      "message": "perf: count why escape analysis refuses, and refute the plan that followed",
-      "author": "Daniel",
-      "date": "2026-08-11T07:47:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f3dae0eb861c5a89b4e03df816983cd8d99dd191"
-    },
-    {
-      "sha": "4702a3e2db93b35cf8669ec91368345fb818567a",
-      "short": "4702a3e",
-      "message": "docs: auto-update cross-runtime parity badge (61%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T07:41:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4702a3e2db93b35cf8669ec91368345fb818567a"
-    },
-    {
-      "sha": "9c057939353a1da4e8b84921b0ad19d4af90ca36",
-      "short": "9c05793",
-      "message": "perf: fifteen inline slots, because a property past the seventh cost 17x",
-      "author": "Daniel",
-      "date": "2026-08-11T07:26:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c057939353a1da4e8b84921b0ad19d4af90ca36"
-    },
-    {
-      "sha": "8b746251e371a725989c2f54ed29948fbf155be3",
-      "short": "8b74625",
-      "message": "perf: report inline-cache misses, and record the 17x cliff they expose",
-      "author": "Daniel",
-      "date": "2026-08-11T06:35:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b746251e371a725989c2f54ed29948fbf155be3"
-    },
-    {
-      "sha": "22895a0dd60b1b0aedc63aa85f80a92dcbc23768",
-      "short": "22895a0",
-      "message": "docs: auto-update cross-runtime parity badge (61%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T06:28:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/22895a0dd60b1b0aedc63aa85f80a92dcbc23768"
-    },
-    {
-      "sha": "8058775f9fdf9dd46ed6a0582df60481a9aacfc7",
-      "short": "8058775",
-      "message": "Merge branch 'perf/compile-and-startup'",
-      "author": "Daniel",
-      "date": "2026-08-11T06:16:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8058775f9fdf9dd46ed6a0582df60481a9aacfc7"
-    },
-    {
-      "sha": "18c05d2e2f45fdf3e3b800b1bcc5097d68aaca44",
-      "short": "18c05d2",
-      "message": "perf: build each `typeof` answer once, and refute the premise behind it",
-      "author": "Daniel",
-      "date": "2026-08-11T05:36:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18c05d2e2f45fdf3e3b800b1bcc5097d68aaca44"
-    },
-    {
-      "sha": "fc9d05abeb7cbd248ea9f72dd42a01dd7f483581",
-      "short": "fc9d05a",
-      "message": "perf: compile a file 25-49% faster, measured per file",
-      "author": "Daniel",
-      "date": "2026-08-11T05:11:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc9d05abeb7cbd248ea9f72dd42a01dd7f483581"
-    },
-    {
-      "sha": "65c09ce6d8a883f2f74eeb4f25516b2a06a8a18f",
-      "short": "65c09ce",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-11T03:14:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/65c09ce6d8a883f2f74eeb4f25516b2a06a8a18f"
-    },
-    {
-      "sha": "f275930ed8aec07637c084bc4338024d2a1a5260",
-      "short": "f275930",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Daniel",
-      "date": "2026-08-11T03:05:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f275930ed8aec07637c084bc4338024d2a1a5260"
-    },
-    {
-      "sha": "4b0d0ca0bf442b337417442f83eede471b5db9b5",
-      "short": "4b0d0ca",
-      "message": "refactor(napi): delete the old crate, and take its name",
-      "author": "Daniel",
-      "date": "2026-08-11T03:04:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b0d0ca0bf442b337417442f83eede471b5db9b5"
     }
   ]
 }
