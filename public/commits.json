@@ -1,6 +1,38 @@
 {
-  "total": 4955,
+  "total": 4959,
   "commits": [
+    {
+      "sha": "baed2d5b48ccb7a0b3e54fbaa913e9d61356fe35",
+      "short": "baed2d5",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-13T00:18:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/baed2d5b48ccb7a0b3e54fbaa913e9d61356fe35"
+    },
+    {
+      "sha": "1198ead2ce80e55a2630a621b166bcb78a087727",
+      "short": "1198ead",
+      "message": "fix: the tests call `object_new` with the width it now takes",
+      "author": "Daniel",
+      "date": "2026-08-12T23:50:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1198ead2ce80e55a2630a621b166bcb78a087727"
+    },
+    {
+      "sha": "179e426c43c65e686512e8d5f15fde9f9dc2359a",
+      "short": "179e426",
+      "message": "perf: an object is born as wide as its shape, so the overflow is not reached",
+      "author": "Daniel",
+      "date": "2026-08-12T23:46:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/179e426c43c65e686512e8d5f15fde9f9dc2359a"
+    },
+    {
+      "sha": "30dcfa6f2bbc5d990559a259ceedea4804a89b3e",
+      "short": "30dcfa6",
+      "message": "refactor: a property past the fifteenth gets an address that stays true",
+      "author": "Daniel",
+      "date": "2026-08-12T23:22:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30dcfa6f2bbc5d990559a259ceedea4804a89b3e"
+    },
     {
       "sha": "d0169e3219b0727ab355475e48cc6aabbe68ea39",
       "short": "d0169e3",
@@ -128,38 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-12T08:32:20Z",
       "url": "https://github.com/UrubuCode/rts/commit/11d6cfc928288f920e295462bac87b4829288b0d"
-    },
-    {
-      "sha": "b011ee698b6c9e5ea7ad94020eefe80ae6935e09",
-      "short": "b011ee6",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-12T08:26:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b011ee698b6c9e5ea7ad94020eefe80ae6935e09"
-    },
-    {
-      "sha": "a8132d47a2db0d114d6dcce442ae408b358265cd",
-      "short": "a8132d4",
-      "message": "docs: phase 6's consumer arrived and did not need the guard",
-      "author": "Daniel",
-      "date": "2026-08-12T08:22:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a8132d47a2db0d114d6dcce442ae408b358265cd"
-    },
-    {
-      "sha": "78e62f542b23b6f1acb9522c61bcdb538f181582",
-      "short": "78e62f5",
-      "message": "perf: a string's length becomes a load, which is phase 6 with the order reversed",
-      "author": "Daniel",
-      "date": "2026-08-12T08:17:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78e62f542b23b6f1acb9522c61bcdb538f181582"
-    },
-    {
-      "sha": "0bf8f62db2e933c43bba568a3c477fb4c31b4423",
-      "short": "0bf8f62",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-12T08:11:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0bf8f62db2e933c43bba568a3c477fb4c31b4423"
     }
   ]
 }
