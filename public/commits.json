@@ -1,6 +1,46 @@
 {
-  "total": 4990,
+  "total": 4995,
   "commits": [
+    {
+      "sha": "aca16984f29b633becc521cbef3aad7d9c296761",
+      "short": "aca1698",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-13T15:00:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aca16984f29b633becc521cbef3aad7d9c296761"
+    },
+    {
+      "sha": "b7cad16003e84987a98ec97c9543d18309aaa4aa",
+      "short": "b7cad16",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-13T14:48:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b7cad16003e84987a98ec97c9543d18309aaa4aa"
+    },
+    {
+      "sha": "8b7766bfa809621fcf9336d08b646795cdc8baab",
+      "short": "8b7766b",
+      "message": "perf: Math.random deixa de pagar a leitura de propriedade e o despacho",
+      "author": "Daniel",
+      "date": "2026-08-13T14:45:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8b7766bfa809621fcf9336d08b646795cdc8baab"
+    },
+    {
+      "sha": "5cedcad46a6a9edf3a370606883c40091620ee7b",
+      "short": "5cedcad",
+      "message": "perf: o cache de uma escrita lembra a TRANSICAO, nao o resultado",
+      "author": "Daniel",
+      "date": "2026-08-13T14:35:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5cedcad46a6a9edf3a370606883c40091620ee7b"
+    },
+    {
+      "sha": "fe220dc9df651f315ff3df9fa111104253b3269f",
+      "short": "fe220dc",
+      "message": "perf: um literal de ate quatro elementos custa UMA travessia em vez de cinco",
+      "author": "Daniel",
+      "date": "2026-08-13T14:17:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fe220dc9df651f315ff3df9fa111104253b3269f"
+    },
     {
       "sha": "20cc3ee404ee66a441ea288267f609c8c263c08c",
       "short": "20cc3ee",
@@ -120,46 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-13T04:35:50Z",
       "url": "https://github.com/UrubuCode/rts/commit/c111eb1ac2e9376ecf47979ca258175097d24a1b"
-    },
-    {
-      "sha": "1c4af68a62ee3581036b09eb6fb696f09517de15",
-      "short": "1c4af68",
-      "message": "docs: o par impossivel era uma ESCRITA, e o censo conta-as",
-      "author": "Daniel",
-      "date": "2026-08-13T04:22:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c4af68a62ee3581036b09eb6fb696f09517de15"
-    },
-    {
-      "sha": "9776f239d45026f73b8e392919b42441921c0815",
-      "short": "9776f23",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-08-13T04:21:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9776f239d45026f73b8e392919b42441921c0815"
-    },
-    {
-      "sha": "69835af00ac362a2ea874982006aa5cc97e7c0f6",
-      "short": "69835af",
-      "message": "feat: a sonda de leitura diz QUAL celula, e o par fica sem ambiguidade",
-      "author": "Daniel",
-      "date": "2026-08-13T04:21:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/69835af00ac362a2ea874982006aa5cc97e7c0f6"
-    },
-    {
-      "sha": "0cc5eaec90474b11833246b7f4dd63fa252d1993",
-      "short": "0cc5eae",
-      "message": "feat: a sonda do cache passa a mostrar tambem a TRANSICAO, nao so o miss",
-      "author": "Daniel",
-      "date": "2026-08-13T04:14:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0cc5eaec90474b11833246b7f4dd63fa252d1993"
-    },
-    {
-      "sha": "276df483d71f83be7d3516387708868dc1d101b8",
-      "short": "276df48",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-13T04:12:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/276df483d71f83be7d3516387708868dc1d101b8"
     }
   ]
 }
