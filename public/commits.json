@@ -1,6 +1,46 @@
 {
-  "total": 5021,
+  "total": 5026,
   "commits": [
+    {
+      "sha": "75d31bfe2483c1fb1ac04825f9c96d68f341e33b",
+      "short": "75d31bf",
+      "message": "docs: auto-update cross-runtime parity badge (61%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-14T07:46:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/75d31bfe2483c1fb1ac04825f9c96d68f341e33b"
+    },
+    {
+      "sha": "b7db9a7b8ad4c51a11d5de1554c8aec06bdc0f02",
+      "short": "b7db9a7",
+      "message": "refactor: um registo de classe e perguntado antes de ser refeito, e um `.next()` nao clona um `Vec`",
+      "author": "Daniel",
+      "date": "2026-08-14T07:33:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b7db9a7b8ad4c51a11d5de1554c8aec06bdc0f02"
+    },
+    {
+      "sha": "34385b05b3ac726ef0ada6c3bfd3d87df3160513",
+      "short": "34385b0",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-14T07:28:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/34385b05b3ac726ef0ada6c3bfd3d87df3160513"
+    },
+    {
+      "sha": "b598526091dbb8ec6ec7f0ec4155f1d5668a6516",
+      "short": "b598526",
+      "message": "perf: quatro nativos escrevem no array que ja tinham em vez de num segundo",
+      "author": "Daniel",
+      "date": "2026-08-14T06:54:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b598526091dbb8ec6ec7f0ec4155f1d5668a6516"
+    },
+    {
+      "sha": "3afb9c33744d11ebdbe7dd788f06a85ed9b4fc7b",
+      "short": "3afb9c3",
+      "message": "perf: um vetor de argumentos nasce no tamanho que vai ter",
+      "author": "Daniel",
+      "date": "2026-08-14T06:29:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3afb9c33744d11ebdbe7dd788f06a85ed9b4fc7b"
+    },
     {
       "sha": "e3fbbfd2c74b11d69c0062ac4eb42708f15b1922",
       "short": "e3fbbfd",
@@ -120,46 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-14T00:41:47Z",
       "url": "https://github.com/UrubuCode/rts/commit/8329417b6f7242092ef296c4f9c4fa56659ca49c"
-    },
-    {
-      "sha": "9bde45a201bacb4a32e7fcdfb7997f974b5ed8e2",
-      "short": "9bde45a",
-      "message": "perf: a template joins its pieces once, when every value is a proven double",
-      "author": "Daniel",
-      "date": "2026-08-13T21:19:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9bde45a201bacb4a32e7fcdfb7997f974b5ed8e2"
-    },
-    {
-      "sha": "be348b05232493bf3bba6947254a20f5d66563a2",
-      "short": "be348b0",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T20:47:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be348b05232493bf3bba6947254a20f5d66563a2"
-    },
-    {
-      "sha": "de72f977b17c993299d0cd79c6891a766b1422a8",
-      "short": "de72f97",
-      "message": "perf: uma string estreita e copiada uma vez, nao duas",
-      "author": "Daniel",
-      "date": "2026-08-13T20:22:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de72f977b17c993299d0cd79c6891a766b1422a8"
-    },
-    {
-      "sha": "e1959df24a9cb9172ef8789c95051ddaa0899f63",
-      "short": "e1959df",
-      "message": "perf: o `ObjectPair` sai, porque o caminho generico passou a bate-lo",
-      "author": "Daniel",
-      "date": "2026-08-13T19:57:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1959df24a9cb9172ef8789c95051ddaa0899f63"
-    },
-    {
-      "sha": "7d1a16d5c4f27e7d89137d6d74014fbea76a3b15",
-      "short": "7d1a16d",
-      "message": "perf: um literal escreve pelo store CACHEADO, como um construtor sempre fez",
-      "author": "Daniel",
-      "date": "2026-08-13T19:46:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7d1a16d5c4f27e7d89137d6d74014fbea76a3b15"
     }
   ]
 }
