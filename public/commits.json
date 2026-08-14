@@ -1,6 +1,86 @@
 {
-  "total": 4995,
+  "total": 5005,
   "commits": [
+    {
+      "sha": "be348b05232493bf3bba6947254a20f5d66563a2",
+      "short": "be348b0",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-13T20:47:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/be348b05232493bf3bba6947254a20f5d66563a2"
+    },
+    {
+      "sha": "de72f977b17c993299d0cd79c6891a766b1422a8",
+      "short": "de72f97",
+      "message": "perf: uma string estreita e copiada uma vez, nao duas",
+      "author": "Daniel",
+      "date": "2026-08-13T20:22:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de72f977b17c993299d0cd79c6891a766b1422a8"
+    },
+    {
+      "sha": "e1959df24a9cb9172ef8789c95051ddaa0899f63",
+      "short": "e1959df",
+      "message": "perf: o `ObjectPair` sai, porque o caminho generico passou a bate-lo",
+      "author": "Daniel",
+      "date": "2026-08-13T19:57:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1959df24a9cb9172ef8789c95051ddaa0899f63"
+    },
+    {
+      "sha": "7d1a16d5c4f27e7d89137d6d74014fbea76a3b15",
+      "short": "7d1a16d",
+      "message": "perf: um literal escreve pelo store CACHEADO, como um construtor sempre fez",
+      "author": "Daniel",
+      "date": "2026-08-13T19:46:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7d1a16d5c4f27e7d89137d6d74014fbea76a3b15"
+    },
+    {
+      "sha": "94d3ac2d8f51b47b546d953159fa9292aff0fad2",
+      "short": "94d3ac2",
+      "message": "perf: um literal de dois campos nasce na layout que ia alcancar",
+      "author": "Daniel",
+      "date": "2026-08-13T19:38:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94d3ac2d8f51b47b546d953159fa9292aff0fad2"
+    },
+    {
+      "sha": "05f354a1d2a0ba382e1d423b7565dc59ebf60e26",
+      "short": "05f354a",
+      "message": "perf: um array nasce na layout que ia alcancar",
+      "author": "Daniel",
+      "date": "2026-08-13T18:11:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/05f354a1d2a0ba382e1d423b7565dc59ebf60e26"
+    },
+    {
+      "sha": "dffaf20601bf62720b47fee7f6bda431eb2ec908",
+      "short": "dffaf20",
+      "message": "perf: um parametro rest e montado numa travessia, e a medida diz onde falta ir",
+      "author": "Daniel",
+      "date": "2026-08-13T15:39:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dffaf20601bf62720b47fee7f6bda431eb2ec908"
+    },
+    {
+      "sha": "40701a0e6572608cf72ff49ab2972fdce8c15312",
+      "short": "40701a0",
+      "message": "perf: `re.test` responde sem construir capturas nem spans",
+      "author": "Daniel",
+      "date": "2026-08-13T15:30:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40701a0e6572608cf72ff49ab2972fdce8c15312"
+    },
+    {
+      "sha": "a46a21cac663f9c50e061cca1aa9f1d1594f7f86",
+      "short": "a46a21c",
+      "message": "perf: um inteiro vira texto sem tocar no heap quatro vezes",
+      "author": "Daniel",
+      "date": "2026-08-13T15:18:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a46a21cac663f9c50e061cca1aa9f1d1594f7f86"
+    },
+    {
+      "sha": "256268c6cfdfc35cd41ae859b86c615d15c65575",
+      "short": "256268c",
+      "message": "perf: um pedaco vazio de template deixa de ser concatenado",
+      "author": "Daniel",
+      "date": "2026-08-13T14:56:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/256268c6cfdfc35cd41ae859b86c615d15c65575"
+    },
     {
       "sha": "aca16984f29b633becc521cbef3aad7d9c296761",
       "short": "aca1698",
@@ -80,86 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-13T06:25:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/43a14e91ecb522fd0c8acea74f00dc55ceca73ee"
-    },
-    {
-      "sha": "2b6e24b88610a144ed75c35654fba8f1443d61a2",
-      "short": "2b6e24b",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-13T06:21:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b6e24b88610a144ed75c35654fba8f1443d61a2"
-    },
-    {
-      "sha": "80e651f9ba3646992464b93329a2de75cc4aa495",
-      "short": "80e651f",
-      "message": "perf: Math.sqrt e as suas irmas viram a instrucao que o hardware tem",
-      "author": "Daniel",
-      "date": "2026-08-13T06:15:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80e651f9ba3646992464b93329a2de75cc4aa495"
-    },
-    {
-      "sha": "4a469069f461cebd4e7522dd1617dd001579bc3c",
-      "short": "4a46906",
-      "message": "feat: a maquina ganha as operacoes de um operando que o hardware faz sozinho",
-      "author": "Daniel",
-      "date": "2026-08-13T06:00:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4a469069f461cebd4e7522dd1617dd001579bc3c"
-    },
-    {
-      "sha": "4e930123a0c2dfdd85f781e3f62ee3d8acb8b01d",
-      "short": "4e93012",
-      "message": "perf: o scan de um separador de texto usa memmem e nao copia a agulha",
-      "author": "Daniel",
-      "date": "2026-08-13T05:54:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4e930123a0c2dfdd85f781e3f62ee3d8acb8b01d"
-    },
-    {
-      "sha": "be7582b636ef6a096a216e258cf3a6bd1bfd5a7d",
-      "short": "be7582b",
-      "message": "perf: bitwise deixa de ser chamada e passa a ser instrucao",
-      "author": "Daniel",
-      "date": "2026-08-13T05:31:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be7582b636ef6a096a216e258cf3a6bd1bfd5a7d"
-    },
-    {
-      "sha": "6f7f59adc29f9c1008d3757f1182a5b112dbff0a",
-      "short": "6f7f59a",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T05:06:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6f7f59adc29f9c1008d3757f1182a5b112dbff0a"
-    },
-    {
-      "sha": "e3f50e58127a3b42325bfda4d252feabe46df9bd",
-      "short": "e3f50e5",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-13T04:54:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3f50e58127a3b42325bfda4d252feabe46df9bd"
-    },
-    {
-      "sha": "68c3e3d8723dead44d99b84370c8e37e1a95b648",
-      "short": "68c3e3d",
-      "message": "perf: a escrita que ACRESCENTA uma propriedade resolve-se no sitio",
-      "author": "Daniel",
-      "date": "2026-08-13T04:53:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68c3e3d8723dead44d99b84370c8e37e1a95b648"
-    },
-    {
-      "sha": "e10b324e1a8115225689593db9de3390b48e21b1",
-      "short": "e10b324",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T04:45:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e10b324e1a8115225689593db9de3390b48e21b1"
-    },
-    {
-      "sha": "c111eb1ac2e9376ecf47979ca258175097d24a1b",
-      "short": "c111eb1",
-      "message": "fix: um site de ESCRITA nunca e informado de que a resposta esta fora da celula",
-      "author": "Daniel",
-      "date": "2026-08-13T04:35:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c111eb1ac2e9376ecf47979ca258175097d24a1b"
     }
   ]
 }
