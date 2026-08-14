@@ -1,6 +1,134 @@
 {
-  "total": 5005,
+  "total": 5021,
   "commits": [
+    {
+      "sha": "e3fbbfd2c74b11d69c0062ac4eb42708f15b1922",
+      "short": "e3fbbfd",
+      "message": "docs: auto-update cross-runtime parity badge (61%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-14T06:21:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3fbbfd2c74b11d69c0062ac4eb42708f15b1922"
+    },
+    {
+      "sha": "125518134699f2d7a53a9769a6aa7acc0bb4a107",
+      "short": "1255181",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-14T06:11:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/125518134699f2d7a53a9769a6aa7acc0bb4a107"
+    },
+    {
+      "sha": "5fe977251bb043102669db6cb262ca77ce9bdac7",
+      "short": "5fe9772",
+      "message": "perf: `-x` sobre um double provado e um bit, nao uma travessia",
+      "author": "Daniel",
+      "date": "2026-08-14T06:10:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5fe977251bb043102669db6cb262ca77ce9bdac7"
+    },
+    {
+      "sha": "ad4d6c19ea0d6d3656f552207f5c507da056f06c",
+      "short": "ad4d6c1",
+      "message": "perf: um `for-of` deixa de guardar o contador que o proprio compilador cunhou",
+      "author": "Daniel",
+      "date": "2026-08-14T05:56:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad4d6c19ea0d6d3656f552207f5c507da056f06c"
+    },
+    {
+      "sha": "4d5c845fddb4e2ed1b8704f6c35d3444e1a47fa3",
+      "short": "4d5c845",
+      "message": "docs: o que foi tentado contra as raizes e nao partiu",
+      "author": "Daniel",
+      "date": "2026-08-14T05:02:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d5c845fddb4e2ed1b8704f6c35d3444e1a47fa3"
+    },
+    {
+      "sha": "2cc830d5ebef33d3e4a744a33e5eab6e4d9da559",
+      "short": "2cc830d",
+      "message": "fix: a arvore que JSON.parse constroi sobrevive as suas proprias alocacoes",
+      "author": "Daniel",
+      "date": "2026-08-14T05:00:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2cc830d5ebef33d3e4a744a33e5eab6e4d9da559"
+    },
+    {
+      "sha": "f89adbe163c11614db674e17c4f00d528b2f28c3",
+      "short": "f89adbe",
+      "message": "fix: seis nativos que internavam em laco perdiam o que ja tinham internado",
+      "author": "Daniel",
+      "date": "2026-08-14T04:35:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f89adbe163c11614db674e17c4f00d528b2f28c3"
+    },
+    {
+      "sha": "b6d810f9b953cfa45d0e2d4c3125ff390c105134",
+      "short": "b6d810f",
+      "message": "fix: o que um nativo esta a acumular e uma raiz enquanto ele acumula",
+      "author": "Daniel",
+      "date": "2026-08-14T04:11:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b6d810f9b953cfa45d0e2d4c3125ff390c105134"
+    },
+    {
+      "sha": "483f45e4324452701f0931198a1a103ddbec456d",
+      "short": "483f45e",
+      "message": "fix: uma closure sobrevive a coleta que a alocacao do proprio prototype dispara",
+      "author": "Daniel",
+      "date": "2026-08-14T03:43:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/483f45e4324452701f0931198a1a103ddbec456d"
+    },
+    {
+      "sha": "6ca83a7d6ca88fdb20b0250d672ba4f3effdb7a3",
+      "short": "6ca83a7",
+      "message": "perf: a bandeira de throw vira um endereco pedido uma vez e lido depois",
+      "author": "Daniel",
+      "date": "2026-08-14T02:33:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ca83a7d6ca88fdb20b0250d672ba4f3effdb7a3"
+    },
+    {
+      "sha": "1233c3e1c8de23fcb6d727115363922fb2f44753",
+      "short": "1233c3e",
+      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-14T02:28:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1233c3e1c8de23fcb6d727115363922fb2f44753"
+    },
+    {
+      "sha": "786a2576133bd776f740f022f5983b3bba9962a9",
+      "short": "786a257",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-14T02:17:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/786a2576133bd776f740f022f5983b3bba9962a9"
+    },
+    {
+      "sha": "487004d6497c7955bf66e068bfd2ee5c054dd1b2",
+      "short": "487004d",
+      "message": "perf: um acesso indexado entra no contexto uma vez, nao duas",
+      "author": "Daniel",
+      "date": "2026-08-14T01:28:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/487004d6497c7955bf66e068bfd2ee5c054dd1b2"
+    },
+    {
+      "sha": "136bf756b6138935744e2ba48c1813620873dcb3",
+      "short": "136bf75",
+      "message": "perf: `split` fatia os bytes do sujeito em vez de construir uma String por peca",
+      "author": "Daniel",
+      "date": "2026-08-14T01:08:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/136bf756b6138935744e2ba48c1813620873dcb3"
+    },
+    {
+      "sha": "8329417b6f7242092ef296c4f9c4fa56659ca49c",
+      "short": "8329417",
+      "message": "perf: uma funcao de uma expressao e emitida onde e chamada, nao chamada",
+      "author": "Daniel",
+      "date": "2026-08-14T00:41:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8329417b6f7242092ef296c4f9c4fa56659ca49c"
+    },
+    {
+      "sha": "9bde45a201bacb4a32e7fcdfb7997f974b5ed8e2",
+      "short": "9bde45a",
+      "message": "perf: a template joins its pieces once, when every value is a proven double",
+      "author": "Daniel",
+      "date": "2026-08-13T21:19:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9bde45a201bacb4a32e7fcdfb7997f974b5ed8e2"
+    },
     {
       "sha": "be348b05232493bf3bba6947254a20f5d66563a2",
       "short": "be348b0",
@@ -32,134 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-13T19:46:21Z",
       "url": "https://github.com/UrubuCode/rts/commit/7d1a16d5c4f27e7d89137d6d74014fbea76a3b15"
-    },
-    {
-      "sha": "94d3ac2d8f51b47b546d953159fa9292aff0fad2",
-      "short": "94d3ac2",
-      "message": "perf: um literal de dois campos nasce na layout que ia alcancar",
-      "author": "Daniel",
-      "date": "2026-08-13T19:38:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94d3ac2d8f51b47b546d953159fa9292aff0fad2"
-    },
-    {
-      "sha": "05f354a1d2a0ba382e1d423b7565dc59ebf60e26",
-      "short": "05f354a",
-      "message": "perf: um array nasce na layout que ia alcancar",
-      "author": "Daniel",
-      "date": "2026-08-13T18:11:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05f354a1d2a0ba382e1d423b7565dc59ebf60e26"
-    },
-    {
-      "sha": "dffaf20601bf62720b47fee7f6bda431eb2ec908",
-      "short": "dffaf20",
-      "message": "perf: um parametro rest e montado numa travessia, e a medida diz onde falta ir",
-      "author": "Daniel",
-      "date": "2026-08-13T15:39:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dffaf20601bf62720b47fee7f6bda431eb2ec908"
-    },
-    {
-      "sha": "40701a0e6572608cf72ff49ab2972fdce8c15312",
-      "short": "40701a0",
-      "message": "perf: `re.test` responde sem construir capturas nem spans",
-      "author": "Daniel",
-      "date": "2026-08-13T15:30:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40701a0e6572608cf72ff49ab2972fdce8c15312"
-    },
-    {
-      "sha": "a46a21cac663f9c50e061cca1aa9f1d1594f7f86",
-      "short": "a46a21c",
-      "message": "perf: um inteiro vira texto sem tocar no heap quatro vezes",
-      "author": "Daniel",
-      "date": "2026-08-13T15:18:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a46a21cac663f9c50e061cca1aa9f1d1594f7f86"
-    },
-    {
-      "sha": "256268c6cfdfc35cd41ae859b86c615d15c65575",
-      "short": "256268c",
-      "message": "perf: um pedaco vazio de template deixa de ser concatenado",
-      "author": "Daniel",
-      "date": "2026-08-13T14:56:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/256268c6cfdfc35cd41ae859b86c615d15c65575"
-    },
-    {
-      "sha": "aca16984f29b633becc521cbef3aad7d9c296761",
-      "short": "aca1698",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T15:00:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aca16984f29b633becc521cbef3aad7d9c296761"
-    },
-    {
-      "sha": "b7cad16003e84987a98ec97c9543d18309aaa4aa",
-      "short": "b7cad16",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-13T14:48:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7cad16003e84987a98ec97c9543d18309aaa4aa"
-    },
-    {
-      "sha": "8b7766bfa809621fcf9336d08b646795cdc8baab",
-      "short": "8b7766b",
-      "message": "perf: Math.random deixa de pagar a leitura de propriedade e o despacho",
-      "author": "Daniel",
-      "date": "2026-08-13T14:45:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b7766bfa809621fcf9336d08b646795cdc8baab"
-    },
-    {
-      "sha": "5cedcad46a6a9edf3a370606883c40091620ee7b",
-      "short": "5cedcad",
-      "message": "perf: o cache de uma escrita lembra a TRANSICAO, nao o resultado",
-      "author": "Daniel",
-      "date": "2026-08-13T14:35:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cedcad46a6a9edf3a370606883c40091620ee7b"
-    },
-    {
-      "sha": "fe220dc9df651f315ff3df9fa111104253b3269f",
-      "short": "fe220dc",
-      "message": "perf: um literal de ate quatro elementos custa UMA travessia em vez de cinco",
-      "author": "Daniel",
-      "date": "2026-08-13T14:17:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fe220dc9df651f315ff3df9fa111104253b3269f"
-    },
-    {
-      "sha": "20cc3ee404ee66a441ea288267f609c8c263c08c",
-      "short": "20cc3ee",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T06:54:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/20cc3ee404ee66a441ea288267f609c8c263c08c"
-    },
-    {
-      "sha": "e11ec48ecb8ac18a9de9f25b7c3633d0f6584275",
-      "short": "e11ec48",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-13T06:43:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e11ec48ecb8ac18a9de9f25b7c3633d0f6584275"
-    },
-    {
-      "sha": "8d45e48489875b92911519ba09c4016af53a60b0",
-      "short": "8d45e48",
-      "message": "perf: um literal de dois campos custa UMA travessia em vez de tres",
-      "author": "Daniel",
-      "date": "2026-08-13T06:41:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d45e48489875b92911519ba09c4016af53a60b0"
-    },
-    {
-      "sha": "468d4db660ae636490ceca2a43d6cc7f32f37699",
-      "short": "468d4db",
-      "message": "docs: auto-update cross-runtime parity badge (60.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-13T06:40:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/468d4db660ae636490ceca2a43d6cc7f32f37699"
-    },
-    {
-      "sha": "43a14e91ecb522fd0c8acea74f00dc55ceca73ee",
-      "short": "43a14e9",
-      "message": "perf: uma coleta deixa de alocar dois vetores do tamanho do monte",
-      "author": "Daniel",
-      "date": "2026-08-13T06:25:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/43a14e91ecb522fd0c8acea74f00dc55ceca73ee"
     }
   ]
 }
