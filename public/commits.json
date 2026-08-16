@@ -1,6 +1,142 @@
 {
-  "total": 5109,
+  "total": 5126,
   "commits": [
+    {
+      "sha": "9bf12ead0be3113431dc789dcd5e5413aa52d096",
+      "short": "9bf12ea",
+      "message": "perf: um nome que nunca muda deixa de ser formatado, internado e alocado por operacao",
+      "author": "Daniel",
+      "date": "2026-08-16T09:13:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9bf12ead0be3113431dc789dcd5e5413aa52d096"
+    },
+    {
+      "sha": "8057946de8e3149ff4dd2e059f95d3ace79c897c",
+      "short": "8057946",
+      "message": "fix: o corpus inteiro apanha 74 recusas minhas, e a licenca dele devia ter vindo primeiro",
+      "author": "Daniel",
+      "date": "2026-08-16T08:52:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8057946de8e3149ff4dd2e059f95d3ace79c897c"
+    },
+    {
+      "sha": "69b53d26e757e1f75211c0e2adea29f80e177cda",
+      "short": "69b53d2",
+      "message": "docs: o checker existe, e o README dizia que nao",
+      "author": "Daniel",
+      "date": "2026-08-16T08:12:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69b53d26e757e1f75211c0e2adea29f80e177cda"
+    },
+    {
+      "sha": "81435ff3beb4fc67abd50d114ee8859b2e65ff73",
+      "short": "81435ff",
+      "message": "fix: o bloco estatico e um escopo, `eval` nao e um alvo, e um nome de grupo e decodificado",
+      "author": "Daniel",
+      "date": "2026-08-16T07:52:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81435ff3beb4fc67abd50d114ee8859b2e65ff73"
+    },
+    {
+      "sha": "323baa6fc61c9e1b0f3fca0e4d4adfc9e5219c20",
+      "short": "323baa6",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-16T07:48:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/323baa6fc61c9e1b0f3fca0e4d4adfc9e5219c20"
+    },
+    {
+      "sha": "c8a8f2506c2e62a45ab2f7e200072614df7ea33b",
+      "short": "c8a8f25",
+      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T07:44:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8a8f2506c2e62a45ab2f7e200072614df7ea33b"
+    },
+    {
+      "sha": "d8f51e722120d2b9304be61c7d41ff5eb0190e29",
+      "short": "d8f51e7",
+      "message": "refactor: o teto de 1000 linhas do crate divide o `deep` em tres",
+      "author": "Daniel",
+      "date": "2026-08-16T07:40:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8f51e722120d2b9304be61c7d41ff5eb0190e29"
+    },
+    {
+      "sha": "424d29f768cc245c364798fa9a1dc9adb097ce40",
+      "short": "424d29f",
+      "message": "feat: o padrao entre as barras tem gramatica propria, e agora e verificado",
+      "author": "Daniel",
+      "date": "2026-08-16T07:38:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/424d29f768cc245c364798fa9a1dc9adb097ce40"
+    },
+    {
+      "sha": "03ef4026405c5641e4b8dd060d4bbceb91a562c3",
+      "short": "03ef402",
+      "message": "fix: `using` precisa de um escopo que acabe, e um prologo estrito nao tem escapes octais",
+      "author": "Daniel",
+      "date": "2026-08-16T07:30:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/03ef4026405c5641e4b8dd060d4bbceb91a562c3"
+    },
+    {
+      "sha": "262eb1e5be1fc1adf0b9202671d6f7bb7d47df61",
+      "short": "262eb1e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-16T07:30:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/262eb1e5be1fc1adf0b9202671d6f7bb7d47df61"
+    },
+    {
+      "sha": "be1da938a111a12c43539f98d14d6ef8f1be1acc",
+      "short": "be1da93",
+      "message": "fix: um nome privado declara-se uma vez, e o topo de um modulo nao e o de um script",
+      "author": "Daniel",
+      "date": "2026-08-16T07:22:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/be1da938a111a12c43539f98d14d6ef8f1be1acc"
+    },
+    {
+      "sha": "4605b901cbfe60eb71b578205f57089297a76db5",
+      "short": "4605b90",
+      "message": "test: o Annex B para o ramo de um `if` nao e alcancavel, e o teste diz isso",
+      "author": "Daniel",
+      "date": "2026-08-16T07:18:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4605b901cbfe60eb71b578205f57089297a76db5"
+    },
+    {
+      "sha": "510cfc1f586fa4d32dd0fd908ae00673e0ca051a",
+      "short": "510cfc1",
+      "message": "fix: uma declaracao nao e um enunciado, e uma palavra reservada escapada continua reservada",
+      "author": "Daniel",
+      "date": "2026-08-16T07:17:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/510cfc1f586fa4d32dd0fd908ae00673e0ca051a"
+    },
+    {
+      "sha": "6d3e4364a99cc9d8aa18b679e0fd214f448282c6",
+      "short": "6d3e436",
+      "message": "fix: um `super`, uma funcao num bloco e um `new import()` deixam de passar",
+      "author": "Daniel",
+      "date": "2026-08-16T07:11:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6d3e4364a99cc9d8aa18b679e0fd214f448282c6"
+    },
+    {
+      "sha": "013f79504de0343d8c8cf93c0ec7b457428aecba",
+      "short": "013f795",
+      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T06:43:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/013f79504de0343d8c8cf93c0ec7b457428aecba"
+    },
+    {
+      "sha": "6c9a4805009de8f09db35ec4071912e559ef9304",
+      "short": "6c9a480",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-16T06:31:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c9a4805009de8f09db35ec4071912e559ef9304"
+    },
+    {
+      "sha": "7aa62d7802f38c86783f2a456dc7dd05f37afd18",
+      "short": "7aa62d7",
+      "message": "fix: uma passagem de laco nao ressuscita o nome que um parametro ja sombrava",
+      "author": "Daniel",
+      "date": "2026-08-16T06:17:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7aa62d7802f38c86783f2a456dc7dd05f37afd18"
+    },
     {
       "sha": "fdf5e1effe41258b742546c4239b65e258205c3a",
       "short": "fdf5e1e",
@@ -24,142 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-16T03:57:08Z",
       "url": "https://github.com/UrubuCode/rts/commit/a39470242f32cf0035952f129b14c572b04a4f2f"
-    },
-    {
-      "sha": "802f2ece05faf25673c41a3ab00ffa8e1f4bb867",
-      "short": "802f2ec",
-      "message": "feat: o heap cresce, uma escrita recusada lanca, `eval` directo ve o chamador, e `arguments` deixa de ser um Array",
-      "author": "Daniel",
-      "date": "2026-08-16T03:23:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/802f2ece05faf25673c41a3ab00ffa8e1f4bb867"
-    },
-    {
-      "sha": "ef6eaa39b48e75e17b460cd488ee1ce2be27bf26",
-      "short": "ef6eaa3",
-      "message": "docs: auto-update cross-runtime parity badge (98.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T02:25:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef6eaa39b48e75e17b460cd488ee1ce2be27bf26"
-    },
-    {
-      "sha": "ad9496d4a87d28816b0937d9efacfc2f558e5a69",
-      "short": "ad9496d",
-      "message": "test: as cinco fixtures \"bun != node\" eram todas o MODO, e a percentagem passa a ser sobre o alcancavel",
-      "author": "Daniel",
-      "date": "2026-08-16T01:54:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad9496d4a87d28816b0937d9efacfc2f558e5a69"
-    },
-    {
-      "sha": "2eda89902cf1ecb7744246cbd1dda91af7610491",
-      "short": "2eda899",
-      "message": "chore: um relatorio de medicao nao e um artefacto do repo",
-      "author": "Daniel",
-      "date": "2026-08-16T01:39:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2eda89902cf1ecb7744246cbd1dda91af7610491"
-    },
-    {
-      "sha": "a9538f3dc9c4053588cb552091382392bad1df21",
-      "short": "a9538f3",
-      "message": "feat: `await` estaciona a moldura, e mais seis buracos de semantica fechados",
-      "author": "Daniel",
-      "date": "2026-08-16T01:39:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a9538f3dc9c4053588cb552091382392bad1df21"
-    },
-    {
-      "sha": "10beb5b4212dfd0d502b7955860b9c695a53f469",
-      "short": "10beb5b",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-16T00:57:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10beb5b4212dfd0d502b7955860b9c695a53f469"
-    },
-    {
-      "sha": "aa67df7c11c120fa0647fb6d2bfec604946c02c8",
-      "short": "aa67df7",
-      "message": "fix: um bloco que faz sombra a um nome CAPTURADO ganha a sua propria environment",
-      "author": "Daniel",
-      "date": "2026-08-16T00:30:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aa67df7c11c120fa0647fb6d2bfec604946c02c8"
-    },
-    {
-      "sha": "80c05a754ec53644c6516b735f7c19f794c6beb4",
-      "short": "80c05a7",
-      "message": "fix: um `setImmediate` e uma FASE, e uma retoma abrupta encontra o `finally` do gerador",
-      "author": "Daniel",
-      "date": "2026-08-16T00:17:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80c05a754ec53644c6516b735f7c19f794c6beb4"
-    },
-    {
-      "sha": "c49b178c39d285803628fb7d829857ef3cf5d1d2",
-      "short": "c49b178",
-      "message": "fix: uma closure dentro de um `try` deixa de fazer PANIC, um `for-in` nao visita chave apagada, e um default de destructuring nomeia a funcao",
-      "author": "Daniel",
-      "date": "2026-08-16T00:05:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c49b178c39d285803628fb7d829857ef3cf5d1d2"
-    },
-    {
-      "sha": "52c22e1ed8c1dc286445a05718c3654c6bf07b6b",
-      "short": "52c22e1",
-      "message": "docs: auto-update cross-runtime parity badge (96.3%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-15T23:57:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/52c22e1ed8c1dc286445a05718c3654c6bf07b6b"
-    },
-    {
-      "sha": "4000bcc884d7424f7028c96ec6b04fdb28a807ac",
-      "short": "4000bcc",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-15T23:44:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4000bcc884d7424f7028c96ec6b04fdb28a807ac"
-    },
-    {
-      "sha": "f5c4755a008f3cd167cd502543ef08e6d1825611",
-      "short": "f5c4755",
-      "message": "docs: 728 de 762 (95,5%), e porque o denominador cresceu 54",
-      "author": "Daniel",
-      "date": "2026-08-15T23:12:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5c4755a008f3cd167cd502543ef08e6d1825611"
-    },
-    {
-      "sha": "aaaf3c99efe720b133f089452615b73d3683584d",
-      "short": "aaaf3c9",
-      "message": "test: mais 19 fixtures ofuscadas — geradores, erros, acessores e metodos de array",
-      "author": "Daniel",
-      "date": "2026-08-15T23:11:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aaaf3c99efe720b133f089452615b73d3683584d"
-    },
-    {
-      "sha": "b9dc45674edf902a513aa7e5f280201f481651c8",
-      "short": "b9dc456",
-      "message": "fix: um `finally` corre no `return` e no `break`, e uma comparacao dentro de um nao recusa o programa",
-      "author": "Daniel",
-      "date": "2026-08-15T22:55:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b9dc45674edf902a513aa7e5f280201f481651c8"
-    },
-    {
-      "sha": "a16137fc4d5730115980dead9925de77a8b8912b",
-      "short": "a16137f",
-      "message": "docs: auto-update cross-runtime parity badge (95.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-15T22:11:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a16137fc4d5730115980dead9925de77a8b8912b"
-    },
-    {
-      "sha": "59347d17aee473805218f7901c3b1984a3b15acd",
-      "short": "59347d1",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-15T21:57:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/59347d17aee473805218f7901c3b1984a3b15acd"
-    },
-    {
-      "sha": "27adf37f5cc8a9d0db1e319620e83ff37c7267ca",
-      "short": "27adf37",
-      "message": "test: 35 fixtures cross-runtime geradas por ofuscador, e os tres bugs que a primeira corrida encontrou",
-      "author": "Daniel",
-      "date": "2026-08-15T21:53:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27adf37f5cc8a9d0db1e319620e83ff37c7267ca"
     }
   ]
 }
