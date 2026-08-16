@@ -1,165 +1,165 @@
 {
-  "total": 5126,
+  "total": 5146,
   "commits": [
     {
-      "sha": "9bf12ead0be3113431dc789dcd5e5413aa52d096",
-      "short": "9bf12ea",
-      "message": "perf: um nome que nunca muda deixa de ser formatado, internado e alocado por operacao",
-      "author": "Daniel",
-      "date": "2026-08-16T09:13:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9bf12ead0be3113431dc789dcd5e5413aa52d096"
-    },
-    {
-      "sha": "8057946de8e3149ff4dd2e059f95d3ace79c897c",
-      "short": "8057946",
-      "message": "fix: o corpus inteiro apanha 74 recusas minhas, e a licenca dele devia ter vindo primeiro",
-      "author": "Daniel",
-      "date": "2026-08-16T08:52:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8057946de8e3149ff4dd2e059f95d3ace79c897c"
-    },
-    {
-      "sha": "69b53d26e757e1f75211c0e2adea29f80e177cda",
-      "short": "69b53d2",
-      "message": "docs: o checker existe, e o README dizia que nao",
-      "author": "Daniel",
-      "date": "2026-08-16T08:12:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/69b53d26e757e1f75211c0e2adea29f80e177cda"
-    },
-    {
-      "sha": "81435ff3beb4fc67abd50d114ee8859b2e65ff73",
-      "short": "81435ff",
-      "message": "fix: o bloco estatico e um escopo, `eval` nao e um alvo, e um nome de grupo e decodificado",
-      "author": "Daniel",
-      "date": "2026-08-16T07:52:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/81435ff3beb4fc67abd50d114ee8859b2e65ff73"
-    },
-    {
-      "sha": "323baa6fc61c9e1b0f3fca0e4d4adfc9e5219c20",
-      "short": "323baa6",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-16T07:48:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/323baa6fc61c9e1b0f3fca0e4d4adfc9e5219c20"
-    },
-    {
-      "sha": "c8a8f2506c2e62a45ab2f7e200072614df7ea33b",
-      "short": "c8a8f25",
-      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "sha": "6770269e3e06f904d3471f555334744269c365ff",
+      "short": "6770269",
+      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-16T07:44:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c8a8f2506c2e62a45ab2f7e200072614df7ea33b"
+      "date": "2026-08-16T18:12:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6770269e3e06f904d3471f555334744269c365ff"
     },
     {
-      "sha": "d8f51e722120d2b9304be61c7d41ff5eb0190e29",
-      "short": "d8f51e7",
-      "message": "refactor: o teto de 1000 linhas do crate divide o `deep` em tres",
-      "author": "Daniel",
-      "date": "2026-08-16T07:40:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8f51e722120d2b9304be61c7d41ff5eb0190e29"
+      "sha": "1e1c9cee6d75930fcd6bd923c3bfdd467fe6f5df",
+      "short": "1e1c9ce",
+      "message": "fix: cinco defeitos, e o macro passa a derivar a aridade de todos os nativos (#2265)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T17:58:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e1c9cee6d75930fcd6bd923c3bfdd467fe6f5df"
     },
     {
-      "sha": "424d29f768cc245c364798fa9a1dc9adb097ce40",
-      "short": "424d29f",
-      "message": "feat: o padrao entre as barras tem gramatica propria, e agora e verificado",
-      "author": "Daniel",
-      "date": "2026-08-16T07:38:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/424d29f768cc245c364798fa9a1dc9adb097ce40"
-    },
-    {
-      "sha": "03ef4026405c5641e4b8dd060d4bbceb91a562c3",
-      "short": "03ef402",
-      "message": "fix: `using` precisa de um escopo que acabe, e um prologo estrito nao tem escapes octais",
-      "author": "Daniel",
-      "date": "2026-08-16T07:30:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03ef4026405c5641e4b8dd060d4bbceb91a562c3"
-    },
-    {
-      "sha": "262eb1e5be1fc1adf0b9202671d6f7bb7d47df61",
-      "short": "262eb1e",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-16T07:30:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/262eb1e5be1fc1adf0b9202671d6f7bb7d47df61"
-    },
-    {
-      "sha": "be1da938a111a12c43539f98d14d6ef8f1be1acc",
-      "short": "be1da93",
-      "message": "fix: um nome privado declara-se uma vez, e o topo de um modulo nao e o de um script",
-      "author": "Daniel",
-      "date": "2026-08-16T07:22:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be1da938a111a12c43539f98d14d6ef8f1be1acc"
-    },
-    {
-      "sha": "4605b901cbfe60eb71b578205f57089297a76db5",
-      "short": "4605b90",
-      "message": "test: o Annex B para o ramo de um `if` nao e alcancavel, e o teste diz isso",
-      "author": "Daniel",
-      "date": "2026-08-16T07:18:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4605b901cbfe60eb71b578205f57089297a76db5"
-    },
-    {
-      "sha": "510cfc1f586fa4d32dd0fd908ae00673e0ca051a",
-      "short": "510cfc1",
-      "message": "fix: uma declaracao nao e um enunciado, e uma palavra reservada escapada continua reservada",
-      "author": "Daniel",
-      "date": "2026-08-16T07:17:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/510cfc1f586fa4d32dd0fd908ae00673e0ca051a"
-    },
-    {
-      "sha": "6d3e4364a99cc9d8aa18b679e0fd214f448282c6",
-      "short": "6d3e436",
-      "message": "fix: um `super`, uma funcao num bloco e um `new import()` deixam de passar",
-      "author": "Daniel",
-      "date": "2026-08-16T07:11:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6d3e4364a99cc9d8aa18b679e0fd214f448282c6"
-    },
-    {
-      "sha": "013f79504de0343d8c8cf93c0ec7b457428aecba",
-      "short": "013f795",
-      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "sha": "c51279eae5bb05e55cd396261c9544e06d96de5b",
+      "short": "c51279e",
+      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-16T06:43:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/013f79504de0343d8c8cf93c0ec7b457428aecba"
+      "date": "2026-08-16T17:41:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c51279eae5bb05e55cd396261c9544e06d96de5b"
     },
     {
-      "sha": "6c9a4805009de8f09db35ec4071912e559ef9304",
-      "short": "6c9a480",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Daniel",
-      "date": "2026-08-16T06:31:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c9a4805009de8f09db35ec4071912e559ef9304"
+      "sha": "30e89a7fd1e01bbae0b48b5808df9707429eb441",
+      "short": "30e89a7",
+      "message": "fix: uma funcao anonima num literal tem nome, e bind escreve name e length (#2259)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T17:26:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30e89a7fd1e01bbae0b48b5808df9707429eb441"
     },
     {
-      "sha": "7aa62d7802f38c86783f2a456dc7dd05f37afd18",
-      "short": "7aa62d7",
-      "message": "fix: uma passagem de laco nao ressuscita o nome que um parametro ja sombrava",
-      "author": "Daniel",
-      "date": "2026-08-16T06:17:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7aa62d7802f38c86783f2a456dc7dd05f37afd18"
-    },
-    {
-      "sha": "fdf5e1effe41258b742546c4239b65e258205c3a",
-      "short": "fdf5e1e",
-      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "sha": "e7a75c3d302a130180a4bec621b2fe3cde125acf",
+      "short": "e7a75c3",
+      "message": "docs: auto-update cross-runtime parity badge (71.5%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-16T05:10:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fdf5e1effe41258b742546c4239b65e258205c3a"
+      "date": "2026-08-16T17:23:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7a75c3d302a130180a4bec621b2fe3cde125acf"
     },
     {
-      "sha": "89835ec6df78c7b6c9641497fb37ae5e2f9141f8",
-      "short": "89835ec",
-      "message": "test: um defeito de dependencia declara-se na propria fixture e sai do denominador",
-      "author": "Daniel",
-      "date": "2026-08-16T04:29:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89835ec6df78c7b6c9641497fb37ae5e2f9141f8"
+      "sha": "e62d79a0b3b60f30a4072c7281166f0144724948",
+      "short": "e62d79a",
+      "message": "fix: apply aceita um array-like, que e a razao pela qual apply existe (#2253)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T17:05:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e62d79a0b3b60f30a4072c7281166f0144724948"
     },
     {
-      "sha": "a39470242f32cf0035952f129b14c572b04a4f2f",
-      "short": "a394702",
-      "message": "feat: `with` resolve contra o objecto antes da ligacao, e `Symbol.unscopables` decide",
-      "author": "Daniel",
-      "date": "2026-08-16T03:57:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a39470242f32cf0035952f129b14c572b04a4f2f"
+      "sha": "e92552320f01b81142666f20768fe287040daf74",
+      "short": "e925523",
+      "message": "docs: auto-update cross-runtime parity badge (71.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T17:00:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e92552320f01b81142666f20768fe287040daf74"
+    },
+    {
+      "sha": "e3f16bfca7e96f8185474f748730a55c834586b2",
+      "short": "e3f16bf",
+      "message": "fix: quatro especies passam a dizer o que sao, e matchAll responde um iterador (#2247)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T16:46:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3f16bfca7e96f8185474f748730a55c834586b2"
+    },
+    {
+      "sha": "1cc1b5fb83ca7d0eb1eb3eaafdb28574345cdaaf",
+      "short": "1cc1b5f",
+      "message": "docs: auto-update cross-runtime parity badge (71.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T16:37:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1cc1b5fb83ca7d0eb1eb3eaafdb28574345cdaaf"
+    },
+    {
+      "sha": "c937549f811e4329b6dc5e8450a873b48cf7deed",
+      "short": "c937549",
+      "message": "fix: um padrao que nao compila lanca SyntaxError em vez de corromper o objecto (#2241)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T16:23:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c937549f811e4329b6dc5e8450a873b48cf7deed"
+    },
+    {
+      "sha": "b3d46b489e9c87806aa690ef5af4a07a3dfeabe6",
+      "short": "b3d46b4",
+      "message": "docs: auto-update cross-runtime parity badge (71.4%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T16:08:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b3d46b489e9c87806aa690ef5af4a07a3dfeabe6"
+    },
+    {
+      "sha": "1bf8c3fe05e3f81466ff3a6ea4282962a913bc33",
+      "short": "1bf8c3f",
+      "message": "fix: o protocolo de species existe, e um construtor diz a sua aridade (#2235)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T15:53:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1bf8c3fe05e3f81466ff3a6ea4282962a913bc33"
+    },
+    {
+      "sha": "c618184c5313b8e4c0b89bddaada80a8125f8e0a",
+      "short": "c618184",
+      "message": "docs: auto-update cross-runtime parity badge (71.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T15:43:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c618184c5313b8e4c0b89bddaada80a8125f8e0a"
+    },
+    {
+      "sha": "52a97c974504acaabac8ef0c3ee496a97cc30df4",
+      "short": "52a97c9",
+      "message": "fix: um getter nativo passa a ser uma propriedade, e Annex B deixa de faltar (#2229)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T15:29:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/52a97c974504acaabac8ef0c3ee496a97cc30df4"
+    },
+    {
+      "sha": "e19636c92b502f946fd474ef3d63686163363c78",
+      "short": "e19636c",
+      "message": "docs: auto-update cross-runtime parity badge (71.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T15:17:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e19636c92b502f946fd474ef3d63686163363c78"
+    },
+    {
+      "sha": "963942ae1f947d70b438977e4550369ccfcd7946",
+      "short": "963942a",
+      "message": "fix: cinco respostas erradas da superficie embutida, medidas por ficheiro (#2223)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T15:02:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/963942ae1f947d70b438977e4550369ccfcd7946"
+    },
+    {
+      "sha": "0a60947eb0b74157b5973c1a51e57a1dfa101b24",
+      "short": "0a60947",
+      "message": "docs: auto-update cross-runtime parity badge (70.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T14:24:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a60947eb0b74157b5973c1a51e57a1dfa101b24"
+    },
+    {
+      "sha": "2e71d01237d5da22c2177b5b60ece90f4819d537",
+      "short": "2e71d01",
+      "message": "test: mais 316 fixtures cross-runtime, e a paridade cai de 82.1% para 70.9% (#2217)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T14:08:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e71d01237d5da22c2177b5b60ece90f4819d537"
+    },
+    {
+      "sha": "e4c72b1474800b845b9b490e546e1746ba0e24c8",
+      "short": "e4c72b1",
+      "message": "docs: auto-update cross-runtime parity badge (82.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T13:20:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4c72b1474800b845b9b490e546e1746ba0e24c8"
+    },
+    {
+      "sha": "f5b02b783a723cf6cc079f7663aca39aad39b3e5",
+      "short": "f5b02b7",
+      "message": "test: 432 fixtures cross-runtime, e a paridade cai de 100% para 82.1% (#2211)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-16T13:05:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5b02b783a723cf6cc079f7663aca39aad39b3e5"
     }
   ]
 }
