@@ -1,6 +1,102 @@
 {
-  "total": 5097,
+  "total": 5109,
   "commits": [
+    {
+      "sha": "fdf5e1effe41258b742546c4239b65e258205c3a",
+      "short": "fdf5e1e",
+      "message": "docs: auto-update cross-runtime parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T05:10:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fdf5e1effe41258b742546c4239b65e258205c3a"
+    },
+    {
+      "sha": "89835ec6df78c7b6c9641497fb37ae5e2f9141f8",
+      "short": "89835ec",
+      "message": "test: um defeito de dependencia declara-se na propria fixture e sai do denominador",
+      "author": "Daniel",
+      "date": "2026-08-16T04:29:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89835ec6df78c7b6c9641497fb37ae5e2f9141f8"
+    },
+    {
+      "sha": "a39470242f32cf0035952f129b14c572b04a4f2f",
+      "short": "a394702",
+      "message": "feat: `with` resolve contra o objecto antes da ligacao, e `Symbol.unscopables` decide",
+      "author": "Daniel",
+      "date": "2026-08-16T03:57:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a39470242f32cf0035952f129b14c572b04a4f2f"
+    },
+    {
+      "sha": "802f2ece05faf25673c41a3ab00ffa8e1f4bb867",
+      "short": "802f2ec",
+      "message": "feat: o heap cresce, uma escrita recusada lanca, `eval` directo ve o chamador, e `arguments` deixa de ser um Array",
+      "author": "Daniel",
+      "date": "2026-08-16T03:23:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/802f2ece05faf25673c41a3ab00ffa8e1f4bb867"
+    },
+    {
+      "sha": "ef6eaa39b48e75e17b460cd488ee1ce2be27bf26",
+      "short": "ef6eaa3",
+      "message": "docs: auto-update cross-runtime parity badge (98.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-16T02:25:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef6eaa39b48e75e17b460cd488ee1ce2be27bf26"
+    },
+    {
+      "sha": "ad9496d4a87d28816b0937d9efacfc2f558e5a69",
+      "short": "ad9496d",
+      "message": "test: as cinco fixtures \"bun != node\" eram todas o MODO, e a percentagem passa a ser sobre o alcancavel",
+      "author": "Daniel",
+      "date": "2026-08-16T01:54:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad9496d4a87d28816b0937d9efacfc2f558e5a69"
+    },
+    {
+      "sha": "2eda89902cf1ecb7744246cbd1dda91af7610491",
+      "short": "2eda899",
+      "message": "chore: um relatorio de medicao nao e um artefacto do repo",
+      "author": "Daniel",
+      "date": "2026-08-16T01:39:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2eda89902cf1ecb7744246cbd1dda91af7610491"
+    },
+    {
+      "sha": "a9538f3dc9c4053588cb552091382392bad1df21",
+      "short": "a9538f3",
+      "message": "feat: `await` estaciona a moldura, e mais seis buracos de semantica fechados",
+      "author": "Daniel",
+      "date": "2026-08-16T01:39:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9538f3dc9c4053588cb552091382392bad1df21"
+    },
+    {
+      "sha": "10beb5b4212dfd0d502b7955860b9c695a53f469",
+      "short": "10beb5b",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Daniel",
+      "date": "2026-08-16T00:57:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/10beb5b4212dfd0d502b7955860b9c695a53f469"
+    },
+    {
+      "sha": "aa67df7c11c120fa0647fb6d2bfec604946c02c8",
+      "short": "aa67df7",
+      "message": "fix: um bloco que faz sombra a um nome CAPTURADO ganha a sua propria environment",
+      "author": "Daniel",
+      "date": "2026-08-16T00:30:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aa67df7c11c120fa0647fb6d2bfec604946c02c8"
+    },
+    {
+      "sha": "80c05a754ec53644c6516b735f7c19f794c6beb4",
+      "short": "80c05a7",
+      "message": "fix: um `setImmediate` e uma FASE, e uma retoma abrupta encontra o `finally` do gerador",
+      "author": "Daniel",
+      "date": "2026-08-16T00:17:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80c05a754ec53644c6516b735f7c19f794c6beb4"
+    },
+    {
+      "sha": "c49b178c39d285803628fb7d829857ef3cf5d1d2",
+      "short": "c49b178",
+      "message": "fix: uma closure dentro de um `try` deixa de fazer PANIC, um `for-in` nao visita chave apagada, e um default de destructuring nomeia a funcao",
+      "author": "Daniel",
+      "date": "2026-08-16T00:05:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c49b178c39d285803628fb7d829857ef3cf5d1d2"
+    },
     {
       "sha": "52c22e1ed8c1dc286445a05718c3654c6bf07b6b",
       "short": "52c22e1",
@@ -64,102 +160,6 @@
       "author": "Daniel",
       "date": "2026-08-15T21:53:56Z",
       "url": "https://github.com/UrubuCode/rts/commit/27adf37f5cc8a9d0db1e319620e83ff37c7267ca"
-    },
-    {
-      "sha": "c328d6759fa8b3a808909235f4d5ad58b284ad1d",
-      "short": "c328d67",
-      "message": "docs: auto-update cross-runtime parity badge (95.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-15T21:09:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c328d6759fa8b3a808909235f4d5ad58b284ad1d"
-    },
-    {
-      "sha": "da5485c4d8ab7cbd6fd10358211b219e12ff4257",
-      "short": "da5485c",
-      "message": "docs: 674 de 708 (95,2%) e 754 de 808, re-medidos",
-      "author": "Daniel",
-      "date": "2026-08-15T20:30:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da5485c4d8ab7cbd6fd10358211b219e12ff4257"
-    },
-    {
-      "sha": "e56b555a842cf3ebc224f690e319d0ff5eb7a35b",
-      "short": "e56b555",
-      "message": "feat: `new Function` compila para dentro do programa a correr, e `yield*` encaminha `throw`/`return`",
-      "author": "Daniel",
-      "date": "2026-08-15T20:29:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e56b555a842cf3ebc224f690e319d0ff5eb7a35b"
-    },
-    {
-      "sha": "94aa8c89ae91a7cec20308146a139df7d7296b7f",
-      "short": "94aa8c8",
-      "message": "fix: o passeio da cadeia ve os elementos herdados, e o `in` ve os caracteres de uma string",
-      "author": "Daniel",
-      "date": "2026-08-15T10:46:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94aa8c89ae91a7cec20308146a139df7d7296b7f"
-    },
-    {
-      "sha": "bbc4bac418c3a17c6a570d1a33eb06f3ca1e6d2a",
-      "short": "bbc4bac",
-      "message": "feat: iteradores de array vivos, `species`, `__proto__` como acessor, e o objecto global como ultimo elo",
-      "author": "Daniel",
-      "date": "2026-08-15T10:29:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbc4bac418c3a17c6a570d1a33eb06f3ca1e6d2a"
-    },
-    {
-      "sha": "e3511a90a3afa1d18f72e4aa9550f28073e55c63",
-      "short": "e3511a9",
-      "message": "fix: `globalThis.Object` responde, sem desistir da construcao preguicosa",
-      "author": "Daniel",
-      "date": "2026-08-15T10:07:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e3511a90a3afa1d18f72e4aa9550f28073e55c63"
-    },
-    {
-      "sha": "8a68ecef851ba49e7a5b2eb74f3405266a4b57c9",
-      "short": "8a68ece",
-      "message": "feat: um `async function*` declarado E um `for await` sobre um array simples",
-      "author": "Daniel",
-      "date": "2026-08-15T09:57:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8a68ecef851ba49e7a5b2eb74f3405266a4b57c9"
-    },
-    {
-      "sha": "d113e9fc5ab005e00b3eef33eb2dd8c73ad992eb",
-      "short": "d113e9f",
-      "message": "fix: um metodo ESTATICO resolve `super` contra o construtor, e uma classe nomeada alcanca o proprio nome",
-      "author": "Daniel",
-      "date": "2026-08-15T09:46:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d113e9fc5ab005e00b3eef33eb2dd8c73ad992eb"
-    },
-    {
-      "sha": "0d41b8f1c6ac923bb4317cd6ba1e6d407126e8e5",
-      "short": "0d41b8f",
-      "message": "feat: `for-in` anda pela cadeia de prototipos, e um membro embutido nao e enumeravel",
-      "author": "Daniel",
-      "date": "2026-08-15T09:27:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0d41b8f1c6ac923bb4317cd6ba1e6d407126e8e5"
-    },
-    {
-      "sha": "a75c149e6578d8e823685490c4c771b6be7dadfa",
-      "short": "a75c149",
-      "message": "feat: um `for-of` pede o iterador e ANDA, em vez de percorrer uma copia",
-      "author": "Daniel",
-      "date": "2026-08-15T09:27:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a75c149e6578d8e823685490c4c771b6be7dadfa"
-    },
-    {
-      "sha": "025ec806cb5c0e9dfc4713366fdccd06f8632641",
-      "short": "025ec80",
-      "message": "fix: `(o.m as any)()` mantem o `this`, e uma funcao diz o que e quando lhe perguntam",
-      "author": "Daniel",
-      "date": "2026-08-15T07:54:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/025ec806cb5c0e9dfc4713366fdccd06f8632641"
-    },
-    {
-      "sha": "132f1fbea00bf9a96ac8fbabdbcaa1806e6a98b1",
-      "short": "132f1fb",
-      "message": "fix: uma afirmacao sobre a LINGUAGEM que a emissao nao entrega nao e uma prova",
-      "author": "Daniel",
-      "date": "2026-08-15T07:54:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/132f1fbea00bf9a96ac8fbabdbcaa1806e6a98b1"
     }
   ]
 }
