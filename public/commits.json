@@ -1,6 +1,134 @@
 {
-  "total": 5161,
+  "total": 5178,
   "commits": [
+    {
+      "sha": "1d199a38dfa12af1c6e73bde0fd7a06786bce870",
+      "short": "1d199a3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T04:46:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1d199a38dfa12af1c6e73bde0fd7a06786bce870"
+    },
+    {
+      "sha": "070dc7a38ff894c4a7d634e8f97ac7a5e54d0ffd",
+      "short": "070dc7a",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T04:41:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/070dc7a38ff894c4a7d634e8f97ac7a5e54d0ffd"
+    },
+    {
+      "sha": "402f55bca9eaf01a91ac16d2b9f58fac96587790",
+      "short": "402f55b",
+      "message": "Merge pull request #2312 from UrubuCode/perf/dom-intrinsic-cache",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-17T04:26:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/402f55bca9eaf01a91ac16d2b9f58fac96587790"
+    },
+    {
+      "sha": "bf3fe2b3f68c9042b12d8b99719ade74be5c58b8",
+      "short": "bf3fe2b",
+      "message": "perf: cache intrinsic layout widths by local epoch",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-17T02:37:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bf3fe2b3f68c9042b12d8b99719ade74be5c58b8"
+    },
+    {
+      "sha": "49b5c610a1e4b13b3c237049abe58e66f7f95374",
+      "short": "49b5c61",
+      "message": "Merge pull request #2311 from UrubuCode/perf/dom-selector-hotpath",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-17T04:25:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49b5c610a1e4b13b3c237049abe58e66f7f95374"
+    },
+    {
+      "sha": "a4d6d448bb6bf45e89e37c4beaea3b111271f248",
+      "short": "a4d6d44",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T04:16:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4d6d448bb6bf45e89e37c4beaea3b111271f248"
+    },
+    {
+      "sha": "c2d855eb04fa64133a8ab5bd318628d26aee4f79",
+      "short": "c2d855e",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T04:11:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2d855eb04fa64133a8ab5bd318628d26aee4f79"
+    },
+    {
+      "sha": "2ba39d5473e83ad0466157762b677a6e3a754b1e",
+      "short": "2ba39d5",
+      "message": "perf: avoid selector matcher allocations and candidate churn",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-17T02:32:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2ba39d5473e83ad0466157762b677a6e3a754b1e"
+    },
+    {
+      "sha": "d89dfd3b3d68b0848281e01be5c05a136687636f",
+      "short": "d89dfd3",
+      "message": "fix: o workflow Benchmarks falhava em toda a corrida desde o rename de 08-10",
+      "author": "Daniel",
+      "date": "2026-08-17T03:57:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d89dfd3b3d68b0848281e01be5c05a136687636f"
+    },
+    {
+      "sha": "1a8749471f264dad41ff5b52bf8d6ed1f34b2805",
+      "short": "1a87494",
+      "message": "docs: cross-runtime parity 77.7% + history snapshot 2026-08-17",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T03:54:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1a8749471f264dad41ff5b52bf8d6ed1f34b2805"
+    },
+    {
+      "sha": "9fddd62fdd20b6e9a550b5759ef914cecb04170b",
+      "short": "9fddd62",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T02:32:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9fddd62fdd20b6e9a550b5759ef914cecb04170b"
+    },
+    {
+      "sha": "d3ec8157bf1ff3fb90bf59423c10440e60e86125",
+      "short": "d3ec815",
+      "message": "Merge pull request #2305 from UrubuCode/perf/dom-measure-cache",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-17T02:17:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d3ec8157bf1ff3fb90bf59423c10440e60e86125"
+    },
+    {
+      "sha": "5d47962065bc621c1cd041f92b0e75ccf90b8ff0",
+      "short": "5d47962",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-17T02:12:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d47962065bc621c1cd041f92b0e75ccf90b8ff0"
+    },
+    {
+      "sha": "2a6db31ca3fc4539731ff78881663085b58bd65e",
+      "short": "2a6db31",
+      "message": "perf: uma condicao deixa de pagar para desfazer o alargamento que acabou de pagar",
+      "author": "Daniel",
+      "date": "2026-08-17T01:56:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a6db31ca3fc4539731ff78881663085b58bd65e"
+    },
+    {
+      "sha": "76d187a773ac988dad1a10cddca9922af16ac8cd",
+      "short": "76d187a",
+      "message": "perf: cache disposable layout measurements by local epoch",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-17T00:56:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/76d187a773ac988dad1a10cddca9922af16ac8cd"
+    },
+    {
+      "sha": "9021a63c90ec9cb3058ff3dbb05d2ecec1856386",
+      "short": "9021a63",
+      "message": "perf: add selective DOM invalidation and persistent text metrics",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-17T00:42:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9021a63c90ec9cb3058ff3dbb05d2ecec1856386"
+    },
     {
       "sha": "ee83f66755d2ffc048909da95c43d547d19057ef",
       "short": "ee83f66",
@@ -8,6 +136,14 @@
       "author": "github-actions[bot]",
       "date": "2026-08-17T00:34:29Z",
       "url": "https://github.com/UrubuCode/rts/commit/ee83f66755d2ffc048909da95c43d547d19057ef"
+    },
+    {
+      "sha": "22b73a7d69ae2edeb1c32c4d71050817c82b902f",
+      "short": "22b73a7",
+      "message": "perf: avoid redundant DOM invalidation and index scans",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-17T00:25:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22b73a7d69ae2edeb1c32c4d71050817c82b902f"
     },
     {
       "sha": "278dec242d7c690d81c0d792a2b6830ad7f506cd",
@@ -24,142 +160,6 @@
       "author": "MarcosBrendonDePaula",
       "date": "2026-08-17T00:09:55Z",
       "url": "https://github.com/UrubuCode/rts/commit/1f62a1e2739c4f23d7ab0fe02079440eccf08b1b"
-    },
-    {
-      "sha": "3380b77e3d2b77bacd88e098b368d3b95c2b4bb4",
-      "short": "3380b77",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T23:45:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3380b77e3d2b77bacd88e098b368d3b95c2b4bb4"
-    },
-    {
-      "sha": "fa1e8e49e871a85e4f0cf15e8c183f8d47e79f57",
-      "short": "fa1e8e4",
-      "message": "perf: reduce DOM cascade and query overhead",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-16T23:42:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa1e8e49e871a85e4f0cf15e8c183f8d47e79f57"
-    },
-    {
-      "sha": "5f1e1333d273e0148549adc08c42f6c7b0d58358",
-      "short": "5f1e133",
-      "message": "fix: improve DOM compatibility and hit testing",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-16T23:29:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5f1e1333d273e0148549adc08c42f6c7b0d58358"
-    },
-    {
-      "sha": "f93476bf535d969c9a2a882e17aaa57c3afbcae6",
-      "short": "f93476b",
-      "message": "perf: a maquina passa a responder se um valor generico e um singleton",
-      "author": "Daniel",
-      "date": "2026-08-16T23:19:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f93476bf535d969c9a2a882e17aaa57c3afbcae6"
-    },
-    {
-      "sha": "e0461f877efff2edbe3cc3d77bf6b94643d05664",
-      "short": "e0461f8",
-      "message": "perf: switch deixa de perguntar ao runtime o que ja estava provado",
-      "author": "Daniel",
-      "date": "2026-08-16T22:40:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0461f877efff2edbe3cc3d77bf6b94643d05664"
-    },
-    {
-      "sha": "9b66433de5297086bb37695d4220599a66f49cfc",
-      "short": "9b66433",
-      "message": "perf: o construtor deixa de emitir o guard e o multiplicador que ja sabia",
-      "author": "Daniel",
-      "date": "2026-08-16T22:05:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9b66433de5297086bb37695d4220599a66f49cfc"
-    },
-    {
-      "sha": "556ab6db117ad3d4c955789d926fb15577db995c",
-      "short": "556ab6d",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T23:04:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/556ab6db117ad3d4c955789d926fb15577db995c"
-    },
-    {
-      "sha": "2c8c6ab925f2fdd0a10af3b8941cc205e9e5732a",
-      "short": "2c8c6ab",
-      "message": "fix: cinco defeitos, quatro deles so resoluveis desde que existe a contagem de argumentos (#2283)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-16T22:49:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c8c6ab925f2fdd0a10af3b8941cc205e9e5732a"
-    },
-    {
-      "sha": "4cff2e3f998fcb79b0802c62b77971b69c865cd5",
-      "short": "4cff2e3",
-      "message": "docs: auto-update cross-runtime parity badge (77.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T20:52:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4cff2e3f998fcb79b0802c62b77971b69c865cd5"
-    },
-    {
-      "sha": "da9ddd210a04e3d2e9c41704045409b1a575294f",
-      "short": "da9ddd2",
-      "message": "fix: 97 fixtures cross-runtime, oito areas medidas por ficheiro",
-      "author": "Daniel",
-      "date": "2026-08-16T20:12:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da9ddd210a04e3d2e9c41704045409b1a575294f"
-    },
-    {
-      "sha": "53e7a05be514a1d42e0a775d6a39242de88dc397",
-      "short": "53e7a05",
-      "message": "docs: auto-update cross-runtime parity badge (73.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T18:38:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53e7a05be514a1d42e0a775d6a39242de88dc397"
-    },
-    {
-      "sha": "aff12206e84a8c102a53b271ead8560889df38d7",
-      "short": "aff1220",
-      "message": "fix: seis defeitos onde uma conversao acontecia no sitio errado ou nao acontecia (#2271)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-16T18:25:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aff12206e84a8c102a53b271ead8560889df38d7"
-    },
-    {
-      "sha": "6770269e3e06f904d3471f555334744269c365ff",
-      "short": "6770269",
-      "message": "docs: auto-update cross-runtime parity badge (72.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T18:12:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6770269e3e06f904d3471f555334744269c365ff"
-    },
-    {
-      "sha": "1e1c9cee6d75930fcd6bd923c3bfdd467fe6f5df",
-      "short": "1e1c9ce",
-      "message": "fix: cinco defeitos, e o macro passa a derivar a aridade de todos os nativos (#2265)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-16T17:58:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e1c9cee6d75930fcd6bd923c3bfdd467fe6f5df"
-    },
-    {
-      "sha": "c51279eae5bb05e55cd396261c9544e06d96de5b",
-      "short": "c51279e",
-      "message": "docs: auto-update cross-runtime parity badge (71.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T17:41:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c51279eae5bb05e55cd396261c9544e06d96de5b"
-    },
-    {
-      "sha": "30e89a7fd1e01bbae0b48b5808df9707429eb441",
-      "short": "30e89a7",
-      "message": "fix: uma funcao anonima num literal tem nome, e bind escreve name e length (#2259)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-16T17:26:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/30e89a7fd1e01bbae0b48b5808df9707429eb441"
-    },
-    {
-      "sha": "e7a75c3d302a130180a4bec621b2fe3cde125acf",
-      "short": "e7a75c3",
-      "message": "docs: auto-update cross-runtime parity badge (71.5%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-16T17:23:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7a75c3d302a130180a4bec621b2fe3cde125acf"
     }
   ]
 }
