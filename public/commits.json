@@ -1,6 +1,54 @@
 {
-  "total": 5182,
+  "total": 5188,
   "commits": [
+    {
+      "sha": "6c5207e2ab6146b84745bc9f2e88b614a16d1fbc",
+      "short": "6c5207e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T14:02:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c5207e2ab6146b84745bc9f2e88b614a16d1fbc"
+    },
+    {
+      "sha": "39d5765d578013e7caba640308eae98fee3bac27",
+      "short": "39d5765",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T13:56:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39d5765d578013e7caba640308eae98fee3bac27"
+    },
+    {
+      "sha": "e0821c69cff542d78087981e553c27b481102cbb",
+      "short": "e0821c6",
+      "message": "feat(dom): rts:dom no motor novo, canvas com pixels na tela, e a correção que fez a página real aparecer (#2341)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-18T13:38:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e0821c69cff542d78087981e553c27b481102cbb"
+    },
+    {
+      "sha": "06f677587e4619f72506beab522c01eb2d0034ff",
+      "short": "06f6775",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T12:54:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06f677587e4619f72506beab522c01eb2d0034ff"
+    },
+    {
+      "sha": "9ac95b2dfce8712b1c1369d2c340e733fd2eb854",
+      "short": "9ac95b2",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T12:48:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ac95b2dfce8712b1c1369d2c340e733fd2eb854"
+    },
+    {
+      "sha": "50f0e0ff1d2bd90bedd1b7430c853c29f22b08e9",
+      "short": "50f0e0f",
+      "message": "perf(dom): layout incremental + saída em árvore — a mutação de texto passa o Chrome (#2335)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-18T12:33:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50f0e0ff1d2bd90bedd1b7430c853c29f22b08e9"
+    },
     {
       "sha": "8754893f3f05bfe53277dc28bb29ba985e93b002",
       "short": "8754893",
@@ -112,54 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-17T03:54:56Z",
       "url": "https://github.com/UrubuCode/rts/commit/1a8749471f264dad41ff5b52bf8d6ed1f34b2805"
-    },
-    {
-      "sha": "9fddd62fdd20b6e9a550b5759ef914cecb04170b",
-      "short": "9fddd62",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T02:32:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9fddd62fdd20b6e9a550b5759ef914cecb04170b"
-    },
-    {
-      "sha": "d3ec8157bf1ff3fb90bf59423c10440e60e86125",
-      "short": "d3ec815",
-      "message": "Merge pull request #2305 from UrubuCode/perf/dom-measure-cache",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-17T02:17:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3ec8157bf1ff3fb90bf59423c10440e60e86125"
-    },
-    {
-      "sha": "5d47962065bc621c1cd041f92b0e75ccf90b8ff0",
-      "short": "5d47962",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T02:12:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d47962065bc621c1cd041f92b0e75ccf90b8ff0"
-    },
-    {
-      "sha": "2a6db31ca3fc4539731ff78881663085b58bd65e",
-      "short": "2a6db31",
-      "message": "perf: uma condicao deixa de pagar para desfazer o alargamento que acabou de pagar",
-      "author": "Daniel",
-      "date": "2026-08-17T01:56:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a6db31ca3fc4539731ff78881663085b58bd65e"
-    },
-    {
-      "sha": "76d187a773ac988dad1a10cddca9922af16ac8cd",
-      "short": "76d187a",
-      "message": "perf: cache disposable layout measurements by local epoch",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-17T00:56:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/76d187a773ac988dad1a10cddca9922af16ac8cd"
-    },
-    {
-      "sha": "9021a63c90ec9cb3058ff3dbb05d2ecec1856386",
-      "short": "9021a63",
-      "message": "perf: add selective DOM invalidation and persistent text metrics",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-17T00:42:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9021a63c90ec9cb3058ff3dbb05d2ecec1856386"
     }
   ]
 }
