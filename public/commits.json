@@ -1,6 +1,38 @@
 {
-  "total": 5178,
+  "total": 5182,
   "commits": [
+    {
+      "sha": "8754893f3f05bfe53277dc28bb29ba985e93b002",
+      "short": "8754893",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T03:50:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8754893f3f05bfe53277dc28bb29ba985e93b002"
+    },
+    {
+      "sha": "665d377b204f29900a2c8cf1f4d1bca2599f1816",
+      "short": "665d377",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-18T03:44:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/665d377b204f29900a2c8cf1f4d1bca2599f1816"
+    },
+    {
+      "sha": "98066bdac072f880baac169576fd14cc734611dc",
+      "short": "98066bd",
+      "message": "perf(dom): campanha de otimização — cascade, consulta e representação das regras CSS (#2329)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-18T03:28:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98066bdac072f880baac169576fd14cc734611dc"
+    },
+    {
+      "sha": "71316ba7059153bb4db351af2918c0d04dd1a4bc",
+      "short": "71316ba",
+      "message": "feat(dom): métricas do DOM (contadores, fases, amostras, auditoria, memória) + 3 otimizações que elas justificaram (#2328)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-18T03:15:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71316ba7059153bb4db351af2918c0d04dd1a4bc"
+    },
     {
       "sha": "1d199a38dfa12af1c6e73bde0fd7a06786bce870",
       "short": "1d199a3",
@@ -128,38 +160,6 @@
       "author": "MarcosBrendonDePaula",
       "date": "2026-08-17T00:42:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/9021a63c90ec9cb3058ff3dbb05d2ecec1856386"
-    },
-    {
-      "sha": "ee83f66755d2ffc048909da95c43d547d19057ef",
-      "short": "ee83f66",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T00:34:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ee83f66755d2ffc048909da95c43d547d19057ef"
-    },
-    {
-      "sha": "22b73a7d69ae2edeb1c32c4d71050817c82b902f",
-      "short": "22b73a7",
-      "message": "perf: avoid redundant DOM invalidation and index scans",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-17T00:25:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/22b73a7d69ae2edeb1c32c4d71050817c82b902f"
-    },
-    {
-      "sha": "278dec242d7c690d81c0d792a2b6830ad7f506cd",
-      "short": "278dec2",
-      "message": "Merge pull request #2294 from UrubuCode/perf/dom-deep-opt",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-17T00:19:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/278dec242d7c690d81c0d792a2b6830ad7f506cd"
-    },
-    {
-      "sha": "1f62a1e2739c4f23d7ab0fe02079440eccf08b1b",
-      "short": "1f62a1e",
-      "message": "perf: reduce layout traversal and text measurement",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-17T00:09:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f62a1e2739c4f23d7ab0fe02079440eccf08b1b"
     }
   ]
 }
