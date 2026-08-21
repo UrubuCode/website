@@ -1,165 +1,165 @@
 {
-  "total": 5198,
+  "total": 5246,
   "commits": [
     {
-      "sha": "0beb1e9c91335e144e7b60293932a84e04a34ebb",
-      "short": "0beb1e9",
-      "message": "fix(bench): property_access compared against the slower reference only",
-      "author": "Drysius",
-      "date": "2026-08-20T23:28:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0beb1e9c91335e144e7b60293932a84e04a34ebb"
-    },
-    {
-      "sha": "62a3553e293a6062ff79d29f8f850c81e12e8ad9",
-      "short": "62a3553",
-      "message": "bench: measure what leaving the proven-local path costs",
-      "author": "Drysius",
-      "date": "2026-08-20T23:21:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/62a3553e293a6062ff79d29f8f850c81e12e8ad9"
-    },
-    {
-      "sha": "5a339fccc5ed6485e0cfd600e8c3d16724f16af1",
-      "short": "5a339fc",
-      "message": "perf(cranelift): divide by a power of two with a multiply, not fdiv",
-      "author": "Drysius",
-      "date": "2026-08-20T22:37:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a339fccc5ed6485e0cfd600e8c3d16724f16af1"
-    },
-    {
-      "sha": "5ccc68d92e96fc1468ce281c57b6d9b2aaccf7be",
-      "short": "5ccc68d",
-      "message": "perf(cranelift): `% 2^k` on doubles is instructions, not a call",
-      "author": "Drysius",
-      "date": "2026-08-21T01:00:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ccc68d92e96fc1468ce281c57b6d9b2aaccf7be"
-    },
-    {
-      "sha": "381641170b6045a7724a7c1ade268654d4ed1411",
-      "short": "3816411",
-      "message": "chore: cap cargo at 8 parallel jobs",
-      "author": "Drysius",
-      "date": "2026-08-21T00:15:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/381641170b6045a7724a7c1ade268654d4ed1411"
-    },
-    {
-      "sha": "29e784460ce0c076eaeba55a1a21052373429278",
-      "short": "29e7844",
-      "message": "perf(codegen): prove `%`, and stop it poisoning every local it touches",
-      "author": "Drysius",
-      "date": "2026-08-21T00:14:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/29e784460ce0c076eaeba55a1a21052373429278"
-    },
-    {
-      "sha": "8aad273eeee03fbc7e47785d7fafbc4afafd147f",
-      "short": "8aad273",
-      "message": "feat(cranelift): admit NumOp::Rem in the integer domain only",
-      "author": "Drysius",
-      "date": "2026-08-20T23:25:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8aad273eeee03fbc7e47785d7fafbc4afafd147f"
-    },
-    {
-      "sha": "409d803d145e996ce20414070b17d9f9e469fb13",
-      "short": "409d803",
+      "sha": "f47d3a2fcdc7d15cf96674979d8595ae64df92df",
+      "short": "f47d3a2",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-19T00:07:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/409d803d145e996ce20414070b17d9f9e469fb13"
+      "date": "2026-08-21T06:02:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f47d3a2fcdc7d15cf96674979d8595ae64df92df"
     },
     {
-      "sha": "9ef22558acae89552c90339eee7dede84ca0a5b3",
-      "short": "9ef2255",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "sha": "35f8c81f806cea66a26addda0b5eedfd43d61639",
+      "short": "35f8c81",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-19T00:01:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ef22558acae89552c90339eee7dede84ca0a5b3"
+      "date": "2026-08-21T05:55:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/35f8c81f806cea66a26addda0b5eedfd43d61639"
     },
     {
-      "sha": "c9c2c0810e7500fde8fc5cc3cb5975e6b1ccbbdb",
-      "short": "c9c2c08",
-      "message": "feat(dom): motor de CSS medido contra o Chrome — de 84% dos elementos sem caixa para zero (#2347)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-18T23:47:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9c2c0810e7500fde8fc5cc3cb5975e6b1ccbbdb"
+      "sha": "617e2d5f1ba8a09600b2982757d30737b59e0f7b",
+      "short": "617e2d5",
+      "message": "fix(codegen): a captured block binding no longer shadows the outer one",
+      "author": "Drysius",
+      "date": "2026-08-21T05:41:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/617e2d5f1ba8a09600b2982757d30737b59e0f7b"
     },
     {
-      "sha": "6c5207e2ab6146b84745bc9f2e88b614a16d1fbc",
-      "short": "6c5207e",
+      "sha": "910881f3fae960bd8a3ea0e29f446ab26bc41cd9",
+      "short": "910881f",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T14:02:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c5207e2ab6146b84745bc9f2e88b614a16d1fbc"
+      "date": "2026-08-21T05:37:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/910881f3fae960bd8a3ea0e29f446ab26bc41cd9"
     },
     {
-      "sha": "39d5765d578013e7caba640308eae98fee3bac27",
-      "short": "39d5765",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "sha": "d45e4bace353bac99b5fe831fa7d5fce1eca7dfa",
+      "short": "d45e4ba",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T13:56:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/39d5765d578013e7caba640308eae98fee3bac27"
+      "date": "2026-08-21T05:31:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d45e4bace353bac99b5fe831fa7d5fce1eca7dfa"
     },
     {
-      "sha": "e0821c69cff542d78087981e553c27b481102cbb",
-      "short": "e0821c6",
-      "message": "feat(dom): rts:dom no motor novo, canvas com pixels na tela, e a correção que fez a página real aparecer (#2341)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-18T13:38:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0821c69cff542d78087981e553c27b481102cbb"
+      "sha": "250c003c1e94c19cacfa961d8ecdbdc1107be71f",
+      "short": "250c003",
+      "message": "docs(ui): fechar a lista de valor da sessão — e a armadilha do líquido, agora aplicada a LINHAS",
+      "author": "Marcos",
+      "date": "2026-08-21T05:17:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/250c003c1e94c19cacfa961d8ecdbdc1107be71f"
     },
     {
-      "sha": "06f677587e4619f72506beab522c01eb2d0034ff",
-      "short": "06f6775",
+      "sha": "834f2a738269be269c9ca23b51625bb87fd9bb62",
+      "short": "834f2a7",
+      "message": "docs(ui): os números da sessão lote a lote — e a terceira forma da armadilha do agregado",
+      "author": "Marcos",
+      "date": "2026-08-21T05:14:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/834f2a738269be269c9ca23b51625bb87fd9bb62"
+    },
+    {
+      "sha": "df9e11d7bd8999f611e5f2554b1a541ea056c9af",
+      "short": "df9e11d",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos",
+      "date": "2026-08-21T05:10:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df9e11d7bd8999f611e5f2554b1a541ea056c9af"
+    },
+    {
+      "sha": "aa3e908d117d7e2fddb0f90d0a2be67cc5b47163",
+      "short": "aa3e908",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T12:54:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/06f677587e4619f72506beab522c01eb2d0034ff"
+      "date": "2026-08-21T05:02:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aa3e908d117d7e2fddb0f90d0a2be67cc5b47163"
     },
     {
-      "sha": "9ac95b2dfce8712b1c1369d2c340e733fd2eb854",
-      "short": "9ac95b2",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "sha": "56ba07f9161461efac3907489e8ba00552759cff",
+      "short": "56ba07f",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T12:48:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9ac95b2dfce8712b1c1369d2c340e733fd2eb854"
+      "date": "2026-08-21T04:56:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56ba07f9161461efac3907489e8ba00552759cff"
     },
     {
-      "sha": "50f0e0ff1d2bd90bedd1b7430c853c29f22b08e9",
-      "short": "50f0e0f",
-      "message": "perf(dom): layout incremental + saída em árvore — a mutação de texto passa o Chrome (#2335)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-18T12:33:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/50f0e0ff1d2bd90bedd1b7430c853c29f22b08e9"
+      "sha": "80b60a3a92b074976e1fd11754bb8024eedcf578",
+      "short": "80b60a3",
+      "message": "fix(dom): o avanço proporcional era 0,5 e o teto medido é 0,4646 — passa a 0,46, e o comentário deixa de dizer que não dá para calibrar",
+      "author": "Marcos",
+      "date": "2026-08-21T04:55:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80b60a3a92b074976e1fd11754bb8024eedcf578"
     },
     {
-      "sha": "8754893f3f05bfe53277dc28bb29ba985e93b002",
-      "short": "8754893",
+      "sha": "78f3f4ad5d97ffe305c9ebcc1a0992d3b40cd301",
+      "short": "78f3f4a",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos",
+      "date": "2026-08-21T04:41:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/78f3f4ad5d97ffe305c9ebcc1a0992d3b40cd301"
+    },
+    {
+      "sha": "c817ae7a1efa26f1deb0d873b3974ac1e41fac50",
+      "short": "c817ae7",
+      "message": "perf(codegen): read back a captured variable the emitter is still holding",
+      "author": "Drysius",
+      "date": "2026-08-21T04:37:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c817ae7a1efa26f1deb0d873b3974ac1e41fac50"
+    },
+    {
+      "sha": "07b43082eb28509359836525d0e47f1fdbee9bdf",
+      "short": "07b4308",
+      "message": "feat(parity): o extrator do Chrome passa a dizer quantos caracteres e que line-height — o avanço sai por divisão, não por inferência",
+      "author": "Marcos",
+      "date": "2026-08-21T04:33:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/07b43082eb28509359836525d0e47f1fdbee9bdf"
+    },
+    {
+      "sha": "67a3572ba4ab304b9ac06f6342e4a15c6e8ad02d",
+      "short": "67a3572",
+      "message": "chore(dom): apagar as sondas que já responderam, e dar nome de behaviour à que fica",
+      "author": "Marcos",
+      "date": "2026-08-21T04:29:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/67a3572ba4ab304b9ac06f6342e4a15c6e8ad02d"
+    },
+    {
+      "sha": "0c4c8602a56b6af220099290c8d6391ccfdc4f48",
+      "short": "0c4c860",
+      "message": "fix(dom): a linha era partida entre dois textos colados — `ano[135]` deixava o `[` para trás",
+      "author": "Marcos",
+      "date": "2026-08-21T04:26:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c4c8602a56b6af220099290c8d6391ccfdc4f48"
+    },
+    {
+      "sha": "df1bb251793de8d142da24c80f65bc267ed258b8",
+      "short": "df1bb25",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T03:50:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8754893f3f05bfe53277dc28bb29ba985e93b002"
+      "date": "2026-08-21T04:25:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/df1bb251793de8d142da24c80f65bc267ed258b8"
     },
     {
-      "sha": "665d377b204f29900a2c8cf1f4d1bca2599f1816",
-      "short": "665d377",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "sha": "218df19698e2cbba6848017910266763e2350a6d",
+      "short": "218df19",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-18T03:44:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/665d377b204f29900a2c8cf1f4d1bca2599f1816"
+      "date": "2026-08-21T04:19:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/218df19698e2cbba6848017910266763e2350a6d"
     },
     {
-      "sha": "98066bdac072f880baac169576fd14cc734611dc",
-      "short": "98066bd",
-      "message": "perf(dom): campanha de otimização — cascade, consulta e representação das regras CSS (#2329)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-18T03:28:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/98066bdac072f880baac169576fd14cc734611dc"
+      "sha": "a72e6242e725a6b949f42de72c998d8394010e1a",
+      "short": "a72e624",
+      "message": "docs(ui): o item 1 medido — previsto −201 954 px, medido −202 045 — e uma proposta retirada por dois métodos discordarem",
+      "author": "Marcos",
+      "date": "2026-08-21T04:06:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a72e6242e725a6b949f42de72c998d8394010e1a"
     },
     {
-      "sha": "71316ba7059153bb4db351af2918c0d04dd1a4bc",
-      "short": "71316ba",
-      "message": "feat(dom): métricas do DOM (contadores, fases, amostras, auditoria, memória) + 3 otimizações que elas justificaram (#2328)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-18T03:15:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71316ba7059153bb4db351af2918c0d04dd1a4bc"
+      "sha": "376f88fe00d3482e83b46418d6783ba1b2dd5ec7",
+      "short": "376f88f",
+      "message": "feat(dom): floats que o texto contorna, `<img>` sem pixels que ocupa a caixa, e raio por canto até ao ecrã",
+      "author": "Marcos",
+      "date": "2026-08-21T03:54:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/376f88fe00d3482e83b46418d6783ba1b2dd5ec7"
     }
   ]
 }
