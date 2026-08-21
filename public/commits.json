@@ -1,6 +1,62 @@
 {
-  "total": 5191,
+  "total": 5198,
   "commits": [
+    {
+      "sha": "0beb1e9c91335e144e7b60293932a84e04a34ebb",
+      "short": "0beb1e9",
+      "message": "fix(bench): property_access compared against the slower reference only",
+      "author": "Drysius",
+      "date": "2026-08-20T23:28:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0beb1e9c91335e144e7b60293932a84e04a34ebb"
+    },
+    {
+      "sha": "62a3553e293a6062ff79d29f8f850c81e12e8ad9",
+      "short": "62a3553",
+      "message": "bench: measure what leaving the proven-local path costs",
+      "author": "Drysius",
+      "date": "2026-08-20T23:21:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62a3553e293a6062ff79d29f8f850c81e12e8ad9"
+    },
+    {
+      "sha": "5a339fccc5ed6485e0cfd600e8c3d16724f16af1",
+      "short": "5a339fc",
+      "message": "perf(cranelift): divide by a power of two with a multiply, not fdiv",
+      "author": "Drysius",
+      "date": "2026-08-20T22:37:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5a339fccc5ed6485e0cfd600e8c3d16724f16af1"
+    },
+    {
+      "sha": "5ccc68d92e96fc1468ce281c57b6d9b2aaccf7be",
+      "short": "5ccc68d",
+      "message": "perf(cranelift): `% 2^k` on doubles is instructions, not a call",
+      "author": "Drysius",
+      "date": "2026-08-21T01:00:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ccc68d92e96fc1468ce281c57b6d9b2aaccf7be"
+    },
+    {
+      "sha": "381641170b6045a7724a7c1ade268654d4ed1411",
+      "short": "3816411",
+      "message": "chore: cap cargo at 8 parallel jobs",
+      "author": "Drysius",
+      "date": "2026-08-21T00:15:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/381641170b6045a7724a7c1ade268654d4ed1411"
+    },
+    {
+      "sha": "29e784460ce0c076eaeba55a1a21052373429278",
+      "short": "29e7844",
+      "message": "perf(codegen): prove `%`, and stop it poisoning every local it touches",
+      "author": "Drysius",
+      "date": "2026-08-21T00:14:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29e784460ce0c076eaeba55a1a21052373429278"
+    },
+    {
+      "sha": "8aad273eeee03fbc7e47785d7fafbc4afafd147f",
+      "short": "8aad273",
+      "message": "feat(cranelift): admit NumOp::Rem in the integer domain only",
+      "author": "Drysius",
+      "date": "2026-08-20T23:25:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8aad273eeee03fbc7e47785d7fafbc4afafd147f"
+    },
     {
       "sha": "409d803d145e996ce20414070b17d9f9e469fb13",
       "short": "409d803",
@@ -104,62 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-08-18T03:15:56Z",
       "url": "https://github.com/UrubuCode/rts/commit/71316ba7059153bb4db351af2918c0d04dd1a4bc"
-    },
-    {
-      "sha": "1d199a38dfa12af1c6e73bde0fd7a06786bce870",
-      "short": "1d199a3",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T04:46:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1d199a38dfa12af1c6e73bde0fd7a06786bce870"
-    },
-    {
-      "sha": "070dc7a38ff894c4a7d634e8f97ac7a5e54d0ffd",
-      "short": "070dc7a",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T04:41:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/070dc7a38ff894c4a7d634e8f97ac7a5e54d0ffd"
-    },
-    {
-      "sha": "402f55bca9eaf01a91ac16d2b9f58fac96587790",
-      "short": "402f55b",
-      "message": "Merge pull request #2312 from UrubuCode/perf/dom-intrinsic-cache",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-17T04:26:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/402f55bca9eaf01a91ac16d2b9f58fac96587790"
-    },
-    {
-      "sha": "bf3fe2b3f68c9042b12d8b99719ade74be5c58b8",
-      "short": "bf3fe2b",
-      "message": "perf: cache intrinsic layout widths by local epoch",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-17T02:37:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bf3fe2b3f68c9042b12d8b99719ade74be5c58b8"
-    },
-    {
-      "sha": "49b5c610a1e4b13b3c237049abe58e66f7f95374",
-      "short": "49b5c61",
-      "message": "Merge pull request #2311 from UrubuCode/perf/dom-selector-hotpath",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-17T04:25:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49b5c610a1e4b13b3c237049abe58e66f7f95374"
-    },
-    {
-      "sha": "a4d6d448bb6bf45e89e37c4beaea3b111271f248",
-      "short": "a4d6d44",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T04:16:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4d6d448bb6bf45e89e37c4beaea3b111271f248"
-    },
-    {
-      "sha": "c2d855eb04fa64133a8ab5bd318628d26aee4f79",
-      "short": "c2d855e",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-17T04:11:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2d855eb04fa64133a8ab5bd318628d26aee4f79"
     }
   ]
 }
