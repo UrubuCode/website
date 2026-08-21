@@ -1,165 +1,165 @@
 {
-  "total": 5272,
+  "total": 5322,
   "commits": [
     {
-      "sha": "5bfa3353570e52348e4ef721966b0eafdf68aa34",
-      "short": "5bfa335",
-      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T12:28:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5bfa3353570e52348e4ef721966b0eafdf68aa34"
-    },
-    {
-      "sha": "e83654a6883e521323541cd63ada65748dbeddec",
-      "short": "e83654a",
-      "message": "feat(parity): a sonda mostra as GUARDADAS por folha — a lista do que falta cai para uma",
+      "sha": "3a1c902a13b926eeb811101b4490794af4e95ff9",
+      "short": "3a1c902",
+      "message": "docs(ui): as imagens fecham a largura — 107 de 110, e o único perdido é uma re-quebra",
       "author": "Marcos",
-      "date": "2026-08-21T12:13:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e83654a6883e521323541cd63ada65748dbeddec"
+      "date": "2026-08-21T18:23:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3a1c902a13b926eeb811101b4490794af4e95ff9"
     },
     {
-      "sha": "6765bc009601a17eee50bbb76a28502cb0df5921",
-      "short": "6765bc0",
-      "message": "fix(parity): a página COMBINADA passa a seguir o `OUT` — medir uma segunda página reescrevia a primeira",
+      "sha": "4b8b2ab34bb79db8a01d6ecfb55cb9af80227cf3",
+      "short": "4b8b2ab",
+      "message": "fix(dom): `height:auto` descartava a razão junto com o atributo — e a caixa do replaced ganha a borda",
       "author": "Marcos",
-      "date": "2026-08-21T12:00:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6765bc009601a17eee50bbb76a28502cb0df5921"
+      "date": "2026-08-21T18:20:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4b8b2ab34bb79db8a01d6ecfb55cb9af80227cf3"
     },
     {
-      "sha": "ccf3eac9793d8ed7c74f70cc269c9d50db493141",
-      "short": "ccf3eac",
-      "message": "fix(dom): `:root` não casava nada quando a folha vinha antes do `<html>` — 115 variáveis a entrar onde não havia nenhuma",
+      "sha": "6ee99fb5c8e02eba08e0251a2272dc99815f6444",
+      "short": "6ee99fb",
+      "message": "fix(dom): a margem do próprio elemento entrava na base da percentagem — 6 dos 8px em falta nas imagens",
       "author": "Marcos",
-      "date": "2026-08-21T11:52:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccf3eac9793d8ed7c74f70cc269c9d50db493141"
+      "date": "2026-08-21T18:16:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ee99fb5c8e02eba08e0251a2272dc99815f6444"
     },
     {
-      "sha": "b0f269130c87e7adbc973c5335d4cf5e87530470",
-      "short": "b0f2691",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "98fd0c1614f9ed5f5ef517217a48853e3647c82f",
+      "short": "98fd0c1",
+      "message": "docs(ui): o corte das imagens medido por elemento — e três coisas que o número corrige na história",
       "author": "Marcos",
-      "date": "2026-08-21T11:44:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b0f269130c87e7adbc973c5335d4cf5e87530470"
+      "date": "2026-08-21T18:12:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98fd0c1614f9ed5f5ef517217a48853e3647c82f"
     },
     {
-      "sha": "7ee8b842d4131c2b50c174d8510931b705b11011",
-      "short": "7ee8b84",
+      "sha": "21f2be4cccd9a0964efb4f580d6defeda2971edd",
+      "short": "21f2be4",
+      "message": "feat(parity): a régua de regressão aceita a FAMÍLIA e o EIXO — sem eles, uma correção de largura mede-se pelo y",
+      "author": "Marcos",
+      "date": "2026-08-21T18:08:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/21f2be4cccd9a0964efb4f580d6defeda2971edd"
+    },
+    {
+      "sha": "d667cb8bdc254e71a90427e27de95780380eb89f",
+      "short": "d667cb8",
+      "message": "fix(dom): encolhíamos imagens à largura do contentor — o Chrome deixa-as transbordar",
+      "author": "Marcos",
+      "date": "2026-08-21T18:02:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d667cb8bdc254e71a90427e27de95780380eb89f"
+    },
+    {
+      "sha": "dabe3a80dd8ce3e29233e8901fd82ad1c33b0495",
+      "short": "dabe3a8",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T11:42:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ee8b842d4131c2b50c174d8510931b705b11011"
+      "date": "2026-08-21T17:52:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dabe3a80dd8ce3e29233e8901fd82ad1c33b0495"
     },
     {
-      "sha": "c4c3ba3cd26fdd2c27cbfff3a9b0f869607c1fd7",
-      "short": "c4c3ba3",
-      "message": "fix(dom): o nome de uma variável CSS era minusculado — o Google inteiro herdava a fonte errada",
-      "author": "Marcos",
-      "date": "2026-08-21T11:39:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c4c3ba3cd26fdd2c27cbfff3a9b0f869607c1fd7"
-    },
-    {
-      "sha": "a61c3f6a9930e98b0e83a47cb6cf3039f8b200e9",
-      "short": "a61c3f6",
+      "sha": "bbf4f022e9c2fea20aefa034344ef169c4fc2a7a",
+      "short": "bbf4f02",
       "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T11:35:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a61c3f6a9930e98b0e83a47cb6cf3039f8b200e9"
+      "date": "2026-08-21T17:47:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bbf4f022e9c2fea20aefa034344ef169c4fc2a7a"
     },
     {
-      "sha": "c696275e949e24d20ad0d1e418c6d27e5c9f8554",
-      "short": "c696275",
-      "message": "feat(parity): a sonda de cobertura passa a CONFERIR-SE, e falha com exit 1 quando não bate",
+      "sha": "cb05b54b679fcf0b80a5a54b8d70ffe8cf7c0b94",
+      "short": "cb05b54",
+      "message": "docs(ui): o estado ao fim do dia — o erro passou a medir o que se vê",
       "author": "Marcos",
-      "date": "2026-08-21T11:20:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c696275e949e24d20ad0d1e418c6d27e5c9f8554"
+      "date": "2026-08-21T17:31:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb05b54b679fcf0b80a5a54b8d70ffe8cf7c0b94"
     },
     {
-      "sha": "6eab4185aed9bddde8b4c5ff2ddc36358cdabf4b",
-      "short": "6eab418",
-      "message": "feat(dom,egui): o motor passa a pintar itálico — 77 declarações em 10 das 13 folhas que saíam em redondo",
+      "sha": "bf5941536550f30497fcc06e026ba70883f0391d",
+      "short": "bf59415",
+      "message": "fix(parity): a régua contava texto INVISÍVEL — 3 133 caracteres \"a mais\" eram 73",
       "author": "Marcos",
-      "date": "2026-08-21T11:12:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6eab4185aed9bddde8b4c5ff2ddc36358cdabf4b"
+      "date": "2026-08-21T17:24:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bf5941536550f30497fcc06e026ba70883f0391d"
     },
     {
-      "sha": "ff8be6f7fd1641aa662e88da6263b392a96d2be8",
-      "short": "ff8be6f",
-      "message": "docs(ui): o grupo de compositing é RECUSADO — e o número que o recusa é zero, medido",
+      "sha": "84bc961dc76699ce537139298db61d2cc1299774",
+      "short": "84bc961",
+      "message": "docs(ui): as três cegueiras da régua de desenho — e a que nos penaliza por acertar",
       "author": "Marcos",
-      "date": "2026-08-21T11:12:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff8be6f7fd1641aa662e88da6263b392a96d2be8"
+      "date": "2026-08-21T17:21:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84bc961dc76699ce537139298db61d2cc1299774"
     },
     {
-      "sha": "fd5b08f076218bf3d481bd71402f6ecf9371302a",
-      "short": "fd5b08f",
-      "message": "feat(parity): a sonda separa \"reconhecida\" de \"EFETIVA\" — e descobre que o motor nunca pinta itálico",
+      "sha": "b759d913e35cfb21abfd7eddd5fb1f05edc0042f",
+      "short": "b759d91",
+      "message": "feat(parity): o corpus do Chrome pagina e confere por página — e trocar para o DOM PIORA a coluna, medido",
       "author": "Marcos",
-      "date": "2026-08-21T11:00:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fd5b08f076218bf3d481bd71402f6ecf9371302a"
+      "date": "2026-08-21T17:17:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b759d913e35cfb21abfd7eddd5fb1f05edc0042f"
     },
     {
-      "sha": "2d67032aac74597c7e798fdd8a69774e1df283c5",
-      "short": "2d67032",
-      "message": "docs(ui): `filter`/`clip-path` no doc — e porque é que os recusados NÃO vão para o `inert.rs`",
+      "sha": "37e1eeed03abe5c59e77efccf1897ed8acfce6b6",
+      "short": "37e1eee",
+      "message": "fix(parity): a fenda de 16 440 caracteres não existia — era `\\s` a virar a letra \"s\" num template literal",
       "author": "Marcos",
-      "date": "2026-08-21T10:57:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d67032aac74597c7e798fdd8a69774e1df283c5"
+      "date": "2026-08-21T17:14:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/37e1eeed03abe5c59e77efccf1897ed8acfce6b6"
     },
     {
-      "sha": "84763d565b4231948cc98002b2ee2379a647c70b",
-      "short": "84763d5",
-      "message": "test(dom): oito testes de LIGAÇÃO do filtro — o que a matriz faz é uma coisa, o que chega ao ecrã é outra",
+      "sha": "31fbcad9192b59d43f625960504c47bf13eaac35",
+      "short": "31fbcad",
+      "message": "fix(parity): o corpus do DOM chegava TRUNCADO — 17 536 caracteres perdidos no transporte",
       "author": "Marcos",
-      "date": "2026-08-21T10:54:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84763d565b4231948cc98002b2ee2379a647c70b"
+      "date": "2026-08-21T17:06:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/31fbcad9192b59d43f625960504c47bf13eaac35"
     },
     {
-      "sha": "792e63eed1f9237e605c5c44b55acd087dd12c98",
-      "short": "792e63e",
-      "message": "feat(dom): `filter` e `clip-path` pintam — a matriz de cor da spec, e o recorte que se recusa a fingir",
+      "sha": "a37640fa463cdb21295e27de0fcb54636d222579",
+      "short": "a37640f",
+      "message": "fix(parity): as 297 palavras em falta são 24 caracteres, e as 712 a mais não são atribuíveis",
       "author": "Marcos",
-      "date": "2026-08-21T10:52:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/792e63eed1f9237e605c5c44b55acd087dd12c98"
+      "date": "2026-08-21T16:59:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a37640fa463cdb21295e27de0fcb54636d222579"
     },
     {
-      "sha": "0b471349154bf2223ad0effd80f5350dac9a4625",
-      "short": "0b47134",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "73c365a151691427f92387a53ec6fd99ba1a6406",
+      "short": "73c365a",
+      "message": "fix(parity): a conferência da sabotagem é IGUALDADE exata — o `min()` sugerido aprovava voo cego",
       "author": "Marcos",
-      "date": "2026-08-21T10:50:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0b471349154bf2223ad0effd80f5350dac9a4625"
+      "date": "2026-08-21T16:55:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73c365a151691427f92387a53ec6fd99ba1a6406"
     },
     {
-      "sha": "b385e0c9c9d51cfedf549fa881e038d8709009cf",
-      "short": "b385e0c",
-      "message": "feat(dom): a colocação por LINHA de grid, e `filter`/`clip-path` guardados crus para o paint — 58,0% das propriedades",
+      "sha": "744a156ba4c1c8367b8066487c3a722c8c145224",
+      "short": "744a156",
+      "message": "fix(parity): marcadores 787 contra 787 — e os 8 que faltavam eram do instrumento, medidos na condição errada",
       "author": "Marcos",
-      "date": "2026-08-21T10:50:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b385e0c9c9d51cfedf549fa881e038d8709009cf"
+      "date": "2026-08-21T16:50:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/744a156ba4c1c8367b8066487c3a722c8c145224"
     },
     {
-      "sha": "3fc3e42106d9c095199e430f5f26f2c60eaa0ab3",
-      "short": "3fc3e42",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T09:13:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3fc3e42106d9c095199e430f5f26f2c60eaa0ab3"
-    },
-    {
-      "sha": "c9baddc09354f0bc950cc4781a7f1289928db447",
-      "short": "c9baddc",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T09:07:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9baddc09354f0bc950cc4781a7f1289928db447"
-    },
-    {
-      "sha": "7e5dbd6059a9357ac10be2ebfdc286d91bf5b5d0",
-      "short": "7e5dbd6",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "1346fcf582d1eb860b0e2fb905a0febb7857d7c2",
+      "short": "1346fcf",
+      "message": "feat(parity): a régua audita o LADO DO CHROME — e a sabotagem reproduz o −167 ao número",
       "author": "Marcos",
-      "date": "2026-08-21T08:53:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e5dbd6059a9357ac10be2ebfdc286d91bf5b5d0"
+      "date": "2026-08-21T16:44:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1346fcf582d1eb860b0e2fb905a0febb7857d7c2"
+    },
+    {
+      "sha": "cfa7a1ea36405eed33dc3c2d8cdbc5675e6cbfba",
+      "short": "cfa7a1e",
+      "message": "fix(parity): a régua contava 302 marcadores a menos de um lado e 107 a mais do outro",
+      "author": "Marcos",
+      "date": "2026-08-21T16:40:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cfa7a1ea36405eed33dc3c2d8cdbc5675e6cbfba"
+    },
+    {
+      "sha": "4e9594db46d727f13e4de79fc69594959beb246e",
+      "short": "4e9594d",
+      "message": "fix(dom): `list-style-image: none` era lido como \"há imagem\" — e apagava a numeração de todos os `<ol>` da página",
+      "author": "Marcos",
+      "date": "2026-08-21T16:33:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e9594db46d727f13e4de79fc69594959beb246e"
     }
   ]
 }
