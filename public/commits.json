@@ -1,165 +1,165 @@
 {
-  "total": 5246,
+  "total": 5272,
   "commits": [
     {
-      "sha": "f47d3a2fcdc7d15cf96674979d8595ae64df92df",
-      "short": "f47d3a2",
-      "message": "docs: auto-update benchmark table",
+      "sha": "5bfa3353570e52348e4ef721966b0eafdf68aa34",
+      "short": "5bfa335",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T06:02:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f47d3a2fcdc7d15cf96674979d8595ae64df92df"
+      "date": "2026-08-21T12:28:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5bfa3353570e52348e4ef721966b0eafdf68aa34"
     },
     {
-      "sha": "35f8c81f806cea66a26addda0b5eedfd43d61639",
-      "short": "35f8c81",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T05:55:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/35f8c81f806cea66a26addda0b5eedfd43d61639"
-    },
-    {
-      "sha": "617e2d5f1ba8a09600b2982757d30737b59e0f7b",
-      "short": "617e2d5",
-      "message": "fix(codegen): a captured block binding no longer shadows the outer one",
-      "author": "Drysius",
-      "date": "2026-08-21T05:41:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/617e2d5f1ba8a09600b2982757d30737b59e0f7b"
-    },
-    {
-      "sha": "910881f3fae960bd8a3ea0e29f446ab26bc41cd9",
-      "short": "910881f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T05:37:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/910881f3fae960bd8a3ea0e29f446ab26bc41cd9"
-    },
-    {
-      "sha": "d45e4bace353bac99b5fe831fa7d5fce1eca7dfa",
-      "short": "d45e4ba",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T05:31:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d45e4bace353bac99b5fe831fa7d5fce1eca7dfa"
-    },
-    {
-      "sha": "250c003c1e94c19cacfa961d8ecdbdc1107be71f",
-      "short": "250c003",
-      "message": "docs(ui): fechar a lista de valor da sessão — e a armadilha do líquido, agora aplicada a LINHAS",
+      "sha": "e83654a6883e521323541cd63ada65748dbeddec",
+      "short": "e83654a",
+      "message": "feat(parity): a sonda mostra as GUARDADAS por folha — a lista do que falta cai para uma",
       "author": "Marcos",
-      "date": "2026-08-21T05:17:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/250c003c1e94c19cacfa961d8ecdbdc1107be71f"
+      "date": "2026-08-21T12:13:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e83654a6883e521323541cd63ada65748dbeddec"
     },
     {
-      "sha": "834f2a738269be269c9ca23b51625bb87fd9bb62",
-      "short": "834f2a7",
-      "message": "docs(ui): os números da sessão lote a lote — e a terceira forma da armadilha do agregado",
+      "sha": "6765bc009601a17eee50bbb76a28502cb0df5921",
+      "short": "6765bc0",
+      "message": "fix(parity): a página COMBINADA passa a seguir o `OUT` — medir uma segunda página reescrevia a primeira",
       "author": "Marcos",
-      "date": "2026-08-21T05:14:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/834f2a738269be269c9ca23b51625bb87fd9bb62"
+      "date": "2026-08-21T12:00:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6765bc009601a17eee50bbb76a28502cb0df5921"
     },
     {
-      "sha": "df9e11d7bd8999f611e5f2554b1a541ea056c9af",
-      "short": "df9e11d",
+      "sha": "ccf3eac9793d8ed7c74f70cc269c9d50db493141",
+      "short": "ccf3eac",
+      "message": "fix(dom): `:root` não casava nada quando a folha vinha antes do `<html>` — 115 variáveis a entrar onde não havia nenhuma",
+      "author": "Marcos",
+      "date": "2026-08-21T11:52:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccf3eac9793d8ed7c74f70cc269c9d50db493141"
+    },
+    {
+      "sha": "b0f269130c87e7adbc973c5335d4cf5e87530470",
+      "short": "b0f2691",
       "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Marcos",
-      "date": "2026-08-21T05:10:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/df9e11d7bd8999f611e5f2554b1a541ea056c9af"
+      "date": "2026-08-21T11:44:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b0f269130c87e7adbc973c5335d4cf5e87530470"
     },
     {
-      "sha": "aa3e908d117d7e2fddb0f90d0a2be67cc5b47163",
-      "short": "aa3e908",
+      "sha": "7ee8b842d4131c2b50c174d8510931b705b11011",
+      "short": "7ee8b84",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T05:02:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aa3e908d117d7e2fddb0f90d0a2be67cc5b47163"
+      "date": "2026-08-21T11:42:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ee8b842d4131c2b50c174d8510931b705b11011"
     },
     {
-      "sha": "56ba07f9161461efac3907489e8ba00552759cff",
-      "short": "56ba07f",
+      "sha": "c4c3ba3cd26fdd2c27cbfff3a9b0f869607c1fd7",
+      "short": "c4c3ba3",
+      "message": "fix(dom): o nome de uma variável CSS era minusculado — o Google inteiro herdava a fonte errada",
+      "author": "Marcos",
+      "date": "2026-08-21T11:39:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c4c3ba3cd26fdd2c27cbfff3a9b0f869607c1fd7"
+    },
+    {
+      "sha": "a61c3f6a9930e98b0e83a47cb6cf3039f8b200e9",
+      "short": "a61c3f6",
       "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T04:56:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/56ba07f9161461efac3907489e8ba00552759cff"
+      "date": "2026-08-21T11:35:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a61c3f6a9930e98b0e83a47cb6cf3039f8b200e9"
     },
     {
-      "sha": "80b60a3a92b074976e1fd11754bb8024eedcf578",
-      "short": "80b60a3",
-      "message": "fix(dom): o avanço proporcional era 0,5 e o teto medido é 0,4646 — passa a 0,46, e o comentário deixa de dizer que não dá para calibrar",
+      "sha": "c696275e949e24d20ad0d1e418c6d27e5c9f8554",
+      "short": "c696275",
+      "message": "feat(parity): a sonda de cobertura passa a CONFERIR-SE, e falha com exit 1 quando não bate",
       "author": "Marcos",
-      "date": "2026-08-21T04:55:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80b60a3a92b074976e1fd11754bb8024eedcf578"
+      "date": "2026-08-21T11:20:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c696275e949e24d20ad0d1e418c6d27e5c9f8554"
     },
     {
-      "sha": "78f3f4ad5d97ffe305c9ebcc1a0992d3b40cd301",
-      "short": "78f3f4a",
+      "sha": "6eab4185aed9bddde8b4c5ff2ddc36358cdabf4b",
+      "short": "6eab418",
+      "message": "feat(dom,egui): o motor passa a pintar itálico — 77 declarações em 10 das 13 folhas que saíam em redondo",
+      "author": "Marcos",
+      "date": "2026-08-21T11:12:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6eab4185aed9bddde8b4c5ff2ddc36358cdabf4b"
+    },
+    {
+      "sha": "ff8be6f7fd1641aa662e88da6263b392a96d2be8",
+      "short": "ff8be6f",
+      "message": "docs(ui): o grupo de compositing é RECUSADO — e o número que o recusa é zero, medido",
+      "author": "Marcos",
+      "date": "2026-08-21T11:12:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff8be6f7fd1641aa662e88da6263b392a96d2be8"
+    },
+    {
+      "sha": "fd5b08f076218bf3d481bd71402f6ecf9371302a",
+      "short": "fd5b08f",
+      "message": "feat(parity): a sonda separa \"reconhecida\" de \"EFETIVA\" — e descobre que o motor nunca pinta itálico",
+      "author": "Marcos",
+      "date": "2026-08-21T11:00:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd5b08f076218bf3d481bd71402f6ecf9371302a"
+    },
+    {
+      "sha": "2d67032aac74597c7e798fdd8a69774e1df283c5",
+      "short": "2d67032",
+      "message": "docs(ui): `filter`/`clip-path` no doc — e porque é que os recusados NÃO vão para o `inert.rs`",
+      "author": "Marcos",
+      "date": "2026-08-21T10:57:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d67032aac74597c7e798fdd8a69774e1df283c5"
+    },
+    {
+      "sha": "84763d565b4231948cc98002b2ee2379a647c70b",
+      "short": "84763d5",
+      "message": "test(dom): oito testes de LIGAÇÃO do filtro — o que a matriz faz é uma coisa, o que chega ao ecrã é outra",
+      "author": "Marcos",
+      "date": "2026-08-21T10:54:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84763d565b4231948cc98002b2ee2379a647c70b"
+    },
+    {
+      "sha": "792e63eed1f9237e605c5c44b55acd087dd12c98",
+      "short": "792e63e",
+      "message": "feat(dom): `filter` e `clip-path` pintam — a matriz de cor da spec, e o recorte que se recusa a fingir",
+      "author": "Marcos",
+      "date": "2026-08-21T10:52:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/792e63eed1f9237e605c5c44b55acd087dd12c98"
+    },
+    {
+      "sha": "0b471349154bf2223ad0effd80f5350dac9a4625",
+      "short": "0b47134",
       "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Marcos",
-      "date": "2026-08-21T04:41:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78f3f4ad5d97ffe305c9ebcc1a0992d3b40cd301"
+      "date": "2026-08-21T10:50:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b471349154bf2223ad0effd80f5350dac9a4625"
     },
     {
-      "sha": "c817ae7a1efa26f1deb0d873b3974ac1e41fac50",
-      "short": "c817ae7",
-      "message": "perf(codegen): read back a captured variable the emitter is still holding",
-      "author": "Drysius",
-      "date": "2026-08-21T04:37:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c817ae7a1efa26f1deb0d873b3974ac1e41fac50"
-    },
-    {
-      "sha": "07b43082eb28509359836525d0e47f1fdbee9bdf",
-      "short": "07b4308",
-      "message": "feat(parity): o extrator do Chrome passa a dizer quantos caracteres e que line-height — o avanço sai por divisão, não por inferência",
+      "sha": "b385e0c9c9d51cfedf549fa881e038d8709009cf",
+      "short": "b385e0c",
+      "message": "feat(dom): a colocação por LINHA de grid, e `filter`/`clip-path` guardados crus para o paint — 58,0% das propriedades",
       "author": "Marcos",
-      "date": "2026-08-21T04:33:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07b43082eb28509359836525d0e47f1fdbee9bdf"
+      "date": "2026-08-21T10:50:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b385e0c9c9d51cfedf549fa881e038d8709009cf"
     },
     {
-      "sha": "67a3572ba4ab304b9ac06f6342e4a15c6e8ad02d",
-      "short": "67a3572",
-      "message": "chore(dom): apagar as sondas que já responderam, e dar nome de behaviour à que fica",
-      "author": "Marcos",
-      "date": "2026-08-21T04:29:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67a3572ba4ab304b9ac06f6342e4a15c6e8ad02d"
-    },
-    {
-      "sha": "0c4c8602a56b6af220099290c8d6391ccfdc4f48",
-      "short": "0c4c860",
-      "message": "fix(dom): a linha era partida entre dois textos colados — `ano[135]` deixava o `[` para trás",
-      "author": "Marcos",
-      "date": "2026-08-21T04:26:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c4c8602a56b6af220099290c8d6391ccfdc4f48"
-    },
-    {
-      "sha": "df1bb251793de8d142da24c80f65bc267ed258b8",
-      "short": "df1bb25",
+      "sha": "3fc3e42106d9c095199e430f5f26f2c60eaa0ab3",
+      "short": "3fc3e42",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T04:25:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/df1bb251793de8d142da24c80f65bc267ed258b8"
+      "date": "2026-08-21T09:13:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3fc3e42106d9c095199e430f5f26f2c60eaa0ab3"
     },
     {
-      "sha": "218df19698e2cbba6848017910266763e2350a6d",
-      "short": "218df19",
+      "sha": "c9baddc09354f0bc950cc4781a7f1289928db447",
+      "short": "c9baddc",
       "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T04:19:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/218df19698e2cbba6848017910266763e2350a6d"
+      "date": "2026-08-21T09:07:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c9baddc09354f0bc950cc4781a7f1289928db447"
     },
     {
-      "sha": "a72e6242e725a6b949f42de72c998d8394010e1a",
-      "short": "a72e624",
-      "message": "docs(ui): o item 1 medido — previsto −201 954 px, medido −202 045 — e uma proposta retirada por dois métodos discordarem",
+      "sha": "7e5dbd6059a9357ac10be2ebfdc286d91bf5b5d0",
+      "short": "7e5dbd6",
+      "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Marcos",
-      "date": "2026-08-21T04:06:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a72e6242e725a6b949f42de72c998d8394010e1a"
-    },
-    {
-      "sha": "376f88fe00d3482e83b46418d6783ba1b2dd5ec7",
-      "short": "376f88f",
-      "message": "feat(dom): floats que o texto contorna, `<img>` sem pixels que ocupa a caixa, e raio por canto até ao ecrã",
-      "author": "Marcos",
-      "date": "2026-08-21T03:54:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/376f88fe00d3482e83b46418d6783ba1b2dd5ec7"
+      "date": "2026-08-21T08:53:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e5dbd6059a9357ac10be2ebfdc286d91bf5b5d0"
     }
   ]
 }
