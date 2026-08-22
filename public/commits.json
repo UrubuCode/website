@@ -1,6 +1,110 @@
 {
-  "total": 5446,
+  "total": 5459,
   "commits": [
+    {
+      "sha": "0803db951811229940f7b283d0dd180f436ae266",
+      "short": "0803db9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T06:00:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0803db951811229940f7b283d0dd180f436ae266"
+    },
+    {
+      "sha": "d450850f2858eda007cabe018f71507d1d775936",
+      "short": "d450850",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T05:55:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d450850f2858eda007cabe018f71507d1d775936"
+    },
+    {
+      "sha": "2c45b32a98889b106f300b9159bf43465ee3df52",
+      "short": "2c45b32",
+      "message": "perf(core): `join` escreve numa unidade de buffer em vez de dezassete Vec",
+      "author": "Drysius",
+      "date": "2026-08-22T05:40:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c45b32a98889b106f300b9159bf43465ee3df52"
+    },
+    {
+      "sha": "9ea225fc252702c6e254c75605c45a9a6e46c040",
+      "short": "9ea225f",
+      "message": "perf(core): os cinco protocolos de string deixam de construir o próprio nome",
+      "author": "Drysius",
+      "date": "2026-08-22T05:40:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9ea225fc252702c6e254c75605c45a9a6e46c040"
+    },
+    {
+      "sha": "21a0c1d02813e45708eccb70883d85e62bc1d862",
+      "short": "21a0c1d",
+      "message": "docs(codegen): um absoluto desta tabela não é comparável entre dias — e a afirmação que isso apanhou",
+      "author": "Drysius",
+      "date": "2026-08-22T05:35:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/21a0c1d02813e45708eccb70883d85e62bc1d862"
+    },
+    {
+      "sha": "d60cd6df39a129abfa2eda9f606d7c38cf205e36",
+      "short": "d60cd6d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T04:48:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d60cd6df39a129abfa2eda9f606d7c38cf205e36"
+    },
+    {
+      "sha": "35a3a53d49521700104c62c53db4c234bff3e635",
+      "short": "35a3a53",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T04:43:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/35a3a53d49521700104c62c53db4c234bff3e635"
+    },
+    {
+      "sha": "566f6e78e7a5f0b14700c8addb754e58cc126da3",
+      "short": "566f6e7",
+      "message": "docs(codegen): o índice aponta para o veredicto do modelo de objetos",
+      "author": "Drysius",
+      "date": "2026-08-22T04:27:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/566f6e78e7a5f0b14700c8addb754e58cc126da3"
+    },
+    {
+      "sha": "0b80216374c4d8fd46d59582737436bb7d441b67",
+      "short": "0b80216",
+      "message": "docs(codegen): o veredicto sobre o modelo de objetos — manter o Hermes, consertar os arredores",
+      "author": "Drysius",
+      "date": "2026-08-22T04:27:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b80216374c4d8fd46d59582737436bb7d441b67"
+    },
+    {
+      "sha": "ef60dd84b94c5e6c2e3136b04f0ca9759a893897",
+      "short": "ef60dd8",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T03:30:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef60dd84b94c5e6c2e3136b04f0ca9759a893897"
+    },
+    {
+      "sha": "0b3086e091eb34483b65380854719739346ff987",
+      "short": "0b3086e",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T03:25:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b3086e091eb34483b65380854719739346ff987"
+    },
+    {
+      "sha": "f6d37e5b9673781390c72ae1a379af889e25f9e7",
+      "short": "f6d37e5",
+      "message": "docs: a suite medida a 22-08 — 746 de 808, e a prova de que os 62 não são meus",
+      "author": "Drysius",
+      "date": "2026-08-22T03:10:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6d37e5b9673781390c72ae1a379af889e25f9e7"
+    },
+    {
+      "sha": "3391fc1f2ba89bd6a1b1ca19590f6aeea85a6ca6",
+      "short": "3391fc1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-22T00:48:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3391fc1f2ba89bd6a1b1ca19590f6aeea85a6ca6"
+    },
     {
       "sha": "995234e6c2c5d17b9e9a3c47729941ff708352b5",
       "short": "995234e",
@@ -56,110 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-22T00:23:45Z",
       "url": "https://github.com/UrubuCode/rts/commit/f16eb66816285aa15906bfa1f80a137072c001d4"
-    },
-    {
-      "sha": "70ba0e2818ec5ea272a2a83c5e4a6884f60c075a",
-      "short": "70ba0e2",
-      "message": "docs(ui): o que foi revertido com o lote do baseline, e porque não era código por acabar",
-      "author": "Marcos",
-      "date": "2026-08-22T00:08:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/70ba0e2818ec5ea272a2a83c5e4a6884f60c075a"
-    },
-    {
-      "sha": "f373a7c6045564d234456baf3fd516c3bc3d388f",
-      "short": "f373a7c",
-      "message": "test(dom): as barreiras ao colapso de margens são POR LADO — sete casos medidos",
-      "author": "Marcos",
-      "date": "2026-08-22T00:07:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f373a7c6045564d234456baf3fd516c3bc3d388f"
-    },
-    {
-      "sha": "055ca7638e5fd9fe5a93cc3c96fa7882701a4436",
-      "short": "055ca76",
-      "message": "docs(ui): o `vertical-align` não tem população — 391 corridas de um item",
-      "author": "Marcos",
-      "date": "2026-08-22T00:06:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/055ca7638e5fd9fe5a93cc3c96fa7882701a4436"
-    },
-    {
-      "sha": "27af61c4689ea0b62670e330f2d5c3fbd4c7e022",
-      "short": "27af61c",
-      "message": "feat(dom): `display:flow-root` deixa de perder a única coisa que o distingue",
-      "author": "Marcos",
-      "date": "2026-08-22T00:04:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27af61c4689ea0b62670e330f2d5c3fbd4c7e022"
-    },
-    {
-      "sha": "f5141e7473d8a3a657449941f57de1794187a25c",
-      "short": "f5141e7",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Marcos",
-      "date": "2026-08-22T00:02:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5141e7473d8a3a657449941f57de1794187a25c"
-    },
-    {
-      "sha": "fd03d198ee8bf66157294ebe94e03436b2e4116c",
-      "short": "fd03d19",
-      "message": "fix(dom): um `width` declarado numa célula é um PISO, não um teto",
-      "author": "Marcos",
-      "date": "2026-08-22T00:02:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fd03d198ee8bf66157294ebe94e03436b2e4116c"
-    },
-    {
-      "sha": "516bf2889f1434eb6d004dc01e3edaabd60f04c5",
-      "short": "516bf28",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T23:58:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/516bf2889f1434eb6d004dc01e3edaabd60f04c5"
-    },
-    {
-      "sha": "2af451550f54595a464e4de53e3905b55e357ea5",
-      "short": "2af4515",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Marcos",
-      "date": "2026-08-21T23:54:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2af451550f54595a464e4de53e3905b55e357ea5"
-    },
-    {
-      "sha": "1be6f41145e460711307761f8c14d4dc906055c6",
-      "short": "1be6f41",
-      "message": "fix(dom): o colapso de margens é um CONJUNTO, não uma cadeia de pares",
-      "author": "Marcos",
-      "date": "2026-08-21T23:53:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1be6f41145e460711307761f8c14d4dc906055c6"
-    },
-    {
-      "sha": "d4db12c206d28cd56f2675faf50b6cb974bcd1b2",
-      "short": "d4db12c",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-21T23:52:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4db12c206d28cd56f2675faf50b6cb974bcd1b2"
-    },
-    {
-      "sha": "f324e3517b38f9744880d599cded41159a116929",
-      "short": "f324e35",
-      "message": "docs(ui): contar quem declara não é contar quem passa — 83 contra 182",
-      "author": "Marcos",
-      "date": "2026-08-21T23:37:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f324e3517b38f9744880d599cded41159a116929"
-    },
-    {
-      "sha": "15dcd76618fcc07133aa61c41c9e870fbf554c2d",
-      "short": "15dcd76",
-      "message": "test(dom): dez fixtures de tabela — sete pinam o que já estava certo, três nomeiam o que falta",
-      "author": "Marcos",
-      "date": "2026-08-21T23:34:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/15dcd76618fcc07133aa61c41c9e870fbf554c2d"
-    },
-    {
-      "sha": "54cc7ed22cce6eb35960975f670ae16ec9c80952",
-      "short": "54cc7ed",
-      "message": "fix(dom): a largura máxima de uma linha SOMA os inline, não toma o maior",
-      "author": "Marcos",
-      "date": "2026-08-21T23:30:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54cc7ed22cce6eb35960975f670ae16ec9c80952"
     }
   ]
 }
