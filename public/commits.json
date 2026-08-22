@@ -1,165 +1,165 @@
 {
-  "total": 5322,
+  "total": 5446,
   "commits": [
     {
-      "sha": "3a1c902a13b926eeb811101b4490794af4e95ff9",
-      "short": "3a1c902",
-      "message": "docs(ui): as imagens fecham a largura — 107 de 110, e o único perdido é uma re-quebra",
-      "author": "Marcos",
-      "date": "2026-08-21T18:23:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a1c902a13b926eeb811101b4490794af4e95ff9"
-    },
-    {
-      "sha": "4b8b2ab34bb79db8a01d6ecfb55cb9af80227cf3",
-      "short": "4b8b2ab",
-      "message": "fix(dom): `height:auto` descartava a razão junto com o atributo — e a caixa do replaced ganha a borda",
-      "author": "Marcos",
-      "date": "2026-08-21T18:20:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4b8b2ab34bb79db8a01d6ecfb55cb9af80227cf3"
-    },
-    {
-      "sha": "6ee99fb5c8e02eba08e0251a2272dc99815f6444",
-      "short": "6ee99fb",
-      "message": "fix(dom): a margem do próprio elemento entrava na base da percentagem — 6 dos 8px em falta nas imagens",
-      "author": "Marcos",
-      "date": "2026-08-21T18:16:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ee99fb5c8e02eba08e0251a2272dc99815f6444"
-    },
-    {
-      "sha": "98fd0c1614f9ed5f5ef517217a48853e3647c82f",
-      "short": "98fd0c1",
-      "message": "docs(ui): o corte das imagens medido por elemento — e três coisas que o número corrige na história",
-      "author": "Marcos",
-      "date": "2026-08-21T18:12:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/98fd0c1614f9ed5f5ef517217a48853e3647c82f"
-    },
-    {
-      "sha": "21f2be4cccd9a0964efb4f580d6defeda2971edd",
-      "short": "21f2be4",
-      "message": "feat(parity): a régua de regressão aceita a FAMÍLIA e o EIXO — sem eles, uma correção de largura mede-se pelo y",
-      "author": "Marcos",
-      "date": "2026-08-21T18:08:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/21f2be4cccd9a0964efb4f580d6defeda2971edd"
-    },
-    {
-      "sha": "d667cb8bdc254e71a90427e27de95780380eb89f",
-      "short": "d667cb8",
-      "message": "fix(dom): encolhíamos imagens à largura do contentor — o Chrome deixa-as transbordar",
-      "author": "Marcos",
-      "date": "2026-08-21T18:02:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d667cb8bdc254e71a90427e27de95780380eb89f"
-    },
-    {
-      "sha": "dabe3a80dd8ce3e29233e8901fd82ad1c33b0495",
-      "short": "dabe3a8",
+      "sha": "995234e6c2c5d17b9e9a3c47729941ff708352b5",
+      "short": "995234e",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T17:52:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dabe3a80dd8ce3e29233e8901fd82ad1c33b0495"
+      "date": "2026-08-22T00:29:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/995234e6c2c5d17b9e9a3c47729941ff708352b5"
     },
     {
-      "sha": "bbf4f022e9c2fea20aefa034344ef169c4fc2a7a",
-      "short": "bbf4f02",
+      "sha": "ec181a0147922719175037c0e84d260fa7480eb1",
+      "short": "ec181a0",
+      "message": "docs(codegen): a tabela diz que `97f66385` é um PAI deste ramo, não a sua ponta",
+      "author": "Drysius",
+      "date": "2026-08-22T00:27:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ec181a0147922719175037c0e84d260fa7480eb1"
+    },
+    {
+      "sha": "6162d69f06879f9b2e2e359583d9564b5d98711a",
+      "short": "6162d69",
+      "message": "docs(codegen): a árvore das otimizações, as suas regras, e sete experimentos",
+      "author": "Drysius",
+      "date": "2026-08-22T00:25:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6162d69f06879f9b2e2e359583d9564b5d98711a"
+    },
+    {
+      "sha": "bc24afc85e7a05218cebf79c6f6e2fc643da308e",
+      "short": "bc24afc",
+      "message": "refactor(escape): o kill-switch de template defendia contra um walker já corrigido",
+      "author": "Drysius",
+      "date": "2026-08-22T00:25:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc24afc85e7a05218cebf79c6f6e2fc643da308e"
+    },
+    {
+      "sha": "ecfbf62ff99fb6c705059cf3f9c85dbeb7c75ce7",
+      "short": "ecfbf62",
+      "message": "perf(core): trabalho que ninguém pediu, em quatro caminhos quentes",
+      "author": "Drysius",
+      "date": "2026-08-22T00:24:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ecfbf62ff99fb6c705059cf3f9c85dbeb7c75ce7"
+    },
+    {
+      "sha": "40900930fcb95f996f8f3ae46e0e67e6819ba009",
+      "short": "4090093",
+      "message": "perf(cranelift): sem barreira de escrita onde um cruzamento é irrepresentável",
+      "author": "Drysius",
+      "date": "2026-08-22T00:24:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40900930fcb95f996f8f3ae46e0e67e6819ba009"
+    },
+    {
+      "sha": "f16eb66816285aa15906bfa1f80a137072c001d4",
+      "short": "f16eb66",
       "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-21T17:47:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbf4f022e9c2fea20aefa034344ef169c4fc2a7a"
+      "date": "2026-08-22T00:23:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f16eb66816285aa15906bfa1f80a137072c001d4"
     },
     {
-      "sha": "cb05b54b679fcf0b80a5a54b8d70ffe8cf7c0b94",
-      "short": "cb05b54",
-      "message": "docs(ui): o estado ao fim do dia — o erro passou a medir o que se vê",
+      "sha": "70ba0e2818ec5ea272a2a83c5e4a6884f60c075a",
+      "short": "70ba0e2",
+      "message": "docs(ui): o que foi revertido com o lote do baseline, e porque não era código por acabar",
       "author": "Marcos",
-      "date": "2026-08-21T17:31:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb05b54b679fcf0b80a5a54b8d70ffe8cf7c0b94"
+      "date": "2026-08-22T00:08:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70ba0e2818ec5ea272a2a83c5e4a6884f60c075a"
     },
     {
-      "sha": "bf5941536550f30497fcc06e026ba70883f0391d",
-      "short": "bf59415",
-      "message": "fix(parity): a régua contava texto INVISÍVEL — 3 133 caracteres \"a mais\" eram 73",
+      "sha": "f373a7c6045564d234456baf3fd516c3bc3d388f",
+      "short": "f373a7c",
+      "message": "test(dom): as barreiras ao colapso de margens são POR LADO — sete casos medidos",
       "author": "Marcos",
-      "date": "2026-08-21T17:24:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bf5941536550f30497fcc06e026ba70883f0391d"
+      "date": "2026-08-22T00:07:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f373a7c6045564d234456baf3fd516c3bc3d388f"
     },
     {
-      "sha": "84bc961dc76699ce537139298db61d2cc1299774",
-      "short": "84bc961",
-      "message": "docs(ui): as três cegueiras da régua de desenho — e a que nos penaliza por acertar",
+      "sha": "055ca7638e5fd9fe5a93cc3c96fa7882701a4436",
+      "short": "055ca76",
+      "message": "docs(ui): o `vertical-align` não tem população — 391 corridas de um item",
       "author": "Marcos",
-      "date": "2026-08-21T17:21:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84bc961dc76699ce537139298db61d2cc1299774"
+      "date": "2026-08-22T00:06:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/055ca7638e5fd9fe5a93cc3c96fa7882701a4436"
     },
     {
-      "sha": "b759d913e35cfb21abfd7eddd5fb1f05edc0042f",
-      "short": "b759d91",
-      "message": "feat(parity): o corpus do Chrome pagina e confere por página — e trocar para o DOM PIORA a coluna, medido",
+      "sha": "27af61c4689ea0b62670e330f2d5c3fbd4c7e022",
+      "short": "27af61c",
+      "message": "feat(dom): `display:flow-root` deixa de perder a única coisa que o distingue",
       "author": "Marcos",
-      "date": "2026-08-21T17:17:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b759d913e35cfb21abfd7eddd5fb1f05edc0042f"
+      "date": "2026-08-22T00:04:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27af61c4689ea0b62670e330f2d5c3fbd4c7e022"
     },
     {
-      "sha": "37e1eeed03abe5c59e77efccf1897ed8acfce6b6",
-      "short": "37e1eee",
-      "message": "fix(parity): a fenda de 16 440 caracteres não existia — era `\\s` a virar a letra \"s\" num template literal",
+      "sha": "f5141e7473d8a3a657449941f57de1794187a25c",
+      "short": "f5141e7",
+      "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Marcos",
-      "date": "2026-08-21T17:14:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/37e1eeed03abe5c59e77efccf1897ed8acfce6b6"
+      "date": "2026-08-22T00:02:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5141e7473d8a3a657449941f57de1794187a25c"
     },
     {
-      "sha": "31fbcad9192b59d43f625960504c47bf13eaac35",
-      "short": "31fbcad",
-      "message": "fix(parity): o corpus do DOM chegava TRUNCADO — 17 536 caracteres perdidos no transporte",
+      "sha": "fd03d198ee8bf66157294ebe94e03436b2e4116c",
+      "short": "fd03d19",
+      "message": "fix(dom): um `width` declarado numa célula é um PISO, não um teto",
       "author": "Marcos",
-      "date": "2026-08-21T17:06:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/31fbcad9192b59d43f625960504c47bf13eaac35"
+      "date": "2026-08-22T00:02:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd03d198ee8bf66157294ebe94e03436b2e4116c"
     },
     {
-      "sha": "a37640fa463cdb21295e27de0fcb54636d222579",
-      "short": "a37640f",
-      "message": "fix(parity): as 297 palavras em falta são 24 caracteres, e as 712 a mais não são atribuíveis",
-      "author": "Marcos",
-      "date": "2026-08-21T16:59:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a37640fa463cdb21295e27de0fcb54636d222579"
+      "sha": "516bf2889f1434eb6d004dc01e3edaabd60f04c5",
+      "short": "516bf28",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-21T23:58:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/516bf2889f1434eb6d004dc01e3edaabd60f04c5"
     },
     {
-      "sha": "73c365a151691427f92387a53ec6fd99ba1a6406",
-      "short": "73c365a",
-      "message": "fix(parity): a conferência da sabotagem é IGUALDADE exata — o `min()` sugerido aprovava voo cego",
+      "sha": "2af451550f54595a464e4de53e3905b55e357ea5",
+      "short": "2af4515",
+      "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Marcos",
-      "date": "2026-08-21T16:55:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/73c365a151691427f92387a53ec6fd99ba1a6406"
+      "date": "2026-08-21T23:54:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2af451550f54595a464e4de53e3905b55e357ea5"
     },
     {
-      "sha": "744a156ba4c1c8367b8066487c3a722c8c145224",
-      "short": "744a156",
-      "message": "fix(parity): marcadores 787 contra 787 — e os 8 que faltavam eram do instrumento, medidos na condição errada",
+      "sha": "1be6f41145e460711307761f8c14d4dc906055c6",
+      "short": "1be6f41",
+      "message": "fix(dom): o colapso de margens é um CONJUNTO, não uma cadeia de pares",
       "author": "Marcos",
-      "date": "2026-08-21T16:50:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/744a156ba4c1c8367b8066487c3a722c8c145224"
+      "date": "2026-08-21T23:53:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1be6f41145e460711307761f8c14d4dc906055c6"
     },
     {
-      "sha": "1346fcf582d1eb860b0e2fb905a0febb7857d7c2",
-      "short": "1346fcf",
-      "message": "feat(parity): a régua audita o LADO DO CHROME — e a sabotagem reproduz o −167 ao número",
-      "author": "Marcos",
-      "date": "2026-08-21T16:44:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1346fcf582d1eb860b0e2fb905a0febb7857d7c2"
+      "sha": "d4db12c206d28cd56f2675faf50b6cb974bcd1b2",
+      "short": "d4db12c",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-21T23:52:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4db12c206d28cd56f2675faf50b6cb974bcd1b2"
     },
     {
-      "sha": "cfa7a1ea36405eed33dc3c2d8cdbc5675e6cbfba",
-      "short": "cfa7a1e",
-      "message": "fix(parity): a régua contava 302 marcadores a menos de um lado e 107 a mais do outro",
+      "sha": "f324e3517b38f9744880d599cded41159a116929",
+      "short": "f324e35",
+      "message": "docs(ui): contar quem declara não é contar quem passa — 83 contra 182",
       "author": "Marcos",
-      "date": "2026-08-21T16:40:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cfa7a1ea36405eed33dc3c2d8cdbc5675e6cbfba"
+      "date": "2026-08-21T23:37:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f324e3517b38f9744880d599cded41159a116929"
     },
     {
-      "sha": "4e9594db46d727f13e4de79fc69594959beb246e",
-      "short": "4e9594d",
-      "message": "fix(dom): `list-style-image: none` era lido como \"há imagem\" — e apagava a numeração de todos os `<ol>` da página",
+      "sha": "15dcd76618fcc07133aa61c41c9e870fbf554c2d",
+      "short": "15dcd76",
+      "message": "test(dom): dez fixtures de tabela — sete pinam o que já estava certo, três nomeiam o que falta",
       "author": "Marcos",
-      "date": "2026-08-21T16:33:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4e9594db46d727f13e4de79fc69594959beb246e"
+      "date": "2026-08-21T23:34:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/15dcd76618fcc07133aa61c41c9e870fbf554c2d"
+    },
+    {
+      "sha": "54cc7ed22cce6eb35960975f670ae16ec9c80952",
+      "short": "54cc7ed",
+      "message": "fix(dom): a largura máxima de uma linha SOMA os inline, não toma o maior",
+      "author": "Marcos",
+      "date": "2026-08-21T23:30:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54cc7ed22cce6eb35960975f670ae16ec9c80952"
     }
   ]
 }
