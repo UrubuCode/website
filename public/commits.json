@@ -1,6 +1,118 @@
 {
-  "total": 5479,
+  "total": 5493,
   "commits": [
+    {
+      "sha": "d8a2e6fd879bcf971d9a62426192c9c717cc1518",
+      "short": "d8a2e6f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T08:33:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8a2e6fd879bcf971d9a62426192c9c717cc1518"
+    },
+    {
+      "sha": "f764a23ed5c8d54ed2cc14318a4f90ff880a2778",
+      "short": "f764a23",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T08:28:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f764a23ed5c8d54ed2cc14318a4f90ff880a2778"
+    },
+    {
+      "sha": "23323c6f8f7b1d527b75d22d915491c504729008",
+      "short": "23323c6",
+      "message": "perf(cranelift): o indice de propriedades deixa de fazer hash de um numero denso",
+      "author": "Drysius",
+      "date": "2026-08-23T08:10:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/23323c6f8f7b1d527b75d22d915491c504729008"
+    },
+    {
+      "sha": "3430dac96f52e7ec90628b09869611608c3c1b17",
+      "short": "3430dac",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T08:10:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3430dac96f52e7ec90628b09869611608c3c1b17"
+    },
+    {
+      "sha": "7f624278de41c2671e7416968f8de3ce85401280",
+      "short": "7f62427",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T07:53:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7f624278de41c2671e7416968f8de3ce85401280"
+    },
+    {
+      "sha": "6c93c9cab3b2bf530f26de37f9fc7536922ad560",
+      "short": "6c93c9c",
+      "message": "perf(core): uma chave-string resolve-se uma vez, nao a cada acesso",
+      "author": "Drysius",
+      "date": "2026-08-23T07:49:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c93c9cab3b2bf530f26de37f9fc7536922ad560"
+    },
+    {
+      "sha": "d0fc63a038d9da6aa0d14ff8f68e3917ece05374",
+      "short": "d0fc63a",
+      "message": "docs: auto-update cross-runtime parity badge (77.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T07:47:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0fc63a038d9da6aa0d14ff8f68e3917ece05374"
+    },
+    {
+      "sha": "416dc6f0dfe00992245406929cc8bdd9fed890db",
+      "short": "416dc6f",
+      "message": "fix(bench): o cross-runtime lia COR como desacordo entre o Bun e o Node",
+      "author": "Drysius",
+      "date": "2026-08-23T07:31:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/416dc6f0dfe00992245406929cc8bdd9fed890db"
+    },
+    {
+      "sha": "8028f1efef78cea0b8283710eb8de895ddac1563",
+      "short": "8028f1e",
+      "message": "perf(codegen): a analise numerica aprende `<<` e `>>`, que a emissao ja sabia",
+      "author": "Drysius",
+      "date": "2026-08-23T07:25:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8028f1efef78cea0b8283710eb8de895ddac1563"
+    },
+    {
+      "sha": "e8b62383b2ecbcdf467468d513289c41e459c9cf",
+      "short": "e8b6238",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T07:15:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8b62383b2ecbcdf467468d513289c41e459c9cf"
+    },
+    {
+      "sha": "7006355e9b3e85f91156b1dda87ff780d8a9a8b9",
+      "short": "7006355",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-23T07:09:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7006355e9b3e85f91156b1dda87ff780d8a9a8b9"
+    },
+    {
+      "sha": "07ec82b6155959965ffbe59c079078fc981a561e",
+      "short": "07ec82b",
+      "message": "perf(bench): o `analytic.ts` calibra a dobrar em vez de a quadruplicar",
+      "author": "Drysius",
+      "date": "2026-08-23T06:49:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/07ec82b6155959965ffbe59c079078fc981a561e"
+    },
+    {
+      "sha": "eacef42874e9439bd8bd80ec9c47fd5662e8f6e9",
+      "short": "eacef42",
+      "message": "docs: o passo de testes do gate passa a `--profile fast` — 5m07s contra ~30m",
+      "author": "Drysius",
+      "date": "2026-08-23T06:36:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eacef42874e9439bd8bd80ec9c47fd5662e8f6e9"
+    },
+    {
+      "sha": "947222ca6b8c9f28b34fedb82d33236b482ed36d",
+      "short": "947222c",
+      "message": "perf(codegen): `==`, `~` e `**` deixam de ser chamadas onde os operandos estao provados",
+      "author": "Drysius",
+      "date": "2026-08-23T06:34:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/947222ca6b8c9f28b34fedb82d33236b482ed36d"
+    },
     {
       "sha": "469dcc43759cd72805104c37294662b84e8afe42",
       "short": "469dcc4",
@@ -48,118 +160,6 @@
       "author": "Drysius",
       "date": "2026-08-23T04:35:44Z",
       "url": "https://github.com/UrubuCode/rts/commit/7126d14451631ed84faba5b2135d4e1a889d95ed"
-    },
-    {
-      "sha": "4d74edf6d27aa6bd55261d84488a17b36b9607d9",
-      "short": "4d74edf",
-      "message": "refactor(cranelift): cinco estruturas do IR sem produtor, encontradas por auditoria",
-      "author": "Drysius",
-      "date": "2026-08-23T04:00:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d74edf6d27aa6bd55261d84488a17b36b9607d9"
-    },
-    {
-      "sha": "4f2255fed396216d4ce1ced5be9959ad106437a0",
-      "short": "4f2255f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T03:57:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f2255fed396216d4ce1ced5be9959ad106437a0"
-    },
-    {
-      "sha": "1498b213e6e9bb4f602ce84b0580717105c121d8",
-      "short": "1498b21",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T03:52:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1498b213e6e9bb4f602ce84b0580717105c121d8"
-    },
-    {
-      "sha": "6cbd5c6945d401660a6160f3cf74380e30cecaf2",
-      "short": "6cbd5c6",
-      "message": "docs(codegen): partilhar constantes torna o programa MAIS LENTO, medido",
-      "author": "Drysius",
-      "date": "2026-08-23T03:37:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6cbd5c6945d401660a6160f3cf74380e30cecaf2"
-    },
-    {
-      "sha": "931a65fb46f3798fb112bf1dc6d3bedbc1734a09",
-      "short": "931a65f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T03:32:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/931a65fb46f3798fb112bf1dc6d3bedbc1734a09"
-    },
-    {
-      "sha": "5ae060541d00c9912ee9c7aa9d9e00136bdc0554",
-      "short": "5ae0605",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T03:26:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ae060541d00c9912ee9c7aa9d9e00136bdc0554"
-    },
-    {
-      "sha": "b0f4b4c215064ace97c45afd7ea954eee1a61bf2",
-      "short": "b0f4b4c",
-      "message": "perf(codegen): o zero do throw check sobe a entrada, e o `Widen` sai do caminho rapido",
-      "author": "Drysius",
-      "date": "2026-08-23T03:11:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b0f4b4c215064ace97c45afd7ea954eee1a61bf2"
-    },
-    {
-      "sha": "d877e45e508c5ca09998bdfb4f6e2ad3a9b9d178",
-      "short": "d877e45",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T01:46:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d877e45e508c5ca09998bdfb4f6e2ad3a9b9d178"
-    },
-    {
-      "sha": "e8d1f6c619eabd44f89aa239f453083e1510f6a7",
-      "short": "e8d1f6c",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T01:41:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8d1f6c619eabd44f89aa239f453083e1510f6a7"
-    },
-    {
-      "sha": "b7ad32ad89549f95820f601e2f3fff3136e7cec3",
-      "short": "b7ad32a",
-      "message": "perf(codegen): um bloco de re-raise por regiao, e tres que reencaminhavam nada",
-      "author": "Drysius",
-      "date": "2026-08-22T23:22:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7ad32ad89549f95820f601e2f3fff3136e7cec3"
-    },
-    {
-      "sha": "a20152ceb7b1e49cdaa5a41239d54dc9581a7043",
-      "short": "a20152c",
-      "message": "fix(codegen): o memo da escrita capturada atravessava fronteiras de funcao",
-      "author": "Drysius",
-      "date": "2026-08-22T23:21:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a20152ceb7b1e49cdaa5a41239d54dc9581a7043"
-    },
-    {
-      "sha": "5af8901193bd363beeb5092247b2d6ebfec34d6e",
-      "short": "5af8901",
-      "message": "perf(codegen,cranelift): menos IR entregue ao Cranelift, e o preco medido",
-      "author": "Drysius",
-      "date": "2026-08-22T21:16:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5af8901193bd363beeb5092247b2d6ebfec34d6e"
-    },
-    {
-      "sha": "58f7276659f2cb86343dd2d0eada68d7529edc71",
-      "short": "58f7276",
-      "message": "perf(node): `node:events` era construido tres vezes por arranque, nao duas",
-      "author": "Drysius",
-      "date": "2026-08-22T21:15:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58f7276659f2cb86343dd2d0eada68d7529edc71"
-    },
-    {
-      "sha": "f8cd78de371a2883563eaf8839675954d6d8a5de",
-      "short": "f8cd78d",
-      "message": "docs: o `/DELAYLOAD` esta inerte porque `opengl32` ja nao e importado",
-      "author": "Drysius",
-      "date": "2026-08-22T21:14:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f8cd78de371a2883563eaf8839675954d6d8a5de"
     }
   ]
 }
