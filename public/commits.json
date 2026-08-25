@@ -1,6 +1,46 @@
 {
-  "total": 5539,
+  "total": 5545,
   "commits": [
+    {
+      "sha": "fadd894ade4d9602bbd34b4db123d1bb2db88d83",
+      "short": "fadd894",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-25T08:12:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fadd894ade4d9602bbd34b4db123d1bb2db88d83"
+    },
+    {
+      "sha": "f705f9a482a9b3eb2a2c936ab7a398392aa6aff8",
+      "short": "f705f9a",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-25T08:07:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f705f9a482a9b3eb2a2c936ab7a398392aa6aff8"
+    },
+    {
+      "sha": "c2f548febc2b0a65774285057b774c6e0d129578",
+      "short": "c2f548f",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-25T07:52:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c2f548febc2b0a65774285057b774c6e0d129578"
+    },
+    {
+      "sha": "e41ace7cb25f83f344394ea976ada5970a43818e",
+      "short": "e41ace7",
+      "message": "perf(core): JSON.stringify serializa um objeto simples direto da shape — 3893 -> 1999 ns",
+      "author": "Drysius",
+      "date": "2026-08-25T07:49:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e41ace7cb25f83f344394ea976ada5970a43818e"
+    },
+    {
+      "sha": "cf9ffaea1f3aa4028aa609906b8334775680dc6b",
+      "short": "cf9ffae",
+      "message": "perf(codegen): um local so atribuido por bitwise e carregado como inteiro — and/or/xor/shr no piso do laco",
+      "author": "Drysius",
+      "date": "2026-08-25T06:52:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cf9ffaea1f3aa4028aa609906b8334775680dc6b"
+    },
     {
       "sha": "9a386ae867119cd632bb31a5ea6d08b3190c60db",
       "short": "9a386ae",
@@ -8,6 +48,14 @@
       "author": "github-actions[bot]",
       "date": "2026-08-25T06:14:45Z",
       "url": "https://github.com/UrubuCode/rts/commit/9a386ae867119cd632bb31a5ea6d08b3190c60db"
+    },
+    {
+      "sha": "1f7715fe72ff7f025cedf6362c7d411ce8f51618",
+      "short": "1f7715f",
+      "message": "perf(cranelift): dobra o ToInt32 e o bitwise que o emissor repete — shl/shr 6.5 -> 3.3 ns",
+      "author": "Drysius",
+      "date": "2026-08-25T06:09:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f7715fe72ff7f025cedf6362c7d411ce8f51618"
     },
     {
       "sha": "94623064bbaa07198372da4b77ded8a21161583f",
@@ -112,54 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-24T23:54:57Z",
       "url": "https://github.com/UrubuCode/rts/commit/c9e027ab27cb3a26b37417712f96cb78428170e6"
-    },
-    {
-      "sha": "e01d95dd482ae8cae1675120f98a3c1e1b44bcd7",
-      "short": "e01d95d",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T23:49:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e01d95dd482ae8cae1675120f98a3c1e1b44bcd7"
-    },
-    {
-      "sha": "d60ee09030dbe4273ff38d59b74c82f9af912ceb",
-      "short": "d60ee09",
-      "message": "feat(node): 44% -> 51.8% da suite do Node — panico, getCallSite, stream/web",
-      "author": "Drysius",
-      "date": "2026-08-24T23:33:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d60ee09030dbe4273ff38d59b74c82f9af912ceb"
-    },
-    {
-      "sha": "74d1f675682858bb24b3a8548b867675b28dd3f6",
-      "short": "74d1f67",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T22:36:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74d1f675682858bb24b3a8548b867675b28dd3f6"
-    },
-    {
-      "sha": "215b8dce427e609f0dff155ec727260488388ef3",
-      "short": "215b8dc",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T22:30:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/215b8dce427e609f0dff155ec727260488388ef3"
-    },
-    {
-      "sha": "638b8a52fc7cff650cc22c7114033f0f8fcbc6ae",
-      "short": "638b8a5",
-      "message": "feat(node): assert.throws e `return` no topo de um modulo CommonJS",
-      "author": "Drysius",
-      "date": "2026-08-24T22:16:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/638b8a52fc7cff650cc22c7114033f0f8fcbc6ae"
-    },
-    {
-      "sha": "c20703581d928ee37f2102c8cc4aa8654b4bd4a0",
-      "short": "c207035",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T21:28:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c20703581d928ee37f2102c8cc4aa8654b4bd4a0"
     }
   ]
 }
