@@ -1,6 +1,142 @@
 {
-  "total": 5509,
+  "total": 5526,
   "commits": [
+    {
+      "sha": "c9e027ab27cb3a26b37417712f96cb78428170e6",
+      "short": "c9e027a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T23:54:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c9e027ab27cb3a26b37417712f96cb78428170e6"
+    },
+    {
+      "sha": "e01d95dd482ae8cae1675120f98a3c1e1b44bcd7",
+      "short": "e01d95d",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T23:49:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e01d95dd482ae8cae1675120f98a3c1e1b44bcd7"
+    },
+    {
+      "sha": "d60ee09030dbe4273ff38d59b74c82f9af912ceb",
+      "short": "d60ee09",
+      "message": "feat(node): 44% -> 51.8% da suite do Node — panico, getCallSite, stream/web",
+      "author": "Drysius",
+      "date": "2026-08-24T23:33:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d60ee09030dbe4273ff38d59b74c82f9af912ceb"
+    },
+    {
+      "sha": "74d1f675682858bb24b3a8548b867675b28dd3f6",
+      "short": "74d1f67",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T22:36:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/74d1f675682858bb24b3a8548b867675b28dd3f6"
+    },
+    {
+      "sha": "215b8dce427e609f0dff155ec727260488388ef3",
+      "short": "215b8dc",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T22:30:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/215b8dce427e609f0dff155ec727260488388ef3"
+    },
+    {
+      "sha": "638b8a52fc7cff650cc22c7114033f0f8fcbc6ae",
+      "short": "638b8a5",
+      "message": "feat(node): assert.throws e `return` no topo de um modulo CommonJS",
+      "author": "Drysius",
+      "date": "2026-08-24T22:16:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/638b8a52fc7cff650cc22c7114033f0f8fcbc6ae"
+    },
+    {
+      "sha": "c20703581d928ee37f2102c8cc4aa8654b4bd4a0",
+      "short": "c207035",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T21:28:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c20703581d928ee37f2102c8cc4aa8654b4bd4a0"
+    },
+    {
+      "sha": "7c1904075f214d3e33242b56a119e7abe858bdde",
+      "short": "7c19040",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T21:22:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7c1904075f214d3e33242b56a119e7abe858bdde"
+    },
+    {
+      "sha": "4d132fd371612f6598d27f7c8e338df597b3af20",
+      "short": "4d132fd",
+      "message": "ci: badge da suite do Node no README, atualizado sozinho",
+      "author": "Drysius",
+      "date": "2026-08-24T21:09:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d132fd371612f6598d27f7c8e338df597b3af20"
+    },
+    {
+      "sha": "b9ee727e03198b0342906d2ce9593483dce985af",
+      "short": "b9ee727",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T20:56:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b9ee727e03198b0342906d2ce9593483dce985af"
+    },
+    {
+      "sha": "ec9a5d29f076ebd6f943f7bd455e13cf8dec5631",
+      "short": "ec9a5d2",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T20:50:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ec9a5d29f076ebd6f943f7bd455e13cf8dec5631"
+    },
+    {
+      "sha": "be819658490eb5b1eede5bb637d18bee43a450ad",
+      "short": "be81965",
+      "message": "fix(host): o prefixo verbatim do Windows saia em import.meta.url",
+      "author": "Drysius",
+      "date": "2026-08-24T20:35:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/be819658490eb5b1eede5bb637d18bee43a450ad"
+    },
+    {
+      "sha": "3291ff189eade7237b4c005a811af0f285cbb435",
+      "short": "3291ff1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T20:13:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3291ff189eade7237b4c005a811af0f285cbb435"
+    },
+    {
+      "sha": "c569056ca22f5ea5864999a3b7c3d0f3f58b9c82",
+      "short": "c569056",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-24T20:08:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c569056ca22f5ea5864999a3b7c3d0f3f58b9c82"
+    },
+    {
+      "sha": "376bc67c551f1403fcb6020284517dbdcbedbf2c",
+      "short": "376bc67",
+      "message": "feat(node): o arnes corre a suite toda, e o relatorio e uma lista de trabalho",
+      "author": "Drysius",
+      "date": "2026-08-24T19:53:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/376bc67c551f1403fcb6020284517dbdcbedbf2c"
+    },
+    {
+      "sha": "ef9247b722c92263b7840e9d8fd1abafddf2b367",
+      "short": "ef9247b",
+      "message": "feat(node): process.config e umask no Windows, e o arnes que corre a suite do Node",
+      "author": "Drysius",
+      "date": "2026-08-24T19:49:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef9247b722c92263b7840e9d8fd1abafddf2b367"
+    },
+    {
+      "sha": "f6fd6e8033e2d951b961369a39d38263ff62c9a4",
+      "short": "f6fd6e8",
+      "message": "feat(node): resolucao por ordem escrita, `global`, e `util/types`",
+      "author": "Drysius",
+      "date": "2026-08-24T19:38:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6fd6e8033e2d951b961369a39d38263ff62c9a4"
+    },
     {
       "sha": "992c8be362734febb4cec352950d75e013c952d4",
       "short": "992c8be",
@@ -24,142 +160,6 @@
       "author": "Drysius",
       "date": "2026-08-24T04:48:04Z",
       "url": "https://github.com/UrubuCode/rts/commit/492592ce91bf9c3cd58a4e7a3767b5d4ea8e97f5"
-    },
-    {
-      "sha": "b4c0695a1288d555f1227a878160a6b1e005b2fa",
-      "short": "b4c0695",
-      "message": "feat(engine): CommonJS e ESM no mesmo ficheiro, sem escolha por ficheiro",
-      "author": "Drysius",
-      "date": "2026-08-24T04:39:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b4c0695a1288d555f1227a878160a6b1e005b2fa"
-    },
-    {
-      "sha": "c43e6f71bdf14a5e8529067827644a0fd66067b5",
-      "short": "c43e6f7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T04:05:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c43e6f71bdf14a5e8529067827644a0fd66067b5"
-    },
-    {
-      "sha": "11c44ed467f41ccccb66c94324cdd32c068dc437",
-      "short": "11c44ed",
-      "message": "docs: cross-runtime parity 77.8% + history snapshot 2026-08-24",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T03:59:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11c44ed467f41ccccb66c94324cdd32c068dc437"
-    },
-    {
-      "sha": "9d186fa445fb20cedaae913e1989881db46875aa",
-      "short": "9d186fa",
-      "message": "fix(core): a raiz viva so num registador callee-saved era varrida",
-      "author": "Drysius",
-      "date": "2026-08-24T03:45:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9d186fa445fb20cedaae913e1989881db46875aa"
-    },
-    {
-      "sha": "2880134cfecdfef0ebda9be8dffe0a219a8a8799",
-      "short": "2880134",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T03:10:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2880134cfecdfef0ebda9be8dffe0a219a8a8799"
-    },
-    {
-      "sha": "861c386079ec3d51dc1e9046a394cff2dfa56ae4",
-      "short": "861c386",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T03:05:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/861c386079ec3d51dc1e9046a394cff2dfa56ae4"
-    },
-    {
-      "sha": "800e73a3d24ed4bed8d02ede7ee5eadcbbd0f636",
-      "short": "800e73a",
-      "message": "revert: as duas cargas de elemento icadas — uma recolha liberta o buffer sob elas",
-      "author": "Drysius",
-      "date": "2026-08-24T02:40:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/800e73a3d24ed4bed8d02ede7ee5eadcbbd0f636"
-    },
-    {
-      "sha": "f07e08e2b20cc7e95e4d9c5f4bbe0843ba9c7567",
-      "short": "f07e08e",
-      "message": "perf(codegen): `a[i]` num laco contado le por instrucao — 16 ns para 7",
-      "author": "Drysius",
-      "date": "2026-08-24T02:24:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f07e08e2b20cc7e95e4d9c5f4bbe0843ba9c7567"
-    },
-    {
-      "sha": "9c874de348fe1c8f49100d9a2e18691256ff1db5",
-      "short": "9c874de",
-      "message": "perf(codegen): o `for-of` sobre um array le por instrucao, nao por chamada",
-      "author": "Drysius",
-      "date": "2026-08-24T01:43:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c874de348fe1c8f49100d9a2e18691256ff1db5"
-    },
-    {
-      "sha": "5681b06ba58aff18b0ab7a6d9836eba1111dac9a",
-      "short": "5681b06",
-      "message": "docs: o `ElementLoad` nao tem produtor vivo, e tres documentos diziam que tinha",
-      "author": "Drysius",
-      "date": "2026-08-24T01:25:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5681b06ba58aff18b0ab7a6d9836eba1111dac9a"
-    },
-    {
-      "sha": "4ad26952c026012f16117a628a4f7397405305ed",
-      "short": "4ad2695",
-      "message": "perf(core): a raiz de uma chave lembrada e uma marca, nao um hash — 47 ns para 36",
-      "author": "Drysius",
-      "date": "2026-08-23T22:18:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ad26952c026012f16117a628a4f7397405305ed"
-    },
-    {
-      "sha": "6a41ee1742aa273e988e26edf27b8206c1178dda",
-      "short": "6a41ee1",
-      "message": "perf(engine): `o[k]` passa a ter cache — 38 ns para 6, com a chave comparada em bruto",
-      "author": "Drysius",
-      "date": "2026-08-23T21:39:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a41ee1742aa273e988e26edf27b8206c1178dda"
-    },
-    {
-      "sha": "2ac355afcbe4140e4eedac1b7d22d36b3ee13630",
-      "short": "2ac355a",
-      "message": "chore(core): um probe que precifica o acesso a uma celula, e que refutou a mudanca que o pediu",
-      "author": "Drysius",
-      "date": "2026-08-23T21:09:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2ac355afcbe4140e4eedac1b7d22d36b3ee13630"
-    },
-    {
-      "sha": "d8a2e6fd879bcf971d9a62426192c9c717cc1518",
-      "short": "d8a2e6f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T08:33:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8a2e6fd879bcf971d9a62426192c9c717cc1518"
-    },
-    {
-      "sha": "f764a23ed5c8d54ed2cc14318a4f90ff880a2778",
-      "short": "f764a23",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T08:28:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f764a23ed5c8d54ed2cc14318a4f90ff880a2778"
-    },
-    {
-      "sha": "23323c6f8f7b1d527b75d22d915491c504729008",
-      "short": "23323c6",
-      "message": "perf(cranelift): o indice de propriedades deixa de fazer hash de um numero denso",
-      "author": "Drysius",
-      "date": "2026-08-23T08:10:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/23323c6f8f7b1d527b75d22d915491c504729008"
-    },
-    {
-      "sha": "3430dac96f52e7ec90628b09869611608c3c1b17",
-      "short": "3430dac",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-23T08:10:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3430dac96f52e7ec90628b09869611608c3c1b17"
     }
   ]
 }
