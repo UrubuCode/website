@@ -1,6 +1,118 @@
 {
-  "total": 5551,
+  "total": 5565,
   "commits": [
+    {
+      "sha": "8d628f5282698f4a2efe13fd5df89739b24421d2",
+      "short": "8d628f5",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T19:23:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d628f5282698f4a2efe13fd5df89739b24421d2"
+    },
+    {
+      "sha": "c5d23b89eab4ec54b6d84fe9907e8bb37440683a",
+      "short": "c5d23b8",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T19:19:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c5d23b89eab4ec54b6d84fe9907e8bb37440683a"
+    },
+    {
+      "sha": "91aa0942263847bfdbc522a94992a7b3430dcab2",
+      "short": "91aa094",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-26T19:06:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/91aa0942263847bfdbc522a94992a7b3430dcab2"
+    },
+    {
+      "sha": "0bc6874de166c8912386b14457cf4a0af6f2b4a6",
+      "short": "0bc6874",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T17:47:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0bc6874de166c8912386b14457cf4a0af6f2b4a6"
+    },
+    {
+      "sha": "d0be898a9111dd0f8dbaf0e85c4120ed738bf60a",
+      "short": "d0be898",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T17:42:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0be898a9111dd0f8dbaf0e85c4120ed738bf60a"
+    },
+    {
+      "sha": "652738bb8571df5f3fde6a3de687adc5590220d8",
+      "short": "652738b",
+      "message": "docs(codegen): o coletor e 10-14 ns de trabalho e ~0 de custo removivel",
+      "author": "Drysius",
+      "date": "2026-08-26T17:20:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/652738bb8571df5f3fde6a3de687adc5590220d8"
+    },
+    {
+      "sha": "25817628885b83391b3b2306a996e66d0fd428f7",
+      "short": "2581762",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-26T17:17:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/25817628885b83391b3b2306a996e66d0fd428f7"
+    },
+    {
+      "sha": "e2271e71feb490785ff4754721cdf97ae135bfa8",
+      "short": "e2271e7",
+      "message": "perf(core): a varredura acha registros pela celula — 1000 watches 245 -> 35 ns/alloc",
+      "author": "Drysius",
+      "date": "2026-08-26T17:08:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e2271e71feb490785ff4754721cdf97ae135bfa8"
+    },
+    {
+      "sha": "c320ad9985b1abdbba51ccdaa78bb4aa4053cd81",
+      "short": "c320ad9",
+      "message": "docs(codegen): itens 1 e 2 do modelo de objeto, medidos — os dois sao recusados",
+      "author": "Drysius",
+      "date": "2026-08-26T16:11:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c320ad9985b1abdbba51ccdaa78bb4aa4053cd81"
+    },
+    {
+      "sha": "90a3c07cec1beb64bdf6b992a0b5391c37825a5f",
+      "short": "90a3c07",
+      "message": "docs(codegen): re-mede a tabela de registro — era `97f66385`, agora `673b9c0c`",
+      "author": "Drysius",
+      "date": "2026-08-26T07:22:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90a3c07cec1beb64bdf6b992a0b5391c37825a5f"
+    },
+    {
+      "sha": "673b9c0cc1c6eb32d43e895e0f6ef181c81c3c11",
+      "short": "673b9c0",
+      "message": "fix(core): uma transicao para de estreitar a partir de um valor observado",
+      "author": "Drysius",
+      "date": "2026-08-26T06:38:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/673b9c0cc1c6eb32d43e895e0f6ef181c81c3c11"
+    },
+    {
+      "sha": "c463fc2164ab08e467116195343667bf93185080",
+      "short": "c463fc2",
+      "message": "perf(core): uma enumeracao devolve chaves, nao textos — Object.keys 1156 -> 689 ns",
+      "author": "Drysius",
+      "date": "2026-08-26T06:37:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c463fc2164ab08e467116195343667bf93185080"
+    },
+    {
+      "sha": "3513d577142189490316deb4546b6ae831ade6de",
+      "short": "3513d57",
+      "message": "perf(core): um nativo le seus argumentos sem alocar — a.push(i) 161 -> 114 ns",
+      "author": "Drysius",
+      "date": "2026-08-26T04:31:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3513d577142189490316deb4546b6ae831ade6de"
+    },
+    {
+      "sha": "6291e72330f74651f3d3001cf30d8c1025517b7d",
+      "short": "6291e72",
+      "message": "perf(core): um callable nasce na shape final — criar closure 217 -> 152 ns",
+      "author": "Drysius",
+      "date": "2026-08-26T04:30:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6291e72330f74651f3d3001cf30d8c1025517b7d"
+    },
     {
       "sha": "86e66e2a14bc18a6288002b1be2f5b7332d96574",
       "short": "86e66e2",
@@ -48,118 +160,6 @@
       "author": "Drysius",
       "date": "2026-08-25T20:44:24Z",
       "url": "https://github.com/UrubuCode/rts/commit/30c810cfe3f7b1909e2640615973bf3be62471ef"
-    },
-    {
-      "sha": "fadd894ade4d9602bbd34b4db123d1bb2db88d83",
-      "short": "fadd894",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T08:12:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fadd894ade4d9602bbd34b4db123d1bb2db88d83"
-    },
-    {
-      "sha": "f705f9a482a9b3eb2a2c936ab7a398392aa6aff8",
-      "short": "f705f9a",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T08:07:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f705f9a482a9b3eb2a2c936ab7a398392aa6aff8"
-    },
-    {
-      "sha": "c2f548febc2b0a65774285057b774c6e0d129578",
-      "short": "c2f548f",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-25T07:52:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c2f548febc2b0a65774285057b774c6e0d129578"
-    },
-    {
-      "sha": "e41ace7cb25f83f344394ea976ada5970a43818e",
-      "short": "e41ace7",
-      "message": "perf(core): JSON.stringify serializa um objeto simples direto da shape — 3893 -> 1999 ns",
-      "author": "Drysius",
-      "date": "2026-08-25T07:49:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e41ace7cb25f83f344394ea976ada5970a43818e"
-    },
-    {
-      "sha": "cf9ffaea1f3aa4028aa609906b8334775680dc6b",
-      "short": "cf9ffae",
-      "message": "perf(codegen): um local so atribuido por bitwise e carregado como inteiro — and/or/xor/shr no piso do laco",
-      "author": "Drysius",
-      "date": "2026-08-25T06:52:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf9ffaea1f3aa4028aa609906b8334775680dc6b"
-    },
-    {
-      "sha": "9a386ae867119cd632bb31a5ea6d08b3190c60db",
-      "short": "9a386ae",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T06:14:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9a386ae867119cd632bb31a5ea6d08b3190c60db"
-    },
-    {
-      "sha": "1f7715fe72ff7f025cedf6362c7d411ce8f51618",
-      "short": "1f7715f",
-      "message": "perf(cranelift): dobra o ToInt32 e o bitwise que o emissor repete — shl/shr 6.5 -> 3.3 ns",
-      "author": "Drysius",
-      "date": "2026-08-25T06:09:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f7715fe72ff7f025cedf6362c7d411ce8f51618"
-    },
-    {
-      "sha": "94623064bbaa07198372da4b77ded8a21161583f",
-      "short": "9462306",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T06:09:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94623064bbaa07198372da4b77ded8a21161583f"
-    },
-    {
-      "sha": "efd9e781c82350a479e5d307c78121aa67a806f2",
-      "short": "efd9e78",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-25T05:54:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/efd9e781c82350a479e5d307c78121aa67a806f2"
-    },
-    {
-      "sha": "b2f078a19a0fdd11b355a6a67dec5f80333bdbac",
-      "short": "b2f078a",
-      "message": "perf(cranelift): ToInt32 converte em duas instrucoes sob guarda de alcance — aritmetica inteira ~2x",
-      "author": "Drysius",
-      "date": "2026-08-25T05:50:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b2f078a19a0fdd11b355a6a67dec5f80333bdbac"
-    },
-    {
-      "sha": "718daa2b90203d6ebdb705c48c967050ca8b716e",
-      "short": "718daa2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T05:00:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/718daa2b90203d6ebdb705c48c967050ca8b716e"
-    },
-    {
-      "sha": "791147f6cfb82b369f82194e82ccfb724038579d",
-      "short": "791147f",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T04:55:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/791147f6cfb82b369f82194e82ccfb724038579d"
-    },
-    {
-      "sha": "5cc777e9dbd5d7c6677216003f4c0ad171289abc",
-      "short": "5cc777e",
-      "message": "feat(node): validacao de argumentos com os codigos ERR_* — 51.8% -> 52.4%",
-      "author": "Drysius",
-      "date": "2026-08-25T04:40:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cc777e9dbd5d7c6677216003f4c0ad171289abc"
-    },
-    {
-      "sha": "c587ef6a65d475269bd3f17b26eb35c0a48624d4",
-      "short": "c587ef6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T02:51:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c587ef6a65d475269bd3f17b26eb35c0a48624d4"
     }
   ]
 }
