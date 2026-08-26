@@ -1,6 +1,54 @@
 {
-  "total": 5545,
+  "total": 5551,
   "commits": [
+    {
+      "sha": "86e66e2a14bc18a6288002b1be2f5b7332d96574",
+      "short": "86e66e2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T04:01:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/86e66e2a14bc18a6288002b1be2f5b7332d96574"
+    },
+    {
+      "sha": "fc7d970455598d8211c3db3acd35e252c8c27e57",
+      "short": "fc7d970",
+      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-26T03:54:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc7d970455598d8211c3db3acd35e252c8c27e57"
+    },
+    {
+      "sha": "b7f3afc9f41da3acd1e7cc46a12cd9e656fa6965",
+      "short": "b7f3afc",
+      "message": "fix(codegen): um wrapper carrega o nome da funcao que envolve, e `new` recusa o que nao constroi",
+      "author": "Drysius",
+      "date": "2026-08-26T00:19:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b7f3afc9f41da3acd1e7cc46a12cd9e656fa6965"
+    },
+    {
+      "sha": "fbae055ac5d0a12b9c01b2d0d4caf90f8e394a96",
+      "short": "fbae055",
+      "message": "perf(core): closure_new para de refazer por closure o que e por funcao — 445 -> 242 ns",
+      "author": "Drysius",
+      "date": "2026-08-25T22:45:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbae055ac5d0a12b9c01b2d0d4caf90f8e394a96"
+    },
+    {
+      "sha": "407d91e0e31455abca57fa310c8b3aed9dd63fb6",
+      "short": "407d91e",
+      "message": "perf(codegen): so um construtor ganha prototype — criar closure 729 -> 418 ns",
+      "author": "Drysius",
+      "date": "2026-08-25T21:30:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/407d91e0e31455abca57fa310c8b3aed9dd63fb6"
+    },
+    {
+      "sha": "30c810cfe3f7b1909e2640615973bf3be62471ef",
+      "short": "30c810c",
+      "message": "perf(core): um site de leitura lembra dois layouts — polimorfico 27,2 -> 15,0 ns",
+      "author": "Drysius",
+      "date": "2026-08-25T20:44:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/30c810cfe3f7b1909e2640615973bf3be62471ef"
+    },
     {
       "sha": "fadd894ade4d9602bbd34b4db123d1bb2db88d83",
       "short": "fadd894",
@@ -112,54 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-25T02:51:02Z",
       "url": "https://github.com/UrubuCode/rts/commit/c587ef6a65d475269bd3f17b26eb35c0a48624d4"
-    },
-    {
-      "sha": "37bc2dc57d0f264a1516f26cf17a700c7b367cb8",
-      "short": "37bc2dc",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T02:45:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/37bc2dc57d0f264a1516f26cf17a700c7b367cb8"
-    },
-    {
-      "sha": "a52bf4f72038bfbec14b95de9a1af2414895b17a",
-      "short": "a52bf4f",
-      "message": "feat(node): AssertionError com a forma do Node, `new domain.Domain()`, e o indice de getCallSite",
-      "author": "Drysius",
-      "date": "2026-08-25T02:31:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a52bf4f72038bfbec14b95de9a1af2414895b17a"
-    },
-    {
-      "sha": "3adb18a41550cfb2c10ad71f75123a738173e129",
-      "short": "3adb18a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T01:25:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3adb18a41550cfb2c10ad71f75123a738173e129"
-    },
-    {
-      "sha": "fabe5ddf21a7b0c29190beaad3744351d7904417",
-      "short": "fabe5dd",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-25T01:19:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fabe5ddf21a7b0c29190beaad3744351d7904417"
-    },
-    {
-      "sha": "28964add3a177ce6296ddcfd74bad42fa29264e6",
-      "short": "28964ad",
-      "message": "feat(node): stdio canalizado, exec/execFile, e um laco que nao sobrevive ao programa",
-      "author": "Drysius",
-      "date": "2026-08-25T01:06:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/28964add3a177ce6296ddcfd74bad42fa29264e6"
-    },
-    {
-      "sha": "c9e027ab27cb3a26b37417712f96cb78428170e6",
-      "short": "c9e027a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-24T23:54:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9e027ab27cb3a26b37417712f96cb78428170e6"
     }
   ]
 }
