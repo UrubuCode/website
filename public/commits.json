@@ -1,165 +1,165 @@
 {
-  "total": 5565,
+  "total": 5633,
   "commits": [
     {
-      "sha": "8d628f5282698f4a2efe13fd5df89739b24421d2",
-      "short": "8d628f5",
+      "sha": "ef3fb5809e9eaf9dc39dfaefcccf7ad7984af840",
+      "short": "ef3fb58",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T19:23:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d628f5282698f4a2efe13fd5df89739b24421d2"
+      "date": "2026-08-27T05:17:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef3fb5809e9eaf9dc39dfaefcccf7ad7984af840"
     },
     {
-      "sha": "c5d23b89eab4ec54b6d84fe9907e8bb37440683a",
-      "short": "c5d23b8",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "sha": "d28828e9a678cbfb3d4b0935e3085ccfb26e36f7",
+      "short": "d28828e",
+      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T19:19:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c5d23b89eab4ec54b6d84fe9907e8bb37440683a"
+      "date": "2026-08-27T05:12:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d28828e9a678cbfb3d4b0935e3085ccfb26e36f7"
     },
     {
-      "sha": "91aa0942263847bfdbc522a94992a7b3430dcab2",
-      "short": "91aa094",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-26T19:06:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/91aa0942263847bfdbc522a94992a7b3430dcab2"
+      "sha": "651f4d397c7a63f54d2d1551baa8d17fc52d6fc3",
+      "short": "651f4d3",
+      "message": "perf: continue native pipeline optimizations",
+      "author": "drysius",
+      "date": "2026-08-27T04:56:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/651f4d397c7a63f54d2d1551baa8d17fc52d6fc3"
     },
     {
-      "sha": "0bc6874de166c8912386b14457cf4a0af6f2b4a6",
-      "short": "0bc6874",
+      "sha": "e2326ed0ce573bdae7d29fc8c4fe5061c5032a51",
+      "short": "e2326ed",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T17:47:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0bc6874de166c8912386b14457cf4a0af6f2b4a6"
+      "date": "2026-08-27T04:39:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e2326ed0ce573bdae7d29fc8c4fe5061c5032a51"
     },
     {
-      "sha": "d0be898a9111dd0f8dbaf0e85c4120ed738bf60a",
-      "short": "d0be898",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
+      "sha": "2f16b7b3b1ac8f79a5c7c0b4f04981ad3fd6d4f0",
+      "short": "2f16b7b",
+      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T17:42:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0be898a9111dd0f8dbaf0e85c4120ed738bf60a"
+      "date": "2026-08-27T04:33:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f16b7b3b1ac8f79a5c7c0b4f04981ad3fd6d4f0"
     },
     {
-      "sha": "652738bb8571df5f3fde6a3de687adc5590220d8",
-      "short": "652738b",
-      "message": "docs(codegen): o coletor e 10-14 ns de trabalho e ~0 de custo removivel",
-      "author": "Drysius",
-      "date": "2026-08-26T17:20:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/652738bb8571df5f3fde6a3de687adc5590220d8"
+      "sha": "d5cc28fe497eda02196808ae4063c8c59a5ccd0b",
+      "short": "d5cc28f",
+      "message": "fix: align buffer string limits with node",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T04:18:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5cc28fe497eda02196808ae4063c8c59a5ccd0b"
     },
     {
-      "sha": "25817628885b83391b3b2306a996e66d0fd428f7",
-      "short": "2581762",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-26T17:17:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/25817628885b83391b3b2306a996e66d0fd428f7"
+      "sha": "968c0338b225a89081add7ff8ba1165fb70befab",
+      "short": "968c033",
+      "message": "fix: align buffer string limits with node",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-27T03:27:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/968c0338b225a89081add7ff8ba1165fb70befab"
     },
     {
-      "sha": "e2271e71feb490785ff4754721cdf97ae135bfa8",
-      "short": "e2271e7",
-      "message": "perf(core): a varredura acha registros pela celula — 1000 watches 245 -> 35 ns/alloc",
-      "author": "Drysius",
-      "date": "2026-08-26T17:08:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e2271e71feb490785ff4754721cdf97ae135bfa8"
-    },
-    {
-      "sha": "c320ad9985b1abdbba51ccdaa78bb4aa4053cd81",
-      "short": "c320ad9",
-      "message": "docs(codegen): itens 1 e 2 do modelo de objeto, medidos — os dois sao recusados",
-      "author": "Drysius",
-      "date": "2026-08-26T16:11:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c320ad9985b1abdbba51ccdaa78bb4aa4053cd81"
-    },
-    {
-      "sha": "90a3c07cec1beb64bdf6b992a0b5391c37825a5f",
-      "short": "90a3c07",
-      "message": "docs(codegen): re-mede a tabela de registro — era `97f66385`, agora `673b9c0c`",
-      "author": "Drysius",
-      "date": "2026-08-26T07:22:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/90a3c07cec1beb64bdf6b992a0b5391c37825a5f"
-    },
-    {
-      "sha": "673b9c0cc1c6eb32d43e895e0f6ef181c81c3c11",
-      "short": "673b9c0",
-      "message": "fix(core): uma transicao para de estreitar a partir de um valor observado",
-      "author": "Drysius",
-      "date": "2026-08-26T06:38:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/673b9c0cc1c6eb32d43e895e0f6ef181c81c3c11"
-    },
-    {
-      "sha": "c463fc2164ab08e467116195343667bf93185080",
-      "short": "c463fc2",
-      "message": "perf(core): uma enumeracao devolve chaves, nao textos — Object.keys 1156 -> 689 ns",
-      "author": "Drysius",
-      "date": "2026-08-26T06:37:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c463fc2164ab08e467116195343667bf93185080"
-    },
-    {
-      "sha": "3513d577142189490316deb4546b6ae831ade6de",
-      "short": "3513d57",
-      "message": "perf(core): um nativo le seus argumentos sem alocar — a.push(i) 161 -> 114 ns",
-      "author": "Drysius",
-      "date": "2026-08-26T04:31:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3513d577142189490316deb4546b6ae831ade6de"
-    },
-    {
-      "sha": "6291e72330f74651f3d3001cf30d8c1025517b7d",
-      "short": "6291e72",
-      "message": "perf(core): um callable nasce na shape final — criar closure 217 -> 152 ns",
-      "author": "Drysius",
-      "date": "2026-08-26T04:30:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6291e72330f74651f3d3001cf30d8c1025517b7d"
-    },
-    {
-      "sha": "86e66e2a14bc18a6288002b1be2f5b7332d96574",
-      "short": "86e66e2",
+      "sha": "1b6a031bfea26998ca7d7d90d7ffa461128fd8e5",
+      "short": "1b6a031",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T04:01:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/86e66e2a14bc18a6288002b1be2f5b7332d96574"
+      "date": "2026-08-27T03:10:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1b6a031bfea26998ca7d7d90d7ffa461128fd8e5"
     },
     {
-      "sha": "fc7d970455598d8211c3db3acd35e252c8c27e57",
-      "short": "fc7d970",
+      "sha": "493ea39e37b3f08c5bf078e2079376f4ec847110",
+      "short": "493ea39",
+      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-27T03:05:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/493ea39e37b3f08c5bf078e2079376f4ec847110"
+    },
+    {
+      "sha": "a5affff9db6e77cdfae135adcf248befb583a0e0",
+      "short": "a5affff",
+      "message": "Merge pull request #2593 from UrubuCode/agent/node-buffer-limit",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T02:50:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5affff9db6e77cdfae135adcf248befb583a0e0"
+    },
+    {
+      "sha": "7f1f5109bf3f2f4d4244f8742786ce6263cef231",
+      "short": "7f1f510",
+      "message": "fix: align Buffer write and copy semantics",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-27T02:38:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7f1f5109bf3f2f4d4244f8742786ce6263cef231"
+    },
+    {
+      "sha": "8085ff0fc9e990e56c4b90bb17ccf1a54c59e4fc",
+      "short": "8085ff0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-27T02:33:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8085ff0fc9e990e56c4b90bb17ccf1a54c59e4fc"
+    },
+    {
+      "sha": "4168d146878695314f5511b6e390625a7573d84e",
+      "short": "4168d14",
+      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-27T02:28:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4168d146878695314f5511b6e390625a7573d84e"
+    },
+    {
+      "sha": "e59d1d0e4d0ad3a99a1082f742e87dc20199064d",
+      "short": "e59d1d0",
+      "message": "Merge pull request #2592 from UrubuCode/agent/node-buffer-tostring",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T02:13:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e59d1d0e4d0ad3a99a1082f742e87dc20199064d"
+    },
+    {
+      "sha": "21951e36ae5c3d77cf1a09b36c9e748479e565e4",
+      "short": "21951e3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-27T02:09:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/21951e36ae5c3d77cf1a09b36c9e748479e565e4"
+    },
+    {
+      "sha": "3e76ce7459f7e5e5d3e22f60db617f133cdbe515",
+      "short": "3e76ce7",
+      "message": "fix: align Buffer.toString ranges and errors",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-27T02:00:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3e76ce7459f7e5e5d3e22f60db617f133cdbe515"
+    },
+    {
+      "sha": "57d553c707f4e15cb261fee06972e74e62595e92",
+      "short": "57d553c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-27T01:57:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/57d553c707f4e15cb261fee06972e74e62595e92"
+    },
+    {
+      "sha": "f2cea6976003945c34c03d00514daca1fa5dc7ac",
+      "short": "f2cea69",
+      "message": "Merge css browser pipeline",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T01:52:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2cea6976003945c34c03d00514daca1fa5dc7ac"
+    },
+    {
+      "sha": "de94b718331044459a0f9540b109c1aa1339ab78",
+      "short": "de94b71",
       "message": "docs: auto-update cross-runtime parity badge (77.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-26T03:54:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc7d970455598d8211c3db3acd35e252c8c27e57"
+      "date": "2026-08-27T01:51:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de94b718331044459a0f9540b109c1aa1339ab78"
     },
     {
-      "sha": "b7f3afc9f41da3acd1e7cc46a12cd9e656fa6965",
-      "short": "b7f3afc",
-      "message": "fix(codegen): um wrapper carrega o nome da funcao que envolve, e `new` recusa o que nao constroi",
-      "author": "Drysius",
-      "date": "2026-08-26T00:19:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b7f3afc9f41da3acd1e7cc46a12cd9e656fa6965"
-    },
-    {
-      "sha": "fbae055ac5d0a12b9c01b2d0d4caf90f8e394a96",
-      "short": "fbae055",
-      "message": "perf(core): closure_new para de refazer por closure o que e por funcao — 445 -> 242 ns",
-      "author": "Drysius",
-      "date": "2026-08-25T22:45:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fbae055ac5d0a12b9c01b2d0d4caf90f8e394a96"
-    },
-    {
-      "sha": "407d91e0e31455abca57fa310c8b3aed9dd63fb6",
-      "short": "407d91e",
-      "message": "perf(codegen): so um construtor ganha prototype — criar closure 729 -> 418 ns",
-      "author": "Drysius",
-      "date": "2026-08-25T21:30:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/407d91e0e31455abca57fa310c8b3aed9dd63fb6"
-    },
-    {
-      "sha": "30c810cfe3f7b1909e2640615973bf3be62471ef",
-      "short": "30c810c",
-      "message": "perf(core): um site de leitura lembra dois layouts — polimorfico 27,2 -> 15,0 ns",
-      "author": "Drysius",
-      "date": "2026-08-25T20:44:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/30c810cfe3f7b1909e2640615973bf3be62471ef"
+      "sha": "c7f51a9e60ee1fa426df4e19111fc13f2b3ecb03",
+      "short": "c7f51a9",
+      "message": "docs: record margin collapse parity",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-27T01:38:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7f51a9e60ee1fa426df4e19111fc13f2b3ecb03"
     }
   ]
 }
