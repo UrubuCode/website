@@ -1,165 +1,165 @@
 {
-  "total": 5633,
+  "total": 5671,
   "commits": [
     {
-      "sha": "ef3fb5809e9eaf9dc39dfaefcccf7ad7984af840",
-      "short": "ef3fb58",
+      "sha": "cd5ffc191e27d02b9150bb02f12f6dbb95864d7a",
+      "short": "cd5ffc1",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T05:17:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef3fb5809e9eaf9dc39dfaefcccf7ad7984af840"
+      "date": "2026-08-27T18:06:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd5ffc191e27d02b9150bb02f12f6dbb95864d7a"
     },
     {
-      "sha": "d28828e9a678cbfb3d4b0935e3085ccfb26e36f7",
-      "short": "d28828e",
+      "sha": "71c7ebe82949a9a40988400cabbb42278eb33a2f",
+      "short": "71c7ebe",
       "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T05:12:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d28828e9a678cbfb3d4b0935e3085ccfb26e36f7"
+      "date": "2026-08-27T18:01:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71c7ebe82949a9a40988400cabbb42278eb33a2f"
     },
     {
-      "sha": "651f4d397c7a63f54d2d1551baa8d17fc52d6fc3",
-      "short": "651f4d3",
-      "message": "perf: continue native pipeline optimizations",
-      "author": "drysius",
-      "date": "2026-08-27T04:56:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/651f4d397c7a63f54d2d1551baa8d17fc52d6fc3"
+      "sha": "54baa1be75ebd8b18967ddf216cfe458643eb51e",
+      "short": "54baa1b",
+      "message": "Merge pull request #2603 from UrubuCode/agent/node-buffer-indexof",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T17:46:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/54baa1be75ebd8b18967ddf216cfe458643eb51e"
     },
     {
-      "sha": "e2326ed0ce573bdae7d29fc8c4fe5061c5032a51",
-      "short": "e2326ed",
+      "sha": "ae7c4195425b368727183048ffa5cf19b7a98b59",
+      "short": "ae7c419",
+      "message": "fix(buffer): match Node index search semantics",
+      "author": "MarcosBrendonDePaula",
+      "date": "2026-08-27T17:27:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae7c4195425b368727183048ffa5cf19b7a98b59"
+    },
+    {
+      "sha": "6017f8c56b7c8456d6b6686ddd28258a5b665a7a",
+      "short": "6017f8c",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T04:39:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e2326ed0ce573bdae7d29fc8c4fe5061c5032a51"
+      "date": "2026-08-27T16:39:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6017f8c56b7c8456d6b6686ddd28258a5b665a7a"
     },
     {
-      "sha": "2f16b7b3b1ac8f79a5c7c0b4f04981ad3fd6d4f0",
-      "short": "2f16b7b",
+      "sha": "2f6b936ac577248cfa9066e69766c0874ff5a322",
+      "short": "2f6b936",
       "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T04:33:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2f16b7b3b1ac8f79a5c7c0b4f04981ad3fd6d4f0"
+      "date": "2026-08-27T16:34:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f6b936ac577248cfa9066e69766c0874ff5a322"
     },
     {
-      "sha": "d5cc28fe497eda02196808ae4063c8c59a5ccd0b",
-      "short": "d5cc28f",
-      "message": "fix: align buffer string limits with node",
+      "sha": "d7541d9c775911f2c8d5ccac4b618c63d46981a7",
+      "short": "d7541d9",
+      "message": "Merge pull request #2602 from UrubuCode/agent/node-buffer-concat",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T04:18:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5cc28fe497eda02196808ae4063c8c59a5ccd0b"
+      "date": "2026-08-27T16:18:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7541d9c775911f2c8d5ccac4b618c63d46981a7"
     },
     {
-      "sha": "968c0338b225a89081add7ff8ba1165fb70befab",
-      "short": "968c033",
-      "message": "fix: align buffer string limits with node",
+      "sha": "082fc6d727ea9c30232ad6b613f0098de36b1ba5",
+      "short": "082fc6d",
+      "message": "fix(buffer): keep empty concat lists empty",
       "author": "MarcosBrendonDePaula",
-      "date": "2026-08-27T03:27:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/968c0338b225a89081add7ff8ba1165fb70befab"
+      "date": "2026-08-27T16:15:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/082fc6d727ea9c30232ad6b613f0098de36b1ba5"
     },
     {
-      "sha": "1b6a031bfea26998ca7d7d90d7ffa461128fd8e5",
-      "short": "1b6a031",
+      "sha": "21715d70b7d153e88f9f6055c3dff52e84e3ec9d",
+      "short": "21715d7",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T03:10:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b6a031bfea26998ca7d7d90d7ffa461128fd8e5"
+      "date": "2026-08-27T16:13:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/21715d70b7d153e88f9f6055c3dff52e84e3ec9d"
     },
     {
-      "sha": "493ea39e37b3f08c5bf078e2079376f4ec847110",
-      "short": "493ea39",
+      "sha": "868dc8f961cd43849ea6adfbeb5439e32500c208",
+      "short": "868dc8f",
       "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T03:05:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/493ea39e37b3f08c5bf078e2079376f4ec847110"
+      "date": "2026-08-27T16:07:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/868dc8f961cd43849ea6adfbeb5439e32500c208"
     },
     {
-      "sha": "a5affff9db6e77cdfae135adcf248befb583a0e0",
-      "short": "a5affff",
-      "message": "Merge pull request #2593 from UrubuCode/agent/node-buffer-limit",
+      "sha": "d15859db759f43597f81b74c30f86ad0b2710d12",
+      "short": "d15859d",
+      "message": "Merge pull request #2601 from UrubuCode/agent/node-buffer-bytelength",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T02:50:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a5affff9db6e77cdfae135adcf248befb583a0e0"
+      "date": "2026-08-27T15:53:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d15859db759f43597f81b74c30f86ad0b2710d12"
     },
     {
-      "sha": "7f1f5109bf3f2f4d4244f8742786ce6263cef231",
-      "short": "7f1f510",
-      "message": "fix: align Buffer write and copy semantics",
+      "sha": "9e84b2a681be079fadb43de55e330aa36caba266",
+      "short": "9e84b2a",
+      "message": "fix(node): construct SlowBuffer and preserve vm buffers",
       "author": "MarcosBrendonDePaula",
-      "date": "2026-08-27T02:38:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7f1f5109bf3f2f4d4244f8742786ce6263cef231"
+      "date": "2026-08-27T15:49:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e84b2a681be079fadb43de55e330aa36caba266"
     },
     {
-      "sha": "8085ff0fc9e990e56c4b90bb17ccf1a54c59e4fc",
-      "short": "8085ff0",
+      "sha": "063e5adb4d9c2ad9a71c3ef31b009a721bbef65b",
+      "short": "063e5ad",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T02:33:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8085ff0fc9e990e56c4b90bb17ccf1a54c59e4fc"
+      "date": "2026-08-27T15:37:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/063e5adb4d9c2ad9a71c3ef31b009a721bbef65b"
     },
     {
-      "sha": "4168d146878695314f5511b6e390625a7573d84e",
-      "short": "4168d14",
+      "sha": "81d983ad9dc7b50bc05e8f79b665cc5684c3470a",
+      "short": "81d983a",
       "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T02:28:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4168d146878695314f5511b6e390625a7573d84e"
+      "date": "2026-08-27T15:31:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81d983ad9dc7b50bc05e8f79b665cc5684c3470a"
     },
     {
-      "sha": "e59d1d0e4d0ad3a99a1082f742e87dc20199064d",
-      "short": "e59d1d0",
-      "message": "Merge pull request #2592 from UrubuCode/agent/node-buffer-tostring",
+      "sha": "eadb0bfc17a8f67b29d0782f91e8a97840fa3951",
+      "short": "eadb0bf",
+      "message": "Merge pull request #2600 from UrubuCode/agent/node-domexception-cause",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T02:13:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e59d1d0e4d0ad3a99a1082f742e87dc20199064d"
+      "date": "2026-08-27T15:15:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eadb0bfc17a8f67b29d0782f91e8a97840fa3951"
     },
     {
-      "sha": "21951e36ae5c3d77cf1a09b36c9e748479e565e4",
-      "short": "21951e3",
+      "sha": "a4c881ae01067760a985ad2b3af5d6d6a492ce71",
+      "short": "a4c881a",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T02:09:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/21951e36ae5c3d77cf1a09b36c9e748479e565e4"
+      "date": "2026-08-27T15:12:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4c881ae01067760a985ad2b3af5d6d6a492ce71"
     },
     {
-      "sha": "3e76ce7459f7e5e5d3e22f60db617f133cdbe515",
-      "short": "3e76ce7",
-      "message": "fix: align Buffer.toString ranges and errors",
+      "sha": "26d97272a712325868fdb7a021f47b08109a7850",
+      "short": "26d9727",
+      "message": "fix(domexception): preserve options cause",
       "author": "MarcosBrendonDePaula",
-      "date": "2026-08-27T02:00:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3e76ce7459f7e5e5d3e22f60db617f133cdbe515"
+      "date": "2026-08-27T15:07:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26d97272a712325868fdb7a021f47b08109a7850"
     },
     {
-      "sha": "57d553c707f4e15cb261fee06972e74e62595e92",
-      "short": "57d553c",
-      "message": "docs: auto-update benchmark table",
+      "sha": "2d3feec70212e2c9b7a4acf1202e7dfd323c0ead",
+      "short": "2d3feec",
+      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T01:57:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/57d553c707f4e15cb261fee06972e74e62595e92"
+      "date": "2026-08-27T15:06:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d3feec70212e2c9b7a4acf1202e7dfd323c0ead"
     },
     {
-      "sha": "f2cea6976003945c34c03d00514daca1fa5dc7ac",
-      "short": "f2cea69",
-      "message": "Merge css browser pipeline",
+      "sha": "a1980883b70502e9b20dbdead6481ece0a2b01b6",
+      "short": "a198088",
+      "message": "Merge pull request #2594 from UrubuCode/css-css-dom-gap-inventory",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T01:52:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2cea6976003945c34c03d00514daca1fa5dc7ac"
+      "date": "2026-08-27T14:50:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a1980883b70502e9b20dbdead6481ece0a2b01b6"
     },
     {
-      "sha": "de94b718331044459a0f9540b109c1aa1339ab78",
-      "short": "de94b71",
-      "message": "docs: auto-update cross-runtime parity badge (77.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-27T01:51:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de94b718331044459a0f9540b109c1aa1339ab78"
-    },
-    {
-      "sha": "c7f51a9e60ee1fa426df4e19111fc13f2b3ecb03",
-      "short": "c7f51a9",
-      "message": "docs: record margin collapse parity",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-27T01:38:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7f51a9e60ee1fa426df4e19111fc13f2b3ecb03"
+      "sha": "aa06e582f86afda0db33a4e21a05b1c5033a1dd3",
+      "short": "aa06e58",
+      "message": "Merge pull request #2597 from UrubuCode/dom-keyboard-events",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-27T14:50:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aa06e582f86afda0db33a4e21a05b1c5033a1dd3"
     }
   ]
 }
