@@ -1,165 +1,165 @@
 {
-  "total": 5685,
+  "total": 5736,
   "commits": [
     {
-      "sha": "b83eac1ac8c8a0c7057a652ee7ca5bcd11f9efc5",
-      "short": "b83eac1",
+      "sha": "6ccf9159991ac1a937a9cfc5333c092df297b894",
+      "short": "6ccf915",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-28T02:37:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b83eac1ac8c8a0c7057a652ee7ca5bcd11f9efc5"
+      "date": "2026-08-29T09:54:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ccf9159991ac1a937a9cfc5333c092df297b894"
     },
     {
-      "sha": "9889cda4e5417cfe90328768f117749167a51dac",
-      "short": "9889cda",
+      "sha": "a5ada03a2ba3d4c784f15644b7fc888025c03ddf",
+      "short": "a5ada03",
       "message": "docs: auto-update cross-runtime parity badge (77.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-28T02:31:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9889cda4e5417cfe90328768f117749167a51dac"
+      "date": "2026-08-29T09:50:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a5ada03a2ba3d4c784f15644b7fc888025c03ddf"
     },
     {
-      "sha": "bbf25214528d63e0fb79823d38308195fd3b4489",
-      "short": "bbf2521",
-      "message": "Merge pull request #2604 from UrubuCode/feat/node-events-compatibility",
+      "sha": "ae5e76878a34f2241d5768837a88cbc5a507fb91",
+      "short": "ae5e768",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
       "author": "Drysius",
-      "date": "2026-08-28T02:16:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbf25214528d63e0fb79823d38308195fd3b4489"
+      "date": "2026-08-29T09:34:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae5e76878a34f2241d5768837a88cbc5a507fb91"
     },
     {
-      "sha": "0c5a7a09251fe40fdc7e771f0ddba3cd3e96161f",
-      "short": "0c5a7a0",
-      "message": "feat: expand node events compatibility",
-      "author": "drysius",
-      "date": "2026-08-28T02:01:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c5a7a09251fe40fdc7e771f0ddba3cd3e96161f"
-    },
-    {
-      "sha": "3d42a9fbcb4de73bb17f3477ed8219447d8a19fb",
-      "short": "3d42a9f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-28T00:36:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d42a9fbcb4de73bb17f3477ed8219447d8a19fb"
-    },
-    {
-      "sha": "f28174151a9448f0c7d1adecbbe7f1315ddb70ff",
-      "short": "f281741",
-      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-28T00:30:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f28174151a9448f0c7d1adecbbe7f1315ddb70ff"
-    },
-    {
-      "sha": "66c66a3ef01241d6ddcd25b2cd1b3d87a343f9ef",
-      "short": "66c66a3",
-      "message": "Merge pull request #2596 from UrubuCode/perf/native-array-template-paths",
+      "sha": "f0e5f364b456bc86750cf9a96b4b5be2019caac8",
+      "short": "f0e5f36",
+      "message": "docs: a live reference nothing enumerates is a CLASS, and it is not closed",
       "author": "Drysius",
-      "date": "2026-08-28T00:15:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/66c66a3ef01241d6ddcd25b2cd1b3d87a343f9ef"
+      "date": "2026-08-29T09:33:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f0e5f364b456bc86750cf9a96b4b5be2019caac8"
     },
     {
-      "sha": "366d83f16fac73ab015eac2df70c124538074d98",
-      "short": "366d83f",
-      "message": "perf: reduce crossings for primitive string slicing",
-      "author": "drysius",
-      "date": "2026-08-27T22:51:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/366d83f16fac73ab015eac2df70c124538074d98"
-    },
-    {
-      "sha": "8b0b320e7cdb10d2caf9af1f827d1adbf4bf8c49",
-      "short": "8b0b320",
-      "message": "fix: remove unmeasured object keys shortcut",
-      "author": "drysius",
-      "date": "2026-08-27T22:15:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8b0b320e7cdb10d2caf9af1f827d1adbf4bf8c49"
-    },
-    {
-      "sha": "8738d1c8cceef37a2292846095a5c2fb68aa879a",
-      "short": "8738d1c",
-      "message": "perf: reduce crossings for primitive string search",
-      "author": "drysius",
-      "date": "2026-08-27T22:14:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8738d1c8cceef37a2292846095a5c2fb68aa879a"
-    },
-    {
-      "sha": "cb26a58401800ceee4f8c76c2e1cd5e4c0106f94",
-      "short": "cb26a58",
-      "message": "fix: restore stable array join path",
-      "author": "drysius",
-      "date": "2026-08-27T21:47:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cb26a58401800ceee4f8c76c2e1cd5e4c0106f94"
-    },
-    {
-      "sha": "d714b76d1a3935e3079b385b0699516c3dd4b8d8",
-      "short": "d714b76",
-      "message": "perf: streamline primitive string indexing",
-      "author": "drysius",
-      "date": "2026-08-27T21:29:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d714b76d1a3935e3079b385b0699516c3dd4b8d8"
-    },
-    {
-      "sha": "240fc4de9dbc62ee14da25f83774ef098c9f15d9",
-      "short": "240fc4d",
-      "message": "perf: remove repeated native crossings in hot paths",
-      "author": "drysius",
-      "date": "2026-08-27T21:29:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/240fc4de9dbc62ee14da25f83774ef098c9f15d9"
-    },
-    {
-      "sha": "cd5ffc191e27d02b9150bb02f12f6dbb95864d7a",
-      "short": "cd5ffc1",
+      "sha": "ccd31c92d7e90024334dff91aacdb08c8a173458",
+      "short": "ccd31c9",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T18:06:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd5ffc191e27d02b9150bb02f12f6dbb95864d7a"
+      "date": "2026-08-29T09:28:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccd31c92d7e90024334dff91aacdb08c8a173458"
     },
     {
-      "sha": "71c7ebe82949a9a40988400cabbb42278eb33a2f",
-      "short": "71c7ebe",
-      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
+      "sha": "50dd53f1958a131831fc32838056a4fba0b9c699",
+      "short": "50dd53f",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-29T09:26:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50dd53f1958a131831fc32838056a4fba0b9c699"
+    },
+    {
+      "sha": "fd7ba534930a5301a8017518793ed2ba954f1b46",
+      "short": "fd7ba53",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T18:01:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71c7ebe82949a9a40988400cabbb42278eb33a2f"
+      "date": "2026-08-29T09:23:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fd7ba534930a5301a8017518793ed2ba954f1b46"
     },
     {
-      "sha": "54baa1be75ebd8b18967ddf216cfe458643eb51e",
-      "short": "54baa1b",
-      "message": "Merge pull request #2603 from UrubuCode/agent/node-buffer-indexof",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T17:46:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/54baa1be75ebd8b18967ddf216cfe458643eb51e"
+      "sha": "250bd48e97d0e955e7ff92c4e7f9154a6ac85647",
+      "short": "250bd48",
+      "message": "perf(codegen): the inliner takes a statement body — Monte Carlo 695 -> 337 ms",
+      "author": "Drysius",
+      "date": "2026-08-29T09:17:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/250bd48e97d0e955e7ff92c4e7f9154a6ac85647"
     },
     {
-      "sha": "ae7c4195425b368727183048ffa5cf19b7a98b59",
-      "short": "ae7c419",
-      "message": "fix(buffer): match Node index search semantics",
-      "author": "MarcosBrendonDePaula",
-      "date": "2026-08-27T17:27:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae7c4195425b368727183048ffa5cf19b7a98b59"
+      "sha": "69f467d23290527d9254289980c6473ce5f9c837",
+      "short": "69f467d",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-29T09:08:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69f467d23290527d9254289980c6473ce5f9c837"
     },
     {
-      "sha": "6017f8c56b7c8456d6b6686ddd28258a5b665a7a",
-      "short": "6017f8c",
+      "sha": "a7d3127a259a55f6d4a1430469b19b805779809d",
+      "short": "a7d3127",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T16:39:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6017f8c56b7c8456d6b6686ddd28258a5b665a7a"
+      "date": "2026-08-29T09:00:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7d3127a259a55f6d4a1430469b19b805779809d"
     },
     {
-      "sha": "2f6b936ac577248cfa9066e69766c0874ff5a322",
-      "short": "2f6b936",
-      "message": "docs: auto-update cross-runtime parity badge (77.9%)",
+      "sha": "f0abc9dadf278711ad249b9a3ca0d36ddff394de",
+      "short": "f0abc9d",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
       "author": "github-actions[bot]",
-      "date": "2026-08-27T16:34:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2f6b936ac577248cfa9066e69766c0874ff5a322"
+      "date": "2026-08-29T08:55:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f0abc9dadf278711ad249b9a3ca0d36ddff394de"
     },
     {
-      "sha": "d7541d9c775911f2c8d5ccac4b618c63d46981a7",
-      "short": "d7541d9",
-      "message": "Merge pull request #2602 from UrubuCode/agent/node-buffer-concat",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-27T16:18:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7541d9c775911f2c8d5ccac4b618c63d46981a7"
+      "sha": "680b4bdb7c45870c6772defbff5787de65d33319",
+      "short": "680b4bd",
+      "message": "perf(core,codegen): a third lost root, a constant that was a call, and two cold hashes",
+      "author": "Drysius",
+      "date": "2026-08-29T08:45:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/680b4bdb7c45870c6772defbff5787de65d33319"
+    },
+    {
+      "sha": "b93609986f7eea8f41fb9b1f6cbf17599e27a8bb",
+      "short": "b936099",
+      "message": "fix(core): two lost roots — an iterator that silently ended early, and a segfault",
+      "author": "Drysius",
+      "date": "2026-08-29T08:22:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b93609986f7eea8f41fb9b1f6cbf17599e27a8bb"
+    },
+    {
+      "sha": "7af0190805527fb28aea0878167c514e04660dc1",
+      "short": "7af0190",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-29T07:57:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7af0190805527fb28aea0878167c514e04660dc1"
+    },
+    {
+      "sha": "39440bca871ba7a28642755366c4d2f257e791df",
+      "short": "39440bc",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-29T07:52:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39440bca871ba7a28642755366c4d2f257e791df"
+    },
+    {
+      "sha": "18b4687400fd7b0685233bcda9f72040dd7fbe35",
+      "short": "18b4687",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-29T07:36:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18b4687400fd7b0685233bcda9f72040dd7fbe35"
+    },
+    {
+      "sha": "8954808ca195dd28d57afba1738e20020a19a635",
+      "short": "8954808",
+      "message": "docs(codegen): the fourth change, and what the four are worth together",
+      "author": "Drysius",
+      "date": "2026-08-29T07:35:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8954808ca195dd28d57afba1738e20020a19a635"
+    },
+    {
+      "sha": "1283873ca76a96d0ca6e8c6b0bee8cab46af8536",
+      "short": "1283873",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-29T07:32:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1283873ca76a96d0ca6e8c6b0bee8cab46af8536"
+    },
+    {
+      "sha": "705d9885e875bdcda295d5189106b898dd8f803b",
+      "short": "705d988",
+      "message": "perf(core): `instanceof` was one failed lookup and a rounding error — 128 -> 98 ns",
+      "author": "Drysius",
+      "date": "2026-08-29T07:29:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/705d9885e875bdcda295d5189106b898dd8f803b"
+    },
+    {
+      "sha": "e6dd1489f45a41a81d230a748de387229afdfa03",
+      "short": "e6dd148",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-29T07:27:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6dd1489f45a41a81d230a748de387229afdfa03"
     }
   ]
 }
