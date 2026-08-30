@@ -1,6 +1,134 @@
 {
-  "total": 5771,
+  "total": 5791,
   "commits": [
+    {
+      "sha": "b74c12101e59354699b6f69f169d082177d3a3a2",
+      "short": "b74c121",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-30T15:11:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b74c12101e59354699b6f69f169d082177d3a3a2"
+    },
+    {
+      "sha": "d7733ae86134ec0210e305fc09f54b4d9f0601fc",
+      "short": "d7733ae",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-30T15:07:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7733ae86134ec0210e305fc09f54b4d9f0601fc"
+    },
+    {
+      "sha": "140af1dcd9c1bf9fb9610f7ba7e3f58fb782ce20",
+      "short": "140af1d",
+      "message": "Merge pull request #2608 from UrubuCode/feat/escopo-e-window-sao-o-mesmo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-08-30T14:52:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/140af1dcd9c1bf9fb9610f7ba7e3f58fb782ce20"
+    },
+    {
+      "sha": "1c97f5b5aefcc8ea08dee246e8325cc55f502f9a",
+      "short": "1c97f5b",
+      "message": "feat(dom): um nó, um objeto — e o React passa a responder ao clique",
+      "author": "Marcos",
+      "date": "2026-08-30T14:49:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1c97f5b5aefcc8ea08dee246e8325cc55f502f9a"
+    },
+    {
+      "sha": "36a84552670782942256520dc3968f3b2be796f8",
+      "short": "36a8455",
+      "message": "fix: o `fetch` fala HTTPS, e o carregamento de recursos remotos volta a existir",
+      "author": "Marcos",
+      "date": "2026-08-30T14:25:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36a84552670782942256520dc3968f3b2be796f8"
+    },
+    {
+      "sha": "d82e20f57161ddb9a414cbd446ae71f726c67ada",
+      "short": "d82e20f",
+      "message": "feat: `fetch` — uma página pode ir buscar coisas à rede",
+      "author": "Marcos",
+      "date": "2026-08-30T14:13:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d82e20f57161ddb9a414cbd446ae71f726c67ada"
+    },
+    {
+      "sha": "43c82e6370a9e4e1b158a3850a1d85b0344c4e13",
+      "short": "43c82e6",
+      "message": "feat(dom): `dom.advance` — perguntar se uma página anima, sem olhar para ela",
+      "author": "Marcos",
+      "date": "2026-08-30T13:37:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/43c82e6370a9e4e1b158a3850a1d85b0344c4e13"
+    },
+    {
+      "sha": "d4d7161e0155b20d3136ef77483868507688a756",
+      "short": "d4d7161",
+      "message": "fix: `run_event_loop` corria metade do loop",
+      "author": "Marcos",
+      "date": "2026-08-30T13:31:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4d7161e0155b20d3136ef77483868507688a756"
+    },
+    {
+      "sha": "75790aa7399ca56cea6ec124c5d3d1187569bb46",
+      "short": "75790aa",
+      "message": "feat: `nativeEvent` e `timeStamp` no evento, e a razão real dos cliques",
+      "author": "Marcos",
+      "date": "2026-08-30T13:22:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/75790aa7399ca56cea6ec124c5d3d1187569bb46"
+    },
+    {
+      "sha": "ff5d4077b8900108d0cf87dbec1fbfbbc491f50e",
+      "short": "ff5d407",
+      "message": "feat: o React 18 monta, e a ponte de consulta que faltava",
+      "author": "Marcos",
+      "date": "2026-08-30T13:15:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff5d4077b8900108d0cf87dbec1fbfbbc491f50e"
+    },
+    {
+      "sha": "40ed58e3b2cb62ed14455143f8e1f600a1112f69",
+      "short": "40ed58e",
+      "message": "fix: um `var` do corpo de um laço vivia no objeto da passagem",
+      "author": "Marcos",
+      "date": "2026-08-30T12:58:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40ed58e3b2cb62ed14455143f8e1f600a1112f69"
+    },
+    {
+      "sha": "1d2b3696286fcb55d7cc4afcc0e3f44af290c33c",
+      "short": "1d2b369",
+      "message": "test: o defeito reduzido a três condições, e duas hipóteses refutadas",
+      "author": "Marcos",
+      "date": "2026-08-30T12:51:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1d2b3696286fcb55d7cc4afcc0e3f44af290c33c"
+    },
+    {
+      "sha": "c8b907d1ffc904a99ead39a782610420a626e1a6",
+      "short": "c8b907d",
+      "message": "test: o caso mínimo do defeito que impede o React de montar",
+      "author": "Marcos",
+      "date": "2026-08-30T12:46:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c8b907d1ffc904a99ead39a782610420a626e1a6"
+    },
+    {
+      "sha": "c187cca84dda3884959d83c04fef404307251a49",
+      "short": "c187cca",
+      "message": "feat: uma rejeição não tratada diz onde nasceu",
+      "author": "Marcos",
+      "date": "2026-08-30T12:36:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c187cca84dda3884959d83c04fef404307251a49"
+    },
+    {
+      "sha": "d6c964ad27957174b49218215e2ca1862481884a",
+      "short": "d6c964a",
+      "message": "fix: um `<script>` de página via o ambiente do Node",
+      "author": "Marcos",
+      "date": "2026-08-30T12:26:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6c964ad27957174b49218215e2ca1862481884a"
+    },
+    {
+      "sha": "7fed1eca0c46e0f198f18d760eab2aaa03499721",
+      "short": "7fed1ec",
+      "message": "fix: um `var` não era declarado se o nome existisse fora da função",
+      "author": "Marcos",
+      "date": "2026-08-30T12:12:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7fed1eca0c46e0f198f18d760eab2aaa03499721"
+    },
     {
       "sha": "91d7db2500741cb74b1183b165a0476877b5f163",
       "short": "91d7db2",
@@ -32,134 +160,6 @@
       "author": "Drysius",
       "date": "2026-08-30T08:44:30Z",
       "url": "https://github.com/UrubuCode/rts/commit/ab579bb737adf17d9ecdc033ca31d27998665d48"
-    },
-    {
-      "sha": "c6f697c884c555b950a8be3d62ef875178818a66",
-      "short": "c6f697c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T08:44:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c6f697c884c555b950a8be3d62ef875178818a66"
-    },
-    {
-      "sha": "053b706b2f39c11c1e31d856d93c0978de8cb863",
-      "short": "053b706",
-      "message": "docs: a generator under for-of ends early, and the flag that only prints changes it",
-      "author": "Drysius",
-      "date": "2026-08-30T08:40:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/053b706b2f39c11c1e31d856d93c0978de8cb863"
-    },
-    {
-      "sha": "9935ad4444afb96c84136f9c4dc0f7ac2462ad27",
-      "short": "9935ad4",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T08:39:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9935ad4444afb96c84136f9c4dc0f7ac2462ad27"
-    },
-    {
-      "sha": "e931e106916b7e8897a3e3ca9fccb87eb2f26f3e",
-      "short": "e931e10",
-      "message": "refactor(codegen): the three desugarings ask \"is it callable\" once, not three times",
-      "author": "Drysius",
-      "date": "2026-08-30T08:21:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e931e106916b7e8897a3e3ca9fccb87eb2f26f3e"
-    },
-    {
-      "sha": "47dd8b60f5bdc8fafefeedfdc61b97f0192733b2",
-      "short": "47dd8b6",
-      "message": "perf(codegen): a literal condition is decided while it is still a literal",
-      "author": "Drysius",
-      "date": "2026-08-30T08:06:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47dd8b60f5bdc8fafefeedfdc61b97f0192733b2"
-    },
-    {
-      "sha": "cf7b515fc397a482441c00c237b52e5e0274aaa8",
-      "short": "cf7b515",
-      "message": "perf(codegen): a switch label reaches the settlements an operator does",
-      "author": "Drysius",
-      "date": "2026-08-30T07:57:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf7b515fc397a482441c00c237b52e5e0274aaa8"
-    },
-    {
-      "sha": "2f115b283cbd15b688505aecea4b335eec9749e2",
-      "short": "2f115b2",
-      "message": "perf(codegen): three typeof answers are decided by the tag — 12.8 ns to 2.3",
-      "author": "Drysius",
-      "date": "2026-08-30T07:44:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2f115b283cbd15b688505aecea4b335eec9749e2"
-    },
-    {
-      "sha": "63ff3ddf3f516c663cd27ffdb721bf76a3b67348",
-      "short": "63ff3dd",
-      "message": "perf(codegen): a negated condition kept its proof — !x from 10.6 ns to 6.8",
-      "author": "Drysius",
-      "date": "2026-08-30T07:33:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63ff3ddf3f516c663cd27ffdb721bf76a3b67348"
-    },
-    {
-      "sha": "76308b258d204441afe368952ffc870f3cfb607f",
-      "short": "76308b2",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-30T07:15:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/76308b258d204441afe368952ffc870f3cfb607f"
-    },
-    {
-      "sha": "982907a9758533373e11c5f9bc7cd71582494c58",
-      "short": "982907a",
-      "message": "fix: a nested guard clause returned from the CALLER, and printed nothing",
-      "author": "Drysius",
-      "date": "2026-08-30T07:13:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/982907a9758533373e11c5f9bc7cd71582494c58"
-    },
-    {
-      "sha": "420267cde0c92dbff55512929a31d2c64ccd92a5",
-      "short": "420267c",
-      "message": "perf(codegen): a body may mention a global; try/catch may be substituted",
-      "author": "Drysius",
-      "date": "2026-08-30T04:47:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/420267cde0c92dbff55512929a31d2c64ccd92a5"
-    },
-    {
-      "sha": "ab2a02f3524cd1b19139ffa8d248501d51fa5c76",
-      "short": "ab2a02f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T04:43:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ab2a02f3524cd1b19139ffa8d248501d51fa5c76"
-    },
-    {
-      "sha": "87482714e8df53e75425470097b1fc77eee1b863",
-      "short": "8748271",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T04:38:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87482714e8df53e75425470097b1fc77eee1b863"
-    },
-    {
-      "sha": "c54bfc2efe89401f83dfa34e613e4a3cc627fd68",
-      "short": "c54bfc2",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-30T04:23:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c54bfc2efe89401f83dfa34e613e4a3cc627fd68"
-    },
-    {
-      "sha": "cc99e9e929c2a45fe76db07e87c3a89e72e3c9ff",
-      "short": "cc99e9e",
-      "message": "O JS de página compila com escopo, em vez de ser reescrito (#2607)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-30T04:18:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc99e9e929c2a45fe76db07e87c3a89e72e3c9ff"
-    },
-    {
-      "sha": "da2f371ba06466ea633cb7ef28d62a31fd02166f",
-      "short": "da2f371",
-      "message": "perf(codegen): a guard clause is the one return a substituted body can take",
-      "author": "Drysius",
-      "date": "2026-08-30T04:03:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da2f371ba06466ea633cb7ef28d62a31fd02166f"
     }
   ]
 }
