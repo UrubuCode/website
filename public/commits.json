@@ -1,6 +1,78 @@
 {
-  "total": 5806,
+  "total": 5815,
   "commits": [
+    {
+      "sha": "efdf17747e0e7600a6f956275e3d6b13cf1893a2",
+      "short": "efdf177",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-08-30T20:56:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/efdf17747e0e7600a6f956275e3d6b13cf1893a2"
+    },
+    {
+      "sha": "ee3c4cc58deb53e3cab656e316cc931c077d164f",
+      "short": "ee3c4cc",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-08-30T20:52:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee3c4cc58deb53e3cab656e316cc931c077d164f"
+    },
+    {
+      "sha": "97c21262cdb1284b6b607816656431bc33ab78a9",
+      "short": "97c2126",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-08-30T20:37:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/97c21262cdb1284b6b607816656431bc33ab78a9"
+    },
+    {
+      "sha": "e4030614c5fe96e25a4d28df1c2774dba54cc6ee",
+      "short": "e403061",
+      "message": "perf(codegen): an `instanceof` does not spend its receiver — 22 ns to 3",
+      "author": "Drysius",
+      "date": "2026-08-30T20:31:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e4030614c5fe96e25a4d28df1c2774dba54cc6ee"
+    },
+    {
+      "sha": "b66777aa1a7508155c267727f70941396adf964b",
+      "short": "b66777a",
+      "message": "perf(codegen): a method the program decides is not called — 22.3 ns to 4.3",
+      "author": "Drysius",
+      "date": "2026-08-30T20:21:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b66777aa1a7508155c267727f70941396adf964b"
+    },
+    {
+      "sha": "2a57b999001efbb1c8df0cd4eff963afe990bc7d",
+      "short": "2a57b99",
+      "message": "docs: a method call is one crossing, and item 10's guard cannot use the code address",
+      "author": "Drysius",
+      "date": "2026-08-30T19:44:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a57b999001efbb1c8df0cd4eff963afe990bc7d"
+    },
+    {
+      "sha": "3d409d11bbf9aaaf94a1538c38435b03bc016d89",
+      "short": "3d409d1",
+      "message": "docs: a computed key breaks at the SECOND key, and the fix does not fit",
+      "author": "Drysius",
+      "date": "2026-08-30T19:34:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d409d11bbf9aaaf94a1538c38435b03bc016d89"
+    },
+    {
+      "sha": "ae945c1bc3dd35f4c90118af1054a03490bf2e60",
+      "short": "ae945c1",
+      "message": "perf(codegen): the environment goes with the closure — 51 ns to 8.67",
+      "author": "Drysius",
+      "date": "2026-08-30T19:24:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae945c1bc3dd35f4c90118af1054a03490bf2e60"
+    },
+    {
+      "sha": "c4f510c4d4390325a6070becb2294ee66d1f4dc6",
+      "short": "c4f510c",
+      "message": "perf(codegen): a helper whose name another function spends — 226 ns to 46",
+      "author": "Drysius",
+      "date": "2026-08-30T19:02:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c4f510c4d4390325a6070becb2294ee66d1f4dc6"
+    },
     {
       "sha": "daf7aeeeaf0f4c4eba6ed263368f0f41524005ea",
       "short": "daf7aee",
@@ -88,78 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-30T16:24:03Z",
       "url": "https://github.com/UrubuCode/rts/commit/db0f187f7088ff62f56ab292af38811cd02294e3"
-    },
-    {
-      "sha": "6ee3437cda898a4c1a8c6cb61b9280f6e65b2c41",
-      "short": "6ee3437",
-      "message": "docs: the fourteen optimisations that are left, and why each is where it is",
-      "author": "Drysius",
-      "date": "2026-08-30T16:22:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6ee3437cda898a4c1a8c6cb61b9280f6e65b2c41"
-    },
-    {
-      "sha": "ddaaea96578383424065d01d81746b08af359443",
-      "short": "ddaaea9",
-      "message": "chore: o `medir.sh`, cinco exemplos, e o lixo que o `.gitignore` não travava",
-      "author": "Marcos",
-      "date": "2026-08-30T16:08:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddaaea96578383424065d01d81746b08af359443"
-    },
-    {
-      "sha": "8840fccf9816def2ae2893f60912aa854d2c22c4",
-      "short": "8840fcc",
-      "message": "fix: `!== 0` sobre um booleano é sempre verdadeiro — 46 ficheiros",
-      "author": "Marcos",
-      "date": "2026-08-30T16:08:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8840fccf9816def2ae2893f60912aa854d2c22c4"
-    },
-    {
-      "sha": "b74c12101e59354699b6f69f169d082177d3a3a2",
-      "short": "b74c121",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T15:11:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b74c12101e59354699b6f69f169d082177d3a3a2"
-    },
-    {
-      "sha": "d7733ae86134ec0210e305fc09f54b4d9f0601fc",
-      "short": "d7733ae",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-08-30T15:07:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7733ae86134ec0210e305fc09f54b4d9f0601fc"
-    },
-    {
-      "sha": "140af1dcd9c1bf9fb9610f7ba7e3f58fb782ce20",
-      "short": "140af1d",
-      "message": "Merge pull request #2608 from UrubuCode/feat/escopo-e-window-sao-o-mesmo",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-08-30T14:52:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/140af1dcd9c1bf9fb9610f7ba7e3f58fb782ce20"
-    },
-    {
-      "sha": "1c97f5b5aefcc8ea08dee246e8325cc55f502f9a",
-      "short": "1c97f5b",
-      "message": "feat(dom): um nó, um objeto — e o React passa a responder ao clique",
-      "author": "Marcos",
-      "date": "2026-08-30T14:49:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1c97f5b5aefcc8ea08dee246e8325cc55f502f9a"
-    },
-    {
-      "sha": "36a84552670782942256520dc3968f3b2be796f8",
-      "short": "36a8455",
-      "message": "fix: o `fetch` fala HTTPS, e o carregamento de recursos remotos volta a existir",
-      "author": "Marcos",
-      "date": "2026-08-30T14:25:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/36a84552670782942256520dc3968f3b2be796f8"
-    },
-    {
-      "sha": "d82e20f57161ddb9a414cbd446ae71f726c67ada",
-      "short": "d82e20f",
-      "message": "feat: `fetch` — uma página pode ir buscar coisas à rede",
-      "author": "Marcos",
-      "date": "2026-08-30T14:13:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d82e20f57161ddb9a414cbd446ae71f726c67ada"
     }
   ]
 }
