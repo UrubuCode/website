@@ -1,6 +1,30 @@
 {
-  "total": 5851,
+  "total": 5854,
   "commits": [
+    {
+      "sha": "011099a127c464877b02fc3f8ebbe3c46ce98ead",
+      "short": "011099a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T15:09:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/011099a127c464877b02fc3f8ebbe3c46ce98ead"
+    },
+    {
+      "sha": "737ca35c7628e45b00db624cdd8c56d950ed6e0e",
+      "short": "737ca35",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T15:04:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/737ca35c7628e45b00db624cdd8c56d950ed6e0e"
+    },
+    {
+      "sha": "44409356ea3e2f61717414e6d945005fb584cfcb",
+      "short": "4440935",
+      "message": "chore: split three files back under their ceilings, and re-measure the suite (#2615)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-02T14:49:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/44409356ea3e2f61717414e6d945005fb584cfcb"
+    },
     {
       "sha": "bbb38c2ac99ec2bfba47cbbe8a796f86a62852c2",
       "short": "bbb38c2",
@@ -136,30 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-02T04:38:46Z",
       "url": "https://github.com/UrubuCode/rts/commit/d15b5f6f9c1a61d2cde013b7fc4a7796182fdf8c"
-    },
-    {
-      "sha": "c3e6fa79f7c228b9433f23e222c169201a40284e",
-      "short": "c3e6fa7",
-      "message": "feat(node:crypto): AES-GCM/CBC ciphers, X25519 and XEdDSA (#2609)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-02T04:34:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c3e6fa79f7c228b9433f23e222c169201a40284e"
-    },
-    {
-      "sha": "bb714714bfcc554dcaae2821556bb3ea2ed416a4",
-      "short": "bb71471",
-      "message": "perf(core): JSON.stringify copied every string it wrote — four strings 1260 ns to 990",
-      "author": "Drysius",
-      "date": "2026-09-02T04:31:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bb714714bfcc554dcaae2821556bb3ea2ed416a4"
-    },
-    {
-      "sha": "d2e9a7cf23188fcdd1829efbede8c77345949331",
-      "short": "d2e9a7c",
-      "message": "fix(codegen): a class FIELD is defined too, and it costs nothing",
-      "author": "Drysius",
-      "date": "2026-09-02T03:44:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d2e9a7cf23188fcdd1829efbede8c77345949331"
     }
   ]
 }
