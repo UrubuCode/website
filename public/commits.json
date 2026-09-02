@@ -1,6 +1,62 @@
 {
-  "total": 5817,
+  "total": 5824,
   "commits": [
+    {
+      "sha": "a3de2a3fe924ffc8bb51803346bde8900b1137a3",
+      "short": "a3de2a3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T00:31:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a3de2a3fe924ffc8bb51803346bde8900b1137a3"
+    },
+    {
+      "sha": "8f5d8af8b2698e44f1123523fa1360d2548536db",
+      "short": "8f5d8af",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T00:26:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8f5d8af8b2698e44f1123523fa1360d2548536db"
+    },
+    {
+      "sha": "4ea3e6151f56d8eaa512ffd67d478eca2433d778",
+      "short": "4ea3e61",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-09-02T00:11:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4ea3e6151f56d8eaa512ffd67d478eca2433d778"
+    },
+    {
+      "sha": "0ff64ac2ad7ef18a037c46dfe9041cfe5be8e8e1",
+      "short": "0ff64ac",
+      "message": "docs: where the time goes — the 72 readings under the refutations",
+      "author": "Drysius",
+      "date": "2026-09-01T23:20:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0ff64ac2ad7ef18a037c46dfe9041cfe5be8e8e1"
+    },
+    {
+      "sha": "12194ba4e4f2da02a8935434275f5f68b94e3926",
+      "short": "12194ba",
+      "message": "docs: the graveyard — every optimisation this engine has refused, and why",
+      "author": "Drysius",
+      "date": "2026-09-01T23:13:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/12194ba4e4f2da02a8935434275f5f68b94e3926"
+    },
+    {
+      "sha": "589b6d1ae1cef7f0257c8dc91ab1dca1b232a4ef",
+      "short": "589b6d1",
+      "message": "fix(codegen): a parameter binds the spelling too — the tenth wrong answer",
+      "author": "Drysius",
+      "date": "2026-09-01T23:12:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/589b6d1ae1cef7f0257c8dc91ab1dca1b232a4ef"
+    },
+    {
+      "sha": "ee9a7713768bfb5389f9886fe09942f3dd938f11",
+      "short": "ee9a771",
+      "message": "fix(codegen): nine wrong answers from a premise that was false",
+      "author": "Drysius",
+      "date": "2026-09-01T23:01:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee9a7713768bfb5389f9886fe09942f3dd938f11"
+    },
     {
       "sha": "2699417989c8d117748ce4f076d2bb67f0a43357",
       "short": "2699417",
@@ -104,62 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-08-30T18:51:23Z",
       "url": "https://github.com/UrubuCode/rts/commit/88291dc6dc4bbda7840cd6a71cafdb5783ba1be3"
-    },
-    {
-      "sha": "c433f13814f986a3a26a892c9fa8ca682543c1e5",
-      "short": "c433f13",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-08-30T18:36:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c433f13814f986a3a26a892c9fa8ca682543c1e5"
-    },
-    {
-      "sha": "7511cf08ace1d248fe943ddf65d0aaad52be5ca9",
-      "short": "7511cf0",
-      "message": "perf(codegen): a helper reading its loop variable — 230 ns to 45",
-      "author": "Drysius",
-      "date": "2026-08-30T18:33:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7511cf08ace1d248fe943ddf65d0aaad52be5ca9"
-    },
-    {
-      "sha": "b2e6a2fdb93be1ea339b1689bff125ac8c89942b",
-      "short": "b2e6a2f",
-      "message": "perf(codegen): a helper declared in a loop body — 150 ns an iteration to 8",
-      "author": "Drysius",
-      "date": "2026-08-30T18:22:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b2e6a2fdb93be1ea339b1689bff125ac8c89942b"
-    },
-    {
-      "sha": "efcda218f4522e20781988071cf8a09ef43e2943",
-      "short": "efcda21",
-      "message": "docs: the prototype-depth item was estimated at 5-8 ns; it is 46",
-      "author": "Drysius",
-      "date": "2026-08-30T18:07:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/efcda218f4522e20781988071cf8a09ef43e2943"
-    },
-    {
-      "sha": "886be524f6af4a6d19e68986d49d9245f2c516ba",
-      "short": "886be52",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Marcos",
-      "date": "2026-08-30T17:38:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/886be524f6af4a6d19e68986d49d9245f2c516ba"
-    },
-    {
-      "sha": "c61f6d7fa4635149fb157c238ff275803c82ee0a",
-      "short": "c61f6d7",
-      "message": "feat(dom): o Preact corre, e um formulário lê e escreve",
-      "author": "Marcos",
-      "date": "2026-08-30T16:42:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c61f6d7fa4635149fb157c238ff275803c82ee0a"
-    },
-    {
-      "sha": "a3936d49b138c10548e1df8688f84c195ad10d69",
-      "short": "a3936d4",
-      "message": "perf(codegen): a helper whose closure nobody reads is not built — 180 ns to 19",
-      "author": "Drysius",
-      "date": "2026-08-30T16:39:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a3936d49b138c10548e1df8688f84c195ad10d69"
     }
   ]
 }
