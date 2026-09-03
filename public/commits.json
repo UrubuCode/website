@@ -1,6 +1,14 @@
 {
-  "total": 5860,
+  "total": 5861,
   "commits": [
+    {
+      "sha": "fc84d04f566f38ccc5942f0535caeae29194be9d",
+      "short": "fc84d04",
+      "message": "feat(aot): rts compile compila um grafo de modulos, e as tres tabelas que faltavam (#2621)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-03T15:08:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc84d04f566f38ccc5942f0535caeae29194be9d"
+    },
     {
       "sha": "1a9e02372628af0269321fe4bb53203222000029",
       "short": "1a9e023",
@@ -152,14 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-02T05:16:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/16c177d917149cfa8373e3ccfd4eda9f906ce3f5"
-    },
-    {
-      "sha": "573af9688f45fe063a862e270c6cd194ce9644da",
-      "short": "573af96",
-      "message": "perf(core): a JSON string token was built twice — the analytic document 2185 ns to 1690",
-      "author": "Drysius",
-      "date": "2026-09-02T04:47:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/573af9688f45fe063a862e270c6cd194ce9644da"
     }
   ]
 }
