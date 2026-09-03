@@ -1,6 +1,30 @@
 {
-  "total": 5857,
+  "total": 5860,
   "commits": [
+    {
+      "sha": "1a9e02372628af0269321fe4bb53203222000029",
+      "short": "1a9e023",
+      "message": "fix(regex): a sintaxe que o motor do Rust le e o JavaScript nao escreve (#2620)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-03T05:30:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1a9e02372628af0269321fe4bb53203222000029"
+    },
+    {
+      "sha": "3f847af735f252fadccbdcd0f03505e57aa9c337",
+      "short": "3f847af",
+      "message": "fix(codegen): um helper declarado duas vezes no mesmo corpo corria o corpo errado (#2619)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-03T04:52:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f847af735f252fadccbdcd0f03505e57aa9c337"
+    },
+    {
+      "sha": "471bbbd2a02ca37d0168f0b171b0aedf9eeb3020",
+      "short": "471bbbd",
+      "message": "feat(node): fecha quatro classes de defeito no rts-node, com 33 fixtures que as encontraram (#2618)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-03T04:27:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/471bbbd2a02ca37d0168f0b171b0aedf9eeb3020"
+    },
     {
       "sha": "5a6244cc5a6c854f1cfa6a733bf137969ae324c8",
       "short": "5a6244c",
@@ -136,30 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-02T04:47:25Z",
       "url": "https://github.com/UrubuCode/rts/commit/573af9688f45fe063a862e270c6cd194ce9644da"
-    },
-    {
-      "sha": "4ea26d33243977a18c6c018dec7c051b5ac36fe6",
-      "short": "4ea26d3",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T05:17:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ea26d33243977a18c6c018dec7c051b5ac36fe6"
-    },
-    {
-      "sha": "a81ab6983e0b9fdb604cadc0f60b9c091b7aa4c4",
-      "short": "a81ab69",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T05:12:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a81ab6983e0b9fdb604cadc0f60b9c091b7aa4c4"
-    },
-    {
-      "sha": "891b767c480883d6597522bfdbd915d57a85c20b",
-      "short": "891b767",
-      "message": "feat(ws): WebSocket client over ws:// and wss://, and two GC fixes it uncovered (#2614)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-02T04:57:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/891b767c480883d6597522bfdbd915d57a85c20b"
     }
   ]
 }
