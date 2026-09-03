@@ -1,6 +1,30 @@
 {
-  "total": 5854,
+  "total": 5857,
   "commits": [
+    {
+      "sha": "5a6244cc5a6c854f1cfa6a733bf137969ae324c8",
+      "short": "5a6244c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T22:36:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5a6244cc5a6c854f1cfa6a733bf137969ae324c8"
+    },
+    {
+      "sha": "6b88a4166edc8b7daab2c91a25b955b8cfd7f23a",
+      "short": "6b88a41",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-02T22:32:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b88a4166edc8b7daab2c91a25b955b8cfd7f23a"
+    },
+    {
+      "sha": "b6b55cf4dae22342b5359d62c229874494331396",
+      "short": "b6b55cf",
+      "message": "fix(core): root a generator's frame across the window that allocates (#2616)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-02T22:18:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b6b55cf4dae22342b5359d62c229874494331396"
+    },
     {
       "sha": "011099a127c464877b02fc3f8ebbe3c46ce98ead",
       "short": "011099a",
@@ -136,30 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-02T04:57:48Z",
       "url": "https://github.com/UrubuCode/rts/commit/891b767c480883d6597522bfdbd915d57a85c20b"
-    },
-    {
-      "sha": "ca73ee891c4d3cba911d680ff92ce4bac8d6f51d",
-      "short": "ca73ee8",
-      "message": "fix(lang): Uint8Array.of, and erase type-only imports (#2613)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-02T04:56:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca73ee891c4d3cba911d680ff92ce4bac8d6f51d"
-    },
-    {
-      "sha": "1e26ac8f7396b0751acaf1b4bd19244495907668",
-      "short": "1e26ac8",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T04:56:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e26ac8f7396b0751acaf1b4bd19244495907668"
-    },
-    {
-      "sha": "d15b5f6f9c1a61d2cde013b7fc4a7796182fdf8c",
-      "short": "d15b5f6",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-09-02T04:38:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d15b5f6f9c1a61d2cde013b7fc4a7796182fdf8c"
     }
   ]
 }
