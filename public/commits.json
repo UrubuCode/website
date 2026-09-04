@@ -1,6 +1,94 @@
 {
-  "total": 5861,
+  "total": 5872,
   "commits": [
+    {
+      "sha": "d6ac4479c93e41b457c6c13a104e033411cca494",
+      "short": "d6ac447",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T06:03:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6ac4479c93e41b457c6c13a104e033411cca494"
+    },
+    {
+      "sha": "36f8b7a07ba000f639c17a516785237ed603f763",
+      "short": "36f8b7a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T05:47:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36f8b7a07ba000f639c17a516785237ed603f763"
+    },
+    {
+      "sha": "dca137f77afd252f82ac2059197734e0f7390234",
+      "short": "dca137f",
+      "message": "docs(dom): PLAN §0 — N verificado no runner (dom-rulers e dom-tests verdes), com a razão do if: !cancelled() (#2635)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T05:44:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dca137f77afd252f82ac2059197734e0f7390234"
+    },
+    {
+      "sha": "ad5b9c79ca798b5d24417bdc6794c1d6bbd0e889",
+      "short": "ad5b9c7",
+      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T05:43:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad5b9c79ca798b5d24417bdc6794c1d6bbd0e889"
+    },
+    {
+      "sha": "720f078325d739ea568da4a7793e2e540b9d646c",
+      "short": "720f078",
+      "message": "fix(linker): o AOT no macOS liga o SystemConfiguration que o hickory-resolver exige; e o dom-rulers corre sem a matriz inteira (#2633)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T05:18:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/720f078325d739ea568da4a7793e2e540b9d646c"
+    },
+    {
+      "sha": "172937b33aee18f543dcb4e40dac8639467c30c1",
+      "short": "172937b",
+      "message": "fix(scripts): css_fixtures.sh corre com o rts.exe quando o run_fixture não existe (#2631)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T05:01:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/172937b33aee18f543dcb4e40dac8639467c30c1"
+    },
+    {
+      "sha": "9408232c3b3a95ec081aaded95e549090b955512",
+      "short": "9408232",
+      "message": "perf(dom): um `:nth-child` na folha deixa de esquecer o estilo da página inteira a cada mutação (lote K) (#2630)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T04:58:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9408232c3b3a95ec081aaded95e549090b955512"
+    },
+    {
+      "sha": "6f1e2ace3832569a44514a43543275339e7112c9",
+      "short": "6f1e2ac",
+      "message": "ci(dom): as réguas do rts-dom passam a correr no CI — corpus CSS e testes do crate (lote N) (#2629)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T04:46:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6f1e2ace3832569a44514a43543275339e7112c9"
+    },
+    {
+      "sha": "e6bfeb7d8d856265a63aac8abd40972f47d88d01",
+      "short": "e6bfeb7",
+      "message": "feat(dom): vaga 1 — o corpus CSS passa a 49/49, e a fronteira DOM→JS, a geometria, o scroll e o escopo de página ficam certos (#2628)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T04:42:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6bfeb7d8d856265a63aac8abd40972f47d88d01"
+    },
+    {
+      "sha": "2591ffc673e7233050a7cf7d57ba0d8b21acc471",
+      "short": "2591ffc",
+      "message": "docs(dom): o plano técnico do motor HTML/CSS/DOM — lotes, vagas, réguas e o ponto de retoma (#2627)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T03:48:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2591ffc673e7233050a7cf7d57ba0d8b21acc471"
+    },
+    {
+      "sha": "6dfcd129fe5d6fd005b68c7680c650cc9f39f96f",
+      "short": "6dfcd12",
+      "message": "docs(ui): auditoria estrutural do motor HTML/CSS/DOM — sete lentes, um veredito, uma ordem (#2626)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T03:37:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6dfcd129fe5d6fd005b68c7680c650cc9f39f96f"
+    },
     {
       "sha": "fc84d04f566f38ccc5942f0535caeae29194be9d",
       "short": "fc84d04",
@@ -72,94 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-02T15:04:44Z",
       "url": "https://github.com/UrubuCode/rts/commit/737ca35c7628e45b00db624cdd8c56d950ed6e0e"
-    },
-    {
-      "sha": "44409356ea3e2f61717414e6d945005fb584cfcb",
-      "short": "4440935",
-      "message": "chore: split three files back under their ceilings, and re-measure the suite (#2615)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-02T14:49:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/44409356ea3e2f61717414e6d945005fb584cfcb"
-    },
-    {
-      "sha": "bbb38c2ac99ec2bfba47cbbe8a796f86a62852c2",
-      "short": "bbb38c2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T07:40:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bbb38c2ac99ec2bfba47cbbe8a796f86a62852c2"
-    },
-    {
-      "sha": "3d6c1ec33647463e95f05e04320825b5cde0c91f",
-      "short": "3d6c1ec",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T07:36:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d6c1ec33647463e95f05e04320825b5cde0c91f"
-    },
-    {
-      "sha": "f76507231cf895a086f6a426a2fbabd5cca0fa81",
-      "short": "f765072",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
-      "author": "Drysius",
-      "date": "2026-09-02T07:21:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f76507231cf895a086f6a426a2fbabd5cca0fa81"
-    },
-    {
-      "sha": "ccee5def08f82bce27413b6a59e9e780e0b33099",
-      "short": "ccee5de",
-      "message": "perf(core): an Error captures its stack and renders it only if asked — 1030 ns to 580",
-      "author": "Drysius",
-      "date": "2026-09-02T07:19:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccee5def08f82bce27413b6a59e9e780e0b33099"
-    },
-    {
-      "sha": "67a32c3f7e192c54cc1c1a586d946cd0cb3ce14b",
-      "short": "67a32c3",
-      "message": "docs: correction — the `.stack` ablation was measured on a stale binary",
-      "author": "Drysius",
-      "date": "2026-09-02T06:48:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67a32c3f7e192c54cc1c1a586d946cd0cb3ce14b"
-    },
-    {
-      "sha": "04b8aa68671923b9ff2d5a57fe21f1ab606ca868",
-      "short": "04b8aa6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T06:21:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/04b8aa68671923b9ff2d5a57fe21f1ab606ca868"
-    },
-    {
-      "sha": "96b60e757c21479d9d9b4f1c1219930b986d140b",
-      "short": "96b60e7",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T06:17:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96b60e757c21479d9d9b4f1c1219930b986d140b"
-    },
-    {
-      "sha": "323fa7ccbcf3cf7268a6debd79a2248074523eb6",
-      "short": "323fa7c",
-      "message": "docs: `flow throw+catch` is `new Error()`, and it is not the stack",
-      "author": "Drysius",
-      "date": "2026-09-02T05:39:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/323fa7ccbcf3cf7268a6debd79a2248074523eb6"
-    },
-    {
-      "sha": "19ecc010eb5e4dacb7688cd9f7d4077d0171f5f4",
-      "short": "19ecc01",
-      "message": "docs: two refutations, and why every candidate of that shape will lose",
-      "author": "Drysius",
-      "date": "2026-09-02T05:28:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/19ecc010eb5e4dacb7688cd9f7d4077d0171f5f4"
-    },
-    {
-      "sha": "16c177d917149cfa8373e3ccfd4eda9f906ce3f5",
-      "short": "16c177d",
-      "message": "perf(core): a regex converted its subject twice per exec — 1220 ns to 1120",
-      "author": "Drysius",
-      "date": "2026-09-02T05:16:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/16c177d917149cfa8373e3ccfd4eda9f906ce3f5"
     }
   ]
 }
