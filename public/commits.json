@@ -1,6 +1,78 @@
 {
-  "total": 5872,
+  "total": 5881,
   "commits": [
+    {
+      "sha": "3d1fd3dccbfc1bd49ec6bdf3b1f9ad79b93ac7fe",
+      "short": "3d1fd3d",
+      "message": "feat(scripts): a régua de PINTURA — rasterizador headless, captura no Edge, comparador por pixel; primeiro número: 79/86 abaixo de 0,5 % (#2641)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T15:24:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3d1fd3dccbfc1bd49ec6bdf3b1f9ad79b93ac7fe"
+    },
+    {
+      "sha": "488aef2d1a7115e2b12ee8db104121ef8a451018",
+      "short": "488aef2",
+      "message": "feat(dom): vaga 4 — inline vazio, transformações 2D, decoração/host, grid auto-fill/minmax — a régua medida antes do código, zero retrabalho (#2640)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T15:07:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/488aef2d1a7115e2b12ee8db104121ef8a451018"
+    },
+    {
+      "sha": "889ac6d595972f4169eb1272d55d721c3878b237",
+      "short": "889ac6d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T15:03:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/889ac6d595972f4169eb1272d55d721c3878b237"
+    },
+    {
+      "sha": "d09de748fe62b12833e40709d4ca63278ba0b6bc",
+      "short": "d09de74",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T14:58:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d09de748fe62b12833e40709d4ca63278ba0b6bc"
+    },
+    {
+      "sha": "8defbaa1d368105fc16b86e0de94e1213a3799c2",
+      "short": "8defbaa",
+      "message": "feat(dom): vaga 3 — selectores, at-rules, grid/flex completos, texto; e as réguas da vaga 4 medidas antes do código (#2639)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T14:43:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8defbaa1d368105fc16b86e0de94e1213a3799c2"
+    },
+    {
+      "sha": "72fe16f92446f55ba38387a2c7f9788e863682a2",
+      "short": "72fe16f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T13:20:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/72fe16f92446f55ba38387a2c7f9788e863682a2"
+    },
+    {
+      "sha": "dffe733d8e8406533b6005109245fdeec8b2b991",
+      "short": "dffe733",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-04T13:16:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dffe733d8e8406533b6005109245fdeec8b2b991"
+    },
+    {
+      "sha": "a9df068761e25465e0aea177cd19b1af3bc134bc",
+      "short": "a9df068",
+      "message": "ci(dom): o dom-rulers compara com uma lista de falhas ESPERADAS em vez de exigir zero (#2638)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T12:58:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9df068761e25465e0aea177cd19b1af3bc134bc"
+    },
+    {
+      "sha": "ccc266cfdf4b7de5334eb8aacfce52f80174b1bc",
+      "short": "ccc266c",
+      "message": "feat(dom): vaga 2 — folha de UA em CSS real, revert/revert-layer, cache de fragmentos em flex/grid, ciclo de vida do nó (#2637)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T12:57:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ccc266cfdf4b7de5334eb8aacfce52f80174b1bc"
+    },
     {
       "sha": "d6ac4479c93e41b457c6c13a104e033411cca494",
       "short": "d6ac447",
@@ -88,78 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-04T03:37:23Z",
       "url": "https://github.com/UrubuCode/rts/commit/6dfcd129fe5d6fd005b68c7680c650cc9f39f96f"
-    },
-    {
-      "sha": "fc84d04f566f38ccc5942f0535caeae29194be9d",
-      "short": "fc84d04",
-      "message": "feat(aot): rts compile compila um grafo de modulos, e as tres tabelas que faltavam (#2621)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-03T15:08:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc84d04f566f38ccc5942f0535caeae29194be9d"
-    },
-    {
-      "sha": "1a9e02372628af0269321fe4bb53203222000029",
-      "short": "1a9e023",
-      "message": "fix(regex): a sintaxe que o motor do Rust le e o JavaScript nao escreve (#2620)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-03T05:30:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1a9e02372628af0269321fe4bb53203222000029"
-    },
-    {
-      "sha": "3f847af735f252fadccbdcd0f03505e57aa9c337",
-      "short": "3f847af",
-      "message": "fix(codegen): um helper declarado duas vezes no mesmo corpo corria o corpo errado (#2619)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-03T04:52:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f847af735f252fadccbdcd0f03505e57aa9c337"
-    },
-    {
-      "sha": "471bbbd2a02ca37d0168f0b171b0aedf9eeb3020",
-      "short": "471bbbd",
-      "message": "feat(node): fecha quatro classes de defeito no rts-node, com 33 fixtures que as encontraram (#2618)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-03T04:27:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/471bbbd2a02ca37d0168f0b171b0aedf9eeb3020"
-    },
-    {
-      "sha": "5a6244cc5a6c854f1cfa6a733bf137969ae324c8",
-      "short": "5a6244c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T22:36:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a6244cc5a6c854f1cfa6a733bf137969ae324c8"
-    },
-    {
-      "sha": "6b88a4166edc8b7daab2c91a25b955b8cfd7f23a",
-      "short": "6b88a41",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T22:32:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b88a4166edc8b7daab2c91a25b955b8cfd7f23a"
-    },
-    {
-      "sha": "b6b55cf4dae22342b5359d62c229874494331396",
-      "short": "b6b55cf",
-      "message": "fix(core): root a generator's frame across the window that allocates (#2616)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-02T22:18:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b6b55cf4dae22342b5359d62c229874494331396"
-    },
-    {
-      "sha": "011099a127c464877b02fc3f8ebbe3c46ce98ead",
-      "short": "011099a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T15:09:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/011099a127c464877b02fc3f8ebbe3c46ce98ead"
-    },
-    {
-      "sha": "737ca35c7628e45b00db624cdd8c56d950ed6e0e",
-      "short": "737ca35",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-02T15:04:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/737ca35c7628e45b00db624cdd8c56d950ed6e0e"
     }
   ]
 }
