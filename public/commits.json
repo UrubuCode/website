@@ -1,165 +1,165 @@
 {
-  "total": 5881,
+  "total": 5912,
   "commits": [
     {
-      "sha": "3d1fd3dccbfc1bd49ec6bdf3b1f9ad79b93ac7fe",
-      "short": "3d1fd3d",
-      "message": "feat(scripts): a régua de PINTURA — rasterizador headless, captura no Edge, comparador por pixel; primeiro número: 79/86 abaixo de 0,5 % (#2641)",
+      "sha": "3866865204dd26039c9037f05859cf462671cc9a",
+      "short": "3866865",
+      "message": "feat(dom): ::before/::after de um contentor flex são itens flex (lote pseudo-flex-item) (#2661)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T15:24:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3d1fd3dccbfc1bd49ec6bdf3b1f9ad79b93ac7fe"
+      "date": "2026-09-04T20:01:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3866865204dd26039c9037f05859cf462671cc9a"
     },
     {
-      "sha": "488aef2d1a7115e2b12ee8db104121ef8a451018",
-      "short": "488aef2",
-      "message": "feat(dom): vaga 4 — inline vazio, transformações 2D, decoração/host, grid auto-fill/minmax — a régua medida antes do código, zero retrabalho (#2640)",
+      "sha": "bbb00d3363c6b79d00f2d579d33b49a4fde12d17",
+      "short": "bbb00d3",
+      "message": "feat(dom): a corrida de inline-blocks respeita nowrap; justify-content left/right físicos; o clearfix ::after contém os floats (três lotes da régua do WPT) (#2660)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T15:07:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/488aef2d1a7115e2b12ee8db104121ef8a451018"
+      "date": "2026-09-04T19:48:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bbb00d3363c6b79d00f2d579d33b49a4fde12d17"
     },
     {
-      "sha": "889ac6d595972f4169eb1272d55d721c3878b237",
-      "short": "889ac6d",
+      "sha": "b746ee4f3d7ca67826906dd33c769f544fb98042",
+      "short": "b746ee4",
+      "message": "ci(dom): os reftests do WPT correm no dom-rulers e o número entra no bloco do README (#2659)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T19:45:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b746ee4f3d7ca67826906dd33c769f544fb98042"
+    },
+    {
+      "sha": "d4d8621c3f25c7e496e1b2413b6a0b3e02b5a0f9",
+      "short": "d4d8621",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T15:03:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/889ac6d595972f4169eb1272d55d721c3878b237"
+      "date": "2026-09-04T19:44:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4d8621c3f25c7e496e1b2413b6a0b3e02b5a0f9"
     },
     {
-      "sha": "d09de748fe62b12833e40709d4ca63278ba0b6bc",
-      "short": "d09de74",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "29d9660f36b0ae62905ef30c4dc99539568c01ff",
+      "short": "29d9660",
+      "message": "docs: auto-update CSS/DOM parity badge (99.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T14:58:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d09de748fe62b12833e40709d4ca63278ba0b6bc"
+      "date": "2026-09-04T19:38:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29d9660f36b0ae62905ef30c4dc99539568c01ff"
     },
     {
-      "sha": "8defbaa1d368105fc16b86e0de94e1213a3799c2",
-      "short": "8defbaa",
-      "message": "feat(dom): vaga 3 — selectores, at-rules, grid/flex completos, texto; e as réguas da vaga 4 medidas antes do código (#2639)",
+      "sha": "98b370d010cee1962c2238b42bb06fdae60331f4",
+      "short": "98b370d",
+      "message": "feat(dom): borda por lado na largura intrínseca; o inline-block flui os filhos como bloco e alinha pela baseline própria; a régua dos reftests do WPT (#2658)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T14:43:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8defbaa1d368105fc16b86e0de94e1213a3799c2"
+      "date": "2026-09-04T19:24:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98b370d010cee1962c2238b42bb06fdae60331f4"
     },
     {
-      "sha": "72fe16f92446f55ba38387a2c7f9788e863682a2",
-      "short": "72fe16f",
+      "sha": "6bf7e0768eed0610d9229baafd6b0b7a2f18fdf2",
+      "short": "6bf7e07",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T13:20:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/72fe16f92446f55ba38387a2c7f9788e863682a2"
+      "date": "2026-09-04T19:15:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6bf7e0768eed0610d9229baafd6b0b7a2f18fdf2"
     },
     {
-      "sha": "dffe733d8e8406533b6005109245fdeec8b2b991",
-      "short": "dffe733",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "510fbfa71d3f4e49149979ecb110c42c2e7bfc67",
+      "short": "510fbfa",
+      "message": "docs: auto-update CSS/DOM parity badge (99.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T13:16:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dffe733d8e8406533b6005109245fdeec8b2b991"
+      "date": "2026-09-04T19:09:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/510fbfa71d3f4e49149979ecb110c42c2e7bfc67"
     },
     {
-      "sha": "a9df068761e25465e0aea177cd19b1af3bc134bc",
-      "short": "a9df068",
-      "message": "ci(dom): o dom-rulers compara com uma lista de falhas ESPERADAS em vez de exigir zero (#2638)",
+      "sha": "4741b63d97ca6ca2b2e4c079cdafeb3e2f7ca6f9",
+      "short": "4741b63",
+      "message": "feat(dom): os atributos width/height do <svg> são comprimentos CSS, e o placeholder respeita as margens (lote svg-atributo) (#2657)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T12:58:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a9df068761e25465e0aea177cd19b1af3bc134bc"
+      "date": "2026-09-04T18:55:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4741b63d97ca6ca2b2e4c079cdafeb3e2f7ca6f9"
     },
     {
-      "sha": "ccc266cfdf4b7de5334eb8aacfce52f80174b1bc",
-      "short": "ccc266c",
-      "message": "feat(dom): vaga 2 — folha de UA em CSS real, revert/revert-layer, cache de fragmentos em flex/grid, ciclo de vida do nó (#2637)",
+      "sha": "47f485f0a8389ea381bfad7a6be2025efe2c0ce1",
+      "short": "47f485f",
+      "message": "feat(dom): a largura intrínseca colapsa o whitespace do HTML — a indentação entre filhos não é conteúdo (lote intrinseco-whitespace) (#2656)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T12:57:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccc266cfdf4b7de5334eb8aacfce52f80174b1bc"
+      "date": "2026-09-04T18:47:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/47f485f0a8389ea381bfad7a6be2025efe2c0ce1"
     },
     {
-      "sha": "d6ac4479c93e41b457c6c13a104e033411cca494",
-      "short": "d6ac447",
+      "sha": "ddd3c17a900f9339c9e8d43986768c709f0115f5",
+      "short": "ddd3c17",
+      "message": "fix(dom): o loadResources volta a carregar folhas locais no motor novo (readTextFile na ponte); o view.ts do README corre outra vez (#2655)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T18:39:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddd3c17a900f9339c9e8d43986768c709f0115f5"
+    },
+    {
+      "sha": "0774adbea075b6a5610b6bf5c2d6a84c9af45c37",
+      "short": "0774adb",
+      "message": "feat(dom): o item flex respeita max/min-width e margens auto, e contém os seus floats — Bootstrap cover 36 → 45 de 57 a 1px (lotes flex-limites, flex-item-bfc) (#2654)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T18:31:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0774adbea075b6a5610b6bf5c2d6a84c9af45c37"
+    },
+    {
+      "sha": "908366bc58b059432756d7df75e7908811f9c982",
+      "short": "908366b",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T06:03:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6ac4479c93e41b457c6c13a104e033411cca494"
+      "date": "2026-09-04T18:29:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/908366bc58b059432756d7df75e7908811f9c982"
     },
     {
-      "sha": "36f8b7a07ba000f639c17a516785237ed603f763",
-      "short": "36f8b7a",
-      "message": "docs: auto-update benchmark table",
+      "sha": "3c148991cc7ffed70d1df2a1bb9b4ba81510114f",
+      "short": "3c14899",
+      "message": "docs: auto-update CSS/DOM parity badge (99.3%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T05:47:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/36f8b7a07ba000f639c17a516785237ed603f763"
+      "date": "2026-09-04T18:23:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c148991cc7ffed70d1df2a1bb9b4ba81510114f"
     },
     {
-      "sha": "dca137f77afd252f82ac2059197734e0f7390234",
-      "short": "dca137f",
-      "message": "docs(dom): PLAN §0 — N verificado no runner (dom-rulers e dom-tests verdes), com a razão do if: !cancelled() (#2635)",
+      "sha": "78673a868c0836fd3f207dbfab30c341c38041a5",
+      "short": "78673a8",
+      "message": "feat(dom): <img> de ficheiro local carrega, e o <img> volta a ser inline e senta na baseline (lote V-img-2) (#2653)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T05:44:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dca137f77afd252f82ac2059197734e0f7390234"
+      "date": "2026-09-04T18:08:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/78673a868c0836fd3f207dbfab30c341c38041a5"
     },
     {
-      "sha": "ad5b9c79ca798b5d24417bdc6794c1d6bbd0e889",
-      "short": "ad5b9c7",
-      "message": "docs: auto-update cross-runtime parity badge (78.1%)",
+      "sha": "29d16bc5a6f37817789ba64b3094a17e6194b004",
+      "short": "29d16bc",
+      "message": "feat(dom): imagens data: chegam ao <img> — PNG na ponte, pixels no documento, tamanho natural e width/height usados (lote V-img) (#2652)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T17:56:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/29d16bc5a6f37817789ba64b3094a17e6194b004"
+    },
+    {
+      "sha": "0ab1544a5fe5426382bee693dfbbbed46877b4b0",
+      "short": "0ab1544",
+      "message": "docs(readme): a secção do motor HTML/CSS actualizada à vaga 6 — o que renderiza, as lacunas ditas, e o ponteiro para o PLAN e o bloco escrito pelo CI (#2651)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-04T17:41:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0ab1544a5fe5426382bee693dfbbbed46877b4b0"
+    },
+    {
+      "sha": "9aef53f730d5ec62ecb52b50fbe3daf47569cf71",
+      "short": "9aef53f",
+      "message": "docs: auto-update CSS/DOM parity badge (98.8%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-04T05:43:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad5b9c79ca798b5d24417bdc6794c1d6bbd0e889"
+      "date": "2026-09-04T17:40:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9aef53f730d5ec62ecb52b50fbe3daf47569cf71"
     },
     {
-      "sha": "720f078325d739ea568da4a7793e2e540b9d646c",
-      "short": "720f078",
-      "message": "fix(linker): o AOT no macOS liga o SystemConfiguration que o hickory-resolver exige; e o dom-rulers corre sem a matriz inteira (#2633)",
+      "sha": "50e91025f2f512d66815c22ed5033e94c7fe0454",
+      "short": "50e9102",
+      "message": "ci(dom): o README ganha a paridade CSS/DOM escrita pelo CI — badge, medições contra o Blink e o estado dos lotes (#2650)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T05:18:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/720f078325d739ea568da4a7793e2e540b9d646c"
+      "date": "2026-09-04T17:27:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50e91025f2f512d66815c22ed5033e94c7fe0454"
     },
     {
-      "sha": "172937b33aee18f543dcb4e40dac8639467c30c1",
-      "short": "172937b",
-      "message": "fix(scripts): css_fixtures.sh corre com o rts.exe quando o run_fixture não existe (#2631)",
+      "sha": "e00ae26ae1cbb034e2d77122d8c431ca3d74052e",
+      "short": "e00ae26",
+      "message": "docs(dom): o lote V-img desenhado e a sua régua medida antes do código (claude-img-natural) (#2649)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T05:01:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/172937b33aee18f543dcb4e40dac8639467c30c1"
-    },
-    {
-      "sha": "9408232c3b3a95ec081aaded95e549090b955512",
-      "short": "9408232",
-      "message": "perf(dom): um `:nth-child` na folha deixa de esquecer o estilo da página inteira a cada mutação (lote K) (#2630)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T04:58:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9408232c3b3a95ec081aaded95e549090b955512"
-    },
-    {
-      "sha": "6f1e2ace3832569a44514a43543275339e7112c9",
-      "short": "6f1e2ac",
-      "message": "ci(dom): as réguas do rts-dom passam a correr no CI — corpus CSS e testes do crate (lote N) (#2629)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T04:46:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6f1e2ace3832569a44514a43543275339e7112c9"
-    },
-    {
-      "sha": "e6bfeb7d8d856265a63aac8abd40972f47d88d01",
-      "short": "e6bfeb7",
-      "message": "feat(dom): vaga 1 — o corpus CSS passa a 49/49, e a fronteira DOM→JS, a geometria, o scroll e o escopo de página ficam certos (#2628)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T04:42:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6bfeb7d8d856265a63aac8abd40972f47d88d01"
-    },
-    {
-      "sha": "2591ffc673e7233050a7cf7d57ba0d8b21acc471",
-      "short": "2591ffc",
-      "message": "docs(dom): o plano técnico do motor HTML/CSS/DOM — lotes, vagas, réguas e o ponto de retoma (#2627)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T03:48:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2591ffc673e7233050a7cf7d57ba0d8b21acc471"
-    },
-    {
-      "sha": "6dfcd129fe5d6fd005b68c7680c650cc9f39f96f",
-      "short": "6dfcd12",
-      "message": "docs(ui): auditoria estrutural do motor HTML/CSS/DOM — sete lentes, um veredito, uma ordem (#2626)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T03:37:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6dfcd129fe5d6fd005b68c7680c650cc9f39f96f"
+      "date": "2026-09-04T17:25:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e00ae26ae1cbb034e2d77122d8c431ca3d74052e"
     }
   ]
 }
