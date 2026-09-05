@@ -1,6 +1,126 @@
 {
-  "total": 5947,
+  "total": 5962,
   "commits": [
+    {
+      "sha": "ce1d8f0693aea7ded58f4e5c02e3dd71a046eb84",
+      "short": "ce1d8f0",
+      "message": "feat(dom): flex-basis: content respeita width/height, altura cruzada pela base final, stretch de coluna única — WPT 386 → 393/489 (lote flex-basis-content-wrap) (#2691)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T07:20:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce1d8f0693aea7ded58f4e5c02e3dd71a046eb84"
+    },
+    {
+      "sha": "b43366fc228cf79f2973d58566c436ccd15c39ff",
+      "short": "b43366f",
+      "message": "chore(dom): apaga os imports que os lotes de hoje deixaram sem uso (inline_widget_size, envelope/topo_do_item, Edges/Side, parse_inline_block) (#2690)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T07:10:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b43366fc228cf79f2973d58566c436ccd15c39ff"
+    },
+    {
+      "sha": "d4aaa32da4ff43b87dfcc8dd860e3f174ce69fa8",
+      "short": "d4aaa32",
+      "message": "feat(dom): propriedades lógicas por elemento contra a direction herdada; colunas invertem por rtl em column wrap (lote flex-reverse-order) (#2689)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T07:08:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4aaa32da4ff43b87dfcc8dd860e3f174ce69fa8"
+    },
+    {
+      "sha": "193b2c7e8cd5e52fd6f2d0ba4d9021c9ae8f0145",
+      "short": "193b2c7",
+      "message": "feat(dom): cinco lotes de flex em conjunto — posição estática, min-size auto, baseline do contentor, aspect-ratio, gap — WPT 373 → 384/489 sem perdidos (#2688)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T06:59:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/193b2c7e8cd5e52fd6f2d0ba4d9021c9ae8f0145"
+    },
+    {
+      "sha": "24f815b151df21c92b7618cc72b59aa997185abf",
+      "short": "24f815b",
+      "message": "feat(cli): a casca de rts compile/run pagina.html carrega a página por loadDocumentFrom — o ciclo de vida da HTML spec em vez de parse+loadResources+runScriptsAt (#2687)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T06:50:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24f815b151df21c92b7618cc72b59aa997185abf"
+    },
+    {
+      "sha": "05afb2fe1cc72d0290ec080da3bb3af7ccd37ddf",
+      "short": "05afb2f",
+      "message": "feat(dom): loadDocument — os <script> correm pelo ciclo de vida da HTML spec (parse, appendChild, DOMContentLoaded, load), o DOM sem nada do RTS (lote dom-ciclo-de-vida-scripts) (#2686)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T06:02:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/05afb2fe1cc72d0290ec080da3bb3af7ccd37ddf"
+    },
+    {
+      "sha": "4d90319a70ecd1dc010bb8c78ce19b099fb4b5d3",
+      "short": "4d90319",
+      "message": "feat(aot): o manifesto viaja dentro do .exe — partilhar um binário é um ficheiro só (lote aot-rtsdata-embutido) (#2685)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T05:43:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d90319a70ecd1dc010bb8c78ce19b099fb4b5d3"
+    },
+    {
+      "sha": "cac7d3db71ca660b915391c0f15adc667ab50c0f",
+      "short": "cac7d3d",
+      "message": "feat(cli): rts compile pagina.html / rts run pagina.html — a casca é gerada, o HTML vai embutido e os <script> pré-compilados (lote cli-pagina-como-entrada) (#2684)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T05:27:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cac7d3db71ca660b915391c0f15adc667ab50c0f"
+    },
+    {
+      "sha": "6e37093eaee1fe40641758cd857f7f297ee8deb0",
+      "short": "6e37093",
+      "message": "fix(dom): o containing block de um absoluto é a padding box — 37 reftests WPT flexbox a mais (lote flex-align-justify-familia) (#2683)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T05:06:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6e37093eaee1fe40641758cd857f7f297ee8deb0"
+    },
+    {
+      "sha": "46339bc282ce8b93ea564ca90dcb8c9edb489def",
+      "short": "46339bc",
+      "message": "feat(dom): imagens no raster — PNG no paint-dump/raster, <img> deriva a dimensão pela razão, SVG data: por atributos (lote imagens-no-raster) (#2682)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T04:22:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/46339bc282ce8b93ea564ca90dcb8c9edb489def"
+    },
+    {
+      "sha": "c82fda5491eae944ec47d6a9eba1a14d1897ac4c",
+      "short": "c82fda5",
+      "message": "feat(aot): rts compile embarca o compilador por omissão — eval, new Function e <script> de página correm no .exe (--sem-compilador é o opt-out) (#2681)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T03:03:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c82fda5491eae944ec47d6a9eba1a14d1897ac4c"
+    },
+    {
+      "sha": "b80844537947477696f3abc1052fb76edc256bdf",
+      "short": "b808445",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T02:47:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b80844537947477696f3abc1052fb76edc256bdf"
+    },
+    {
+      "sha": "afddb779dd1b4ff93409b5b3c2625083c55adc8d",
+      "short": "afddb77",
+      "message": "docs: auto-update RTS vs Electron (AOT 27.9 MB, JIT 110.0 MB, Electron 234.8 MB)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T02:42:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/afddb779dd1b4ff93409b5b3c2625083c55adc8d"
+    },
+    {
+      "sha": "0d542b9077edb814595fbaaab9f6d959b7c4a416",
+      "short": "0d542b9",
+      "message": "docs: auto-update CSS/DOM parity badge (99.5%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T02:26:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d542b9077edb814595fbaaab9f6d959b7c4a416"
+    },
+    {
+      "sha": "ca20b0d194d3ce2f7bb8f19b6ece5d41a6140dca",
+      "short": "ca20b0d",
+      "message": "feat(dom): align-items/align-self: baseline e last baseline no flex, flex-wrap de três estados (lote flex-baseline) (#2677)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T02:24:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca20b0d194d3ce2f7bb8f19b6ece5d41a6140dca"
+    },
     {
       "sha": "0fcbd0b44f5d342e4c4a25b607be68dfd9f0909d",
       "short": "0fcbd0b",
@@ -40,126 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-05T01:35:41Z",
       "url": "https://github.com/UrubuCode/rts/commit/7ddafd1eb3f16cef1b7eae12a75031bd3423dbfd"
-    },
-    {
-      "sha": "bcb35bc2d6b68a3aea50a3cf4e750bc079c29c70",
-      "short": "bcb35bc",
-      "message": "feat(dom): flex-direction: column com flex-wrap quebra em várias colunas (lote flex-column-wrap) (#2678)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T01:19:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bcb35bc2d6b68a3aea50a3cf4e750bc079c29c70"
-    },
-    {
-      "sha": "9496d6c46d5742a24f4b49f3e0c28e5b0c5ef0b0",
-      "short": "9496d6c",
-      "message": "feat(dom): min/max-content em min/max-width, piso do shrink-to-fit, base flex sem pré-capagem, quebra pelo tamanho hipotético (lote flex-min-content) (#2676)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T01:01:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9496d6c46d5742a24f4b49f3e0c28e5b0c5ef0b0"
-    },
-    {
-      "sha": "cf746e0256579575ccf9ef5817e3b33559579f96",
-      "short": "cf746e0",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-05T00:39:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf746e0256579575ccf9ef5817e3b33559579f96"
-    },
-    {
-      "sha": "699ea5b1369a294343293ba74c946286de389895",
-      "short": "699ea5b",
-      "message": "feat(dom): justify-content start/end lógicos, left/right em column-reverse, rtl no eixo transversal e no bloco (lote flex-justify-logico) (#2675)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T00:20:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/699ea5b1369a294343293ba74c946286de389895"
-    },
-    {
-      "sha": "09ac87d02ef9adf109f1cab017af429a859f389e",
-      "short": "09ac87d",
-      "message": "feat(dom): visibility: collapse distinto de hidden no valor computado (lote visibility-collapse) (#2674)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T00:10:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09ac87d02ef9adf109f1cab017af429a859f389e"
-    },
-    {
-      "sha": "9118b6fc713357e63e215e3ab1787d3a42fb48fa",
-      "short": "9118b6f",
-      "message": "feat(dom): cross-size da linha flex contra a altura definida, stretch por linha com wrap, align-content sem grampo (lote flex-cross-size) (#2673)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T23:59:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9118b6fc713357e63e215e3ab1787d3a42fb48fa"
-    },
-    {
-      "sha": "149e26ab76af7625df636af875f8b047ddd760b1",
-      "short": "149e26a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T23:29:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/149e26ab76af7625df636af875f8b047ddd760b1"
-    },
-    {
-      "sha": "87fe7f259b0a28e0f13842850d271f7aa1e4aa34",
-      "short": "87fe7f2",
-      "message": "docs: auto-update RTS vs Electron (AOT 27.8 MB, JIT 109.9 MB, Electron 234.8 MB)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T23:22:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87fe7f259b0a28e0f13842850d271f7aa1e4aa34"
-    },
-    {
-      "sha": "c528194463971ccc11b535fd95a29f8f30b4726c",
-      "short": "c528194",
-      "message": "docs(scripts): comparativo RTS vs Electron com três lados medidos — .exe AOT, rts.exe+app e Electron (#2672)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T23:07:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c528194463971ccc11b535fd95a29f8f30b4726c"
-    },
-    {
-      "sha": "c6ed3e4e4b11352b6e1b94be9e46413348249ccc",
-      "short": "c6ed3e4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T23:04:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c6ed3e4e4b11352b6e1b94be9e46413348249ccc"
-    },
-    {
-      "sha": "6de1d007b567cb2b59722ea56979b3d119c81e68",
-      "short": "6de1d00",
-      "message": "docs: auto-update RTS vs Electron (27.8 MB vs 234.8 MB)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T22:59:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6de1d007b567cb2b59722ea56979b3d119c81e68"
-    },
-    {
-      "sha": "8013e295b17173421ed1f07531d9fdea30124008",
-      "short": "8013e29",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T22:59:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8013e295b17173421ed1f07531d9fdea30124008"
-    },
-    {
-      "sha": "a52ef68db499c53b6ef760a619a526c7cc6d7213",
-      "short": "a52ef68",
-      "message": "feat(aot): o runtime AOT instala `rts:dom` e `rts:egui` — um .exe de UI arranca (#2671)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T22:32:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a52ef68db499c53b6ef760a619a526c7cc6d7213"
-    },
-    {
-      "sha": "b514ee747aa791c6e45f01e4be4b8a925dba8149",
-      "short": "b514ee7",
-      "message": "feat(dom): flex-basis/flex-shrink em coluna, row-gap % contra a altura, min-height definida (lote flex-coluna-shrink) (#2670)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-04T22:31:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b514ee747aa791c6e45f01e4be4b8a925dba8149"
-    },
-    {
-      "sha": "3cec2153f576a1da73d39d6b6d9c1e35ed0bbee0",
-      "short": "3cec215",
-      "message": "docs: auto-update CSS/DOM parity badge (99.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-04T22:30:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3cec2153f576a1da73d39d6b6d9c1e35ed0bbee0"
     }
   ]
 }
