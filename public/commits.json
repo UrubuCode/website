@@ -1,165 +1,165 @@
 {
-  "total": 5975,
+  "total": 6006,
   "commits": [
     {
-      "sha": "5ca34d558c470cd2161160bdfbc8def5520b7c76",
-      "short": "5ca34d5",
+      "sha": "18ecfa1c82fb78a92ff354d13907d965e657655b",
+      "short": "18ecfa1",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T14:16:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ca34d558c470cd2161160bdfbc8def5520b7c76"
+      "date": "2026-09-05T19:36:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18ecfa1c82fb78a92ff354d13907d965e657655b"
     },
     {
-      "sha": "476bafe765310f9012e9e0bb24735f47b8f78a99",
-      "short": "476bafe",
+      "sha": "609b31ef07ca2f65d3d6351985df6cd2f2b25df0",
+      "short": "609b31e",
+      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T19:36:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/609b31ef07ca2f65d3d6351985df6cd2f2b25df0"
+    },
+    {
+      "sha": "19f588ced2824a2284a58cf3d1c9547a605f2479",
+      "short": "19f588c",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T19:35:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/19f588ced2824a2284a58cf3d1c9547a605f2479"
+    },
+    {
+      "sha": "0a301b7c40cf5a7f370f59f113b9007aa6554623",
+      "short": "0a301b7",
+      "message": "fix(dom): uma <img> nao tem descida — CSS 2.1 de 3568 para 4062/6240 (#2712)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T19:14:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a301b7c40cf5a7f370f59f113b9007aa6554623"
+    },
+    {
+      "sha": "e5a8aead33e48bacd5883745ac940dda32e52bd5",
+      "short": "e5a8aea",
+      "message": "fix(dom): a largura inicial da borda e `medium`, e um lado com ESTILO entra na pintura — borders 274 -> 288 (#2711)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T19:14:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e5a8aead33e48bacd5883745ac940dda32e52bd5"
+    },
+    {
+      "sha": "795e1f26b321ba782acb1da6c31a7384a89271b9",
+      "short": "795e1f2",
+      "message": "fix(dom): o piso de min-content respeita max-width — o invariante min <= max (#2710)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-05T19:14:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/795e1f26b321ba782acb1da6c31a7384a89271b9"
+    },
+    {
+      "sha": "50634f9f6ea773be4b59486beb1a9f5865f4d974",
+      "short": "50634f9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T18:30:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/50634f9f6ea773be4b59486beb1a9f5865f4d974"
+    },
+    {
+      "sha": "4ee4b36162c0c50a5f73369387394d77967979bc",
+      "short": "4ee4b36",
       "message": "docs: auto-update CSS/DOM parity badge (98.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T14:15:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/476bafe765310f9012e9e0bb24735f47b8f78a99"
+      "date": "2026-09-05T18:29:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4ee4b36162c0c50a5f73369387394d77967979bc"
     },
     {
-      "sha": "28966fa8c873a36afd74a71bbfc894b6807bbae4",
-      "short": "28966fa",
-      "message": "docs: auto-update RTS vs Electron (AOT 33.2 MB, JIT 110.1 MB, Electron 234.8 MB)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-05T14:12:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/28966fa8c873a36afd74a71bbfc894b6807bbae4"
-    },
-    {
-      "sha": "2b03d4f5136b4d556bba7e152b058decb0fbe673",
-      "short": "2b03d4f",
+      "sha": "b411c0ec5f3732bb58694842e659014af0e931ba",
+      "short": "b411c0e",
       "message": "docs: auto-update cross-runtime parity badge (78%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T14:12:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b03d4f5136b4d556bba7e152b058decb0fbe673"
+      "date": "2026-09-05T18:28:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b411c0ec5f3732bb58694842e659014af0e931ba"
     },
     {
-      "sha": "7772df70975ddfd52bf00d3c7740e1d129fac967",
-      "short": "7772df7",
-      "message": "fix(dom): <![CDATA[ ]]> num <style> de XHTML deixa de matar a folha inteira; largura max-content de column-wrap — WPT 477 → 583/870 (#2698)",
+      "sha": "e3fc4f644cb5c55c150f409e9959605d40645add",
+      "short": "e3fc4f6",
+      "message": "fix(dom): a cor inicial da borda e currentColor, nao um cinzento fixo — CSS2/borders 223 -> 274 (#2709)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T13:54:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7772df70975ddfd52bf00d3c7740e1d129fac967"
+      "date": "2026-09-05T18:08:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e3fc4f644cb5c55c150f409e9959605d40645add"
     },
     {
-      "sha": "559a08a8fcff6866f4a6bffa039f63f9a3b75262",
-      "short": "559a08a",
-      "message": "feat(dom): align-items:stretch enche a largura de checkbox/radio num flex-column (#2697)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T13:48:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/559a08a8fcff6866f4a6bffa039f63f9a3b75262"
-    },
-    {
-      "sha": "124356d3cfe0b36163fd5507e845e174fc9b5016",
-      "short": "124356d",
+      "sha": "5c73bfbc054798d3d5adad397bb187f36e469687",
+      "short": "5c73bfb",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T13:45:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/124356d3cfe0b36163fd5507e845e174fc9b5016"
+      "date": "2026-09-05T18:02:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c73bfbc054798d3d5adad397bb187f36e469687"
     },
     {
-      "sha": "41128415070d15c666da3d01300a6d3684ea5659",
-      "short": "4112841",
-      "message": "docs: auto-update RTS vs Electron (AOT 33.2 MB, JIT 110.1 MB, Electron 234.8 MB)",
+      "sha": "cdee87f74cbb48eedfb32e948c90fbbe4c85df2d",
+      "short": "cdee87f",
+      "message": "docs: auto-update CSS/DOM parity badge (98.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T13:41:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/41128415070d15c666da3d01300a6d3684ea5659"
+      "date": "2026-09-05T18:01:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cdee87f74cbb48eedfb32e948c90fbbe4c85df2d"
     },
     {
-      "sha": "a4f2495ffaf1e2c10025ebada62e4fd3a320c626",
-      "short": "a4f2495",
+      "sha": "e5d7aa4e17b3afedf4434991b97ce605273301cf",
+      "short": "e5d7aa4",
       "message": "docs: auto-update cross-runtime parity badge (78%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T13:40:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4f2495ffaf1e2c10025ebada62e4fd3a320c626"
+      "date": "2026-09-05T18:00:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e5d7aa4e17b3afedf4434991b97ce605273301cf"
     },
     {
-      "sha": "97470ccf0dfa87d41c120d8954c8ec687428174f",
-      "short": "97470cc",
-      "message": "feat(dom): tamanho natural de controlos de formulário no max-content — WPT 475 → 476/870 (lote largura-intrinseca-de-controlos) (#2696)",
+      "sha": "d7299dce80b509ba4d87bf17f6976f9cc0029733",
+      "short": "d7299dc",
+      "message": "fix(dom): margem `auto` num float resolve para 0, nao centra (CSS 2.1 §10.3.5) (#2708)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T13:15:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/97470ccf0dfa87d41c120d8954c8ec687428174f"
+      "date": "2026-09-05T17:38:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7299dce80b509ba4d87bf17f6976f9cc0029733"
     },
     {
-      "sha": "25576167ed0c8a4b0082ee30bbcb11ef36a0c5ec",
-      "short": "2557616",
-      "message": "fix(reguas): o corredor de reftests media 489 dos 870 de css-flexbox — recursao, checkout, e uma guarda para nao voltar a acontecer (#2695)",
+      "sha": "9b209b4fee177f00cfc645f6bd584dcf04e3a16f",
+      "short": "9b209b4",
+      "message": "fix(dom): o shorthand `border` com um token invalido descarta a declaracao inteira (#2707)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T13:15:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/25576167ed0c8a4b0082ee30bbcb11ef36a0c5ec"
+      "date": "2026-09-05T17:38:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9b209b4fee177f00cfc645f6bd584dcf04e3a16f"
     },
     {
-      "sha": "2c064586c9cbcb8eef8d36409ee4110e6c4ed770",
-      "short": "2c06458",
-      "message": "fix(dom): overflow:hidden/clip num flex-wrap não alarga o ponto de quebra (lote flex-scroll-overflow) (#2694)",
+      "sha": "3badfe8275e78bb6290577583042e1fdf1d6c6da",
+      "short": "3badfe8",
+      "message": "feat(dom): as unidades absolutas in/cm/mm/q existem — +138 reftests do CSS 2.1 (#2706)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T12:53:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c064586c9cbcb8eef8d36409ee4110e6c4ed770"
+      "date": "2026-09-05T17:38:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3badfe8275e78bb6290577583042e1fdf1d6c6da"
     },
     {
-      "sha": "47d719ce904c419d6d5537d548197845939dea62",
-      "short": "47d719c",
-      "message": "fix(ci): a acao de build constroi rts-runtime-jit (o archive que rts compile liga por omissao) (#2692)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T12:43:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47d719ce904c419d6d5537d548197845939dea62"
+      "sha": "28665b047ded3b89335ba164da807dd0ca199827",
+      "short": "28665b0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T17:18:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/28665b047ded3b89335ba164da807dd0ca199827"
     },
     {
-      "sha": "ce1d8f0693aea7ded58f4e5c02e3dd71a046eb84",
-      "short": "ce1d8f0",
-      "message": "feat(dom): flex-basis: content respeita width/height, altura cruzada pela base final, stretch de coluna única — WPT 386 → 393/489 (lote flex-basis-content-wrap) (#2691)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T07:20:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ce1d8f0693aea7ded58f4e5c02e3dd71a046eb84"
+      "sha": "9885307eef840afff52104d1fdaece342fc9047c",
+      "short": "9885307",
+      "message": "docs: auto-update CSS/DOM parity badge (98.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T17:17:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9885307eef840afff52104d1fdaece342fc9047c"
     },
     {
-      "sha": "b43366fc228cf79f2973d58566c436ccd15c39ff",
-      "short": "b43366f",
-      "message": "chore(dom): apaga os imports que os lotes de hoje deixaram sem uso (inline_widget_size, envelope/topo_do_item, Edges/Side, parse_inline_block) (#2690)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T07:10:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b43366fc228cf79f2973d58566c436ccd15c39ff"
+      "sha": "59f6e23735eb435e5c98a086b62548b513752791",
+      "short": "59f6e23",
+      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-05T17:16:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/59f6e23735eb435e5c98a086b62548b513752791"
     },
     {
-      "sha": "d4aaa32da4ff43b87dfcc8dd860e3f174ce69fa8",
-      "short": "d4aaa32",
-      "message": "feat(dom): propriedades lógicas por elemento contra a direction herdada; colunas invertem por rtl em column wrap (lote flex-reverse-order) (#2689)",
+      "sha": "ce33b19dbde9d3e09aeab9e1ce71c780051d86c0",
+      "short": "ce33b19",
+      "message": "feat(dom): background-image pintada — DisplayItem::Pixels na caixa de fundo, repeat/position, WPT backgrounds 45→59/339 (#2705)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T07:08:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d4aaa32da4ff43b87dfcc8dd860e3f174ce69fa8"
-    },
-    {
-      "sha": "193b2c7e8cd5e52fd6f2d0ba4d9021c9ae8f0145",
-      "short": "193b2c7",
-      "message": "feat(dom): cinco lotes de flex em conjunto — posição estática, min-size auto, baseline do contentor, aspect-ratio, gap — WPT 373 → 384/489 sem perdidos (#2688)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T06:59:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/193b2c7e8cd5e52fd6f2d0ba4d9021c9ae8f0145"
-    },
-    {
-      "sha": "24f815b151df21c92b7618cc72b59aa997185abf",
-      "short": "24f815b",
-      "message": "feat(cli): a casca de rts compile/run pagina.html carrega a página por loadDocumentFrom — o ciclo de vida da HTML spec em vez de parse+loadResources+runScriptsAt (#2687)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T06:50:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/24f815b151df21c92b7618cc72b59aa997185abf"
-    },
-    {
-      "sha": "05afb2fe1cc72d0290ec080da3bb3af7ccd37ddf",
-      "short": "05afb2f",
-      "message": "feat(dom): loadDocument — os <script> correm pelo ciclo de vida da HTML spec (parse, appendChild, DOMContentLoaded, load), o DOM sem nada do RTS (lote dom-ciclo-de-vida-scripts) (#2686)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T06:02:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05afb2fe1cc72d0290ec080da3bb3af7ccd37ddf"
-    },
-    {
-      "sha": "4d90319a70ecd1dc010bb8c78ce19b099fb4b5d3",
-      "short": "4d90319",
-      "message": "feat(aot): o manifesto viaja dentro do .exe — partilhar um binário é um ficheiro só (lote aot-rtsdata-embutido) (#2685)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T05:43:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d90319a70ecd1dc010bb8c78ce19b099fb4b5d3"
+      "date": "2026-09-05T16:59:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce33b19dbde9d3e09aeab9e1ce71c780051d86c0"
     }
   ]
 }
