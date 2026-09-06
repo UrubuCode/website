@@ -1,165 +1,165 @@
 {
-  "total": 6021,
+  "total": 6045,
   "commits": [
     {
-      "sha": "ccb837508c9dcd1a2a1f086ad2b2019dc96c2023",
-      "short": "ccb8375",
+      "sha": "2a7296969e147aa885870916b5b691704ac9bc32",
+      "short": "2a72969",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-06T00:27:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ccb837508c9dcd1a2a1f086ad2b2019dc96c2023"
+      "date": "2026-09-06T06:44:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a7296969e147aa885870916b5b691704ac9bc32"
     },
     {
-      "sha": "7add298d80ed86e65f16b9e28833843956c3316d",
-      "short": "7add298",
+      "sha": "a2e0bed721bac03c83b982aca64b6a44f9b9d0d7",
+      "short": "a2e0bed",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-06T00:26:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7add298d80ed86e65f16b9e28833843956c3316d"
+      "date": "2026-09-06T06:43:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a2e0bed721bac03c83b982aca64b6a44f9b9d0d7"
     },
     {
-      "sha": "79ee5c9a252276af3b646ec6c2cd01b7c5617557",
-      "short": "79ee5c9",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "119cd5d52182e0ee040f9575b0e2ee6cf3146e5a",
+      "short": "119cd5d",
+      "message": "docs: auto-update cross-runtime parity badge (80.4%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-06T00:25:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/79ee5c9a252276af3b646ec6c2cd01b7c5617557"
+      "date": "2026-09-06T06:42:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/119cd5d52182e0ee040f9575b0e2ee6cf3146e5a"
     },
     {
-      "sha": "4f52e0a69d51cdfcca9615abd347250cea6482e4",
-      "short": "4f52e0a",
-      "message": "docs(exemplos): o jogo do dinossauro em React 18 sobre o rts-dom (#2718)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-06T00:06:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f52e0a69d51cdfcca9615abd347250cea6482e4"
+      "sha": "ad093220409072124939708999a262fc964f3ce5",
+      "short": "ad09322",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-09-06T06:21:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ad093220409072124939708999a262fc964f3ce5"
     },
     {
-      "sha": "c1c127f8c2d7310baf579656000adbf9f91bfe0d",
-      "short": "c1c127f",
-      "message": "fix(dom): um listener de DOM sobrevive ao coletor — a raiz que faltava (#2717)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T23:58:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c1c127f8c2d7310baf579656000adbf9f91bfe0d"
+      "sha": "433ce5dc0141cea6c9419fe325101d12243fb57d",
+      "short": "433ce5d",
+      "message": "fix: three answers a construction gave that the language refuses",
+      "author": "Drysius",
+      "date": "2026-09-06T06:20:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/433ce5dc0141cea6c9419fe325101d12243fb57d"
     },
     {
-      "sha": "c7dc6d60c6f8932d2cc35e65533eca628134e610",
-      "short": "c7dc6d6",
+      "sha": "0a12f862a39350ccda296d0b3fe0a6f28526c886",
+      "short": "0a12f86",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T21:53:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7dc6d60c6f8932d2cc35e65533eca628134e610"
+      "date": "2026-09-06T06:17:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a12f862a39350ccda296d0b3fe0a6f28526c886"
     },
     {
-      "sha": "de54fe176099888dd047614105feb5ea8817a03b",
-      "short": "de54fe1",
+      "sha": "81adf5fe6d64921dea4ba2bf99157842f82d9e99",
+      "short": "81adf5f",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T21:52:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de54fe176099888dd047614105feb5ea8817a03b"
+      "date": "2026-09-06T06:16:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/81adf5fe6d64921dea4ba2bf99157842f82d9e99"
     },
     {
-      "sha": "f73fed58dcfc4a3f23350a5ed46e64f4e5aedf37",
-      "short": "f73fed5",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "612272a3c3bb2d4c9932ee8eeb96e6aadc775582",
+      "short": "612272a",
+      "message": "docs: auto-update cross-runtime parity badge (80.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T21:51:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f73fed58dcfc4a3f23350a5ed46e64f4e5aedf37"
+      "date": "2026-09-06T06:15:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/612272a3c3bb2d4c9932ee8eeb96e6aadc775582"
     },
     {
-      "sha": "be6b754c1d3592f5d271d4a30aeaacd296d69a58",
-      "short": "be6b754",
-      "message": "fix(dom): `height: %` numa <img> não resolve contra a LARGURA do pai — §10.5 (#2716)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T21:31:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/be6b754c1d3592f5d271d4a30aeaacd296d69a58"
+      "sha": "39b83ef7a510275b7059b79d76da08bfde39e158",
+      "short": "39b83ef",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-09-06T05:54:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39b83ef7a510275b7059b79d76da08bfde39e158"
     },
     {
-      "sha": "2d39030595ce3cc3e14d1627de24a71809c47964",
-      "short": "2d39030",
-      "message": "fix(dom): o fundo do root/body propaga para a TELA — CSS 2.1 §14.2, +18 reftests (#2715)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T21:31:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2d39030595ce3cc3e14d1627de24a71809c47964"
+      "sha": "87717a2a6342662e08ac8f0cd2ddd1b669e85ce5",
+      "short": "87717a2",
+      "message": "fix: a class's prototype is pinned, and a typed array's indices are describable",
+      "author": "Drysius",
+      "date": "2026-09-06T05:46:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87717a2a6342662e08ac8f0cd2ddd1b669e85ce5"
     },
     {
-      "sha": "ad92ff31801e13a721fba8bc97cada6dc0d85e95",
-      "short": "ad92ff3",
+      "sha": "a05ba50cb2312b717f7fd5d4df85fa694cd6f6a6",
+      "short": "a05ba50",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T20:39:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ad92ff31801e13a721fba8bc97cada6dc0d85e95"
+      "date": "2026-09-06T05:43:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a05ba50cb2312b717f7fd5d4df85fa694cd6f6a6"
     },
     {
-      "sha": "74012d42b4248b42a239c8ff8491eec333f52a58",
-      "short": "74012d4",
+      "sha": "f3d78daab35e9538c8401eeb39c5affc66531880",
+      "short": "f3d78da",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T20:38:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/74012d42b4248b42a239c8ff8491eec333f52a58"
+      "date": "2026-09-06T05:41:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f3d78daab35e9538c8401eeb39c5affc66531880"
     },
     {
-      "sha": "d923c0a4eae10a71d4e8e36ef1b0ff8bfcb1da57",
-      "short": "d923c0a",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "c705e196831cc06910cd9aad566ce5af72b4fde7",
+      "short": "c705e19",
+      "message": "docs: auto-update cross-runtime parity badge (80.1%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T20:38:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d923c0a4eae10a71d4e8e36ef1b0ff8bfcb1da57"
+      "date": "2026-09-06T05:41:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c705e196831cc06910cd9aad566ce5af72b4fde7"
     },
     {
-      "sha": "0c354cc5d60af98eda8c8686cce65912deda80f0",
-      "short": "0c354cc",
-      "message": "fix(dom): `clip: rect(...)` recorta de verdade — visufx 4 -> 37/53 (#2713)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T20:16:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c354cc5d60af98eda8c8686cce65912deda80f0"
+      "sha": "5db7baa318ab9f4f8b2ce73ba67a23045db89a7e",
+      "short": "5db7baa",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-09-06T05:20:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5db7baa318ab9f4f8b2ce73ba67a23045db89a7e"
     },
     {
-      "sha": "4ba61b0b17c34be6483fd18944d8e7c7bcf6808c",
-      "short": "4ba61b0",
-      "message": "fix(dom): has_box() conta background-image — uma REFERENCIA partilhada renderizava vazia (#2714)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T20:16:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ba61b0b17c34be6483fd18944d8e7c7bcf6808c"
+      "sha": "bf7ea2ef3c786b28e036e673f8ae55f492308b18",
+      "short": "bf7ea2e",
+      "message": "fix(proxy): validate what a trap answers, and freeze through the handler",
+      "author": "Drysius",
+      "date": "2026-09-06T04:52:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bf7ea2ef3c786b28e036e673f8ae55f492308b18"
     },
     {
-      "sha": "18ecfa1c82fb78a92ff354d13907d965e657655b",
-      "short": "18ecfa1",
+      "sha": "59fb9552adddb3bc100a35fdb5b463b4da3c45bd",
+      "short": "59fb955",
+      "message": "fix(proxy): the Object.* spellings ask the handler, and for-in sees it at all",
+      "author": "Drysius",
+      "date": "2026-09-06T04:04:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/59fb9552adddb3bc100a35fdb5b463b4da3c45bd"
+    },
+    {
+      "sha": "26a7a47e89ec6c74dd049881ced9754b009649a6",
+      "short": "26a7a47",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T19:36:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18ecfa1c82fb78a92ff354d13907d965e657655b"
+      "date": "2026-09-06T03:56:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26a7a47e89ec6c74dd049881ced9754b009649a6"
     },
     {
-      "sha": "609b31ef07ca2f65d3d6351985df6cd2f2b25df0",
-      "short": "609b31e",
+      "sha": "711d2846c6ce80078f3c6ce27a2421513d6ea080",
+      "short": "711d284",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T19:36:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/609b31ef07ca2f65d3d6351985df6cd2f2b25df0"
+      "date": "2026-09-06T03:51:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/711d2846c6ce80078f3c6ce27a2421513d6ea080"
     },
     {
-      "sha": "19f588ced2824a2284a58cf3d1c9547a605f2479",
-      "short": "19f588c",
-      "message": "docs: auto-update cross-runtime parity badge (78%)",
+      "sha": "09b582343bfafc5a4534c14baaa71fd103ace43f",
+      "short": "09b5823",
+      "message": "docs: auto-update cross-runtime parity badge (80%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-05T19:35:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/19f588ced2824a2284a58cf3d1c9547a605f2479"
+      "date": "2026-09-06T03:50:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/09b582343bfafc5a4534c14baaa71fd103ace43f"
     },
     {
-      "sha": "0a301b7c40cf5a7f370f59f113b9007aa6554623",
-      "short": "0a301b7",
-      "message": "fix(dom): uma <img> nao tem descida — CSS 2.1 de 3568 para 4062/6240 (#2712)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T19:14:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0a301b7c40cf5a7f370f59f113b9007aa6554623"
-    },
-    {
-      "sha": "e5a8aead33e48bacd5883745ac940dda32e52bd5",
-      "short": "e5a8aea",
-      "message": "fix(dom): a largura inicial da borda e `medium`, e um lado com ESTILO entra na pintura — borders 274 -> 288 (#2711)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-05T19:14:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5a8aead33e48bacd5883745ac940dda32e52bd5"
+      "sha": "4c5f847028da5c5a7f9d026a4b70224bf5721186",
+      "short": "4c5f847",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Drysius",
+      "date": "2026-09-06T03:30:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c5f847028da5c5a7f9d026a4b70224bf5721186"
     }
   ]
 }
