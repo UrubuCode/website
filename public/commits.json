@@ -1,6 +1,14 @@
 {
-  "total": 6065,
+  "total": 6066,
   "commits": [
+    {
+      "sha": "b70ff7d440609ba3dfd402326e267e68413def21",
+      "short": "b70ff7d",
+      "message": "fix: cross-runtime 1218 → 1252 of 1515, per-file no loss — eight lots (#2720)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-11T20:14:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b70ff7d440609ba3dfd402326e267e68413def21"
+    },
     {
       "sha": "91d361080a600dafd1e35546459507f64b1a436b",
       "short": "91d3610",
@@ -152,14 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-06T07:05:36Z",
       "url": "https://github.com/UrubuCode/rts/commit/3144e9d66beee16c0a087ba79b6defa050afeaef"
-    },
-    {
-      "sha": "5e99d20a050808c98871af1da746c3b74f2254c4",
-      "short": "5e99d20",
-      "message": "fix(regex): m.groups sobrevive ao coletor — a raiz que faltava",
-      "author": "Drysius",
-      "date": "2026-09-06T07:04:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e99d20a050808c98871af1da746c3b74f2254c4"
     }
   ]
 }
