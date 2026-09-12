@@ -1,6 +1,110 @@
 {
-  "total": 6066,
+  "total": 6079,
   "commits": [
+    {
+      "sha": "2a2b6f8c2e627f41e585129f26f727f182bf2144",
+      "short": "2a2b6f8",
+      "message": "perf(codegen,cranelift): a real bundle compiles — two quadratics and one relocation, measured on WhatsApp Web (#2724)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-12T02:07:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a2b6f8c2e627f41e585129f26f727f182bf2144"
+    },
+    {
+      "sha": "4d805bd2fd63322824aa564b3b715e0a0dc84097",
+      "short": "4d805bd",
+      "message": "fix(dom): the page scope sees MutationObserver, Node's constants and Element.prototype (#2723)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-12T02:07:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d805bd2fd63322824aa564b3b715e0a0dc84097"
+    },
+    {
+      "sha": "aedaaa942682348ac7c23a9bb35223ab12706299",
+      "short": "aedaaa9",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T22:20:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aedaaa942682348ac7c23a9bb35223ab12706299"
+    },
+    {
+      "sha": "f73311e00d5b76d2b197f9f32ebe800ef398cb7d",
+      "short": "f73311e",
+      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T22:19:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f73311e00d5b76d2b197f9f32ebe800ef398cb7d"
+    },
+    {
+      "sha": "0424ecd4b870b572684659e76e0718cd56e16033",
+      "short": "0424ecd",
+      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T22:18:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0424ecd4b870b572684659e76e0718cd56e16033"
+    },
+    {
+      "sha": "68fbbe2653f8996428884dc08310d85c701d1447",
+      "short": "68fbbe2",
+      "message": "fix(egui): the text-measurer caches key on a stable context id, not on the address of a per-frame field (#2722)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-11T21:58:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68fbbe2653f8996428884dc08310d85c701d1447"
+    },
+    {
+      "sha": "7e66728ef5cd883fc12e8c8ac9786a9ecca59770",
+      "short": "7e66728",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T21:14:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e66728ef5cd883fc12e8c8ac9786a9ecca59770"
+    },
+    {
+      "sha": "57bcf090d087eca4a157d19ef3448490ea61ee4c",
+      "short": "57bcf09",
+      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T21:13:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/57bcf090d087eca4a157d19ef3448490ea61ee4c"
+    },
+    {
+      "sha": "2345cd76cedd2ba0b0f991428cd5d2cdfb2c0f64",
+      "short": "2345cd7",
+      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T21:12:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2345cd76cedd2ba0b0f991428cd5d2cdfb2c0f64"
+    },
+    {
+      "sha": "c1f3022893c7add88af29da18c9e51fd6e015c58",
+      "short": "c1f3022",
+      "message": "fix(egui,dom): the window returns what the GPU already released — the dino's memory leak; HTMLIFrameElement family in the page scope (#2721)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-11T20:51:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c1f3022893c7add88af29da18c9e51fd6e015c58"
+    },
+    {
+      "sha": "0271ac45f434ab2d1493d67423caee27f00331c9",
+      "short": "0271ac4",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T20:44:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0271ac45f434ab2d1493d67423caee27f00331c9"
+    },
+    {
+      "sha": "e6094368a050cab6ac799124f3f19e415c34e043",
+      "short": "e609436",
+      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T20:34:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6094368a050cab6ac799124f3f19e415c34e043"
+    },
+    {
+      "sha": "b854fb5f6306aabff20ecc805f44fdfd551ac380",
+      "short": "b854fb5",
+      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-11T20:34:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b854fb5f6306aabff20ecc805f44fdfd551ac380"
+    },
     {
       "sha": "b70ff7d440609ba3dfd402326e267e68413def21",
       "short": "b70ff7d",
@@ -56,110 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-07T06:34:44Z",
       "url": "https://github.com/UrubuCode/rts/commit/167d99edc884ff4c5ee01a865bfdcf30e18cd692"
-    },
-    {
-      "sha": "fd76b924171a2155c66785377910cc3d010e262c",
-      "short": "fd76b92",
-      "message": "Merge: o núcleo de máquina começa a existir, e passa a ser mensurável",
-      "author": "Drysius",
-      "date": "2026-09-07T06:34:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fd76b924171a2155c66785377910cc3d010e262c"
-    },
-    {
-      "sha": "7fbcca2b62f332ec4add5a98a1d2407101b569cf",
-      "short": "7fbcca2",
-      "message": "perf(codegen): o endereço da bandeira só é pedido por um corpo que verifica",
-      "author": "Drysius",
-      "date": "2026-09-07T06:22:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7fbcca2b62f332ec4add5a98a1d2407101b569cf"
-    },
-    {
-      "sha": "8897d8c386feea50166bbff3c38bd89f06864b7a",
-      "short": "8897d8c",
-      "message": "docs: a segunda régua vira ponteiro, porque a cópia envelheceu duas vezes",
-      "author": "Drysius",
-      "date": "2026-09-07T05:13:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8897d8c386feea50166bbff3c38bd89f06864b7a"
-    },
-    {
-      "sha": "a3f258ae68b6867f9d9b0ab9948057cb358c7987",
-      "short": "a3f258a",
-      "message": "docs: o CLAUDE.md conhece o comando que existe",
-      "author": "Drysius",
-      "date": "2026-09-07T04:52:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a3f258ae68b6867f9d9b0ab9948057cb358c7987"
-    },
-    {
-      "sha": "75dd1c6bfec94288dcb69bbf86c3f27178aef5b2",
-      "short": "75dd1c6",
-      "message": "perf(codegen): um literal de texto é pedido uma vez por corpo, não por escrita",
-      "author": "Drysius",
-      "date": "2026-09-07T04:34:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75dd1c6bfec94288dcb69bbf86c3f27178aef5b2"
-    },
-    {
-      "sha": "c08bf4d3450a7f357a0638eb4f56d550021fb617",
-      "short": "c08bf4d",
-      "message": "fix(host): o braço que lança não é caminho provado",
-      "author": "Drysius",
-      "date": "2026-09-07T04:33:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c08bf4d3450a7f357a0638eb4f56d550021fb617"
-    },
-    {
-      "sha": "4fdfb0217fa5abba4932b83541189d55d0ff6360",
-      "short": "4fdfb02",
-      "message": "fix(host): `rts prove` separa o caminho provado do caminho de recurso",
-      "author": "Drysius",
-      "date": "2026-09-07T00:10:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4fdfb0217fa5abba4932b83541189d55d0ff6360"
-    },
-    {
-      "sha": "26a00aee4c4a4067f75b111d6c0c8f139b827d94",
-      "short": "26a00ae",
-      "message": "feat(host): `rts prove` — onde o mundo fechado parou de provar",
-      "author": "Drysius",
-      "date": "2026-09-06T23:46:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26a00aee4c4a4067f75b111d6c0c8f139b827d94"
-    },
-    {
-      "sha": "9f84391512d2e133fbba8edc0f6dbc3c70b0f3a0",
-      "short": "9f84391",
-      "message": "fix(core): a morte de uma célula é um passe total, e faltava enterrar uma tabela",
-      "author": "Drysius",
-      "date": "2026-09-06T23:18:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f84391512d2e133fbba8edc0f6dbc3c70b0f3a0"
-    },
-    {
-      "sha": "689fbc83d1492e5763dd244ec63137614641a534",
-      "short": "689fbc8",
-      "message": "perf(codegen): uma junção carrega a repr que os dois caminhos concordam",
-      "author": "Drysius",
-      "date": "2026-09-06T21:38:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/689fbc83d1492e5763dd244ec63137614641a534"
-    },
-    {
-      "sha": "bcd7f5e24d119196cc039684d3f9f1453ee013ae",
-      "short": "bcd7f5e",
-      "message": "refactor(core): a classificação de uma side table vira um match total",
-      "author": "Drysius",
-      "date": "2026-09-06T21:25:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bcd7f5e24d119196cc039684d3f9f1453ee013ae"
-    },
-    {
-      "sha": "002fde99560dc8a8968fadd1b7d6ee4765063571",
-      "short": "002fde9",
-      "message": "docs: o tecto de 500 linhas binda o código do sistema, não um corpus",
-      "author": "Drysius",
-      "date": "2026-09-06T07:11:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/002fde99560dc8a8968fadd1b7d6ee4765063571"
-    },
-    {
-      "sha": "3144e9d66beee16c0a087ba79b6defa050afeaef",
-      "short": "3144e9d",
-      "message": "perf(bench): analytic.ts de 91 para 277 casos, e o que a primeira corrida achou",
-      "author": "Drysius",
-      "date": "2026-09-06T07:05:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3144e9d66beee16c0a087ba79b6defa050afeaef"
     }
   ]
 }
