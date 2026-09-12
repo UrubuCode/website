@@ -1,6 +1,30 @@
 {
-  "total": 6079,
+  "total": 6082,
   "commits": [
+    {
+      "sha": "6f714154194bbded9fdb2e14c4ef0fdd59b0bb43",
+      "short": "6f71415",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-12T02:32:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6f714154194bbded9fdb2e14c4ef0fdd59b0bb43"
+    },
+    {
+      "sha": "d38d6edaf0277f8cdd96e84084f0453ae017e9ce",
+      "short": "d38d6ed",
+      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-12T02:31:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d38d6edaf0277f8cdd96e84084f0453ae017e9ce"
+    },
+    {
+      "sha": "f5a68b4904abf410d2de1975ae472eb5eafac2b4",
+      "short": "f5a68b4",
+      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-12T02:30:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5a68b4904abf410d2de1975ae472eb5eafac2b4"
+    },
     {
       "sha": "2a2b6f8c2e627f41e585129f26f727f182bf2144",
       "short": "2a2b6f8",
@@ -136,30 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-07T06:57:48Z",
       "url": "https://github.com/UrubuCode/rts/commit/5e115f623abcf1430a6c9be0aa1382eb1fc60e36"
-    },
-    {
-      "sha": "251b1ffeddc4dafaf8774abaae40a78972e1748c",
-      "short": "251b1ff",
-      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-07T06:56:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/251b1ffeddc4dafaf8774abaae40a78972e1748c"
-    },
-    {
-      "sha": "2351544f1de852b94ea46868713db4982b168c20",
-      "short": "2351544",
-      "message": "docs: auto-update cross-runtime parity badge (80.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-07T06:56:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2351544f1de852b94ea46868713db4982b168c20"
-    },
-    {
-      "sha": "167d99edc884ff4c5ee01a865bfdcf30e18cd692",
-      "short": "167d99e",
-      "message": "Merge origin/main: as tabelas que o CI reescreve sozinho",
-      "author": "Drysius",
-      "date": "2026-09-07T06:34:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/167d99edc884ff4c5ee01a865bfdcf30e18cd692"
     }
   ]
 }
