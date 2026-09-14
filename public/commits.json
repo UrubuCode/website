@@ -1,6 +1,22 @@
 {
-  "total": 6082,
+  "total": 6084,
   "commits": [
+    {
+      "sha": "781fc5e31bf277805595c965a2f6cfc57cea5a4c",
+      "short": "781fc5e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-14T08:57:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/781fc5e31bf277805595c965a2f6cfc57cea5a4c"
+    },
+    {
+      "sha": "120d13e82971bfae10cb69d13d0e20d717bb4548",
+      "short": "120d13e",
+      "message": "docs: cross-runtime parity 82.6% + history snapshot 2026-09-14",
+      "author": "github-actions[bot]",
+      "date": "2026-09-14T08:56:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/120d13e82971bfae10cb69d13d0e20d717bb4548"
+    },
     {
       "sha": "6f714154194bbded9fdb2e14c4ef0fdd59b0bb43",
       "short": "6f71415",
@@ -144,22 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-07T08:04:07Z",
       "url": "https://github.com/UrubuCode/rts/commit/91d361080a600dafd1e35546459507f64b1a436b"
-    },
-    {
-      "sha": "c9cc8a91087a539f74d46afcdc2694d83120593c",
-      "short": "c9cc8a9",
-      "message": "docs: cross-runtime parity 80.4% + history snapshot 2026-09-07",
-      "author": "github-actions[bot]",
-      "date": "2026-09-07T08:02:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9cc8a91087a539f74d46afcdc2694d83120593c"
-    },
-    {
-      "sha": "5e115f623abcf1430a6c9be0aa1382eb1fc60e36",
-      "short": "5e115f6",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-07T06:57:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5e115f623abcf1430a6c9be0aa1382eb1fc60e36"
     }
   ]
 }
