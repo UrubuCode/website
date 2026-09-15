@@ -1,165 +1,165 @@
 {
-  "total": 6084,
+  "total": 6104,
   "commits": [
     {
-      "sha": "781fc5e31bf277805595c965a2f6cfc57cea5a4c",
-      "short": "781fc5e",
+      "sha": "e9bd9c17d43fde0664a72b13e17838b10201d04b",
+      "short": "e9bd9c1",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-14T08:57:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/781fc5e31bf277805595c965a2f6cfc57cea5a4c"
+      "date": "2026-09-15T19:38:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e9bd9c17d43fde0664a72b13e17838b10201d04b"
     },
     {
-      "sha": "120d13e82971bfae10cb69d13d0e20d717bb4548",
-      "short": "120d13e",
-      "message": "docs: cross-runtime parity 82.6% + history snapshot 2026-09-14",
-      "author": "github-actions[bot]",
-      "date": "2026-09-14T08:56:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/120d13e82971bfae10cb69d13d0e20d717bb4548"
-    },
-    {
-      "sha": "6f714154194bbded9fdb2e14c4ef0fdd59b0bb43",
-      "short": "6f71415",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-12T02:32:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6f714154194bbded9fdb2e14c4ef0fdd59b0bb43"
-    },
-    {
-      "sha": "d38d6edaf0277f8cdd96e84084f0453ae017e9ce",
-      "short": "d38d6ed",
+      "sha": "85e18fba8fbc9a0c8951f4752206bbb452937aa6",
+      "short": "85e18fb",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-12T02:31:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d38d6edaf0277f8cdd96e84084f0453ae017e9ce"
+      "date": "2026-09-15T19:36:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/85e18fba8fbc9a0c8951f4752206bbb452937aa6"
     },
     {
-      "sha": "f5a68b4904abf410d2de1975ae472eb5eafac2b4",
-      "short": "f5a68b4",
-      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "sha": "6c63a612465d7eff43cea9d109fa3117286cedd1",
+      "short": "6c63a61",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-12T02:30:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5a68b4904abf410d2de1975ae472eb5eafac2b4"
+      "date": "2026-09-15T19:35:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c63a612465d7eff43cea9d109fa3117286cedd1"
     },
     {
-      "sha": "2a2b6f8c2e627f41e585129f26f727f182bf2144",
-      "short": "2a2b6f8",
-      "message": "perf(codegen,cranelift): a real bundle compiles — two quadratics and one relocation, measured on WhatsApp Web (#2724)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-12T02:07:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a2b6f8c2e627f41e585129f26f727f182bf2144"
+      "sha": "efa771641528104e58f456db59894d70d25e2bd0",
+      "short": "efa7716",
+      "message": "Merge: mais oito fixtures cross-runtime, da lista dos quase",
+      "author": "Claude",
+      "date": "2026-09-15T19:17:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/efa771641528104e58f456db59894d70d25e2bd0"
     },
     {
-      "sha": "4d805bd2fd63322824aa564b3b715e0a0dc84097",
-      "short": "4d805bd",
-      "message": "fix(dom): the page scope sees MutationObserver, Node's constants and Element.prototype (#2723)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-12T02:07:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d805bd2fd63322824aa564b3b715e0a0dc84097"
+      "sha": "358c198ad89f2ff7aa219146797d84f275716e4c",
+      "short": "358c198",
+      "message": "fix: eight more cross-runtime divergences, from the near-miss list",
+      "author": "Claude",
+      "date": "2026-09-15T19:17:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/358c198ad89f2ff7aa219146797d84f275716e4c"
     },
     {
-      "sha": "aedaaa942682348ac7c23a9bb35223ab12706299",
-      "short": "aedaaa9",
+      "sha": "e6d229022a1f924498599ce0332df5879b6e3865",
+      "short": "e6d2290",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-11T22:20:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aedaaa942682348ac7c23a9bb35223ab12706299"
+      "date": "2026-09-15T18:56:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e6d229022a1f924498599ce0332df5879b6e3865"
     },
     {
-      "sha": "f73311e00d5b76d2b197f9f32ebe800ef398cb7d",
-      "short": "f73311e",
+      "sha": "497a473dc6607f7aa82d0346857d58cfac297be9",
+      "short": "497a473",
       "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-11T22:19:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f73311e00d5b76d2b197f9f32ebe800ef398cb7d"
+      "date": "2026-09-15T18:53:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/497a473dc6607f7aa82d0346857d58cfac297be9"
     },
     {
-      "sha": "0424ecd4b870b572684659e76e0718cd56e16033",
-      "short": "0424ecd",
-      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
+      "sha": "fe7249091619b0a328cb1c8aee26b96b7fa605d8",
+      "short": "fe72490",
+      "message": "docs: auto-update cross-runtime parity badge (83.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-11T22:18:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0424ecd4b870b572684659e76e0718cd56e16033"
+      "date": "2026-09-15T18:53:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fe7249091619b0a328cb1c8aee26b96b7fa605d8"
     },
     {
-      "sha": "68fbbe2653f8996428884dc08310d85c701d1447",
-      "short": "68fbbe2",
-      "message": "fix(egui): the text-measurer caches key on a stable context id, not on the address of a per-frame field (#2722)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-11T21:58:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68fbbe2653f8996428884dc08310d85c701d1447"
+      "sha": "eaa3cc55a19c029915d512768f11a78284c25c4d",
+      "short": "eaa3cc5",
+      "message": "merge: tres reguas importadas — test262 executado, V8 mjsunit, JSC stress",
+      "author": "Claude",
+      "date": "2026-09-15T18:31:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eaa3cc55a19c029915d512768f11a78284c25c4d"
     },
     {
-      "sha": "7e66728ef5cd883fc12e8c8ac9786a9ecca59770",
-      "short": "7e66728",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T21:14:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e66728ef5cd883fc12e8c8ac9786a9ecca59770"
+      "sha": "7328f8fb654630b2d9af3d20fff29f229595402b",
+      "short": "7328f8f",
+      "message": "test: importa o `JSTests/stress` do JSC; publica o numero corrigido do mjsunit",
+      "author": "Claude",
+      "date": "2026-09-15T18:30:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7328f8fb654630b2d9af3d20fff29f229595402b"
     },
     {
-      "sha": "57bcf090d087eca4a157d19ef3448490ea61ee4c",
-      "short": "57bcf09",
-      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T21:13:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/57bcf090d087eca4a157d19ef3448490ea61ee4c"
+      "sha": "3c0e715ffc03a0c58084b345b46330ad2fa2964a",
+      "short": "3c0e715",
+      "message": "fix(tests): the sqlite suite was writing into the repository root",
+      "author": "Claude",
+      "date": "2026-09-15T18:26:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c0e715ffc03a0c58084b345b46330ad2fa2964a"
     },
     {
-      "sha": "2345cd76cedd2ba0b0f991428cd5d2cdfb2c0f64",
-      "short": "2345cd7",
-      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T21:12:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2345cd76cedd2ba0b0f991428cd5d2cdfb2c0f64"
+      "sha": "8daf47958fec7c98554ea5ba48d5d5cbf2af39cb",
+      "short": "8daf479",
+      "message": "Merge: dezasseis fixtures cross-runtime, medidas por ficheiro",
+      "author": "Claude",
+      "date": "2026-09-15T18:22:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8daf47958fec7c98554ea5ba48d5d5cbf2af39cb"
     },
     {
-      "sha": "c1f3022893c7add88af29da18c9e51fd6e015c58",
-      "short": "c1f3022",
-      "message": "fix(egui,dom): the window returns what the GPU already released — the dino's memory leak; HTMLIFrameElement family in the page scope (#2721)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-11T20:51:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c1f3022893c7add88af29da18c9e51fd6e015c58"
+      "sha": "fc3651d5a1bbd906b502c88af9cd93f182df68cb",
+      "short": "fc3651d",
+      "message": "fix: o arnes do mjsunit punha fora do denominador o que era JavaScript comum",
+      "author": "Claude",
+      "date": "2026-09-15T18:22:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fc3651d5a1bbd906b502c88af9cd93f182df68cb"
     },
     {
-      "sha": "0271ac45f434ab2d1493d67423caee27f00331c9",
-      "short": "0271ac4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T20:44:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0271ac45f434ab2d1493d67423caee27f00331c9"
+      "sha": "023a76d93319f11997dfa0fffd1a1b5ea36052e0",
+      "short": "023a76d",
+      "message": "fix: six more cross-runtime divergences — two prototypes that were not what they are",
+      "author": "Claude",
+      "date": "2026-09-15T18:21:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/023a76d93319f11997dfa0fffd1a1b5ea36052e0"
     },
     {
-      "sha": "e6094368a050cab6ac799124f3f19e415c34e043",
-      "short": "e609436",
-      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T20:34:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6094368a050cab6ac799124f3f19e415c34e043"
+      "sha": "60d477e40154f4a1b7c951785e4d26c0b952e438",
+      "short": "60d477e",
+      "message": "test: importa o `test/mjsunit` do V8, sobre um arnes partilhado",
+      "author": "Claude",
+      "date": "2026-09-15T18:19:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/60d477e40154f4a1b7c951785e4d26c0b952e438"
     },
     {
-      "sha": "b854fb5f6306aabff20ecc805f44fdfd551ac380",
-      "short": "b854fb5",
-      "message": "docs: auto-update cross-runtime parity badge (82.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-11T20:34:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b854fb5f6306aabff20ecc805f44fdfd551ac380"
+      "sha": "dcca56938501a59c0ec2cdca46ca000ecb0e38e0",
+      "short": "dcca569",
+      "message": "ci: divide o test262 por oito maquinas",
+      "author": "Claude",
+      "date": "2026-09-15T18:12:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dcca56938501a59c0ec2cdca46ca000ecb0e38e0"
     },
     {
-      "sha": "b70ff7d440609ba3dfd402326e267e68413def21",
-      "short": "b70ff7d",
-      "message": "fix: cross-runtime 1218 → 1252 of 1515, per-file no loss — eight lots (#2720)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-11T20:14:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b70ff7d440609ba3dfd402326e267e68413def21"
+      "sha": "87c9c9ddc1dff7c0644abbcfe1d69b7b23f67af7",
+      "short": "87c9c9d",
+      "message": "ci: agrega as causas e poe o test262 a correr sozinho",
+      "author": "Claude",
+      "date": "2026-09-15T18:10:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87c9c9ddc1dff7c0644abbcfe1d69b7b23f67af7"
     },
     {
-      "sha": "91d361080a600dafd1e35546459507f64b1a436b",
-      "short": "91d3610",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-07T08:04:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/91d361080a600dafd1e35546459507f64b1a436b"
+      "sha": "e50d9df072d4f43fe4991043365e5cee962ab6b1",
+      "short": "e50d9df",
+      "message": "test: corre o test262 contra o motor, e nao so pelo front end",
+      "author": "Claude",
+      "date": "2026-09-15T17:59:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e50d9df072d4f43fe4991043365e5cee962ab6b1"
+    },
+    {
+      "sha": "f6a480a0af90df595cb7140e85be7452c7ea162a",
+      "short": "f6a480a",
+      "message": "fix: three more cross-runtime divergences — console formatting and btoa",
+      "author": "Claude",
+      "date": "2026-09-15T17:57:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6a480a0af90df595cb7140e85be7452c7ea162a"
+    },
+    {
+      "sha": "48bf4f556ae6cb13e87f47fe5f9c8d2eebebedf1",
+      "short": "48bf4f5",
+      "message": "fix: six cross-runtime divergences — USVString, NamedEvaluation, default sort",
+      "author": "Claude",
+      "date": "2026-09-15T17:45:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/48bf4f556ae6cb13e87f47fe5f9c8d2eebebedf1"
     }
   ]
 }
