@@ -1,6 +1,78 @@
 {
-  "total": 6129,
+  "total": 6141,
   "commits": [
+    {
+      "sha": "7ce73287ffd4ad423745f233a083c83a6088b9ae",
+      "short": "7ce7328",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T15:43:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ce73287ffd4ad423745f233a083c83a6088b9ae"
+    },
+    {
+      "sha": "206cd06680b7a08b244fa13f30a57f0184ed1cb1",
+      "short": "206cd06",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T15:21:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/206cd06680b7a08b244fa13f30a57f0184ed1cb1"
+    },
+    {
+      "sha": "bd1429975804a43900dd62b70749138485e2e2e7",
+      "short": "bd14299",
+      "message": "fix(css): flex-basis:content so ignora o height quando ele foi declarado (#2726)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T15:20:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bd1429975804a43900dd62b70749138485e2e2e7"
+    },
+    {
+      "sha": "caf59ac7d318ae36385459b42defb6d5f25ff21a",
+      "short": "caf59ac",
+      "message": "fix(css): flex-basis:content ignora o height do proprio item numa coluna (#2725)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T15:00:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/caf59ac7d318ae36385459b42defb6d5f25ff21a"
+    },
+    {
+      "sha": "39c15d185e1eda8d54ebfb5ba91e80457ea14852",
+      "short": "39c15d1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T14:40:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/39c15d185e1eda8d54ebfb5ba91e80457ea14852"
+    },
+    {
+      "sha": "67b3d57391a6697ffd164e8e5d39b6cba4febd98",
+      "short": "67b3d57",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T14:38:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/67b3d57391a6697ffd164e8e5d39b6cba4febd98"
+    },
+    {
+      "sha": "3247fd5d973f2cad82d68e1a408a7f93b5e56214",
+      "short": "3247fd5",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T14:38:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3247fd5d973f2cad82d68e1a408a7f93b5e56214"
+    },
+    {
+      "sha": "277fa01c060c583b7ba88510e0311fb8d38c3bf5",
+      "short": "277fa01",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T14:17:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/277fa01c060c583b7ba88510e0311fb8d38c3bf5"
+    },
+    {
+      "sha": "703aa94b425073644f6327576addd74bc433f3dd",
+      "short": "703aa94",
+      "message": "fix(css): resolve fractional flex factors",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T10:29:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/703aa94b425073644f6327576addd74bc433f3dd"
+    },
     {
       "sha": "d71cb7cdf08b79e6780fb2ddc4194f3ac5053b6c",
       "short": "d71cb7c",
@@ -24,6 +96,30 @@
       "author": "github-actions[bot]",
       "date": "2026-09-16T02:44:36Z",
       "url": "https://github.com/UrubuCode/rts/commit/4b5ea9dcc08e65f1a3f876ffdaa1c480a4207620"
+    },
+    {
+      "sha": "9a03a8e74ee161d0451fcf87893e481caafdcba8",
+      "short": "9a03a8e",
+      "message": "fix(css): paint clipped backgrounds and embedded svg rects",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:36:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9a03a8e74ee161d0451fcf87893e481caafdcba8"
+    },
+    {
+      "sha": "6b2d6049e464df1f251e1086d54e504992cb4f3f",
+      "short": "6b2d604",
+      "message": "fix(css): honor align-self in column flex",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:34:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b2d6049e464df1f251e1086d54e504992cb4f3f"
+    },
+    {
+      "sha": "55ee829dbc527d5a8988f60dde64d064d0c9d4b4",
+      "short": "55ee829",
+      "message": "feat(css): balance flex line wrapping",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:32:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/55ee829dbc527d5a8988f60dde64d064d0c9d4b4"
     },
     {
       "sha": "45676464906fc3dcc7990823eb1ba008778b0cb3",
@@ -64,102 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-16T02:09:17Z",
       "url": "https://github.com/UrubuCode/rts/commit/9eec3d6fb787868a049c893ff112c3f22fcd01a7"
-    },
-    {
-      "sha": "66b133aca80759e51c5202a9b86e31fe9cb30dab",
-      "short": "66b133a",
-      "message": "fix(css): size submit controls in flex basis",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:06:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/66b133aca80759e51c5202a9b86e31fe9cb30dab"
-    },
-    {
-      "sha": "0736184cbb014038d99cb43da985d83669ee012a",
-      "short": "0736184",
-      "message": "fix(css): use textarea border baseline",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:01:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0736184cbb014038d99cb43da985d83669ee012a"
-    },
-    {
-      "sha": "69a850c6673c32f7d486bc08568195a5863d9860",
-      "short": "69a850c",
-      "message": "fix(css): align native inline control advances",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:59:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/69a850c6673c32f7d486bc08568195a5863d9860"
-    },
-    {
-      "sha": "945cee405068943e88628f0f6a00791a2a7a9749",
-      "short": "945cee4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-16T01:57:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/945cee405068943e88628f0f6a00791a2a7a9749"
-    },
-    {
-      "sha": "c6de22edf7fb701562411998b7da495c06f2e0cd",
-      "short": "c6de22e",
-      "message": "docs: auto-update CSS/DOM parity badge (98.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-16T01:56:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c6de22edf7fb701562411998b7da495c06f2e0cd"
-    },
-    {
-      "sha": "1ac21d157f4a9072e08a35a5bb3e2943ab9f9b9c",
-      "short": "1ac21d1",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-16T01:56:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1ac21d157f4a9072e08a35a5bb3e2943ab9f9b9c"
-    },
-    {
-      "sha": "e1040379f05c146efde33ab63483fa52b1b0bbed",
-      "short": "e104037",
-      "message": "fix(css): preserve inline-block whitespace gaps",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:52:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1040379f05c146efde33ab63483fa52b1b0bbed"
-    },
-    {
-      "sha": "e1724a15647852d29f6cd3d86d97cac379e6ba3f",
-      "short": "e1724a1",
-      "message": "fix(css): stretch native submit controls in flex",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:47:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1724a15647852d29f6cd3d86d97cac379e6ba3f"
-    },
-    {
-      "sha": "f7a41436c5440c0019d38ee63dc7d8e5dbd07814",
-      "short": "f7a4143",
-      "message": "fix(css): use native natural height for buttons",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:42:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f7a41436c5440c0019d38ee63dc7d8e5dbd07814"
-    },
-    {
-      "sha": "fb1cb903383cc04fa80993d67a455a417287b757",
-      "short": "fb1cb90",
-      "message": "fix(css): use native button vertical metric",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:39:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb1cb903383cc04fa80993d67a455a417287b757"
-    },
-    {
-      "sha": "8877c292835c31221394b77f590f9c8a329208a3",
-      "short": "8877c29",
-      "message": "fix(css): preserve monospace advance for bold text",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:38:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8877c292835c31221394b77f590f9c8a329208a3"
-    },
-    {
-      "sha": "80777d6117c102834ea010ee6148eaebee3a3ff2",
-      "short": "80777d6",
-      "message": "fix(css): size table rows inside border spacing",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:26:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80777d6117c102834ea010ee6148eaebee3a3ff2"
     }
   ]
 }
