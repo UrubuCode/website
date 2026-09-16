@@ -1,6 +1,30 @@
 {
-  "total": 6126,
+  "total": 6129,
   "commits": [
+    {
+      "sha": "d71cb7cdf08b79e6780fb2ddc4194f3ac5053b6c",
+      "short": "d71cb7c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T02:45:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d71cb7cdf08b79e6780fb2ddc4194f3ac5053b6c"
+    },
+    {
+      "sha": "bff99e0817a78453cbd54f95a71926ee1d9f118c",
+      "short": "bff99e0",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T02:44:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bff99e0817a78453cbd54f95a71926ee1d9f118c"
+    },
+    {
+      "sha": "4b5ea9dcc08e65f1a3f876ffdaa1c480a4207620",
+      "short": "4b5ea9d",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T02:44:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4b5ea9dcc08e65f1a3f876ffdaa1c480a4207620"
+    },
     {
       "sha": "45676464906fc3dcc7990823eb1ba008778b0cb3",
       "short": "4567646",
@@ -136,30 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-16T01:26:23Z",
       "url": "https://github.com/UrubuCode/rts/commit/80777d6117c102834ea010ee6148eaebee3a3ff2"
-    },
-    {
-      "sha": "7b655d84e6b941d2e3f3cf854b03402d2dc62bdd",
-      "short": "7b655d8",
-      "message": "test(css): retire cursor URL from expected failures",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:25:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7b655d84e6b941d2e3f3cf854b03402d2dc62bdd"
-    },
-    {
-      "sha": "7792dc95d8e07f56d6ddd58b72e2e5dfe60f0864",
-      "short": "7792dc9",
-      "message": "fix(css): zero computed border width when style is none",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:24:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7792dc95d8e07f56d6ddd58b72e2e5dfe60f0864"
-    },
-    {
-      "sha": "749c274f355221e91e015c1d39057fbf51f94cd1",
-      "short": "749c274",
-      "message": "fix(dom): tokenize classList by all HTML whitespace",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T01:23:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/749c274f355221e91e015c1d39057fbf51f94cd1"
     }
   ]
 }
