@@ -1,6 +1,38 @@
 {
-  "total": 6141,
+  "total": 6145,
   "commits": [
+    {
+      "sha": "48e68a02d1ea05277fce7444f32fb4ec61cf5c4a",
+      "short": "48e68a0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T17:18:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/48e68a02d1ea05277fce7444f32fb4ec61cf5c4a"
+    },
+    {
+      "sha": "b3efa298eaff686863fc5740a731087d5f5b4099",
+      "short": "b3efa29",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T17:17:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b3efa298eaff686863fc5740a731087d5f5b4099"
+    },
+    {
+      "sha": "93fdb376a607d9b5b88e355222678872bfa2f3e9",
+      "short": "93fdb37",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T17:16:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93fdb376a607d9b5b88e355222678872bfa2f3e9"
+    },
+    {
+      "sha": "2c8eeb04c8198d909ac8f4e08a20644b2ca070f4",
+      "short": "2c8eeb0",
+      "message": "fix(css): canvas e um atomo inline, e uma percentagem sem base nao e infinita (#2727)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T16:56:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c8eeb04c8198d909ac8f4e08a20644b2ca070f4"
+    },
     {
       "sha": "7ce73287ffd4ad423745f233a083c83a6088b9ae",
       "short": "7ce7328",
@@ -128,38 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-16T02:22:21Z",
       "url": "https://github.com/UrubuCode/rts/commit/45676464906fc3dcc7990823eb1ba008778b0cb3"
-    },
-    {
-      "sha": "fa724f74967d3d411f324212504bf04dc827711d",
-      "short": "fa724f7",
-      "message": "fix(css): match native heading line metrics",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:21:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa724f74967d3d411f324212504bf04dc827711d"
-    },
-    {
-      "sha": "485884e05c05a884a4cc48b50d3925699d6650c5",
-      "short": "485884e",
-      "message": "fix(css): calibrate headless button glyph advances",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:18:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/485884e05c05a884a4cc48b50d3925699d6650c5"
-    },
-    {
-      "sha": "b968ab73a1d6d9ca777a54293ff2cbdf6b5589a0",
-      "short": "b968ab7",
-      "message": "fix(css): apply button min-content floor in flex",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:12:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b968ab73a1d6d9ca777a54293ff2cbdf6b5589a0"
-    },
-    {
-      "sha": "9eec3d6fb787868a049c893ff112c3f22fcd01a7",
-      "short": "9eec3d6",
-      "message": "fix(css): align native controls in mixed inline lines",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:09:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9eec3d6fb787868a049c893ff112c3f22fcd01a7"
     }
   ]
 }
