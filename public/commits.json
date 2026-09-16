@@ -1,165 +1,165 @@
 {
-  "total": 6104,
+  "total": 6126,
   "commits": [
     {
-      "sha": "e9bd9c17d43fde0664a72b13e17838b10201d04b",
-      "short": "e9bd9c1",
+      "sha": "45676464906fc3dcc7990823eb1ba008778b0cb3",
+      "short": "4567646",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:22:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/45676464906fc3dcc7990823eb1ba008778b0cb3"
+    },
+    {
+      "sha": "fa724f74967d3d411f324212504bf04dc827711d",
+      "short": "fa724f7",
+      "message": "fix(css): match native heading line metrics",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:21:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa724f74967d3d411f324212504bf04dc827711d"
+    },
+    {
+      "sha": "485884e05c05a884a4cc48b50d3925699d6650c5",
+      "short": "485884e",
+      "message": "fix(css): calibrate headless button glyph advances",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:18:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/485884e05c05a884a4cc48b50d3925699d6650c5"
+    },
+    {
+      "sha": "b968ab73a1d6d9ca777a54293ff2cbdf6b5589a0",
+      "short": "b968ab7",
+      "message": "fix(css): apply button min-content floor in flex",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:12:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b968ab73a1d6d9ca777a54293ff2cbdf6b5589a0"
+    },
+    {
+      "sha": "9eec3d6fb787868a049c893ff112c3f22fcd01a7",
+      "short": "9eec3d6",
+      "message": "fix(css): align native controls in mixed inline lines",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:09:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9eec3d6fb787868a049c893ff112c3f22fcd01a7"
+    },
+    {
+      "sha": "66b133aca80759e51c5202a9b86e31fe9cb30dab",
+      "short": "66b133a",
+      "message": "fix(css): size submit controls in flex basis",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:06:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/66b133aca80759e51c5202a9b86e31fe9cb30dab"
+    },
+    {
+      "sha": "0736184cbb014038d99cb43da985d83669ee012a",
+      "short": "0736184",
+      "message": "fix(css): use textarea border baseline",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T02:01:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0736184cbb014038d99cb43da985d83669ee012a"
+    },
+    {
+      "sha": "69a850c6673c32f7d486bc08568195a5863d9860",
+      "short": "69a850c",
+      "message": "fix(css): align native inline control advances",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:59:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69a850c6673c32f7d486bc08568195a5863d9860"
+    },
+    {
+      "sha": "945cee405068943e88628f0f6a00791a2a7a9749",
+      "short": "945cee4",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-15T19:38:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e9bd9c17d43fde0664a72b13e17838b10201d04b"
+      "date": "2026-09-16T01:57:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/945cee405068943e88628f0f6a00791a2a7a9749"
     },
     {
-      "sha": "85e18fba8fbc9a0c8951f4752206bbb452937aa6",
-      "short": "85e18fb",
-      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
+      "sha": "c6de22edf7fb701562411998b7da495c06f2e0cd",
+      "short": "c6de22e",
+      "message": "docs: auto-update CSS/DOM parity badge (98.7%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-15T19:36:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/85e18fba8fbc9a0c8951f4752206bbb452937aa6"
+      "date": "2026-09-16T01:56:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c6de22edf7fb701562411998b7da495c06f2e0cd"
     },
     {
-      "sha": "6c63a612465d7eff43cea9d109fa3117286cedd1",
-      "short": "6c63a61",
+      "sha": "1ac21d157f4a9072e08a35a5bb3e2943ab9f9b9c",
+      "short": "1ac21d1",
       "message": "docs: auto-update cross-runtime parity badge (84.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-15T19:35:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c63a612465d7eff43cea9d109fa3117286cedd1"
+      "date": "2026-09-16T01:56:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1ac21d157f4a9072e08a35a5bb3e2943ab9f9b9c"
     },
     {
-      "sha": "efa771641528104e58f456db59894d70d25e2bd0",
-      "short": "efa7716",
-      "message": "Merge: mais oito fixtures cross-runtime, da lista dos quase",
-      "author": "Claude",
-      "date": "2026-09-15T19:17:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/efa771641528104e58f456db59894d70d25e2bd0"
+      "sha": "e1040379f05c146efde33ab63483fa52b1b0bbed",
+      "short": "e104037",
+      "message": "fix(css): preserve inline-block whitespace gaps",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:52:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1040379f05c146efde33ab63483fa52b1b0bbed"
     },
     {
-      "sha": "358c198ad89f2ff7aa219146797d84f275716e4c",
-      "short": "358c198",
-      "message": "fix: eight more cross-runtime divergences, from the near-miss list",
-      "author": "Claude",
-      "date": "2026-09-15T19:17:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/358c198ad89f2ff7aa219146797d84f275716e4c"
+      "sha": "e1724a15647852d29f6cd3d86d97cac379e6ba3f",
+      "short": "e1724a1",
+      "message": "fix(css): stretch native submit controls in flex",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:47:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1724a15647852d29f6cd3d86d97cac379e6ba3f"
     },
     {
-      "sha": "e6d229022a1f924498599ce0332df5879b6e3865",
-      "short": "e6d2290",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-15T18:56:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6d229022a1f924498599ce0332df5879b6e3865"
+      "sha": "f7a41436c5440c0019d38ee63dc7d8e5dbd07814",
+      "short": "f7a4143",
+      "message": "fix(css): use native natural height for buttons",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:42:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f7a41436c5440c0019d38ee63dc7d8e5dbd07814"
     },
     {
-      "sha": "497a473dc6607f7aa82d0346857d58cfac297be9",
-      "short": "497a473",
-      "message": "docs: auto-update CSS/DOM parity badge (98.6%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-15T18:53:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/497a473dc6607f7aa82d0346857d58cfac297be9"
+      "sha": "fb1cb903383cc04fa80993d67a455a417287b757",
+      "short": "fb1cb90",
+      "message": "fix(css): use native button vertical metric",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:39:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fb1cb903383cc04fa80993d67a455a417287b757"
     },
     {
-      "sha": "fe7249091619b0a328cb1c8aee26b96b7fa605d8",
-      "short": "fe72490",
-      "message": "docs: auto-update cross-runtime parity badge (83.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-15T18:53:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fe7249091619b0a328cb1c8aee26b96b7fa605d8"
+      "sha": "8877c292835c31221394b77f590f9c8a329208a3",
+      "short": "8877c29",
+      "message": "fix(css): preserve monospace advance for bold text",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:38:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8877c292835c31221394b77f590f9c8a329208a3"
     },
     {
-      "sha": "eaa3cc55a19c029915d512768f11a78284c25c4d",
-      "short": "eaa3cc5",
-      "message": "merge: tres reguas importadas — test262 executado, V8 mjsunit, JSC stress",
-      "author": "Claude",
-      "date": "2026-09-15T18:31:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eaa3cc55a19c029915d512768f11a78284c25c4d"
+      "sha": "80777d6117c102834ea010ee6148eaebee3a3ff2",
+      "short": "80777d6",
+      "message": "fix(css): size table rows inside border spacing",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:26:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80777d6117c102834ea010ee6148eaebee3a3ff2"
     },
     {
-      "sha": "7328f8fb654630b2d9af3d20fff29f229595402b",
-      "short": "7328f8f",
-      "message": "test: importa o `JSTests/stress` do JSC; publica o numero corrigido do mjsunit",
-      "author": "Claude",
-      "date": "2026-09-15T18:30:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7328f8fb654630b2d9af3d20fff29f229595402b"
+      "sha": "7b655d84e6b941d2e3f3cf854b03402d2dc62bdd",
+      "short": "7b655d8",
+      "message": "test(css): retire cursor URL from expected failures",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:25:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7b655d84e6b941d2e3f3cf854b03402d2dc62bdd"
     },
     {
-      "sha": "3c0e715ffc03a0c58084b345b46330ad2fa2964a",
-      "short": "3c0e715",
-      "message": "fix(tests): the sqlite suite was writing into the repository root",
-      "author": "Claude",
-      "date": "2026-09-15T18:26:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3c0e715ffc03a0c58084b345b46330ad2fa2964a"
+      "sha": "7792dc95d8e07f56d6ddd58b72e2e5dfe60f0864",
+      "short": "7792dc9",
+      "message": "fix(css): zero computed border width when style is none",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:24:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7792dc95d8e07f56d6ddd58b72e2e5dfe60f0864"
     },
     {
-      "sha": "8daf47958fec7c98554ea5ba48d5d5cbf2af39cb",
-      "short": "8daf479",
-      "message": "Merge: dezasseis fixtures cross-runtime, medidas por ficheiro",
-      "author": "Claude",
-      "date": "2026-09-15T18:22:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8daf47958fec7c98554ea5ba48d5d5cbf2af39cb"
-    },
-    {
-      "sha": "fc3651d5a1bbd906b502c88af9cd93f182df68cb",
-      "short": "fc3651d",
-      "message": "fix: o arnes do mjsunit punha fora do denominador o que era JavaScript comum",
-      "author": "Claude",
-      "date": "2026-09-15T18:22:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fc3651d5a1bbd906b502c88af9cd93f182df68cb"
-    },
-    {
-      "sha": "023a76d93319f11997dfa0fffd1a1b5ea36052e0",
-      "short": "023a76d",
-      "message": "fix: six more cross-runtime divergences — two prototypes that were not what they are",
-      "author": "Claude",
-      "date": "2026-09-15T18:21:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/023a76d93319f11997dfa0fffd1a1b5ea36052e0"
-    },
-    {
-      "sha": "60d477e40154f4a1b7c951785e4d26c0b952e438",
-      "short": "60d477e",
-      "message": "test: importa o `test/mjsunit` do V8, sobre um arnes partilhado",
-      "author": "Claude",
-      "date": "2026-09-15T18:19:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/60d477e40154f4a1b7c951785e4d26c0b952e438"
-    },
-    {
-      "sha": "dcca56938501a59c0ec2cdca46ca000ecb0e38e0",
-      "short": "dcca569",
-      "message": "ci: divide o test262 por oito maquinas",
-      "author": "Claude",
-      "date": "2026-09-15T18:12:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dcca56938501a59c0ec2cdca46ca000ecb0e38e0"
-    },
-    {
-      "sha": "87c9c9ddc1dff7c0644abbcfe1d69b7b23f67af7",
-      "short": "87c9c9d",
-      "message": "ci: agrega as causas e poe o test262 a correr sozinho",
-      "author": "Claude",
-      "date": "2026-09-15T18:10:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87c9c9ddc1dff7c0644abbcfe1d69b7b23f67af7"
-    },
-    {
-      "sha": "e50d9df072d4f43fe4991043365e5cee962ab6b1",
-      "short": "e50d9df",
-      "message": "test: corre o test262 contra o motor, e nao so pelo front end",
-      "author": "Claude",
-      "date": "2026-09-15T17:59:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e50d9df072d4f43fe4991043365e5cee962ab6b1"
-    },
-    {
-      "sha": "f6a480a0af90df595cb7140e85be7452c7ea162a",
-      "short": "f6a480a",
-      "message": "fix: three more cross-runtime divergences — console formatting and btoa",
-      "author": "Claude",
-      "date": "2026-09-15T17:57:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f6a480a0af90df595cb7140e85be7452c7ea162a"
-    },
-    {
-      "sha": "48bf4f556ae6cb13e87f47fe5f9c8d2eebebedf1",
-      "short": "48bf4f5",
-      "message": "fix: six cross-runtime divergences — USVString, NamedEvaluation, default sort",
-      "author": "Claude",
-      "date": "2026-09-15T17:45:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/48bf4f556ae6cb13e87f47fe5f9c8d2eebebedf1"
+      "sha": "749c274f355221e91e015c1d39057fbf51f94cd1",
+      "short": "749c274",
+      "message": "fix(dom): tokenize classList by all HTML whitespace",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T01:23:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/749c274f355221e91e015c1d39057fbf51f94cd1"
     }
   ]
 }
