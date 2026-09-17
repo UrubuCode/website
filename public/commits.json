@@ -1,6 +1,38 @@
 {
-  "total": 6145,
+  "total": 6149,
   "commits": [
+    {
+      "sha": "1296a6066f4b2d632b34e923170d638bb3ec838e",
+      "short": "1296a60",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T21:09:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1296a6066f4b2d632b34e923170d638bb3ec838e"
+    },
+    {
+      "sha": "2f7e3c101073c7db329d26a0a9e2ff42c3a8eff0",
+      "short": "2f7e3c1",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T21:08:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f7e3c101073c7db329d26a0a9e2ff42c3a8eff0"
+    },
+    {
+      "sha": "22ca8e263c5e6cf7a39ba8e28bd0b161d1e04d71",
+      "short": "22ca8e2",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-16T21:08:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/22ca8e263c5e6cf7a39ba8e28bd0b161d1e04d71"
+    },
+    {
+      "sha": "5160bc8363b08e29578e9dd8d0a0ae07aa199b21",
+      "short": "5160bc8",
+      "message": "docs(dom): a arvore de caixas — desenho, invariantes e o plano de BT-1 (#2730)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-16T20:47:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5160bc8363b08e29578e9dd8d0a0ae07aa199b21"
+    },
     {
       "sha": "48e68a02d1ea05277fce7444f32fb4ec61cf5c4a",
       "short": "48e68a0",
@@ -128,38 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-16T02:44:36Z",
       "url": "https://github.com/UrubuCode/rts/commit/4b5ea9dcc08e65f1a3f876ffdaa1c480a4207620"
-    },
-    {
-      "sha": "9a03a8e74ee161d0451fcf87893e481caafdcba8",
-      "short": "9a03a8e",
-      "message": "fix(css): paint clipped backgrounds and embedded svg rects",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:36:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9a03a8e74ee161d0451fcf87893e481caafdcba8"
-    },
-    {
-      "sha": "6b2d6049e464df1f251e1086d54e504992cb4f3f",
-      "short": "6b2d604",
-      "message": "fix(css): honor align-self in column flex",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:34:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b2d6049e464df1f251e1086d54e504992cb4f3f"
-    },
-    {
-      "sha": "55ee829dbc527d5a8988f60dde64d064d0c9d4b4",
-      "short": "55ee829",
-      "message": "feat(css): balance flex line wrapping",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:32:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/55ee829dbc527d5a8988f60dde64d064d0c9d4b4"
-    },
-    {
-      "sha": "45676464906fc3dcc7990823eb1ba008778b0cb3",
-      "short": "4567646",
-      "message": "Merge remote-tracking branch 'origin/main'",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T02:22:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/45676464906fc3dcc7990823eb1ba008778b0cb3"
     }
   ]
 }
