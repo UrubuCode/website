@@ -1,6 +1,94 @@
 {
-  "total": 6177,
+  "total": 6188,
   "commits": [
+    {
+      "sha": "413351fdd60f3b410856efdeb790e83b1152716a",
+      "short": "413351f",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-17T13:19:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/413351fdd60f3b410856efdeb790e83b1152716a"
+    },
+    {
+      "sha": "56f8d4ea1b0da53f49eb3a87612628597962fc61",
+      "short": "56f8d4e",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-17T13:18:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/56f8d4ea1b0da53f49eb3a87612628597962fc61"
+    },
+    {
+      "sha": "31648f94c96ee4785c31a5f8ad3186e201f28aec",
+      "short": "31648f9",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-17T13:17:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/31648f94c96ee4785c31a5f8ad3186e201f28aec"
+    },
+    {
+      "sha": "0d47ed5cdc34e4c3c6d7fbccf447163c51bb7fbf",
+      "short": "0d47ed5",
+      "message": "fix(layout): use flex distribution fallbacks for abspos",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:55:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d47ed5cdc34e4c3c6d7fbccf447163c51bb7fbf"
+    },
+    {
+      "sha": "4c71c51af9525feeb41ddbd4df964a41b9742491",
+      "short": "4c71c51",
+      "message": "fix(css): support safe end alignment",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:53:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c71c51af9525feeb41ddbd4df964a41b9742491"
+    },
+    {
+      "sha": "1f04783f50aabfcace591912b5a2952ac148c088",
+      "short": "1f04783",
+      "message": "fix(dom): support safe center for positioned flex items",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:40:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f04783f50aabfcace591912b5a2952ac148c088"
+    },
+    {
+      "sha": "b12fc65177f5c8f1906aba1ae54d0319c5c688e9",
+      "short": "b12fc65",
+      "message": "fix(dom): align static flex positioned boxes",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:38:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b12fc65177f5c8f1906aba1ae54d0319c5c688e9"
+    },
+    {
+      "sha": "100f48b5d81322d5a81c9ba95b6abd63b2099195",
+      "short": "100f48b",
+      "message": "fix(dom): anchor positioned descendants to transforms",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:31:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/100f48b5d81322d5a81c9ba95b6abd63b2099195"
+    },
+    {
+      "sha": "4c1d08132c87bdc0e2653647afc970c6c7a2d886",
+      "short": "4c1d081",
+      "message": "fix(dom): isolate nested stacking contexts",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:30:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c1d08132c87bdc0e2653647afc970c6c7a2d886"
+    },
+    {
+      "sha": "b867facb51b164816b9a6dc4d4a4b3def25944db",
+      "short": "b867fac",
+      "message": "fix(dom): preserve anonymous box geometry",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:28:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b867facb51b164816b9a6dc4d4a4b3def25944db"
+    },
+    {
+      "sha": "ab558716921877252536a9f6a26f54c28256234d",
+      "short": "ab55871",
+      "message": "fix(dom): compose nested positioned fragments",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-17T12:21:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab558716921877252536a9f6a26f54c28256234d"
+    },
     {
       "sha": "5a322d43b1aed0c1c1067d84f1100c11bc434271",
       "short": "5a322d4",
@@ -72,94 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-17T02:08:58Z",
       "url": "https://github.com/UrubuCode/rts/commit/76d8dfe83e7478ae5750003c574b5deda934fb70"
-    },
-    {
-      "sha": "397a4a69a10ba6728052565dff2bd8e1abe11132",
-      "short": "397a4a6",
-      "message": "refactor(dom): recover inline block boxes from active tree",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T02:08:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/397a4a69a10ba6728052565dff2bd8e1abe11132"
-    },
-    {
-      "sha": "739a29606facb49726ab4c9b3adf1b1e73b33f04",
-      "short": "739a296",
-      "message": "refactor(dom): centralize legacy measurement box lookup",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T02:07:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/739a29606facb49726ab4c9b3adf1b1e73b33f04"
-    },
-    {
-      "sha": "38c627e7d475454cf46215c782c4bebf072e86e1",
-      "short": "38c627e",
-      "message": "refactor(dom): carry box identities through inline atoms",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T02:06:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38c627e7d475454cf46215c782c4bebf072e86e1"
-    },
-    {
-      "sha": "02bc7088d4a66ae3f5c7b757e7b01cbd455a82df",
-      "short": "02bc708",
-      "message": "refactor(dom): traverse table layout through box tree",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:58:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/02bc7088d4a66ae3f5c7b757e7b01cbd455a82df"
-    },
-    {
-      "sha": "13c5242932185c541690b0b88d0067e442b892bc",
-      "short": "13c5242",
-      "message": "refactor(dom): traverse column flex items through box tree",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:50:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/13c5242932185c541690b0b88d0067e442b892bc"
-    },
-    {
-      "sha": "e83b343210b5030868ff40e66d4eebba7e6e7d13",
-      "short": "e83b343",
-      "message": "refactor(dom): traverse flex items through box tree",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:46:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e83b343210b5030868ff40e66d4eebba7e6e7d13"
-    },
-    {
-      "sha": "a093bfc8b05cf0adbead4aa1656285cf8f9a05b6",
-      "short": "a093bfc",
-      "message": "refactor(dom): traverse grid items through box tree",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:45:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a093bfc8b05cf0adbead4aa1656285cf8f9a05b6"
-    },
-    {
-      "sha": "46ba35484091a3dcd3be061ffbfea137744e2491",
-      "short": "46ba354",
-      "message": "refactor(dom): carry box identities through positioned layout",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:42:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/46ba35484091a3dcd3be061ffbfea137744e2491"
-    },
-    {
-      "sha": "8a251a70b61f26ec126e65589f360dccb8f0f565",
-      "short": "8a251a7",
-      "message": "refactor(dom): enter layout through box tree roots",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:41:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8a251a70b61f26ec126e65589f360dccb8f0f565"
-    },
-    {
-      "sha": "053ed4f679f668fc955c00f3682b94dfe28ed322",
-      "short": "053ed4f",
-      "message": "feat(dom): migrate layout fragments to box identities",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T01:40:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/053ed4f679f668fc955c00f3682b94dfe28ed322"
-    },
-    {
-      "sha": "9529109394af38eae5803f9544807d64cdab17c9",
-      "short": "9529109",
-      "message": "feat(dom): bloco dentro de inline — a particao sobe, e o fluxo inline ve-a",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-16T23:53:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9529109394af38eae5803f9544807d64cdab17c9"
     }
   ]
 }
