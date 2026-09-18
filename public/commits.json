@@ -1,6 +1,70 @@
 {
-  "total": 6192,
+  "total": 6200,
   "commits": [
+    {
+      "sha": "0bdd90bc07cf0735222636c7c0f51d8235b81d9f",
+      "short": "0bdd90b",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T18:29:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0bdd90bc07cf0735222636c7c0f51d8235b81d9f"
+    },
+    {
+      "sha": "aac61c6d94f8e429bfa9739aa7ce82debccd4984",
+      "short": "aac61c6",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T18:28:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aac61c6d94f8e429bfa9739aa7ce82debccd4984"
+    },
+    {
+      "sha": "f8ff5a361a898be172737aa458b9bc5eb35544b0",
+      "short": "f8ff5a3",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T18:27:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f8ff5a361a898be172737aa458b9bc5eb35544b0"
+    },
+    {
+      "sha": "fa935ea75089ba50244af48c2514df6e767e27da",
+      "short": "fa935ea",
+      "message": "feat: opt-in operator overloading through rts's operators symbols (#2736)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-18T18:07:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa935ea75089ba50244af48c2514df6e767e27da"
+    },
+    {
+      "sha": "7ddd6c2bc04a3bab161054933879441ce2fb4ac2",
+      "short": "7ddd6c2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T16:05:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ddd6c2bc04a3bab161054933879441ce2fb4ac2"
+    },
+    {
+      "sha": "cc6321e7ea86f02f21c5095c9ef7abafe8d7f7f6",
+      "short": "cc6321e",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T16:04:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cc6321e7ea86f02f21c5095c9ef7abafe8d7f7f6"
+    },
+    {
+      "sha": "1aca94ab7d360e3e6595eb7d46628e5963075531",
+      "short": "1aca94a",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T16:03:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1aca94ab7d360e3e6595eb7d46628e5963075531"
+    },
+    {
+      "sha": "24481ec56844a4fd5838f86f63e6c99b3e508531",
+      "short": "24481ec",
+      "message": "fix: 15 TS suite failures — proper tail calls, derived-constructor this, macOS GC, built-ins (#2734)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-18T15:40:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24481ec56844a4fd5838f86f63e6c99b3e508531"
+    },
     {
       "sha": "f4b594bc68c20d6f96c3c83aef837c67d5d68693",
       "short": "f4b594b",
@@ -96,70 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-17T12:31:53Z",
       "url": "https://github.com/UrubuCode/rts/commit/100f48b5d81322d5a81c9ba95b6abd63b2099195"
-    },
-    {
-      "sha": "4c1d08132c87bdc0e2653647afc970c6c7a2d886",
-      "short": "4c1d081",
-      "message": "fix(dom): isolate nested stacking contexts",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:30:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c1d08132c87bdc0e2653647afc970c6c7a2d886"
-    },
-    {
-      "sha": "b867facb51b164816b9a6dc4d4a4b3def25944db",
-      "short": "b867fac",
-      "message": "fix(dom): preserve anonymous box geometry",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:28:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b867facb51b164816b9a6dc4d4a4b3def25944db"
-    },
-    {
-      "sha": "ab558716921877252536a9f6a26f54c28256234d",
-      "short": "ab55871",
-      "message": "fix(dom): compose nested positioned fragments",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:21:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ab558716921877252536a9f6a26f54c28256234d"
-    },
-    {
-      "sha": "5a322d43b1aed0c1c1067d84f1100c11bc434271",
-      "short": "5a322d4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T04:53:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a322d43b1aed0c1c1067d84f1100c11bc434271"
-    },
-    {
-      "sha": "2e482a0818f02f18b2f678f5818e50bdf2af171b",
-      "short": "2e482a0",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T04:52:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2e482a0818f02f18b2f678f5818e50bdf2af171b"
-    },
-    {
-      "sha": "4f86a8d37dc22e5b37589cdb951c9c7c9d534dbe",
-      "short": "4f86a8d",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T04:51:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f86a8d37dc22e5b37589cdb951c9c7c9d534dbe"
-    },
-    {
-      "sha": "d3d30fceea7ad6c86aad097d5b900d1b9539265f",
-      "short": "d3d30fc",
-      "message": "Merge branch 'codex/bt2-fragmentos'",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T04:30:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3d30fceea7ad6c86aad097d5b900d1b9539265f"
-    },
-    {
-      "sha": "c0c9127d72e197f11da2113dcfe2023611e5262a",
-      "short": "c0c9127",
-      "message": "feat(examples): add interactive urubu flight demo",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T04:25:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c0c9127d72e197f11da2113dcfe2023611e5262a"
     }
   ]
 }
