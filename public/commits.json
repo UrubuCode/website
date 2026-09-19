@@ -1,6 +1,150 @@
 {
-  "total": 6200,
+  "total": 6218,
   "commits": [
+    {
+      "sha": "316b4e77c4689ee265c2049aabeb2834ce8a895e",
+      "short": "316b4e7",
+      "message": "feat(dom): inline-blocks sit on the line's baseline (CSS 2.1 §10.8.1), and the baseline survives the fragment cache (#2742)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T02:16:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/316b4e77c4689ee265c2049aabeb2834ce8a895e"
+    },
+    {
+      "sha": "d84b74675fe56ac4264e4e54a48fa0a8f1084350",
+      "short": "d84b746",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:15:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d84b74675fe56ac4264e4e54a48fa0a8f1084350"
+    },
+    {
+      "sha": "196900ba8e0bdf1ff50e45ab80135b080e0f3009",
+      "short": "196900b",
+      "message": "docs: auto-update CSS/DOM parity badge (99.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:14:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/196900ba8e0bdf1ff50e45ab80135b080e0f3009"
+    },
+    {
+      "sha": "6b8f0205bce3dd468b5a8049ca80b346b8c7edf0",
+      "short": "6b8f020",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:14:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b8f0205bce3dd468b5a8049ca80b346b8c7edf0"
+    },
+    {
+      "sha": "da05cd7d608705e25915eacdaa758d4e01e6df4c",
+      "short": "da05cd7",
+      "message": "feat(dom): BT-5 the generated box is a box of the tree (#2741)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T01:53:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/da05cd7d608705e25915eacdaa758d4e01e6df4c"
+    },
+    {
+      "sha": "c5b4f010168d346236fc758692121f3cd584ad96",
+      "short": "c5b4f01",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T01:03:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c5b4f010168d346236fc758692121f3cd584ad96"
+    },
+    {
+      "sha": "917fbffa5b26b741e08c7492212a5c47130fb485",
+      "short": "917fbff",
+      "message": "docs: auto-update CSS/DOM parity badge (99.8%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T01:01:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/917fbffa5b26b741e08c7492212a5c47130fb485"
+    },
+    {
+      "sha": "18eede137c282543306af979127bca60785ed0dc",
+      "short": "18eede1",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T01:01:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18eede137c282543306af979127bca60785ed0dc"
+    },
+    {
+      "sha": "2c60677df544392d7ea80d873a5f7937b7eab980",
+      "short": "2c60677",
+      "message": "chore(css): drop three fixtures from the expected-failure list — they pass (#2740)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T00:39:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c60677df544392d7ea80d873a5f7937b7eab980"
+    },
+    {
+      "sha": "93e6104df4c503cf68b279395659606c2bf96e38",
+      "short": "93e6104",
+      "message": "feat(dom): BT-4 anonymous table, BT-5 generated box on the inline path, DISP header/footer groups (#2739)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T00:26:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93e6104df4c503cf68b279395659606c2bf96e38"
+    },
+    {
+      "sha": "caab2da12f7c2e7802a8bc4c543274e18ef87359",
+      "short": "caab2da",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T23:04:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/caab2da12f7c2e7802a8bc4c543274e18ef87359"
+    },
+    {
+      "sha": "e8570e30a7cac691e2463ebcad78f8b5c808c0da",
+      "short": "e8570e3",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T23:03:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e8570e30a7cac691e2463ebcad78f8b5c808c0da"
+    },
+    {
+      "sha": "4f85aea6f0d89529d291c7118fc076be56bcc43e",
+      "short": "4f85aea",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T23:03:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f85aea6f0d89529d291c7118fc076be56bcc43e"
+    },
+    {
+      "sha": "c34c4490dec9978dc242836dbb6925f8c7afe83d",
+      "short": "c34c449",
+      "message": "feat(dom): BT-3 — a float in the middle of a line stays on it; only an in-flow block splits an inline (#2738)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-18T22:45:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c34c4490dec9978dc242836dbb6925f8c7afe83d"
+    },
+    {
+      "sha": "e773f9ec55d424b2cd40fe8de3b87ec8fee558cd",
+      "short": "e773f9e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T22:01:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e773f9ec55d424b2cd40fe8de3b87ec8fee558cd"
+    },
+    {
+      "sha": "5d20e11a1d8be9b19bf414bf8d3004f27a3ff7f8",
+      "short": "5d20e11",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T22:00:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d20e11a1d8be9b19bf414bf8d3004f27a3ff7f8"
+    },
+    {
+      "sha": "49676bccb11cd0ed56f58631e3bd0e0f6a576c22",
+      "short": "49676bc",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-18T22:00:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49676bccb11cd0ed56f58631e3bd0e0f6a576c22"
+    },
+    {
+      "sha": "5c0fa08844047203e6f206f2199b4b1d4801d871",
+      "short": "5c0fa08",
+      "message": "feat: rts:serde — the pickle on the new engine (RTSP v2, v1 reader, classes, AOT) (#2737)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-18T21:38:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c0fa08844047203e6f206f2199b4b1d4801d871"
+    },
     {
       "sha": "0bdd90bc07cf0735222636c7c0f51d8235b81d9f",
       "short": "0bdd90b",
@@ -16,150 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-18T18:28:48Z",
       "url": "https://github.com/UrubuCode/rts/commit/aac61c6d94f8e429bfa9739aa7ce82debccd4984"
-    },
-    {
-      "sha": "f8ff5a361a898be172737aa458b9bc5eb35544b0",
-      "short": "f8ff5a3",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T18:27:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f8ff5a361a898be172737aa458b9bc5eb35544b0"
-    },
-    {
-      "sha": "fa935ea75089ba50244af48c2514df6e767e27da",
-      "short": "fa935ea",
-      "message": "feat: opt-in operator overloading through rts's operators symbols (#2736)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-18T18:07:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fa935ea75089ba50244af48c2514df6e767e27da"
-    },
-    {
-      "sha": "7ddd6c2bc04a3bab161054933879441ce2fb4ac2",
-      "short": "7ddd6c2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T16:05:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ddd6c2bc04a3bab161054933879441ce2fb4ac2"
-    },
-    {
-      "sha": "cc6321e7ea86f02f21c5095c9ef7abafe8d7f7f6",
-      "short": "cc6321e",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T16:04:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc6321e7ea86f02f21c5095c9ef7abafe8d7f7f6"
-    },
-    {
-      "sha": "1aca94ab7d360e3e6595eb7d46628e5963075531",
-      "short": "1aca94a",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T16:03:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1aca94ab7d360e3e6595eb7d46628e5963075531"
-    },
-    {
-      "sha": "24481ec56844a4fd5838f86f63e6c99b3e508531",
-      "short": "24481ec",
-      "message": "fix: 15 TS suite failures — proper tail calls, derived-constructor this, macOS GC, built-ins (#2734)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-18T15:40:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/24481ec56844a4fd5838f86f63e6c99b3e508531"
-    },
-    {
-      "sha": "f4b594bc68c20d6f96c3c83aef837c67d5d68693",
-      "short": "f4b594b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T12:29:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f4b594bc68c20d6f96c3c83aef837c67d5d68693"
-    },
-    {
-      "sha": "c49faa816dd317672093d595859bb6a037e8ab9d",
-      "short": "c49faa8",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T12:28:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c49faa816dd317672093d595859bb6a037e8ab9d"
-    },
-    {
-      "sha": "948d3cdb119b45c4d54e1e27cc762e3b0e34af01",
-      "short": "948d3cd",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T12:27:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/948d3cdb119b45c4d54e1e27cc762e3b0e34af01"
-    },
-    {
-      "sha": "1f0191bb3cb92ccc2965060e25a8030de3c283b1",
-      "short": "1f0191b",
-      "message": "fix(dom): review of the box-identity series — regressions fixed, BT-1 fallback gone, BT-3 rulers pass (#2733)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-18T12:06:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f0191bb3cb92ccc2965060e25a8030de3c283b1"
-    },
-    {
-      "sha": "413351fdd60f3b410856efdeb790e83b1152716a",
-      "short": "413351f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T13:19:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/413351fdd60f3b410856efdeb790e83b1152716a"
-    },
-    {
-      "sha": "56f8d4ea1b0da53f49eb3a87612628597962fc61",
-      "short": "56f8d4e",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T13:18:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/56f8d4ea1b0da53f49eb3a87612628597962fc61"
-    },
-    {
-      "sha": "31648f94c96ee4785c31a5f8ad3186e201f28aec",
-      "short": "31648f9",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-17T13:17:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/31648f94c96ee4785c31a5f8ad3186e201f28aec"
-    },
-    {
-      "sha": "0d47ed5cdc34e4c3c6d7fbccf447163c51bb7fbf",
-      "short": "0d47ed5",
-      "message": "fix(layout): use flex distribution fallbacks for abspos",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:55:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0d47ed5cdc34e4c3c6d7fbccf447163c51bb7fbf"
-    },
-    {
-      "sha": "4c71c51af9525feeb41ddbd4df964a41b9742491",
-      "short": "4c71c51",
-      "message": "fix(css): support safe end alignment",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:53:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4c71c51af9525feeb41ddbd4df964a41b9742491"
-    },
-    {
-      "sha": "1f04783f50aabfcace591912b5a2952ac148c088",
-      "short": "1f04783",
-      "message": "fix(dom): support safe center for positioned flex items",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:40:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f04783f50aabfcace591912b5a2952ac148c088"
-    },
-    {
-      "sha": "b12fc65177f5c8f1906aba1ae54d0319c5c688e9",
-      "short": "b12fc65",
-      "message": "fix(dom): align static flex positioned boxes",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:38:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b12fc65177f5c8f1906aba1ae54d0319c5c688e9"
-    },
-    {
-      "sha": "100f48b5d81322d5a81c9ba95b6abd63b2099195",
-      "short": "100f48b",
-      "message": "fix(dom): anchor positioned descendants to transforms",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-17T12:31:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/100f48b5d81322d5a81c9ba95b6abd63b2099195"
     }
   ]
 }
