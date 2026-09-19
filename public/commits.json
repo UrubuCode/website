@@ -1,6 +1,94 @@
 {
-  "total": 6218,
+  "total": 6229,
   "commits": [
+    {
+      "sha": "fef94f24b2884a0d5ef72b63f08103a623a33f95",
+      "short": "fef94f2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T04:21:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fef94f24b2884a0d5ef72b63f08103a623a33f95"
+    },
+    {
+      "sha": "d3671e2e404d6ad71f2fbcb4befb0c85ecbaa607",
+      "short": "d3671e2",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T04:20:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d3671e2e404d6ad71f2fbcb4befb0c85ecbaa607"
+    },
+    {
+      "sha": "c9920bb765f7af9a7795b10593e8981ddd8695fe",
+      "short": "c9920bb",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T04:20:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c9920bb765f7af9a7795b10593e8981ddd8695fe"
+    },
+    {
+      "sha": "11c203e7de00edeb35a1518659407b7c28fab78e",
+      "short": "11c203e",
+      "message": "feat(dom): real text advances, and every inline box has its own font (#2744)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T03:58:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/11c203e7de00edeb35a1518659407b7c28fab78e"
+    },
+    {
+      "sha": "8613296b85ff97d1fd78906bb1e6441ae6f4c870",
+      "short": "8613296",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T03:32:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8613296b85ff97d1fd78906bb1e6441ae6f4c870"
+    },
+    {
+      "sha": "ab64195d281d6a0bd40428dfa03ec0074adca71f",
+      "short": "ab64195",
+      "message": "docs: auto-update CSS/DOM parity badge (99.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T03:31:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ab64195d281d6a0bd40428dfa03ec0074adca71f"
+    },
+    {
+      "sha": "8c914092ebf6937e30e9356563a89b60d56b257e",
+      "short": "8c91409",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T03:31:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c914092ebf6937e30e9356563a89b60d56b257e"
+    },
+    {
+      "sha": "1cb9ed71488d9a287719a8a2cf47310cb6582b0a",
+      "short": "1cb9ed7",
+      "message": "feat(dom): FM — vertical font metrics are the fonts' own tables, with Blink's rounding (#2743)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-19T03:09:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1cb9ed71488d9a287719a8a2cf47310cb6582b0a"
+    },
+    {
+      "sha": "3a21322b4789cc49ed91cabb96d65999923724b7",
+      "short": "3a21322",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:39:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3a21322b4789cc49ed91cabb96d65999923724b7"
+    },
+    {
+      "sha": "a22fc6b14a53ba68ce5a0b214955a21a811fc0b2",
+      "short": "a22fc6b",
+      "message": "docs: auto-update CSS/DOM parity badge (99.7%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:38:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a22fc6b14a53ba68ce5a0b214955a21a811fc0b2"
+    },
+    {
+      "sha": "af0a761003075dd7ae32fd811be26aebbb7b60a3",
+      "short": "af0a761",
+      "message": "docs: auto-update cross-runtime parity badge (84.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-19T02:37:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/af0a761003075dd7ae32fd811be26aebbb7b60a3"
+    },
     {
       "sha": "316b4e77c4689ee265c2049aabeb2834ce8a895e",
       "short": "316b4e7",
@@ -72,94 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-19T00:39:46Z",
       "url": "https://github.com/UrubuCode/rts/commit/2c60677df544392d7ea80d873a5f7937b7eab980"
-    },
-    {
-      "sha": "93e6104df4c503cf68b279395659606c2bf96e38",
-      "short": "93e6104",
-      "message": "feat(dom): BT-4 anonymous table, BT-5 generated box on the inline path, DISP header/footer groups (#2739)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T00:26:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/93e6104df4c503cf68b279395659606c2bf96e38"
-    },
-    {
-      "sha": "caab2da12f7c2e7802a8bc4c543274e18ef87359",
-      "short": "caab2da",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T23:04:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/caab2da12f7c2e7802a8bc4c543274e18ef87359"
-    },
-    {
-      "sha": "e8570e30a7cac691e2463ebcad78f8b5c808c0da",
-      "short": "e8570e3",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T23:03:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e8570e30a7cac691e2463ebcad78f8b5c808c0da"
-    },
-    {
-      "sha": "4f85aea6f0d89529d291c7118fc076be56bcc43e",
-      "short": "4f85aea",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T23:03:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f85aea6f0d89529d291c7118fc076be56bcc43e"
-    },
-    {
-      "sha": "c34c4490dec9978dc242836dbb6925f8c7afe83d",
-      "short": "c34c449",
-      "message": "feat(dom): BT-3 — a float in the middle of a line stays on it; only an in-flow block splits an inline (#2738)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-18T22:45:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c34c4490dec9978dc242836dbb6925f8c7afe83d"
-    },
-    {
-      "sha": "e773f9ec55d424b2cd40fe8de3b87ec8fee558cd",
-      "short": "e773f9e",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T22:01:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e773f9ec55d424b2cd40fe8de3b87ec8fee558cd"
-    },
-    {
-      "sha": "5d20e11a1d8be9b19bf414bf8d3004f27a3ff7f8",
-      "short": "5d20e11",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T22:00:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d20e11a1d8be9b19bf414bf8d3004f27a3ff7f8"
-    },
-    {
-      "sha": "49676bccb11cd0ed56f58631e3bd0e0f6a576c22",
-      "short": "49676bc",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T22:00:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49676bccb11cd0ed56f58631e3bd0e0f6a576c22"
-    },
-    {
-      "sha": "5c0fa08844047203e6f206f2199b4b1d4801d871",
-      "short": "5c0fa08",
-      "message": "feat: rts:serde — the pickle on the new engine (RTSP v2, v1 reader, classes, AOT) (#2737)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-18T21:38:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c0fa08844047203e6f206f2199b4b1d4801d871"
-    },
-    {
-      "sha": "0bdd90bc07cf0735222636c7c0f51d8235b81d9f",
-      "short": "0bdd90b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T18:29:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0bdd90bc07cf0735222636c7c0f51d8235b81d9f"
-    },
-    {
-      "sha": "aac61c6d94f8e429bfa9739aa7ce82debccd4984",
-      "short": "aac61c6",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-18T18:28:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aac61c6d94f8e429bfa9739aa7ce82debccd4984"
     }
   ]
 }
