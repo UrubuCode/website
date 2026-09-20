@@ -1,6 +1,46 @@
 {
-  "total": 6249,
+  "total": 6254,
   "commits": [
+    {
+      "sha": "b59962cc94e8bb042ed572deab714c956026989f",
+      "short": "b59962c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T14:38:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b59962cc94e8bb042ed572deab714c956026989f"
+    },
+    {
+      "sha": "5abc0d95cb1db4dc3db62a26969dbdd618f24d99",
+      "short": "5abc0d9",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T14:37:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5abc0d95cb1db4dc3db62a26969dbdd618f24d99"
+    },
+    {
+      "sha": "40a7206b2f762750df860b03f5cd98c7f57becbb",
+      "short": "40a7206",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T14:37:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40a7206b2f762750df860b03f5cd98c7f57becbb"
+    },
+    {
+      "sha": "2841eca368c8e2a16aa10745198f04ab1ea6f269",
+      "short": "2841eca",
+      "message": "docs(host): o plano do alias de import, e duas correcoes que ele achou na spec",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T12:27:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2841eca368c8e2a16aa10745198f04ab1ea6f269"
+    },
+    {
+      "sha": "94db71651e8a09c748e953315d72ae0dac277c21",
+      "short": "94db716",
+      "message": "docs(host): o desenho de alias de import, antes de uma linha de codigo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T12:12:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/94db71651e8a09c748e953315d72ae0dac277c21"
+    },
     {
       "sha": "e0430a23be86729d15b2ac06b2cbbe0aea08234b",
       "short": "e0430a2",
@@ -120,46 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-19T23:25:16Z",
       "url": "https://github.com/UrubuCode/rts/commit/7158406b15faeb4b6300ac0afa7d8995cecc1a3b"
-    },
-    {
-      "sha": "6663ad8a5352b82b7c3618d6126f968b05177c9c",
-      "short": "6663ad8",
-      "message": "perf(core): a dying cell was dispatched to twenty-two tables; it walks a straight line",
-      "author": "Drysius",
-      "date": "2026-09-19T22:08:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6663ad8a5352b82b7c3618d6126f968b05177c9c"
-    },
-    {
-      "sha": "87302a3c6113ead21a9324e93b3a00d018e3365a",
-      "short": "87302a3",
-      "message": "refactor(core): json/write.rs was 1212 lines under a ceiling of 500; it is a folder",
-      "author": "Drysius",
-      "date": "2026-09-19T21:22:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/87302a3c6113ead21a9324e93b3a00d018e3365a"
-    },
-    {
-      "sha": "5670a48c64fa3442ff258b0e007eea0e7fd05523",
-      "short": "5670a48",
-      "message": "perf(core): what one JSON call learns, the next one keeps",
-      "author": "Drysius",
-      "date": "2026-09-19T21:11:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5670a48c64fa3442ff258b0e007eea0e7fd05523"
-    },
-    {
-      "sha": "5cc5130c9ed9618695338474a421bae14cd80601",
-      "short": "5cc5130",
-      "message": "perf(core,codegen): JSON by its entry points, and a walk that stops rediscovering",
-      "author": "Drysius",
-      "date": "2026-09-19T20:26:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cc5130c9ed9618695338474a421bae14cd80601"
-    },
-    {
-      "sha": "734af36f443df9c190e092a01dff64689c063a2d",
-      "short": "734af36",
-      "message": "fix(core): a false root into a spanning object's interior cost 742 ms in one mark",
-      "author": "Drysius",
-      "date": "2026-09-19T20:26:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/734af36f443df9c190e092a01dff64689c063a2d"
     }
   ]
 }
