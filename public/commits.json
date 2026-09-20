@@ -1,165 +1,165 @@
 {
-  "total": 6229,
+  "total": 6249,
   "commits": [
     {
-      "sha": "fef94f24b2884a0d5ef72b63f08103a623a33f95",
-      "short": "fef94f2",
+      "sha": "e0430a23be86729d15b2ac06b2cbbe0aea08234b",
+      "short": "e0430a2",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T04:21:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fef94f24b2884a0d5ef72b63f08103a623a33f95"
+      "date": "2026-09-20T04:47:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e0430a23be86729d15b2ac06b2cbbe0aea08234b"
     },
     {
-      "sha": "d3671e2e404d6ad71f2fbcb4befb0c85ecbaa607",
-      "short": "d3671e2",
+      "sha": "eee7ab7632d06e730fa01e46fd218d0f4d31a407",
+      "short": "eee7ab7",
       "message": "docs: auto-update CSS/DOM parity badge (100%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T04:20:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d3671e2e404d6ad71f2fbcb4befb0c85ecbaa607"
+      "date": "2026-09-20T04:46:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eee7ab7632d06e730fa01e46fd218d0f4d31a407"
     },
     {
-      "sha": "c9920bb765f7af9a7795b10593e8981ddd8695fe",
-      "short": "c9920bb",
+      "sha": "e357d2336b3538a9445c145456e0fa2849486d1b",
+      "short": "e357d23",
       "message": "docs: auto-update cross-runtime parity badge (84.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T04:20:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c9920bb765f7af9a7795b10593e8981ddd8695fe"
+      "date": "2026-09-20T04:45:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e357d2336b3538a9445c145456e0fa2849486d1b"
     },
     {
-      "sha": "11c203e7de00edeb35a1518659407b7c28fab78e",
-      "short": "11c203e",
-      "message": "feat(dom): real text advances, and every inline box has its own font (#2744)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T03:58:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/11c203e7de00edeb35a1518659407b7c28fab78e"
+      "sha": "8d8f684a51c3f1c2c28dc1489b0eb30ab8e33de3",
+      "short": "8d8f684",
+      "message": "fix(ci): tres avisos com um nome so colidiam como assets da release",
+      "author": "Drysius",
+      "date": "2026-09-20T04:15:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d8f684a51c3f1c2c28dc1489b0eb30ab8e33de3"
     },
     {
-      "sha": "8613296b85ff97d1fd78906bb1e6441ae6f4c870",
-      "short": "8613296",
+      "sha": "afda7450c1c85b7cf7d9cb3ad5db2482184a097d",
+      "short": "afda745",
+      "message": "refactor: o aviso sai do binario, do repositorio e do gate — fica so onde e preciso",
+      "author": "Drysius",
+      "date": "2026-09-20T04:09:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/afda7450c1c85b7cf7d9cb3ad5db2482184a097d"
+    },
+    {
+      "sha": "b830d8c33ac89f1555fec1f18d0c04c36271161a",
+      "short": "b830d8c",
+      "message": "feat(cli): `rts notice` — a atribuicao de quem compila deixa de ser divida nossa",
+      "author": "Drysius",
+      "date": "2026-09-20T03:43:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b830d8c33ac89f1555fec1f18d0c04c36271161a"
+    },
+    {
+      "sha": "a813e0969af59ebdb4baa0599743557f05b5e417",
+      "short": "a813e09",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T03:32:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8613296b85ff97d1fd78906bb1e6441ae6f4c870"
+      "date": "2026-09-20T03:56:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a813e0969af59ebdb4baa0599743557f05b5e417"
     },
     {
-      "sha": "ab64195d281d6a0bd40428dfa03ec0074adca71f",
-      "short": "ab64195",
-      "message": "docs: auto-update CSS/DOM parity badge (99.1%)",
+      "sha": "e1020eb63eb1a605afd9bb812961c1f3efcb1902",
+      "short": "e1020eb",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T03:31:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ab64195d281d6a0bd40428dfa03ec0074adca71f"
+      "date": "2026-09-20T03:55:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1020eb63eb1a605afd9bb812961c1f3efcb1902"
     },
     {
-      "sha": "8c914092ebf6937e30e9356563a89b60d56b257e",
-      "short": "8c91409",
+      "sha": "7dfc41438b3f48ecd9700fae745d950e2c4ade7b",
+      "short": "7dfc414",
       "message": "docs: auto-update cross-runtime parity badge (84.2%)",
       "author": "github-actions[bot]",
-      "date": "2026-09-19T03:31:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c914092ebf6937e30e9356563a89b60d56b257e"
+      "date": "2026-09-20T03:55:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7dfc41438b3f48ecd9700fae745d950e2c4ade7b"
     },
     {
-      "sha": "1cb9ed71488d9a287719a8a2cf47310cb6582b0a",
-      "short": "1cb9ed7",
-      "message": "feat(dom): FM — vertical font metrics are the fonts' own tables, with Blink's rounding (#2743)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T03:09:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1cb9ed71488d9a287719a8a2cf47310cb6582b0a"
+      "sha": "b46fc3739764e774be7da0e1e28cbf717367a2f9",
+      "short": "b46fc37",
+      "message": "docs: uma quinta regua estava calada, e foi encontrada a escrever sobre as outras",
+      "author": "Drysius",
+      "date": "2026-09-20T03:07:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b46fc3739764e774be7da0e1e28cbf717367a2f9"
     },
     {
-      "sha": "3a21322b4789cc49ed91cabb96d65999923724b7",
-      "short": "3a21322",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:39:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a21322b4789cc49ed91cabb96d65999923724b7"
+      "sha": "4a865a523905d6aa79e060ccf612acbf2da0fe4f",
+      "short": "4a865a5",
+      "message": "docs: a condicao 3 destas licencas proibe um badge, e nos tinhamos quatro",
+      "author": "Drysius",
+      "date": "2026-09-20T02:51:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a865a523905d6aa79e060ccf612acbf2da0fe4f"
     },
     {
-      "sha": "a22fc6b14a53ba68ce5a0b214955a21a811fc0b2",
-      "short": "a22fc6b",
-      "message": "docs: auto-update CSS/DOM parity badge (99.7%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:38:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a22fc6b14a53ba68ce5a0b214955a21a811fc0b2"
+      "sha": "e76d104c837345883f4dbe63b0098ccecea17ebc",
+      "short": "e76d104",
+      "message": "Merge: JSON 2-4x mais rapido, e tres defeitos que nao eram de JSON",
+      "author": "Drysius",
+      "date": "2026-09-20T01:39:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e76d104c837345883f4dbe63b0098ccecea17ebc"
     },
     {
-      "sha": "af0a761003075dd7ae32fd811be26aebbb7b60a3",
-      "short": "af0a761",
-      "message": "docs: auto-update cross-runtime parity badge (84.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:37:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/af0a761003075dd7ae32fd811be26aebbb7b60a3"
+      "sha": "68e0599a1d2caa50b7a45742b440df7824577adf",
+      "short": "68e0599",
+      "message": "docs(codegen): a row that allocates is measured in a process of its own",
+      "author": "Drysius",
+      "date": "2026-09-20T00:11:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68e0599a1d2caa50b7a45742b440df7824577adf"
     },
     {
-      "sha": "316b4e77c4689ee265c2049aabeb2834ce8a895e",
-      "short": "316b4e7",
-      "message": "feat(dom): inline-blocks sit on the line's baseline (CSS 2.1 §10.8.1), and the baseline survives the fragment cache (#2742)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T02:16:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/316b4e77c4689ee265c2049aabeb2834ce8a895e"
+      "sha": "581e8818d95f7479ad89c00478fdb973cf536b89",
+      "short": "581e881",
+      "message": "perf(core): short text lives in the string, not in a buffer of its own",
+      "author": "Drysius",
+      "date": "2026-09-20T00:10:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/581e8818d95f7479ad89c00478fdb973cf536b89"
     },
     {
-      "sha": "d84b74675fe56ac4264e4e54a48fa0a8f1084350",
-      "short": "d84b746",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:15:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d84b74675fe56ac4264e4e54a48fa0a8f1084350"
+      "sha": "7158406b15faeb4b6300ac0afa7d8995cecc1a3b",
+      "short": "7158406",
+      "message": "perf(codegen): a string literal was asked whether it is a double, every pass",
+      "author": "Drysius",
+      "date": "2026-09-19T23:25:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7158406b15faeb4b6300ac0afa7d8995cecc1a3b"
     },
     {
-      "sha": "196900ba8e0bdf1ff50e45ab80135b080e0f3009",
-      "short": "196900b",
-      "message": "docs: auto-update CSS/DOM parity badge (99.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:14:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/196900ba8e0bdf1ff50e45ab80135b080e0f3009"
+      "sha": "6663ad8a5352b82b7c3618d6126f968b05177c9c",
+      "short": "6663ad8",
+      "message": "perf(core): a dying cell was dispatched to twenty-two tables; it walks a straight line",
+      "author": "Drysius",
+      "date": "2026-09-19T22:08:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6663ad8a5352b82b7c3618d6126f968b05177c9c"
     },
     {
-      "sha": "6b8f0205bce3dd468b5a8049ca80b346b8c7edf0",
-      "short": "6b8f020",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T02:14:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b8f0205bce3dd468b5a8049ca80b346b8c7edf0"
+      "sha": "87302a3c6113ead21a9324e93b3a00d018e3365a",
+      "short": "87302a3",
+      "message": "refactor(core): json/write.rs was 1212 lines under a ceiling of 500; it is a folder",
+      "author": "Drysius",
+      "date": "2026-09-19T21:22:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/87302a3c6113ead21a9324e93b3a00d018e3365a"
     },
     {
-      "sha": "da05cd7d608705e25915eacdaa758d4e01e6df4c",
-      "short": "da05cd7",
-      "message": "feat(dom): BT-5 the generated box is a box of the tree (#2741)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T01:53:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/da05cd7d608705e25915eacdaa758d4e01e6df4c"
+      "sha": "5670a48c64fa3442ff258b0e007eea0e7fd05523",
+      "short": "5670a48",
+      "message": "perf(core): what one JSON call learns, the next one keeps",
+      "author": "Drysius",
+      "date": "2026-09-19T21:11:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5670a48c64fa3442ff258b0e007eea0e7fd05523"
     },
     {
-      "sha": "c5b4f010168d346236fc758692121f3cd584ad96",
-      "short": "c5b4f01",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T01:03:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c5b4f010168d346236fc758692121f3cd584ad96"
+      "sha": "5cc5130c9ed9618695338474a421bae14cd80601",
+      "short": "5cc5130",
+      "message": "perf(core,codegen): JSON by its entry points, and a walk that stops rediscovering",
+      "author": "Drysius",
+      "date": "2026-09-19T20:26:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5cc5130c9ed9618695338474a421bae14cd80601"
     },
     {
-      "sha": "917fbffa5b26b741e08c7492212a5c47130fb485",
-      "short": "917fbff",
-      "message": "docs: auto-update CSS/DOM parity badge (99.8%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T01:01:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/917fbffa5b26b741e08c7492212a5c47130fb485"
-    },
-    {
-      "sha": "18eede137c282543306af979127bca60785ed0dc",
-      "short": "18eede1",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-19T01:01:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18eede137c282543306af979127bca60785ed0dc"
-    },
-    {
-      "sha": "2c60677df544392d7ea80d873a5f7937b7eab980",
-      "short": "2c60677",
-      "message": "chore(css): drop three fixtures from the expected-failure list — they pass (#2740)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-19T00:39:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c60677df544392d7ea80d873a5f7937b7eab980"
+      "sha": "734af36f443df9c190e092a01dff64689c063a2d",
+      "short": "734af36",
+      "message": "fix(core): a false root into a spanning object's interior cost 742 ms in one mark",
+      "author": "Drysius",
+      "date": "2026-09-19T20:26:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/734af36f443df9c190e092a01dff64689c063a2d"
     }
   ]
 }
