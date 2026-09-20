@@ -1,6 +1,118 @@
 {
-  "total": 6254,
+  "total": 6281,
   "commits": [
+    {
+      "sha": "6a68743bab08c6e76263bacb8506776677474579",
+      "short": "6a68743",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T17:07:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6a68743bab08c6e76263bacb8506776677474579"
+    },
+    {
+      "sha": "ff6031bd933cc4ecd1a4e9ec930d9b19dfa0480f",
+      "short": "ff6031b",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T17:06:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff6031bd933cc4ecd1a4e9ec930d9b19dfa0480f"
+    },
+    {
+      "sha": "4ef15b801f23835c91f955d6140ce271dffc75a1",
+      "short": "4ef15b8",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T17:06:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4ef15b801f23835c91f955d6140ce271dffc75a1"
+    },
+    {
+      "sha": "27ecfd83f4c614f1a7bcbcadfe835888bbb23efe",
+      "short": "27ecfd8",
+      "message": "feat(cli): `--no-embed-compiler`, a negacao que se adivinha sem ler o help",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T16:42:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27ecfd83f4c614f1a7bcbcadfe835888bbb23efe"
+    },
+    {
+      "sha": "941d1d2fb2c4fae9b6494d247420499417cda7f0",
+      "short": "941d1d2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T16:19:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/941d1d2fb2c4fae9b6494d247420499417cda7f0"
+    },
+    {
+      "sha": "f013e31286bf500f71f70531fc79df4fb94bdc86",
+      "short": "f013e31",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T16:18:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f013e31286bf500f71f70531fc79df4fb94bdc86"
+    },
+    {
+      "sha": "6b12643920c1e9d88162ae4b18368bcf666ee84a",
+      "short": "6b12643",
+      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T16:18:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6b12643920c1e9d88162ae4b18368bcf666ee84a"
+    },
+    {
+      "sha": "e9fefa09cfd41253bcf8e407b503df6b7e99da1b",
+      "short": "e9fefa0",
+      "message": "Merge: um tsconfig.json diz onde um nome escrito mora",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:13:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e9fefa09cfd41253bcf8e407b503df6b7e99da1b"
+    },
+    {
+      "sha": "d679c378afa209b6d651e40454497af4b11a4bf7",
+      "short": "d679c37",
+      "message": "docs: o binario rts vem do pacote raiz, e nao do rts-cli que e biblioteca",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:13:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d679c378afa209b6d651e40454497af4b11a4bf7"
+    },
+    {
+      "sha": "57a9e060f88ae6f81803e199e317edef4cb2c186",
+      "short": "57a9e06",
+      "message": "style: a linha longa quebrada, o teto de 100 colunas vale aqui tambem",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:04:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/57a9e060f88ae6f81803e199e317edef4cb2c186"
+    },
+    {
+      "sha": "eaf30ebe9f5741d39993aa9dae63f0b0861486f1",
+      "short": "eaf30eb",
+      "message": "fix: a lista de alvos e tentada ate o fim, e o custo no doc e o real",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:02:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eaf30ebe9f5741d39993aa9dae63f0b0861486f1"
+    },
+    {
+      "sha": "8e71215af1ab49be2691de6624b45afebbb58021",
+      "short": "8e71215",
+      "message": "feat: com `baseUrl` posto, e ele a base de um alvo relativo de `paths`",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:01:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8e71215af1ab49be2691de6624b45afebbb58021"
+    },
+    {
+      "sha": "80e002a4d858b64b04b037f521bd2d06a52baded",
+      "short": "80e002a",
+      "message": "fix: um alvo `.d.ts` descreve tipos, nao nomeia um modulo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T15:00:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/80e002a4d858b64b04b037f521bd2d06a52baded"
+    },
+    {
+      "sha": "4a4543f29593476550806388f6847063465689f2",
+      "short": "4a4543f",
+      "message": "docs: o que a instalacao do mapa custa depende de quem pergunta",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T14:44:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a4543f29593476550806388f6847063465689f2"
+    },
     {
       "sha": "b59962cc94e8bb042ed572deab714c956026989f",
       "short": "b59962c",
@@ -26,140 +138,28 @@
       "url": "https://github.com/UrubuCode/rts/commit/40a7206b2f762750df860b03f5cd98c7f57becbb"
     },
     {
-      "sha": "2841eca368c8e2a16aa10745198f04ab1ea6f269",
-      "short": "2841eca",
-      "message": "docs(host): o plano do alias de import, e duas correcoes que ele achou na spec",
+      "sha": "845cc5eb4d901265b93fcacb4b813ba97a451714",
+      "short": "845cc5e",
+      "message": "fix: um alias nomeia um ficheiro, e quem decide o grafo passa a perguntar ao host",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T12:27:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2841eca368c8e2a16aa10745198f04ab1ea6f269"
+      "date": "2026-09-20T14:35:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/845cc5eb4d901265b93fcacb4b813ba97a451714"
     },
     {
-      "sha": "94db71651e8a09c748e953315d72ae0dac277c21",
-      "short": "94db716",
-      "message": "docs(host): o desenho de alias de import, antes de uma linha de codigo",
+      "sha": "1da1897d49f87d01d4358e4c4cc813e0ae780f47",
+      "short": "1da1897",
+      "message": "docs: uma citacao que cai na funcao errada e pior que nenhuma",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T12:12:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94db71651e8a09c748e953315d72ae0dac277c21"
+      "date": "2026-09-20T14:21:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1da1897d49f87d01d4358e4c4cc813e0ae780f47"
     },
     {
-      "sha": "e0430a23be86729d15b2ac06b2cbbe0aea08234b",
-      "short": "e0430a2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T04:47:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e0430a23be86729d15b2ac06b2cbbe0aea08234b"
-    },
-    {
-      "sha": "eee7ab7632d06e730fa01e46fd218d0f4d31a407",
-      "short": "eee7ab7",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T04:46:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eee7ab7632d06e730fa01e46fd218d0f4d31a407"
-    },
-    {
-      "sha": "e357d2336b3538a9445c145456e0fa2849486d1b",
-      "short": "e357d23",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T04:45:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e357d2336b3538a9445c145456e0fa2849486d1b"
-    },
-    {
-      "sha": "8d8f684a51c3f1c2c28dc1489b0eb30ab8e33de3",
-      "short": "8d8f684",
-      "message": "fix(ci): tres avisos com um nome so colidiam como assets da release",
-      "author": "Drysius",
-      "date": "2026-09-20T04:15:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d8f684a51c3f1c2c28dc1489b0eb30ab8e33de3"
-    },
-    {
-      "sha": "afda7450c1c85b7cf7d9cb3ad5db2482184a097d",
-      "short": "afda745",
-      "message": "refactor: o aviso sai do binario, do repositorio e do gate — fica so onde e preciso",
-      "author": "Drysius",
-      "date": "2026-09-20T04:09:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/afda7450c1c85b7cf7d9cb3ad5db2482184a097d"
-    },
-    {
-      "sha": "b830d8c33ac89f1555fec1f18d0c04c36271161a",
-      "short": "b830d8c",
-      "message": "feat(cli): `rts notice` — a atribuicao de quem compila deixa de ser divida nossa",
-      "author": "Drysius",
-      "date": "2026-09-20T03:43:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b830d8c33ac89f1555fec1f18d0c04c36271161a"
-    },
-    {
-      "sha": "a813e0969af59ebdb4baa0599743557f05b5e417",
-      "short": "a813e09",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T03:56:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a813e0969af59ebdb4baa0599743557f05b5e417"
-    },
-    {
-      "sha": "e1020eb63eb1a605afd9bb812961c1f3efcb1902",
-      "short": "e1020eb",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T03:55:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e1020eb63eb1a605afd9bb812961c1f3efcb1902"
-    },
-    {
-      "sha": "7dfc41438b3f48ecd9700fae745d950e2c4ade7b",
-      "short": "7dfc414",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T03:55:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7dfc41438b3f48ecd9700fae745d950e2c4ade7b"
-    },
-    {
-      "sha": "b46fc3739764e774be7da0e1e28cbf717367a2f9",
-      "short": "b46fc37",
-      "message": "docs: uma quinta regua estava calada, e foi encontrada a escrever sobre as outras",
-      "author": "Drysius",
-      "date": "2026-09-20T03:07:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b46fc3739764e774be7da0e1e28cbf717367a2f9"
-    },
-    {
-      "sha": "4a865a523905d6aa79e060ccf612acbf2da0fe4f",
-      "short": "4a865a5",
-      "message": "docs: a condicao 3 destas licencas proibe um badge, e nos tinhamos quatro",
-      "author": "Drysius",
-      "date": "2026-09-20T02:51:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4a865a523905d6aa79e060ccf612acbf2da0fe4f"
-    },
-    {
-      "sha": "e76d104c837345883f4dbe63b0098ccecea17ebc",
-      "short": "e76d104",
-      "message": "Merge: JSON 2-4x mais rapido, e tres defeitos que nao eram de JSON",
-      "author": "Drysius",
-      "date": "2026-09-20T01:39:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e76d104c837345883f4dbe63b0098ccecea17ebc"
-    },
-    {
-      "sha": "68e0599a1d2caa50b7a45742b440df7824577adf",
-      "short": "68e0599",
-      "message": "docs(codegen): a row that allocates is measured in a process of its own",
-      "author": "Drysius",
-      "date": "2026-09-20T00:11:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68e0599a1d2caa50b7a45742b440df7824577adf"
-    },
-    {
-      "sha": "581e8818d95f7479ad89c00478fdb973cf536b89",
-      "short": "581e881",
-      "message": "perf(core): short text lives in the string, not in a buffer of its own",
-      "author": "Drysius",
-      "date": "2026-09-20T00:10:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/581e8818d95f7479ad89c00478fdb973cf536b89"
-    },
-    {
-      "sha": "7158406b15faeb4b6300ac0afa7d8995cecc1a3b",
-      "short": "7158406",
-      "message": "perf(codegen): a string literal was asked whether it is a double, every pass",
-      "author": "Drysius",
-      "date": "2026-09-19T23:25:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7158406b15faeb4b6300ac0afa7d8995cecc1a3b"
+      "sha": "f8a545df5303cf0b9b14377c1bf2d80b36e4d6da",
+      "short": "f8a545d",
+      "message": "docs(host): o alias de import, e a precedencia que o torna seguro",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T14:14:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f8a545df5303cf0b9b14377c1bf2d80b36e4d6da"
     }
   ]
 }
