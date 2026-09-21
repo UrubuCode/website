@@ -1,6 +1,118 @@
 {
-  "total": 6284,
+  "total": 6308,
   "commits": [
+    {
+      "sha": "910985d33262b459b19a2770114817d176a64170",
+      "short": "910985d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-21T19:45:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/910985d33262b459b19a2770114817d176a64170"
+    },
+    {
+      "sha": "36c1545d26d24236fefe50e19737356877e35b90",
+      "short": "36c1545",
+      "message": "Merge pull request #2748 from UrubuCode/feature/fisica-needs-nivel",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T19:21:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/36c1545d26d24236fefe50e19737356877e35b90"
+    },
+    {
+      "sha": "4e59c350fe244030037be64d8cb62f3426a16b1f",
+      "short": "4e59c35",
+      "message": "fix(physics): resolver conflitos de rebase, incluir nivel em describe() e adicionar teste em registry",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T19:21:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e59c350fe244030037be64d8cb62f3426a16b1f"
+    },
+    {
+      "sha": "c1c74b94e8ed4e2a9e68870f9549dea18de3f092",
+      "short": "c1c74b9",
+      "message": "feat(physics): adicionar campo de nivel em Needs e recusar niveis nao suportados",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T18:28:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c1c74b94e8ed4e2a9e68870f9549dea18de3f092"
+    },
+    {
+      "sha": "c44381f0ce3f143b25cbf2d0d701c864df4b1309",
+      "short": "c44381f",
+      "message": "Merge pull request #2747 from UrubuCode/feature/fisica-replay-determinismo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T19:19:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c44381f0ce3f143b25cbf2d0d701c864df4b1309"
+    },
+    {
+      "sha": "4f91ca884b82e47924a99d14f0b1140bbe8584b9",
+      "short": "4f91ca8",
+      "message": "test(physics): ampliar teste de replay com materiais, cinematico e mascaras e esclarecer escopo do determinismo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T19:19:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f91ca884b82e47924a99d14f0b1140bbe8584b9"
+    },
+    {
+      "sha": "24280b3fa181418d5b3eee7d38f4470b712013d6",
+      "short": "24280b3",
+      "message": "feat(dom): static position of an absolute box mid-line, and position: relative on inline boxes (#2749)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T19:04:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24280b3fa181418d5b3eee7d38f4470b712013d6"
+    },
+    {
+      "sha": "fa89388eebe6850b4375c6bc98ece9d400896188",
+      "short": "fa89388",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-21T18:45:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fa89388eebe6850b4375c6bc98ece9d400896188"
+    },
+    {
+      "sha": "2adc3b8846ad081dc53caed61c693230f933c78a",
+      "short": "2adc3b8",
+      "message": "docs: auto-update CSS/DOM parity badge (100%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-21T18:44:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2adc3b8846ad081dc53caed61c693230f933c78a"
+    },
+    {
+      "sha": "7740ddce38a2705d11a82a31910f0f8854dffc11",
+      "short": "7740ddc",
+      "message": "docs: auto-update cross-runtime parity badge (84.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-21T18:44:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7740ddce38a2705d11a82a31910f0f8854dffc11"
+    },
+    {
+      "sha": "c12784a471675930d5ebb3fb57c8534410c22c9e",
+      "short": "c12784a",
+      "message": "feat(physics): validar replay bit a bit e habilitar supports(deterministic) no gather solver",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T18:26:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c12784a471675930d5ebb3fb57c8534410c22c9e"
+    },
+    {
+      "sha": "7f4576159197f4c380a3b7458b2fb5751a50dabc",
+      "short": "7f45761",
+      "message": "Merge pull request #2745 from UrubuCode/epic/fisica-motor",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T18:20:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7f4576159197f4c380a3b7458b2fb5751a50dabc"
+    },
+    {
+      "sha": "c0e265f88ba535a7eef0ee6860b6a304eb037daa",
+      "short": "c0e265f",
+      "message": "perf(fisica): monomorfizar o filtro de máscara e escolhê-lo uma vez por sub-passo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T10:04:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c0e265f88ba535a7eef0ee6860b6a304eb037daa"
+    },
+    {
+      "sha": "19a54f0e33236e6c7216c71e602794dd2eb29572",
+      "short": "19a54f0",
+      "message": "perf(fisica): ler só restituição e atrito do outro corpo no laço de contato",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-21T09:58:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/19a54f0e33236e6c7216c71e602794dd2eb29572"
+    },
     {
       "sha": "fefd6414763017d3947ef9ef8d5cc5109412378e",
       "short": "fefd641",
@@ -10,156 +122,44 @@
       "url": "https://github.com/UrubuCode/rts/commit/fefd6414763017d3947ef9ef8d5cc5109412378e"
     },
     {
-      "sha": "9c43247c6daf12ef60e6d759c491e3a283aa717a",
-      "short": "9c43247",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T21:14:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c43247c6daf12ef60e6d759c491e3a283aa717a"
-    },
-    {
-      "sha": "b1eb62b9998bba6c16a1a5917d7bf855f07d77ef",
-      "short": "b1eb62b",
-      "message": "feat(rts-physics): materiais por corpo, estaticos redondos, e dormir exige apoio",
+      "sha": "02ab4526ecf1ee2636563b2005456dd83f18c12b",
+      "short": "02ab452",
+      "message": "feat(physics): bypass mask filtering when any_mask flag is false",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T20:49:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1eb62b9998bba6c16a1a5917d7bf855f07d77ef"
+      "date": "2026-09-21T04:07:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/02ab4526ecf1ee2636563b2005456dd83f18c12b"
     },
     {
-      "sha": "6a68743bab08c6e76263bacb8506776677474579",
-      "short": "6a68743",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T17:07:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6a68743bab08c6e76263bacb8506776677474579"
-    },
-    {
-      "sha": "ff6031bd933cc4ecd1a4e9ec930d9b19dfa0480f",
-      "short": "ff6031b",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T17:06:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff6031bd933cc4ecd1a4e9ec930d9b19dfa0480f"
-    },
-    {
-      "sha": "4ef15b801f23835c91f955d6140ce271dffc75a1",
-      "short": "4ef15b8",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T17:06:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4ef15b801f23835c91f955d6140ce271dffc75a1"
-    },
-    {
-      "sha": "27ecfd83f4c614f1a7bcbcadfe835888bbb23efe",
-      "short": "27ecfd8",
-      "message": "feat(cli): `--no-embed-compiler`, a negacao que se adivinha sem ler o help",
+      "sha": "70d361638ca6d671a870c72ed3c6ba3d75c646b7",
+      "short": "70d3616",
+      "message": "perf(fisica): optimize candidate mask check and defer body loading in against_bodies",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T16:42:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27ecfd83f4c614f1a7bcbcadfe835888bbb23efe"
+      "date": "2026-09-21T03:49:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/70d361638ca6d671a870c72ed3c6ba3d75c646b7"
     },
     {
-      "sha": "941d1d2fb2c4fae9b6494d247420499417cda7f0",
-      "short": "941d1d2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T16:19:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/941d1d2fb2c4fae9b6494d247420499417cda7f0"
-    },
-    {
-      "sha": "f013e31286bf500f71f70531fc79df4fb94bdc86",
-      "short": "f013e31",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T16:18:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f013e31286bf500f71f70531fc79df4fb94bdc86"
-    },
-    {
-      "sha": "6b12643920c1e9d88162ae4b18368bcf666ee84a",
-      "short": "6b12643",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T16:18:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6b12643920c1e9d88162ae4b18368bcf666ee84a"
-    },
-    {
-      "sha": "e9fefa09cfd41253bcf8e407b503df6b7e99da1b",
-      "short": "e9fefa0",
-      "message": "Merge: um tsconfig.json diz onde um nome escrito mora",
+      "sha": "7fc54498f1d45f2a9a7c87274fe83f131c11e2c8",
+      "short": "7fc5449",
+      "message": "fix(fisica): reject unsupported queries in supports() and derive header constants",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:13:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e9fefa09cfd41253bcf8e407b503df6b7e99da1b"
+      "date": "2026-09-21T03:20:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7fc54498f1d45f2a9a7c87274fe83f131c11e2c8"
     },
     {
-      "sha": "d679c378afa209b6d651e40454497af4b11a4bf7",
-      "short": "d679c37",
-      "message": "docs: o binario rts vem do pacote raiz, e nao do rts-cli que e biblioteca",
+      "sha": "efba982fcf823936c226b511547f80d6e55a00e6",
+      "short": "efba982",
+      "message": "fix(fisica): align 8-float world header, validate layout version, and optimize layer_mask accessor",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:13:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d679c378afa209b6d651e40454497af4b11a4bf7"
+      "date": "2026-09-21T01:56:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/efba982fcf823936c226b511547f80d6e55a00e6"
     },
     {
-      "sha": "57a9e060f88ae6f81803e199e317edef4cb2c186",
-      "short": "57a9e06",
-      "message": "style: a linha longa quebrada, o teto de 100 colunas vale aqui tambem",
+      "sha": "323650dac9b394fb3859b05b8566694d5810a52a",
+      "short": "323650d",
+      "message": "feat(physics): add layer/mask filtering, overflows reporting, and layout version",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:04:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/57a9e060f88ae6f81803e199e317edef4cb2c186"
-    },
-    {
-      "sha": "eaf30ebe9f5741d39993aa9dae63f0b0861486f1",
-      "short": "eaf30eb",
-      "message": "fix: a lista de alvos e tentada ate o fim, e o custo no doc e o real",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:02:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eaf30ebe9f5741d39993aa9dae63f0b0861486f1"
-    },
-    {
-      "sha": "8e71215af1ab49be2691de6624b45afebbb58021",
-      "short": "8e71215",
-      "message": "feat: com `baseUrl` posto, e ele a base de um alvo relativo de `paths`",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:01:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8e71215af1ab49be2691de6624b45afebbb58021"
-    },
-    {
-      "sha": "80e002a4d858b64b04b037f521bd2d06a52baded",
-      "short": "80e002a",
-      "message": "fix: um alvo `.d.ts` descreve tipos, nao nomeia um modulo",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T15:00:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/80e002a4d858b64b04b037f521bd2d06a52baded"
-    },
-    {
-      "sha": "4a4543f29593476550806388f6847063465689f2",
-      "short": "4a4543f",
-      "message": "docs: o que a instalacao do mapa custa depende de quem pergunta",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T14:44:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4a4543f29593476550806388f6847063465689f2"
-    },
-    {
-      "sha": "b59962cc94e8bb042ed572deab714c956026989f",
-      "short": "b59962c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T14:38:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b59962cc94e8bb042ed572deab714c956026989f"
-    },
-    {
-      "sha": "5abc0d95cb1db4dc3db62a26969dbdd618f24d99",
-      "short": "5abc0d9",
-      "message": "docs: auto-update CSS/DOM parity badge (100%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T14:37:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5abc0d95cb1db4dc3db62a26969dbdd618f24d99"
-    },
-    {
-      "sha": "40a7206b2f762750df860b03f5cd98c7f57becbb",
-      "short": "40a7206",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-20T14:37:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40a7206b2f762750df860b03f5cd98c7f57becbb"
+      "date": "2026-09-21T01:37:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/323650dac9b394fb3859b05b8566694d5810a52a"
     }
   ]
 }
