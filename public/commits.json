@@ -1,6 +1,22 @@
 {
-  "total": 6281,
+  "total": 6283,
   "commits": [
+    {
+      "sha": "9c43247c6daf12ef60e6d759c491e3a283aa717a",
+      "short": "9c43247",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-20T21:14:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c43247c6daf12ef60e6d759c491e3a283aa717a"
+    },
+    {
+      "sha": "b1eb62b9998bba6c16a1a5917d7bf855f07d77ef",
+      "short": "b1eb62b",
+      "message": "feat(rts-physics): materiais por corpo, estaticos redondos, e dormir exige apoio",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-20T20:49:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1eb62b9998bba6c16a1a5917d7bf855f07d77ef"
+    },
     {
       "sha": "6a68743bab08c6e76263bacb8506776677474579",
       "short": "6a68743",
@@ -144,22 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-20T14:35:46Z",
       "url": "https://github.com/UrubuCode/rts/commit/845cc5eb4d901265b93fcacb4b813ba97a451714"
-    },
-    {
-      "sha": "1da1897d49f87d01d4358e4c4cc813e0ae780f47",
-      "short": "1da1897",
-      "message": "docs: uma citacao que cai na funcao errada e pior que nenhuma",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T14:21:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1da1897d49f87d01d4358e4c4cc813e0ae780f47"
-    },
-    {
-      "sha": "f8a545df5303cf0b9b14377c1bf2d80b36e4d6da",
-      "short": "f8a545d",
-      "message": "docs(host): o alias de import, e a precedencia que o torna seguro",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T14:14:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f8a545df5303cf0b9b14377c1bf2d80b36e4d6da"
     }
   ]
 }
