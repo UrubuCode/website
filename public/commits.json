@@ -1,6 +1,14 @@
 {
-  "total": 6283,
+  "total": 6284,
   "commits": [
+    {
+      "sha": "fefd6414763017d3947ef9ef8d5cc5109412378e",
+      "short": "fefd641",
+      "message": "docs: cross-runtime parity 84.2% + history snapshot 2026-09-21",
+      "author": "github-actions[bot]",
+      "date": "2026-09-21T08:43:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fefd6414763017d3947ef9ef8d5cc5109412378e"
+    },
     {
       "sha": "9c43247c6daf12ef60e6d759c491e3a283aa717a",
       "short": "9c43247",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-20T14:37:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/40a7206b2f762750df860b03f5cd98c7f57becbb"
-    },
-    {
-      "sha": "845cc5eb4d901265b93fcacb4b813ba97a451714",
-      "short": "845cc5e",
-      "message": "fix: um alias nomeia um ficheiro, e quem decide o grafo passa a perguntar ao host",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-20T14:35:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/845cc5eb4d901265b93fcacb4b813ba97a451714"
     }
   ]
 }
