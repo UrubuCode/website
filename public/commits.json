@@ -1,6 +1,134 @@
 {
-  "total": 6493,
+  "total": 6509,
   "commits": [
+    {
+      "sha": "78ed140745c22c56f683806e6d1154134601ce74",
+      "short": "78ed140",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T18:46:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/78ed140745c22c56f683806e6d1154134601ce74"
+    },
+    {
+      "sha": "c425705dd80d05e56ba0495a14a76e9d4187e9d9",
+      "short": "c425705",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T18:45:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c425705dd80d05e56ba0495a14a76e9d4187e9d9"
+    },
+    {
+      "sha": "8532b625eba92beb46ed0d10bec3128828ac4c36",
+      "short": "8532b62",
+      "message": "docs: auto-update cross-runtime parity badge (83.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T18:44:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8532b625eba92beb46ed0d10bec3128828ac4c36"
+    },
+    {
+      "sha": "6eb888b3b4ebe9eec51bb5cbdc64523debf0f961",
+      "short": "6eb888b",
+      "message": "feat(dom): the line breaker takes UAX #14 opportunities and grapheme clusters from the measurer (T4) (#2809)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T18:24:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6eb888b3b4ebe9eec51bb5cbdc64523debf0f961"
+    },
+    {
+      "sha": "530b2a73a2ce67f517079bbe549dd0b2514054ed",
+      "short": "530b2a7",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:48:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/530b2a73a2ce67f517079bbe549dd0b2514054ed"
+    },
+    {
+      "sha": "5262eae06a1af5b0ce534e399191d4144964ccad",
+      "short": "5262eae",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:47:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5262eae06a1af5b0ce534e399191d4144964ccad"
+    },
+    {
+      "sha": "4a6a26cb174aeed299f61b212669b314ecc3fbbe",
+      "short": "4a6a26c",
+      "message": "docs: auto-update cross-runtime parity badge (83.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:47:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4a6a26cb174aeed299f61b212669b314ecc3fbbe"
+    },
+    {
+      "sha": "1ce89c927cd5bce297b08344e1b7bb60c9f5284b",
+      "short": "1ce89c9",
+      "message": "feat(inspector): the DOM inspector, phase 1 — Chrome DevTools attaches over CDP, opt-in, nothing runs when off (#2803)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T17:24:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1ce89c927cd5bce297b08344e1b7bb60c9f5284b"
+    },
+    {
+      "sha": "2a42e873b7c2b42320ab702d6a55ae22fe552db6",
+      "short": "2a42e87",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:13:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a42e873b7c2b42320ab702d6a55ae22fe552db6"
+    },
+    {
+      "sha": "6c57370a78ca4fa2a56ebbfa491293da502f5a0c",
+      "short": "6c57370",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:12:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c57370a78ca4fa2a56ebbfa491293da502f5a0c"
+    },
+    {
+      "sha": "573ca3e620c022eb3e07dd19f223fe05a4c56430",
+      "short": "573ca3e",
+      "message": "docs: auto-update cross-runtime parity badge (83.6%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T17:12:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/573ca3e620c022eb3e07dd19f223fe05a4c56430"
+    },
+    {
+      "sha": "8aaac9c93c2bf76411fb99a82c2d2557b5ca04fc",
+      "short": "8aaac9c",
+      "message": "feat(egui): the window measures text with RealMeasurer, and the line breaker re-measures a kerned join across a space (T3) (#2797)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T16:47:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8aaac9c93c2bf76411fb99a82c2d2557b5ca04fc"
+    },
+    {
+      "sha": "01f2ff63c972d4b217c9362d4d76687a1c467b9f",
+      "short": "01f2ff6",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T16:18:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/01f2ff63c972d4b217c9362d4d76687a1c467b9f"
+    },
+    {
+      "sha": "aa8ed9d16cd1b22638cfe858d6f96a247b85eb71",
+      "short": "aa8ed9d",
+      "message": "docs(dom): the subgrid plan — the template is a type, the tracks come from the parent through one seam (#2791)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T15:53:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aa8ed9d16cd1b22638cfe858d6f96a247b85eb71"
+    },
+    {
+      "sha": "3c3bf082fd5ed7456e736553995961138d69fe1a",
+      "short": "3c3bf08",
+      "message": "docs(dom): the vertical writing-mode plan — rotate in, lay out, rotate out (#2790)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T15:50:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3c3bf082fd5ed7456e736553995961138d69fe1a"
+    },
+    {
+      "sha": "696c80cc0e69bcd14f56e1227e3624fc66b6c3c8",
+      "short": "696c80c",
+      "message": "fix(dom): grid-area, grid-row and grid-column with line numbers and names, one expansion into the four longhands (#2789)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T15:47:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/696c80cc0e69bcd14f56e1227e3624fc66b6c3c8"
+    },
     {
       "sha": "079a7fcc2a82656cc05400dc7ba34bf8fc6d3da0",
       "short": "079a7fc",
@@ -32,134 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-26T14:53:05Z",
       "url": "https://github.com/UrubuCode/rts/commit/a6f0cc45cfd2c6c5475fdc0ee2b1bdcd4e9dd4ed"
-    },
-    {
-      "sha": "334fa0f548be9837f86d78b38168d6e2ff9c42be",
-      "short": "334fa0f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T14:51:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/334fa0f548be9837f86d78b38168d6e2ff9c42be"
-    },
-    {
-      "sha": "e5d2bd891c9dfed06c6b5dc85fdce150c940f00c",
-      "short": "e5d2bd8",
-      "message": "feat(mir): MIR stage takes every function over the suite, and optimises past the running emitter (#2782)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T14:23:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5d2bd891c9dfed06c6b5dc85fdce150c940f00c"
-    },
-    {
-      "sha": "178f144ec8a85d1de132e2aabe5f510626dff7ff",
-      "short": "178f144",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T14:22:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/178f144ec8a85d1de132e2aabe5f510626dff7ff"
-    },
-    {
-      "sha": "db46a62e189e6e8602880b997b77cdc7fba6f8d3",
-      "short": "db46a62",
-      "message": "docs: auto-update cross-runtime parity badge (85.4%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T14:22:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/db46a62e189e6e8602880b997b77cdc7fba6f8d3"
-    },
-    {
-      "sha": "de0d4dc2b8ca93f6c06b8591bce484c94994431f",
-      "short": "de0d4dc",
-      "message": "Merge remote-tracking branch 'origin/main' into claude/four-stage-core-completion-13ofaj",
-      "author": "Claude",
-      "date": "2026-09-26T14:18:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de0d4dc2b8ca93f6c06b8591bce484c94994431f"
-    },
-    {
-      "sha": "1b392367b40e6400143eddcb319686a6504d5889",
-      "short": "1b39236",
-      "message": "fix(dom): static position beside a float and of grid abspos children, relative inline % insets, aspect-ratio in grid sizing (#2781)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T14:00:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b392367b40e6400143eddcb319686a6504d5889"
-    },
-    {
-      "sha": "fe64e5ceeb81f5337174e756c0a5c7dc568069f5",
-      "short": "fe64e5c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T12:56:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fe64e5ceeb81f5337174e756c0a5c7dc568069f5"
-    },
-    {
-      "sha": "afd9a2c0a0f65b762a546fe0c06965ab59933f91",
-      "short": "afd9a2c",
-      "message": "feat(text): rts-text — real fonts, shaping and glyph raster — and claude-raster paints text (T1+T2) (#2780)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T12:29:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/afd9a2c0a0f65b762a546fe0c06965ab59933f91"
-    },
-    {
-      "sha": "5b1c9c6ca8f69bfae154f68380be8c4eca29146e",
-      "short": "5b1c9c6",
-      "message": "fix(core): Proxy invariants in spec order, generic Array methods on array-likes and proxies, DataView.buffer, toStringTag on Boolean/Error, Date's string hint (#2779)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T12:26:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5b1c9c6ca8f69bfae154f68380be8c4eca29146e"
-    },
-    {
-      "sha": "92008836e2c94cd5b83e7283f1f32f4e8873e8bf",
-      "short": "9200883",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T11:38:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/92008836e2c94cd5b83e7283f1f32f4e8873e8bf"
-    },
-    {
-      "sha": "9d5a46b61904c93049d797320894f5d38198b219",
-      "short": "9d5a46b",
-      "message": "docs(dom): the rts-text plan (item 4) and the css-grid triage (#2778)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T11:18:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9d5a46b61904c93049d797320894f5d38198b219"
-    },
-    {
-      "sha": "129495478e2b817b6e3a06e9292af63e6669830c",
-      "short": "1294954",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T05:14:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/129495478e2b817b6e3a06e9292af63e6669830c"
-    },
-    {
-      "sha": "6c46af1d43c8cf333bb8c25735f4112e1db692ea",
-      "short": "6c46af1",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T05:13:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c46af1d43c8cf333bb8c25735f4112e1db692ea"
-    },
-    {
-      "sha": "5dd2e8c0fc7bb6d2c19a433ccbf43b43efc78eed",
-      "short": "5dd2e8c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-26T04:52:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5dd2e8c0fc7bb6d2c19a433ccbf43b43efc78eed"
-    },
-    {
-      "sha": "1ff2031bdd150a48a32b7e384c3f02b7a3fa4514",
-      "short": "1ff2031",
-      "message": "fix(dom): a percentage height on an inline replaced element resolves against a DEFINITE containing block, and the ratio transfer respects the clamps' order (#2777)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T04:51:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1ff2031bdd150a48a32b7e384c3f02b7a3fa4514"
-    },
-    {
-      "sha": "bd13f6a179d320e3b794be040ea9b2fc4654a1a7",
-      "short": "bd13f6a",
-      "message": "refactor(dom): paint/query Phase C — translate_item to paint, box_rects written by layout only, known_rects, the Geometry memo on the Dom (#2776)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T04:28:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bd13f6a179d320e3b794be040ea9b2fc4654a1a7"
     }
   ]
 }
