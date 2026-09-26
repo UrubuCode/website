@@ -1,6 +1,134 @@
 {
-  "total": 6341,
+  "total": 6357,
   "commits": [
+    {
+      "sha": "129495478e2b817b6e3a06e9292af63e6669830c",
+      "short": "1294954",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T05:14:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/129495478e2b817b6e3a06e9292af63e6669830c"
+    },
+    {
+      "sha": "6c46af1d43c8cf333bb8c25735f4112e1db692ea",
+      "short": "6c46af1",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T05:13:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c46af1d43c8cf333bb8c25735f4112e1db692ea"
+    },
+    {
+      "sha": "5dd2e8c0fc7bb6d2c19a433ccbf43b43efc78eed",
+      "short": "5dd2e8c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T04:52:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5dd2e8c0fc7bb6d2c19a433ccbf43b43efc78eed"
+    },
+    {
+      "sha": "1ff2031bdd150a48a32b7e384c3f02b7a3fa4514",
+      "short": "1ff2031",
+      "message": "fix(dom): a percentage height on an inline replaced element resolves against a DEFINITE containing block, and the ratio transfer respects the clamps' order (#2777)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T04:51:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1ff2031bdd150a48a32b7e384c3f02b7a3fa4514"
+    },
+    {
+      "sha": "bd13f6a179d320e3b794be040ea9b2fc4654a1a7",
+      "short": "bd13f6a",
+      "message": "refactor(dom): paint/query Phase C — translate_item to paint, box_rects written by layout only, known_rects, the Geometry memo on the Dom (#2776)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T04:28:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bd13f6a179d320e3b794be040ea9b2fc4654a1a7"
+    },
+    {
+      "sha": "a7d8746452d4401cab3af0c6be6fc28eb3acfbbf",
+      "short": "a7d8746",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T04:21:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a7d8746452d4401cab3af0c6be6fc28eb3acfbbf"
+    },
+    {
+      "sha": "891b083514217927202c1bcd9505ea18f3792660",
+      "short": "891b083",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T04:20:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/891b083514217927202c1bcd9505ea18f3792660"
+    },
+    {
+      "sha": "45a47b54f5ee6edfa83666cf7983f0e2d6691ece",
+      "short": "45a47b5",
+      "message": "docs: auto-update cross-runtime parity badge (84.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T04:15:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/45a47b54f5ee6edfa83666cf7983f0e2d6691ece"
+    },
+    {
+      "sha": "60d3c33ad965c3247ab5dceada8567624b976737",
+      "short": "60d3c33",
+      "message": "docs(dom): Phase C of paint/query — the three seams, measured, and the FORM that closes them (#2775)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T03:56:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/60d3c33ad965c3247ab5dceada8567624b976737"
+    },
+    {
+      "sha": "0c19e036ab62f0fd639b10a37d32fe983747dbc2",
+      "short": "0c19e03",
+      "message": "refactor(dom): layout/ identifiers in English — the names that cross folders (#2774)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T03:52:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c19e036ab62f0fd639b10a37d32fe983747dbc2"
+    },
+    {
+      "sha": "7546b57407b8c70044706b78bfbcc79fa9226cfa",
+      "short": "7546b57",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T03:46:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7546b57407b8c70044706b78bfbcc79fa9226cfa"
+    },
+    {
+      "sha": "6565db5cc439a8390e9355bb99647a86bf9a2a04",
+      "short": "6565db5",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T03:45:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6565db5cc439a8390e9355bb99647a86bf9a2a04"
+    },
+    {
+      "sha": "2a56da1dadb33b8c59c94d951acce77ec24eb1d7",
+      "short": "2a56da1",
+      "message": "docs: auto-update cross-runtime parity badge (84.3%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T03:44:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2a56da1dadb33b8c59c94d951acce77ec24eb1d7"
+    },
+    {
+      "sha": "346b36d6d42b0861db8855ae94b43d3d56f79937",
+      "short": "346b36d",
+      "message": "refactor(dom): layout/ identifiers in English — what is private to each folder (#2773)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T03:24:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/346b36d6d42b0861db8855ae94b43d3d56f79937"
+    },
+    {
+      "sha": "b8dd4fcc34c739ca94614d7a4389638a6136ba96",
+      "short": "b8dd4fc",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-26T03:14:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b8dd4fcc34c739ca94614d7a4389638a6136ba96"
+    },
+    {
+      "sha": "38b04411f07db3168ddd56f06c9c1ab576b74bdf",
+      "short": "38b0441",
+      "message": "refactor(dom): the six layout/ files over the ceiling — what comes down by moves alone (#2772)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T02:51:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/38b04411f07db3168ddd56f06c9c1ab576b74bdf"
+    },
     {
       "sha": "56f36294450b04c51f3c5fdaa02dc3d7dfa60c4c",
       "short": "56f3629",
@@ -32,134 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-26T00:16:12Z",
       "url": "https://github.com/UrubuCode/rts/commit/002623670e747fc4084a3b0b3a7687333536ef31"
-    },
-    {
-      "sha": "12842ccffd1c01e03e13ee7d93f3469e9c4e0942",
-      "short": "12842cc",
-      "message": "docs(dom): the layout/ regroup plan — item 3 of the order of 2026-09-25 (#2770)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T23:54:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/12842ccffd1c01e03e13ee7d93f3469e9c4e0942"
-    },
-    {
-      "sha": "645b197336d2db8c1acac186b3eeba536288d254",
-      "short": "645b197",
-      "message": "refactor(dom): the hit-test reads the fragments; Geometry.hit_order dies (Phase B) (#2769)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T23:47:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/645b197336d2db8c1acac186b3eeba536288d254"
-    },
-    {
-      "sha": "4e7c91d097e8863961ef517f7a203748540a3985",
-      "short": "4e7c91d",
-      "message": "feat(std): Headers is iterable and Response/Request validate what the spec validates (#2768)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T23:31:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4e7c91d097e8863961ef517f7a203748540a3985"
-    },
-    {
-      "sha": "abd1c6b6a9dd64822ad5c9307a0cdb77b3386b44",
-      "short": "abd1c6b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T23:14:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/abd1c6b6a9dd64822ad5c9307a0cdb77b3386b44"
-    },
-    {
-      "sha": "38ef21b1b495bb3d3a92bd115b5e9d0ea1db2f7d",
-      "short": "38ef21b",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T23:12:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/38ef21b1b495bb3d3a92bd115b5e9d0ea1db2f7d"
-    },
-    {
-      "sha": "53f2fbd0be7a1af29a6d2644f1c72e8fbb91a3be",
-      "short": "53f2fbd",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T23:12:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53f2fbd0be7a1af29a6d2644f1c72e8fbb91a3be"
-    },
-    {
-      "sha": "f15bddbffe3e8040f4929ac89f5b210d71ea1bda",
-      "short": "f15bddb",
-      "message": "refactor(dom): paint/ and query/ — the readers of the fragment tree leave layout/ (Phase A, moves only) (#2766)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T22:52:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f15bddbffe3e8040f4929ac89f5b210d71ea1bda"
-    },
-    {
-      "sha": "2a8cb8f02b873356221556b62230d4e54d671787",
-      "short": "2a8cb8f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T22:33:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2a8cb8f02b873356221556b62230d4e54d671787"
-    },
-    {
-      "sha": "dcacce9a8de2e93d7fb60cd7af1348cfbb60c8bd",
-      "short": "dcacce9",
-      "message": "docs(dom): the paint/ and query/ plan — item 2 of the order of 2026-09-25 (#2765)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T22:12:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dcacce9a8de2e93d7fb60cd7af1348cfbb60c8bd"
-    },
-    {
-      "sha": "6aeefdbd137462fe2ddb2c55e70d830c073fb715",
-      "short": "6aeefdb",
-      "message": "feat(dom): nowrap per inline, Appendix E layer 8 in tree order, real Headers on fetch (#2764)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T22:12:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6aeefdbd137462fe2ddb2c55e70d830c073fb715"
-    },
-    {
-      "sha": "1b8bc8d374ecc0cce68764cd21e1c0a1218d33ee",
-      "short": "1b8bc8d",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T21:41:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b8bc8d374ecc0cce68764cd21e1c0a1218d33ee"
-    },
-    {
-      "sha": "3330be716b3e093f361ebdccd20025e3e374d2e2",
-      "short": "3330be7",
-      "message": "fix(core): a parked frame's type number comes from the context's registry, not the compiler's (#2763)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T21:16:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3330be716b3e093f361ebdccd20025e3e374d2e2"
-    },
-    {
-      "sha": "88774b2079fd57f0460f88e8ae5305eb39799474",
-      "short": "88774b2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T20:39:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/88774b2079fd57f0460f88e8ae5305eb39799474"
-    },
-    {
-      "sha": "e7f372a90c7e57b4349279c05aae85a4ce513382",
-      "short": "e7f372a",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T20:38:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e7f372a90c7e57b4349279c05aae85a4ce513382"
-    },
-    {
-      "sha": "8175798171560169b273dd6aa9356a35984adde2",
-      "short": "8175798",
-      "message": "docs: auto-update cross-runtime parity badge (84.2%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-25T20:38:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8175798171560169b273dd6aa9356a35984adde2"
-    },
-    {
-      "sha": "728d14c3475ac0b59810a6027d90b5299e4af3f1",
-      "short": "728d14c",
-      "message": "feat(dom): BT-3 closes; white-space per inline, intrinsic widths, tab stops, entities; relative on table parts; fetch says why (#2762)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-25T20:13:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/728d14c3475ac0b59810a6027d90b5299e4af3f1"
     }
   ]
 }
