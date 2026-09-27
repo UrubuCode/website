@@ -1,6 +1,46 @@
 {
-  "total": 6614,
+  "total": 6619,
   "commits": [
+    {
+      "sha": "33eefd83f7701fe90354e2728b0d81efe3db0586",
+      "short": "33eefd8",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-27T18:20:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33eefd83f7701fe90354e2728b0d81efe3db0586"
+    },
+    {
+      "sha": "d462f5580a5eb5fcc58574ee40d031d9951c831e",
+      "short": "d462f55",
+      "message": "Merge pull request #2831 from UrubuCode/feat/particulas-kernel",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T17:53:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d462f5580a5eb5fcc58574ee40d031d9951c831e"
+    },
+    {
+      "sha": "07263d519a21085cfd110dd7df912d5d3b551a64",
+      "short": "07263d5",
+      "message": "ci(particles): avisos como erro só no crate, não no workspace inteiro",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T17:30:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/07263d519a21085cfd110dd7df912d5d3b551a64"
+    },
+    {
+      "sha": "f5e4f51a92a854ba042888a61cbbaa401b594de5",
+      "short": "f5e4f51",
+      "message": "feat(particles): kernel nativo particlesStep em rts-particles",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T16:56:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5e4f51a92a854ba042888a61cbbaa401b594de5"
+    },
+    {
+      "sha": "c5db6f0a75ff44feb2040e357e23601195d7dcf5",
+      "short": "c5db6f0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-27T16:09:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c5db6f0a75ff44feb2040e357e23601195d7dcf5"
+    },
     {
       "sha": "2c3e162dade49b895f64c487604a451c2b3e0a36",
       "short": "2c3e162",
@@ -120,46 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-27T07:18:30Z",
       "url": "https://github.com/UrubuCode/rts/commit/782301572a6269cec3d52bcdc641fca000b42d14"
-    },
-    {
-      "sha": "8db433badacb757379d94a7706574b67f7efc090",
-      "short": "8db433b",
-      "message": "Merge pull request #2759 from UrubuCode/fix/heap-ceiling-configuravel",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T07:06:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8db433badacb757379d94a7706574b67f7efc090"
-    },
-    {
-      "sha": "836456a831cabb16b72fff8f7002f3990690a6e9",
-      "short": "836456a",
-      "message": "fix(core): three lost roots — an iterator's cell, matchAll's matches, a Map's entry pairs",
-      "author": "Drysius",
-      "date": "2026-09-27T07:05:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/836456a831cabb16b72fff8f7002f3990690a6e9"
-    },
-    {
-      "sha": "ed1bd491fe2054f0dc5b338a3d036144dc782cd6",
-      "short": "ed1bd49",
-      "message": "Merge pull request #2827 from UrubuCode/feat/audio-cpal",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:51:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed1bd491fe2054f0dc5b338a3d036144dc782cd6"
-    },
-    {
-      "sha": "778ff26fc86a56d3dd9bba9a993132d698622999",
-      "short": "778ff26",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T06:47:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/778ff26fc86a56d3dd9bba9a993132d698622999"
-    },
-    {
-      "sha": "bec558843d0db0eb2b2fb9383a7e87363c6a1cdc",
-      "short": "bec5588",
-      "message": "test(audio): integração da escuta contínua com 997 Hz baixinho, fumaça não bloqueante",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:36:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bec558843d0db0eb2b2fb9383a7e87363c6a1cdc"
     }
   ]
 }
