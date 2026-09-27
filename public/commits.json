@@ -1,6 +1,62 @@
 {
-  "total": 6607,
+  "total": 6614,
   "commits": [
+    {
+      "sha": "2c3e162dade49b895f64c487604a451c2b3e0a36",
+      "short": "2c3e162",
+      "message": "Merge pull request #2830 from UrubuCode/feat/particulas-nativo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T15:45:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c3e162dade49b895f64c487604a451c2b3e0a36"
+    },
+    {
+      "sha": "4094f2ad71250ad9a5bd0e3f0694aae18f93bebc",
+      "short": "4094f2a",
+      "message": "fix(scene3d): aditivo com SrcAlpha, sem alocação por quadro, n com checked_mul",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T15:22:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4094f2ad71250ad9a5bd0e3f0694aae18f93bebc"
+    },
+    {
+      "sha": "68ea47d3332e3b5bea143a0e276bdb89dd4eb87e",
+      "short": "68ea47d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-27T15:20:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68ea47d3332e3b5bea143a0e276bdb89dd4eb87e"
+    },
+    {
+      "sha": "89dff2c99e4c7f2d0b8692ab4d64900586e5b22b",
+      "short": "89dff2c",
+      "message": "fix(scene3d): drawParticlesTex amostra a textura de verdade",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T15:05:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/89dff2c99e4c7f2d0b8692ab4d64900586e5b22b"
+    },
+    {
+      "sha": "a75959e565707ff2ccff23613762a9f4c706135b",
+      "short": "a75959e",
+      "message": "Merge pull request #2829 from UrubuCode/feat/soltar-arquivos",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T14:55:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a75959e565707ff2ccff23613762a9f4c706135b"
+    },
+    {
+      "sha": "1f125e8736ef57e311081f386f37effe956337ee",
+      "short": "1f125e8",
+      "message": "feat(scene3d): drawParticles/drawParticlesTex — billboard instanciado com blend aditivo",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T14:52:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1f125e8736ef57e311081f386f37effe956337ee"
+    },
+    {
+      "sha": "03c731e3e39aadf5088e4ae55b2659dd3819f1d1",
+      "short": "03c731e",
+      "message": "feat(input): arquivos soltos na janela — droppedCount/droppedPath/droppedX/Y e hoveredFiles",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-27T14:35:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/03c731e3e39aadf5088e4ae55b2659dd3819f1d1"
+    },
     {
       "sha": "47d72c9a63503a10c17a24ed301112cef9bf65e5",
       "short": "47d72c9",
@@ -104,62 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-27T06:36:31Z",
       "url": "https://github.com/UrubuCode/rts/commit/bec558843d0db0eb2b2fb9383a7e87363c6a1cdc"
-    },
-    {
-      "sha": "7fd7cb7ab4082c744b348556bf0da804dcaa2403",
-      "short": "7fd7cb7",
-      "message": "feat(audio): escuta contínua não bloqueante com detector de Goertzel",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:36:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7fd7cb7ab4082c744b348556bf0da804dcaa2403"
-    },
-    {
-      "sha": "90c5dbd8ebd37e8f0149340097da3fcc5f43c11d",
-      "short": "90c5dbd",
-      "message": "merge: main (com #2767, #2821) into fix/heap-ceiling-configuravel",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:30:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/90c5dbd8ebd37e8f0149340097da3fcc5f43c11d"
-    },
-    {
-      "sha": "05db9fb205e6b1c1a1b619892fa2ccf27ad3e2d1",
-      "short": "05db9fb",
-      "message": "test(audio): integração de loopback ignorada e fumaça mínima do rts.exe",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:22:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/05db9fb205e6b1c1a1b619892fa2ccf27ad3e2d1"
-    },
-    {
-      "sha": "d1eaf875d3591960b4578bc50ca5928a69930a44",
-      "short": "d1eaf87",
-      "message": "feat(audio): escutar() por loopback WASAPI e nativa audio.escutar",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:22:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d1eaf875d3591960b4578bc50ca5928a69930a44"
-    },
-    {
-      "sha": "4722a462e53559e577f2ba6683b0c87e3cbe69f7",
-      "short": "4722a46",
-      "message": "merge: main (com #2767, #2821) into feat/audio-cpal",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:21:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4722a462e53559e577f2ba6683b0c87e3cbe69f7"
-    },
-    {
-      "sha": "53b84f3b564cd3a8ac01032bbb33ca9e70178c74",
-      "short": "53b84f3",
-      "message": "Merge pull request #2821 from UrubuCode/feat/scene3d-luzes-ceu",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T06:20:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53b84f3b564cd3a8ac01032bbb33ca9e70178c74"
-    },
-    {
-      "sha": "4d925ccc9ee0b6925ba7d996f79dad0ebf3b089d",
-      "short": "4d925cc",
-      "message": "docs(codegen): the performance work list of 2026-09-27, and the 08-21 one marked superseded",
-      "author": "Drysius",
-      "date": "2026-09-27T06:18:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4d925ccc9ee0b6925ba7d996f79dad0ebf3b089d"
     }
   ]
 }
