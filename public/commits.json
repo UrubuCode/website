@@ -1,6 +1,14 @@
 {
-  "total": 6619,
+  "total": 6620,
   "commits": [
+    {
+      "sha": "c47f13b0a38c1245f2f5385596283a6cbc99f995",
+      "short": "c47f13b",
+      "message": "docs: cross-runtime parity 85.1% + history snapshot 2026-09-28",
+      "author": "github-actions[bot]",
+      "date": "2026-09-28T09:31:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c47f13b0a38c1245f2f5385596283a6cbc99f995"
+    },
     {
       "sha": "33eefd83f7701fe90354e2728b0d81efe3db0586",
       "short": "33eefd8",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-27T07:45:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/e60a2071d0d6accaf29154cc030cbbbb5173dc17"
-    },
-    {
-      "sha": "782301572a6269cec3d52bcdc641fca000b42d14",
-      "short": "7823015",
-      "message": "docs(codegen): compile latency measured by stage, and why copy-and-patch is not a candidate yet",
-      "author": "Drysius",
-      "date": "2026-09-27T07:18:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/782301572a6269cec3d52bcdc641fca000b42d14"
     }
   ]
 }
