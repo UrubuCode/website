@@ -1,6 +1,38 @@
 {
-  "total": 6620,
+  "total": 6624,
   "commits": [
+    {
+      "sha": "1e359ad54c44bfd5b8f975a985ec3647a993fc4d",
+      "short": "1e359ad",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T03:08:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e359ad54c44bfd5b8f975a985ec3647a993fc4d"
+    },
+    {
+      "sha": "5a15e6df14ba8b91039ec058523bef3dd3446e4f",
+      "short": "5a15e6d",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T03:07:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5a15e6df14ba8b91039ec058523bef3dd3446e4f"
+    },
+    {
+      "sha": "ae503e89e90ab051797debf38e62fde97bc0b4ec",
+      "short": "ae503e8",
+      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T03:06:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ae503e89e90ab051797debf38e62fde97bc0b4ec"
+    },
+    {
+      "sha": "90c16e617a33c1a7733ad9037111b7a623f1bd67",
+      "short": "90c16e6",
+      "message": "chore: no published share against another project's suite",
+      "author": "Drysius",
+      "date": "2026-09-29T00:03:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90c16e617a33c1a7733ad9037111b7a623f1bd67"
+    },
     {
       "sha": "c47f13b0a38c1245f2f5385596283a6cbc99f995",
       "short": "c47f13b",
@@ -128,38 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-27T08:11:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/7f192dd983620e32424aeeed8f8e6cd470204448"
-    },
-    {
-      "sha": "cf93eec4d5e815d6e95e69f85ebce92031349ad0",
-      "short": "cf93eec",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T07:47:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cf93eec4d5e815d6e95e69f85ebce92031349ad0"
-    },
-    {
-      "sha": "c157d7797d4f04eb6e88b5244fed0750588701ee",
-      "short": "c157d77",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T07:46:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c157d7797d4f04eb6e88b5244fed0750588701ee"
-    },
-    {
-      "sha": "ef9cd43892e899eef10f176c0c7e721ec0a6fb58",
-      "short": "ef9cd43",
-      "message": "Merge remote-tracking branch 'origin/main' into feat/audio-escuta",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T07:46:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef9cd43892e899eef10f176c0c7e721ec0a6fb58"
-    },
-    {
-      "sha": "e60a2071d0d6accaf29154cc030cbbbb5173dc17",
-      "short": "e60a207",
-      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T07:45:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e60a2071d0d6accaf29154cc030cbbbb5173dc17"
     }
   ]
 }
