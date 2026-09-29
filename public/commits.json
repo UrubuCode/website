@@ -1,6 +1,150 @@
 {
-  "total": 6624,
+  "total": 6642,
   "commits": [
+    {
+      "sha": "93870303e7b9f4f00e76ffe49a5315c12a945a7d",
+      "short": "9387030",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T09:12:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93870303e7b9f4f00e76ffe49a5315c12a945a7d"
+    },
+    {
+      "sha": "0f093c1cc18efeb2a012eba98a938e6390aa44b8",
+      "short": "0f093c1",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T09:11:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0f093c1cc18efeb2a012eba98a938e6390aa44b8"
+    },
+    {
+      "sha": "6c7d19359ab7d6262044fa9c3e69f03a781b4c04",
+      "short": "6c7d193",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T09:10:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c7d19359ab7d6262044fa9c3e69f03a781b4c04"
+    },
+    {
+      "sha": "569d46393276a074e9216359c3c5de1b307b8ad2",
+      "short": "569d463",
+      "message": "perf(codegen): a class that extends one with a layout is the parent's fields followed by its own",
+      "author": "Drysius",
+      "date": "2026-09-29T08:45:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/569d46393276a074e9216359c3c5de1b307b8ad2"
+    },
+    {
+      "sha": "f49a783d9024340124530b9eec4e2b4eb4d3b14a",
+      "short": "f49a783",
+      "message": "perf(codegen): a method that is one expression over a layout's fields is that expression",
+      "author": "Drysius",
+      "date": "2026-09-29T08:34:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f49a783d9024340124530b9eec4e2b4eb4d3b14a"
+    },
+    {
+      "sha": "4dff4922680af5f0d49a55e58c509aeb7e404dad",
+      "short": "4dff492",
+      "message": "perf(codegen): a class whose constructor only fills fields is a layout where its instance is never seen",
+      "author": "Drysius",
+      "date": "2026-09-29T08:13:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4dff4922680af5f0d49a55e58c509aeb7e404dad"
+    },
+    {
+      "sha": "454602fb5137070cff5c7dff0c94091429cbe3f2",
+      "short": "454602f",
+      "message": "docs(codegen): where an allocation's time goes, and the smaller heap that made it worse",
+      "author": "Drysius",
+      "date": "2026-09-29T07:51:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/454602fb5137070cff5c7dff0c94091429cbe3f2"
+    },
+    {
+      "sha": "3f152152a05d0c1349699ac6c931d3285b2437e1",
+      "short": "3f15215",
+      "message": "perf(core): a class whose constructor reads no argument record is built without the door's bookkeeping",
+      "author": "Drysius",
+      "date": "2026-09-29T07:42:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3f152152a05d0c1349699ac6c931d3285b2437e1"
+    },
+    {
+      "sha": "e557cbeb6543b3a6aa51a0e13fdf3236798a2e85",
+      "short": "e557cbe",
+      "message": "fix(core): a root that names no cell of the region does not size the mark set",
+      "author": "Drysius",
+      "date": "2026-09-29T07:23:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e557cbeb6543b3a6aa51a0e13fdf3236798a2e85"
+    },
+    {
+      "sha": "f07882d0b3203634adc5d4640b16e1d8f77c4089",
+      "short": "f07882d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T07:10:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f07882d0b3203634adc5d4640b16e1d8f77c4089"
+    },
+    {
+      "sha": "bd24bad9fbec658714d48d6bfefd7a376de9c442",
+      "short": "bd24bad",
+      "message": "perf(codegen,core): a callee that reads no argument record is called without the argument stacks",
+      "author": "Drysius",
+      "date": "2026-09-29T06:44:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bd24bad9fbec658714d48d6bfefd7a376de9c442"
+    },
+    {
+      "sha": "40bc880ac43170fc03add66dc34bae251fc5ee1e",
+      "short": "40bc880",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T05:59:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40bc880ac43170fc03add66dc34bae251fc5ee1e"
+    },
+    {
+      "sha": "cec39e9659f32f34742ba638ba34da072b53bd7d",
+      "short": "cec39e9",
+      "message": "fix(codegen): a collection's direct entry is chosen by the receiver, not by the member's name",
+      "author": "Drysius",
+      "date": "2026-09-29T05:35:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cec39e9659f32f34742ba638ba34da072b53bd7d"
+    },
+    {
+      "sha": "910fb0312ee07098d79993728d7ea758e62bd763",
+      "short": "910fb03",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T05:08:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/910fb0312ee07098d79993728d7ea758e62bd763"
+    },
+    {
+      "sha": "d6058dd70cc4349ccc0621c5e11a5a648de394c5",
+      "short": "d6058dd",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T05:07:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6058dd70cc4349ccc0621c5e11a5a648de394c5"
+    },
+    {
+      "sha": "ea3cd7c64b8465482186296da5685d03f4dd9786",
+      "short": "ea3cd7c",
+      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T05:07:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ea3cd7c64b8465482186296da5685d03f4dd9786"
+    },
+    {
+      "sha": "58c921271c9c87a75ef0a647b3c5359d70b1fffa",
+      "short": "58c9212",
+      "message": "perf(codegen,core): a[i] over a proven number and s.charCodeAt(i) reach the runtime directly",
+      "author": "Drysius",
+      "date": "2026-09-29T04:44:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/58c921271c9c87a75ef0a647b3c5359d70b1fffa"
+    },
+    {
+      "sha": "de0f880ad93f90823b1f32b7e628af748e0a8cf2",
+      "short": "de0f880",
+      "message": "perf(codegen): a large module body is compiled as several functions",
+      "author": "Drysius",
+      "date": "2026-09-29T04:43:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de0f880ad93f90823b1f32b7e628af748e0a8cf2"
+    },
     {
       "sha": "1e359ad54c44bfd5b8f975a985ec3647a993fc4d",
       "short": "1e359ad",
@@ -16,150 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-29T03:07:07Z",
       "url": "https://github.com/UrubuCode/rts/commit/5a15e6df14ba8b91039ec058523bef3dd3446e4f"
-    },
-    {
-      "sha": "ae503e89e90ab051797debf38e62fde97bc0b4ec",
-      "short": "ae503e8",
-      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T03:06:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae503e89e90ab051797debf38e62fde97bc0b4ec"
-    },
-    {
-      "sha": "90c16e617a33c1a7733ad9037111b7a623f1bd67",
-      "short": "90c16e6",
-      "message": "chore: no published share against another project's suite",
-      "author": "Drysius",
-      "date": "2026-09-29T00:03:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/90c16e617a33c1a7733ad9037111b7a623f1bd67"
-    },
-    {
-      "sha": "c47f13b0a38c1245f2f5385596283a6cbc99f995",
-      "short": "c47f13b",
-      "message": "docs: cross-runtime parity 85.1% + history snapshot 2026-09-28",
-      "author": "github-actions[bot]",
-      "date": "2026-09-28T09:31:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c47f13b0a38c1245f2f5385596283a6cbc99f995"
-    },
-    {
-      "sha": "33eefd83f7701fe90354e2728b0d81efe3db0586",
-      "short": "33eefd8",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T18:20:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/33eefd83f7701fe90354e2728b0d81efe3db0586"
-    },
-    {
-      "sha": "d462f5580a5eb5fcc58574ee40d031d9951c831e",
-      "short": "d462f55",
-      "message": "Merge pull request #2831 from UrubuCode/feat/particulas-kernel",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T17:53:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d462f5580a5eb5fcc58574ee40d031d9951c831e"
-    },
-    {
-      "sha": "07263d519a21085cfd110dd7df912d5d3b551a64",
-      "short": "07263d5",
-      "message": "ci(particles): avisos como erro só no crate, não no workspace inteiro",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T17:30:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07263d519a21085cfd110dd7df912d5d3b551a64"
-    },
-    {
-      "sha": "f5e4f51a92a854ba042888a61cbbaa401b594de5",
-      "short": "f5e4f51",
-      "message": "feat(particles): kernel nativo particlesStep em rts-particles",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T16:56:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5e4f51a92a854ba042888a61cbbaa401b594de5"
-    },
-    {
-      "sha": "c5db6f0a75ff44feb2040e357e23601195d7dcf5",
-      "short": "c5db6f0",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T16:09:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c5db6f0a75ff44feb2040e357e23601195d7dcf5"
-    },
-    {
-      "sha": "2c3e162dade49b895f64c487604a451c2b3e0a36",
-      "short": "2c3e162",
-      "message": "Merge pull request #2830 from UrubuCode/feat/particulas-nativo",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T15:45:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c3e162dade49b895f64c487604a451c2b3e0a36"
-    },
-    {
-      "sha": "4094f2ad71250ad9a5bd0e3f0694aae18f93bebc",
-      "short": "4094f2a",
-      "message": "fix(scene3d): aditivo com SrcAlpha, sem alocação por quadro, n com checked_mul",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T15:22:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4094f2ad71250ad9a5bd0e3f0694aae18f93bebc"
-    },
-    {
-      "sha": "68ea47d3332e3b5bea143a0e276bdb89dd4eb87e",
-      "short": "68ea47d",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T15:20:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/68ea47d3332e3b5bea143a0e276bdb89dd4eb87e"
-    },
-    {
-      "sha": "89dff2c99e4c7f2d0b8692ab4d64900586e5b22b",
-      "short": "89dff2c",
-      "message": "fix(scene3d): drawParticlesTex amostra a textura de verdade",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T15:05:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/89dff2c99e4c7f2d0b8692ab4d64900586e5b22b"
-    },
-    {
-      "sha": "a75959e565707ff2ccff23613762a9f4c706135b",
-      "short": "a75959e",
-      "message": "Merge pull request #2829 from UrubuCode/feat/soltar-arquivos",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T14:55:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a75959e565707ff2ccff23613762a9f4c706135b"
-    },
-    {
-      "sha": "1f125e8736ef57e311081f386f37effe956337ee",
-      "short": "1f125e8",
-      "message": "feat(scene3d): drawParticles/drawParticlesTex — billboard instanciado com blend aditivo",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T14:52:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1f125e8736ef57e311081f386f37effe956337ee"
-    },
-    {
-      "sha": "03c731e3e39aadf5088e4ae55b2659dd3819f1d1",
-      "short": "03c731e",
-      "message": "feat(input): arquivos soltos na janela — droppedCount/droppedPath/droppedX/Y e hoveredFiles",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T14:35:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03c731e3e39aadf5088e4ae55b2659dd3819f1d1"
-    },
-    {
-      "sha": "47d72c9a63503a10c17a24ed301112cef9bf65e5",
-      "short": "47d72c9",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-27T08:58:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/47d72c9a63503a10c17a24ed301112cef9bf65e5"
-    },
-    {
-      "sha": "ebbdd2f840d800593b227db563569dd14f86b28d",
-      "short": "ebbdd2f",
-      "message": "Merge pull request #2828 from UrubuCode/feat/audio-escuta",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T08:33:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ebbdd2f840d800593b227db563569dd14f86b28d"
-    },
-    {
-      "sha": "7f192dd983620e32424aeeed8f8e6cd470204448",
-      "short": "7f192dd",
-      "message": "fix(audio): escuta compila fora do Windows sem código morto (CI com avisos como erro)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-27T08:11:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7f192dd983620e32424aeeed8f8e6cd470204448"
     }
   ]
 }
