@@ -1,6 +1,78 @@
 {
-  "total": 6642,
+  "total": 6651,
   "commits": [
+    {
+      "sha": "9e8b7bbd0493ebc98a907acf106412bc4ad328d6",
+      "short": "9e8b7bb",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T21:40:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9e8b7bbd0493ebc98a907acf106412bc4ad328d6"
+    },
+    {
+      "sha": "b22a2268d5697ffb3130429b6efde05b62de0d59",
+      "short": "b22a226",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T21:39:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b22a2268d5697ffb3130429b6efde05b62de0d59"
+    },
+    {
+      "sha": "68ac85a61e719265305ada8930a4442e9d19380a",
+      "short": "68ac85a",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T21:38:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/68ac85a61e719265305ada8930a4442e9d19380a"
+    },
+    {
+      "sha": "db4e55b0da8ee50650071a5c8f9f170702b3c6ec",
+      "short": "db4e55b",
+      "message": "perf(core): the element buffer of an array that died is handed to one made later",
+      "author": "Drysius",
+      "date": "2026-09-29T21:14:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/db4e55b0da8ee50650071a5c8f9f170702b3c6ec"
+    },
+    {
+      "sha": "43b512655c74f2b0e415d5a87332e0a5b0f73fde",
+      "short": "43b5126",
+      "message": "chore: ignore PLAN_RTS.MD, a local work list",
+      "author": "Drysius",
+      "date": "2026-09-29T21:01:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/43b512655c74f2b0e415d5a87332e0a5b0f73fde"
+    },
+    {
+      "sha": "3078ba94d1a7d0cc8356b20427c80cfab8ae3cda",
+      "short": "3078ba9",
+      "message": "perf(core): the type of an empty object is remembered instead of looked up per object",
+      "author": "Drysius",
+      "date": "2026-09-29T20:55:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3078ba94d1a7d0cc8356b20427c80cfab8ae3cda"
+    },
+    {
+      "sha": "e7d0eaba2b4b916bc92e26b764ae1534d908bbc3",
+      "short": "e7d0eab",
+      "message": "perf(codegen): asking whether something is an instance does not cost the class its layout",
+      "author": "Drysius",
+      "date": "2026-09-29T20:37:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e7d0eaba2b4b916bc92e26b764ae1534d908bbc3"
+    },
+    {
+      "sha": "a4fe1fc5701379e8e13ca2a46c9eea9e530de456",
+      "short": "a4fe1fc",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T20:35:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a4fe1fc5701379e8e13ca2a46c9eea9e530de456"
+    },
+    {
+      "sha": "79d5039d20360d0e3ac3295c56c6cb8c82f7d228",
+      "short": "79d5039",
+      "message": "perf(codegen,core): an instance that is seen is born under its prototype, not constructed",
+      "author": "Drysius",
+      "date": "2026-09-29T20:10:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/79d5039d20360d0e3ac3295c56c6cb8c82f7d228"
+    },
     {
       "sha": "93870303e7b9f4f00e76ffe49a5315c12a945a7d",
       "short": "9387030",
@@ -88,78 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-29T06:44:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/bd24bad9fbec658714d48d6bfefd7a376de9c442"
-    },
-    {
-      "sha": "40bc880ac43170fc03add66dc34bae251fc5ee1e",
-      "short": "40bc880",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T05:59:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40bc880ac43170fc03add66dc34bae251fc5ee1e"
-    },
-    {
-      "sha": "cec39e9659f32f34742ba638ba34da072b53bd7d",
-      "short": "cec39e9",
-      "message": "fix(codegen): a collection's direct entry is chosen by the receiver, not by the member's name",
-      "author": "Drysius",
-      "date": "2026-09-29T05:35:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cec39e9659f32f34742ba638ba34da072b53bd7d"
-    },
-    {
-      "sha": "910fb0312ee07098d79993728d7ea758e62bd763",
-      "short": "910fb03",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T05:08:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/910fb0312ee07098d79993728d7ea758e62bd763"
-    },
-    {
-      "sha": "d6058dd70cc4349ccc0621c5e11a5a648de394c5",
-      "short": "d6058dd",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T05:07:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6058dd70cc4349ccc0621c5e11a5a648de394c5"
-    },
-    {
-      "sha": "ea3cd7c64b8465482186296da5685d03f4dd9786",
-      "short": "ea3cd7c",
-      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T05:07:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ea3cd7c64b8465482186296da5685d03f4dd9786"
-    },
-    {
-      "sha": "58c921271c9c87a75ef0a647b3c5359d70b1fffa",
-      "short": "58c9212",
-      "message": "perf(codegen,core): a[i] over a proven number and s.charCodeAt(i) reach the runtime directly",
-      "author": "Drysius",
-      "date": "2026-09-29T04:44:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/58c921271c9c87a75ef0a647b3c5359d70b1fffa"
-    },
-    {
-      "sha": "de0f880ad93f90823b1f32b7e628af748e0a8cf2",
-      "short": "de0f880",
-      "message": "perf(codegen): a large module body is compiled as several functions",
-      "author": "Drysius",
-      "date": "2026-09-29T04:43:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de0f880ad93f90823b1f32b7e628af748e0a8cf2"
-    },
-    {
-      "sha": "1e359ad54c44bfd5b8f975a985ec3647a993fc4d",
-      "short": "1e359ad",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T03:08:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e359ad54c44bfd5b8f975a985ec3647a993fc4d"
-    },
-    {
-      "sha": "5a15e6df14ba8b91039ec058523bef3dd3446e4f",
-      "short": "5a15e6d",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T03:07:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5a15e6df14ba8b91039ec058523bef3dd3446e4f"
     }
   ]
 }
