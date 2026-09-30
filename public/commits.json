@@ -1,6 +1,22 @@
 {
-  "total": 6685,
+  "total": 6687,
   "commits": [
+    {
+      "sha": "6f2a99e1a8f1ee69cfbd657fd4e6b660c7a74ec4",
+      "short": "6f2a99e",
+      "message": "docs: raw memory and FFI are not refused, and the paragraph that said so was wrong about the decision",
+      "author": "Drysius",
+      "date": "2026-09-30T21:38:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6f2a99e1a8f1ee69cfbd657fd4e6b660c7a74ec4"
+    },
+    {
+      "sha": "940046cfdf08e2b0c016fc576e384746df38bbc9",
+      "short": "940046c",
+      "message": "docs: the machine-type surface, decided — and the C# measurement that motivates it",
+      "author": "Drysius",
+      "date": "2026-09-30T21:30:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/940046cfdf08e2b0c016fc576e384746df38bbc9"
+    },
     {
       "sha": "498dc9c9b5db4b5d580523b70b219fdd21aac41e",
       "short": "498dc9c",
@@ -144,22 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-30T06:46:57Z",
       "url": "https://github.com/UrubuCode/rts/commit/864b03f0c8abc4993df50ce89f51dbae9a8540c2"
-    },
-    {
-      "sha": "e72279977befbc4ffc184fab04641f7c6f237d21",
-      "short": "e722799",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T05:54:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e72279977befbc4ffc184fab04641f7c6f237d21"
-    },
-    {
-      "sha": "2c47de0b19fc0e250aaa87984c211f1b70d57d40",
-      "short": "2c47de0",
-      "message": "perf(core,codegen): `f(...xs)` hands the door the array written, not a copy of it",
-      "author": "Drysius",
-      "date": "2026-09-30T05:32:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c47de0b19fc0e250aaa87984c211f1b70d57d40"
     }
   ]
 }
