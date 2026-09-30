@@ -1,6 +1,86 @@
 {
-  "total": 6651,
+  "total": 6661,
   "commits": [
+    {
+      "sha": "7a9611e26934987fdbaf25aed648b524a091d242",
+      "short": "7a9611e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-30T03:06:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7a9611e26934987fdbaf25aed648b524a091d242"
+    },
+    {
+      "sha": "79b90412e90e4ca7b45844e3bc8969c8b03525af",
+      "short": "79b9041",
+      "message": "perf(core,codegen): a bound call, `apply` with a literal list and a lone spread hand their arguments over without an array",
+      "author": "Drysius",
+      "date": "2026-09-30T02:41:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/79b90412e90e4ca7b45844e3bc8969c8b03525af"
+    },
+    {
+      "sha": "9dee6dbbf0953811a52cf6b863f2d056f53eefdb",
+      "short": "9dee6db",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-30T02:40:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9dee6dbbf0953811a52cf6b863f2d056f53eefdb"
+    },
+    {
+      "sha": "4d9fc81cb58b360055b67673eeefb55ef5ae67d9",
+      "short": "4d9fc81",
+      "message": "perf(codegen): a class imported under another name has the layout of the class it names",
+      "author": "Drysius",
+      "date": "2026-09-30T02:14:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d9fc81cb58b360055b67673eeefb55ef5ae67d9"
+    },
+    {
+      "sha": "98e3f9c9342c8ca83c563b00f58a0c4fff47929d",
+      "short": "98e3f9c",
+      "message": "perf(codegen): a class declared in one module has its layout in every module that constructs it",
+      "author": "Drysius",
+      "date": "2026-09-30T01:59:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/98e3f9c9342c8ca83c563b00f58a0c4fff47929d"
+    },
+    {
+      "sha": "3adacc366c928d45d44a25b2556402811e6ad3a9",
+      "short": "3adacc3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-30T01:56:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3adacc366c928d45d44a25b2556402811e6ad3a9"
+    },
+    {
+      "sha": "418b168097a5229ff6f41d2b8d4dd78868d46ee7",
+      "short": "418b168",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-09-30T01:53:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/418b168097a5229ff6f41d2b8d4dd78868d46ee7"
+    },
+    {
+      "sha": "64efcf3fb64262bb3afe6a7e2a5382f218dad8ed",
+      "short": "64efcf3",
+      "message": "perf(codegen): a method that writes its own fields, or asks Math, is not a call on a layout",
+      "author": "Drysius",
+      "date": "2026-09-30T01:31:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/64efcf3fb64262bb3afe6a7e2a5382f218dad8ed"
+    },
+    {
+      "sha": "5c365a64113c07b215af68a691caa740a7cc7e26",
+      "short": "5c365a6",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-29T22:19:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5c365a64113c07b215af68a691caa740a7cc7e26"
+    },
+    {
+      "sha": "d6194e2ac95a0dd2ed137add09b5ebcec0bd97a1",
+      "short": "d6194e2",
+      "message": "perf(codegen): a class has its layout wherever it is declared, and the fixture finally tests it",
+      "author": "Drysius",
+      "date": "2026-09-29T21:54:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6194e2ac95a0dd2ed137add09b5ebcec0bd97a1"
+    },
     {
       "sha": "9e8b7bbd0493ebc98a907acf106412bc4ad328d6",
       "short": "9e8b7bb",
@@ -80,86 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-29T09:12:39Z",
       "url": "https://github.com/UrubuCode/rts/commit/93870303e7b9f4f00e76ffe49a5315c12a945a7d"
-    },
-    {
-      "sha": "0f093c1cc18efeb2a012eba98a938e6390aa44b8",
-      "short": "0f093c1",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T09:11:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0f093c1cc18efeb2a012eba98a938e6390aa44b8"
-    },
-    {
-      "sha": "6c7d19359ab7d6262044fa9c3e69f03a781b4c04",
-      "short": "6c7d193",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T09:10:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c7d19359ab7d6262044fa9c3e69f03a781b4c04"
-    },
-    {
-      "sha": "569d46393276a074e9216359c3c5de1b307b8ad2",
-      "short": "569d463",
-      "message": "perf(codegen): a class that extends one with a layout is the parent's fields followed by its own",
-      "author": "Drysius",
-      "date": "2026-09-29T08:45:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/569d46393276a074e9216359c3c5de1b307b8ad2"
-    },
-    {
-      "sha": "f49a783d9024340124530b9eec4e2b4eb4d3b14a",
-      "short": "f49a783",
-      "message": "perf(codegen): a method that is one expression over a layout's fields is that expression",
-      "author": "Drysius",
-      "date": "2026-09-29T08:34:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f49a783d9024340124530b9eec4e2b4eb4d3b14a"
-    },
-    {
-      "sha": "4dff4922680af5f0d49a55e58c509aeb7e404dad",
-      "short": "4dff492",
-      "message": "perf(codegen): a class whose constructor only fills fields is a layout where its instance is never seen",
-      "author": "Drysius",
-      "date": "2026-09-29T08:13:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4dff4922680af5f0d49a55e58c509aeb7e404dad"
-    },
-    {
-      "sha": "454602fb5137070cff5c7dff0c94091429cbe3f2",
-      "short": "454602f",
-      "message": "docs(codegen): where an allocation's time goes, and the smaller heap that made it worse",
-      "author": "Drysius",
-      "date": "2026-09-29T07:51:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/454602fb5137070cff5c7dff0c94091429cbe3f2"
-    },
-    {
-      "sha": "3f152152a05d0c1349699ac6c931d3285b2437e1",
-      "short": "3f15215",
-      "message": "perf(core): a class whose constructor reads no argument record is built without the door's bookkeeping",
-      "author": "Drysius",
-      "date": "2026-09-29T07:42:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3f152152a05d0c1349699ac6c931d3285b2437e1"
-    },
-    {
-      "sha": "e557cbeb6543b3a6aa51a0e13fdf3236798a2e85",
-      "short": "e557cbe",
-      "message": "fix(core): a root that names no cell of the region does not size the mark set",
-      "author": "Drysius",
-      "date": "2026-09-29T07:23:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e557cbeb6543b3a6aa51a0e13fdf3236798a2e85"
-    },
-    {
-      "sha": "f07882d0b3203634adc5d4640b16e1d8f77c4089",
-      "short": "f07882d",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-29T07:10:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f07882d0b3203634adc5d4640b16e1d8f77c4089"
-    },
-    {
-      "sha": "bd24bad9fbec658714d48d6bfefd7a376de9c442",
-      "short": "bd24bad",
-      "message": "perf(codegen,core): a callee that reads no argument record is called without the argument stacks",
-      "author": "Drysius",
-      "date": "2026-09-29T06:44:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bd24bad9fbec658714d48d6bfefd7a376de9c442"
     }
   ]
 }
