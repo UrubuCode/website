@@ -1,6 +1,110 @@
 {
-  "total": 6692,
+  "total": 6705,
   "commits": [
+    {
+      "sha": "9af30b6e8fd50c4a5febc18eca4c12f822f5d527",
+      "short": "9af30b6",
+      "message": "docs: the codegen/machine boundary is not symmetric, and saying it was is what made half of it false",
+      "author": "Drysius",
+      "date": "2026-10-01T22:10:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9af30b6e8fd50c4a5febc18eca4c12f822f5d527"
+    },
+    {
+      "sha": "03cf31225849445ceb34e184883ba062506e9ed1",
+      "short": "03cf312",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:54:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/03cf31225849445ceb34e184883ba062506e9ed1"
+    },
+    {
+      "sha": "18e22ab2f740faf3ce8e0f58549de1b9883e1930",
+      "short": "18e22ab",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:53:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18e22ab2f740faf3ce8e0f58549de1b9883e1930"
+    },
+    {
+      "sha": "226a5480fb7da3de2ce8b67a647af92e4864e267",
+      "short": "226a548",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:52:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/226a5480fb7da3de2ce8b67a647af92e4864e267"
+    },
+    {
+      "sha": "4f590541826eef24cee52dd5241fa9bf7dc72b60",
+      "short": "4f59054",
+      "message": "docs: remove the placement doctrine written for deleted crates, move the measurement history out of CLAUDE.md, and teach reuse-check to look for the QUESTION",
+      "author": "Drysius",
+      "date": "2026-10-01T21:32:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4f590541826eef24cee52dd5241fa9bf7dc72b60"
+    },
+    {
+      "sha": "ceb83148ca16d8d6f571d7e6e9dd54be73caa56a",
+      "short": "ceb8314",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:11:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ceb83148ca16d8d6f571d7e6e9dd54be73caa56a"
+    },
+    {
+      "sha": "7d72bf9206fd6f02e21626c30178d383316c1e03",
+      "short": "7d72bf9",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:10:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7d72bf9206fd6f02e21626c30178d383316c1e03"
+    },
+    {
+      "sha": "3095966de2f278b9fda599c1e92dcdaec8bebe35",
+      "short": "3095966",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T21:10:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3095966de2f278b9fda599c1e92dcdaec8bebe35"
+    },
+    {
+      "sha": "247291ed9c2090d6cff0b122751f0fc5b0fa85eb",
+      "short": "247291e",
+      "message": "docs: the principles a compiled language holds, the canonical form per question, and the MIR direction",
+      "author": "Drysius",
+      "date": "2026-10-01T20:47:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/247291ed9c2090d6cff0b122751f0fc5b0fa85eb"
+    },
+    {
+      "sha": "664ce810dc77c2d14362f35d3277c2b130064185",
+      "short": "664ce81",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T20:25:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/664ce810dc77c2d14362f35d3277c2b130064185"
+    },
+    {
+      "sha": "33fc27d96a3c515b817411660daf42c85eb8a1b5",
+      "short": "33fc27d",
+      "message": "fix(core): a cell's layout now says which slots hold references, and the tracer reads it",
+      "author": "Drysius",
+      "date": "2026-10-01T20:02:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33fc27d96a3c515b817411660daf42c85eb8a1b5"
+    },
+    {
+      "sha": "6955dffc32de095d491995ed93026bd775287c51",
+      "short": "6955dff",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T19:59:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6955dffc32de095d491995ed93026bd775287c51"
+    },
+    {
+      "sha": "d7226622cd153331cbf5f4a7e35924b5e1222774",
+      "short": "d722662",
+      "message": "perf(core): `toString(radix)`, `toFixed` and `toPrecision` write into a buffer on the stack",
+      "author": "Drysius",
+      "date": "2026-10-01T19:21:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7226622cd153331cbf5f4a7e35924b5e1222774"
+    },
     {
       "sha": "cd2cbb32ab7e19b8ef12efef18aa845422b27ff5",
       "short": "cd2cbb3",
@@ -56,110 +160,6 @@
       "author": "Drysius",
       "date": "2026-09-30T21:30:15Z",
       "url": "https://github.com/UrubuCode/rts/commit/940046cfdf08e2b0c016fc576e384746df38bbc9"
-    },
-    {
-      "sha": "498dc9c9b5db4b5d580523b70b219fdd21aac41e",
-      "short": "498dc9c",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T11:07:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/498dc9c9b5db4b5d580523b70b219fdd21aac41e"
-    },
-    {
-      "sha": "2af186af7825b10e1522eea698b39d4a98e886ac",
-      "short": "2af186a",
-      "message": "fix(codegen): `for`-`of` over a known array reads `length` on every step",
-      "author": "Drysius",
-      "date": "2026-09-30T10:43:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2af186af7825b10e1522eea698b39d4a98e886ac"
-    },
-    {
-      "sha": "ec80621101161cf279aac96f9dd45697184904e0",
-      "short": "ec80621",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T10:41:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ec80621101161cf279aac96f9dd45697184904e0"
-    },
-    {
-      "sha": "007c6b1dfc69406fd4980b9921dd4efb649c88b8",
-      "short": "007c6b1",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T10:40:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/007c6b1dfc69406fd4980b9921dd4efb649c88b8"
-    },
-    {
-      "sha": "26b57d28e1afcdef0b6267bc15f9f261dca68135",
-      "short": "26b57d2",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T10:39:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26b57d28e1afcdef0b6267bc15f9f261dca68135"
-    },
-    {
-      "sha": "d79606187f2af9149800eba2115072c62cbeec46",
-      "short": "d796061",
-      "message": "perf(codegen): a method with `const` locals, or one that calls another method of its class, is an expression on the layout too",
-      "author": "Drysius",
-      "date": "2026-09-30T10:13:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d79606187f2af9149800eba2115072c62cbeec46"
-    },
-    {
-      "sha": "4177855975ff657dbfbe3fdbbedebf78b11c8961",
-      "short": "4177855",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T10:11:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4177855975ff657dbfbe3fdbbedebf78b11c8961"
-    },
-    {
-      "sha": "2b18e5d9564d08dec509b514337e3ed1d5dbd987",
-      "short": "2b18e5d",
-      "message": "docs(codegen): the 2026-09-30 array and inherited-method stages, measured",
-      "author": "Drysius",
-      "date": "2026-09-30T09:48:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b18e5d9564d08dec509b514337e3ed1d5dbd987"
-    },
-    {
-      "sha": "e6489163708bb9845b4cf9ae4871b775aa97a42e",
-      "short": "e648916",
-      "message": "perf(core): a method reached through Array.prototype or String.prototype is cached at the site that calls it",
-      "author": "Drysius",
-      "date": "2026-09-30T09:46:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e6489163708bb9845b4cf9ae4871b775aa97a42e"
-    },
-    {
-      "sha": "a8ace7b6ed57648de0c806b55fe2b174e357f06f",
-      "short": "a8ace7b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T08:24:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a8ace7b6ed57648de0c806b55fe2b174e357f06f"
-    },
-    {
-      "sha": "b53aefe4864d0a0c14cdf531a3652b221df22c02",
-      "short": "b53aefe",
-      "message": "perf(core): a rooting guard reuses its box, `slice` copies once, and the built-in species getter is not called",
-      "author": "Drysius",
-      "date": "2026-09-30T07:59:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b53aefe4864d0a0c14cdf531a3652b221df22c02"
-    },
-    {
-      "sha": "5151626eb7cd8f20a71d9143a949bb80658b8843",
-      "short": "5151626",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T07:46:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5151626eb7cd8f20a71d9143a949bb80658b8843"
-    },
-    {
-      "sha": "578e06320f19c527453c98bc66c174e923660755",
-      "short": "578e063",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T07:45:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/578e06320f19c527453c98bc66c174e923660755"
     }
   ]
 }
