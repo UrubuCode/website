@@ -1,6 +1,46 @@
 {
-  "total": 6687,
+  "total": 6692,
   "commits": [
+    {
+      "sha": "cd2cbb32ab7e19b8ef12efef18aa845422b27ff5",
+      "short": "cd2cbb3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T00:12:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd2cbb32ab7e19b8ef12efef18aa845422b27ff5"
+    },
+    {
+      "sha": "9fb3b1c1e595ec20d5ba3ff6c56073c068f31380",
+      "short": "9fb3b1c",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T00:11:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9fb3b1c1e595ec20d5ba3ff6c56073c068f31380"
+    },
+    {
+      "sha": "e38cd1b4e710778c911fb9c344f23d34eb6e026c",
+      "short": "e38cd1b",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T00:11:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e38cd1b4e710778c911fb9c344f23d34eb6e026c"
+    },
+    {
+      "sha": "696ad5c4b4dad1904f477bc59959d8e96ff664b8",
+      "short": "696ad5c",
+      "message": "docs: compiled code already runs on several threads, and this file said it could not",
+      "author": "Drysius",
+      "date": "2026-09-30T23:49:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/696ad5c4b4dad1904f477bc59959d8e96ff664b8"
+    },
+    {
+      "sha": "ac4147522c5cd4f8ed5ecbb85e39ae9c97273791",
+      "short": "ac41475",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-09-30T22:07:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ac4147522c5cd4f8ed5ecbb85e39ae9c97273791"
+    },
     {
       "sha": "6f2a99e1a8f1ee69cfbd657fd4e6b660c7a74ec4",
       "short": "6f2a99e",
@@ -120,46 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-09-30T07:45:46Z",
       "url": "https://github.com/UrubuCode/rts/commit/578e06320f19c527453c98bc66c174e923660755"
-    },
-    {
-      "sha": "3bb62f8f15db16000a1dcfc73cddcbdd99b3bed8",
-      "short": "3bb62f8",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T07:45:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3bb62f8f15db16000a1dcfc73cddcbdd99b3bed8"
-    },
-    {
-      "sha": "2561a8a59ca4cc748bb5f7948563f74eeb2789b4",
-      "short": "2561a8a",
-      "message": "perf(codegen): `[...xs]` is one copy, not a copy appended into an empty array",
-      "author": "Drysius",
-      "date": "2026-09-30T07:26:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2561a8a59ca4cc748bb5f7948563f74eeb2789b4"
-    },
-    {
-      "sha": "854114f246930b1ed2a16123e660ad4cf6e1f24f",
-      "short": "854114f",
-      "message": "fix(codegen): `[...xs]` is a copy again; the call's spread shortcut had reached the array literal",
-      "author": "Drysius",
-      "date": "2026-09-30T07:16:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/854114f246930b1ed2a16123e660ad4cf6e1f24f"
-    },
-    {
-      "sha": "6532cf6a599edd993b62c3dea1bb1107b28306dc",
-      "short": "6532cf6",
-      "message": "perf(codegen): for-of over an array the program knows walks the array, asking nothing per pass",
-      "author": "Drysius",
-      "date": "2026-09-30T07:04:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6532cf6a599edd993b62c3dea1bb1107b28306dc"
-    },
-    {
-      "sha": "864b03f0c8abc4993df50ce89f51dbae9a8540c2",
-      "short": "864b03f",
-      "message": "perf(core): a fresh array's length is written without a used cell's checks, and spare buffers are kept by width",
-      "author": "Drysius",
-      "date": "2026-09-30T06:46:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/864b03f0c8abc4993df50ce89f51dbae9a8540c2"
     }
   ]
 }
