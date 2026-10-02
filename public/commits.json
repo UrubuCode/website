@@ -1,6 +1,70 @@
 {
-  "total": 6719,
+  "total": 6727,
   "commits": [
+    {
+      "sha": "0a0c867269f7b78406b3c96c105b4fb62bc60513",
+      "short": "0a0c867",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T09:54:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a0c867269f7b78406b3c96c105b4fb62bc60513"
+    },
+    {
+      "sha": "f89c1d1864bec22337197b0399241c9c6fa6fccd",
+      "short": "f89c1d1",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T09:52:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f89c1d1864bec22337197b0399241c9c6fa6fccd"
+    },
+    {
+      "sha": "bda066cdc1cb3879f7e818041894979738f91b03",
+      "short": "bda066c",
+      "message": "fix(node): reading a text ARGUMENT is three questions, and now one form each (#2851)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:30:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bda066cdc1cb3879f7e818041894979738f91b03"
+    },
+    {
+      "sha": "6ef354afd4e4f2ab9b6550c79a7a951760fe8f26",
+      "short": "6ef354a",
+      "message": "fix(node): eleven of the twelve divergences `claude-node-dns` names (#2849)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:30:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6ef354afd4e4f2ab9b6550c79a7a951760fe8f26"
+    },
+    {
+      "sha": "309a6954229055b5297e37ed95961a609ad1d6c8",
+      "short": "309a695",
+      "message": "test(host): the AOT manifest test skips a STALE archive the way it skips a missing binary (#2848)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:30:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/309a6954229055b5297e37ed95961a609ad1d6c8"
+    },
+    {
+      "sha": "cb22bfa0864d02daf66d4cc8b37bec58b15b201f",
+      "short": "cb22bfa",
+      "message": "fix(node): a `zlib` one-shot refuses a missing callback instead of accepting it (#2847)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:30:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cb22bfa0864d02daf66d4cc8b37bec58b15b201f"
+    },
+    {
+      "sha": "d49ee0e914468a2d3f5d4d83d04792d5e1acdb23",
+      "short": "d49ee0e",
+      "message": "chore(tests): drop the `try` around `res.end` now that it does not throw (#2846)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:30:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d49ee0e914468a2d3f5d4d83d04792d5e1acdb23"
+    },
+    {
+      "sha": "1bd6e2e33b9d3abeca70d74333cfb8d1d8ae6718",
+      "short": "1bd6e2e",
+      "message": "test(host): the fixture suite runs each file in its own process, and runs again (#2845)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T09:29:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1bd6e2e33b9d3abeca70d74333cfb8d1d8ae6718"
+    },
     {
       "sha": "9fbf7296a7b56895d11986ab4c694a83829f81af",
       "short": "9fbf729",
@@ -96,70 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-01T22:58:55Z",
       "url": "https://github.com/UrubuCode/rts/commit/b751c31eab1fda085603141275168175d5136c3e"
-    },
-    {
-      "sha": "f77015459a0b9e34235a5c3b5e332f6c06d1a08e",
-      "short": "f770154",
-      "message": "docs: an OS call is not a machine capability, and rts:num's twenty-one are",
-      "author": "Drysius",
-      "date": "2026-10-01T22:37:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f77015459a0b9e34235a5c3b5e332f6c06d1a08e"
-    },
-    {
-      "sha": "9809d1054d6570035b95862a4510ee9d7008c801",
-      "short": "9809d10",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T22:34:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9809d1054d6570035b95862a4510ee9d7008c801"
-    },
-    {
-      "sha": "9af30b6e8fd50c4a5febc18eca4c12f822f5d527",
-      "short": "9af30b6",
-      "message": "docs: the codegen/machine boundary is not symmetric, and saying it was is what made half of it false",
-      "author": "Drysius",
-      "date": "2026-10-01T22:10:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9af30b6e8fd50c4a5febc18eca4c12f822f5d527"
-    },
-    {
-      "sha": "03cf31225849445ceb34e184883ba062506e9ed1",
-      "short": "03cf312",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:54:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/03cf31225849445ceb34e184883ba062506e9ed1"
-    },
-    {
-      "sha": "18e22ab2f740faf3ce8e0f58549de1b9883e1930",
-      "short": "18e22ab",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:53:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/18e22ab2f740faf3ce8e0f58549de1b9883e1930"
-    },
-    {
-      "sha": "226a5480fb7da3de2ce8b67a647af92e4864e267",
-      "short": "226a548",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:52:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/226a5480fb7da3de2ce8b67a647af92e4864e267"
-    },
-    {
-      "sha": "4f590541826eef24cee52dd5241fa9bf7dc72b60",
-      "short": "4f59054",
-      "message": "docs: remove the placement doctrine written for deleted crates, move the measurement history out of CLAUDE.md, and teach reuse-check to look for the QUESTION",
-      "author": "Drysius",
-      "date": "2026-10-01T21:32:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4f590541826eef24cee52dd5241fa9bf7dc72b60"
-    },
-    {
-      "sha": "ceb83148ca16d8d6f571d7e6e9dd54be73caa56a",
-      "short": "ceb8314",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:11:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ceb83148ca16d8d6f571d7e6e9dd54be73caa56a"
     }
   ]
 }
