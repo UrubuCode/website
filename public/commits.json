@@ -1,6 +1,118 @@
 {
-  "total": 6705,
+  "total": 6719,
   "commits": [
+    {
+      "sha": "9fbf7296a7b56895d11986ab4c694a83829f81af",
+      "short": "9fbf729",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T23:59:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9fbf7296a7b56895d11986ab4c694a83829f81af"
+    },
+    {
+      "sha": "cc97c33454257468ec14dadba1c14fd9ae133902",
+      "short": "cc97c33",
+      "message": "fix(cli): `rts i` reads a registry packument past `into_string`'s 10 MB cap (#2842)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:31:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cc97c33454257468ec14dadba1c14fd9ae133902"
+    },
+    {
+      "sha": "d6d6a0c29f7b974c65fef8dfd15c04a82b9dd322",
+      "short": "d6d6a0c",
+      "message": "fix(node): `res.write(chunk)` and `res.end(chunk)` do not throw (#2841)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:25:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d6d6a0c29f7b974c65fef8dfd15c04a82b9dd322"
+    },
+    {
+      "sha": "9445ff90ef1a906315478161bfcdabfec7bc3047",
+      "short": "9445ff9",
+      "message": "fix(core): a RegExp pattern with no Rust spelling REFUSES instead of answering (#2839)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:25:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9445ff90ef1a906315478161bfcdabfec7bc3047"
+    },
+    {
+      "sha": "34f225d1b60c1e4268e6410e85add08aca510671",
+      "short": "34f225d",
+      "message": "fix(core): a regex literal is a RegExp wherever it is evaluated (#2838)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:25:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/34f225d1b60c1e4268e6410e85add08aca510671"
+    },
+    {
+      "sha": "6c7390955cc2723b1bb07751b36a1b1e35bd7e4e",
+      "short": "6c73909",
+      "message": "feat(host): a bare specifier names an installed package (#2835)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:25:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6c7390955cc2723b1bb07751b36a1b1e35bd7e4e"
+    },
+    {
+      "sha": "5ee753d908395a423a8def9aab1258739ed61729",
+      "short": "5ee753d",
+      "message": "fix(node): `fetch` reads `Headers.entries()` as the iterator it is (#2834)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-01T23:25:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ee753d908395a423a8def9aab1258739ed61729"
+    },
+    {
+      "sha": "9eb13a19a4d975921ee7ab2bf439eb19bce3ce12",
+      "short": "9eb13a1",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T23:23:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9eb13a19a4d975921ee7ab2bf439eb19bce3ce12"
+    },
+    {
+      "sha": "40e7a407c2ec63531f90f704b3cd427e8b1f3176",
+      "short": "40e7a40",
+      "message": "chore: ignore .rts-local, the per-developer measurement kit",
+      "author": "Drysius",
+      "date": "2026-10-01T23:01:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40e7a407c2ec63531f90f704b3cd427e8b1f3176"
+    },
+    {
+      "sha": "c92525dc758f678583f6e44e49ea4e9f9d8b9108",
+      "short": "c92525d",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T23:00:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c92525dc758f678583f6e44e49ea4e9f9d8b9108"
+    },
+    {
+      "sha": "3a83e120f4b6fdcf5de139d2b0e7265eb841c82a",
+      "short": "3a83e12",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T22:59:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3a83e120f4b6fdcf5de139d2b0e7265eb841c82a"
+    },
+    {
+      "sha": "b751c31eab1fda085603141275168175d5136c3e",
+      "short": "b751c31",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T22:58:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b751c31eab1fda085603141275168175d5136c3e"
+    },
+    {
+      "sha": "f77015459a0b9e34235a5c3b5e332f6c06d1a08e",
+      "short": "f770154",
+      "message": "docs: an OS call is not a machine capability, and rts:num's twenty-one are",
+      "author": "Drysius",
+      "date": "2026-10-01T22:37:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f77015459a0b9e34235a5c3b5e332f6c06d1a08e"
+    },
+    {
+      "sha": "9809d1054d6570035b95862a4510ee9d7008c801",
+      "short": "9809d10",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-01T22:34:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9809d1054d6570035b95862a4510ee9d7008c801"
+    },
     {
       "sha": "9af30b6e8fd50c4a5febc18eca4c12f822f5d527",
       "short": "9af30b6",
@@ -48,118 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-01T21:11:42Z",
       "url": "https://github.com/UrubuCode/rts/commit/ceb83148ca16d8d6f571d7e6e9dd54be73caa56a"
-    },
-    {
-      "sha": "7d72bf9206fd6f02e21626c30178d383316c1e03",
-      "short": "7d72bf9",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:10:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7d72bf9206fd6f02e21626c30178d383316c1e03"
-    },
-    {
-      "sha": "3095966de2f278b9fda599c1e92dcdaec8bebe35",
-      "short": "3095966",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T21:10:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3095966de2f278b9fda599c1e92dcdaec8bebe35"
-    },
-    {
-      "sha": "247291ed9c2090d6cff0b122751f0fc5b0fa85eb",
-      "short": "247291e",
-      "message": "docs: the principles a compiled language holds, the canonical form per question, and the MIR direction",
-      "author": "Drysius",
-      "date": "2026-10-01T20:47:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/247291ed9c2090d6cff0b122751f0fc5b0fa85eb"
-    },
-    {
-      "sha": "664ce810dc77c2d14362f35d3277c2b130064185",
-      "short": "664ce81",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T20:25:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/664ce810dc77c2d14362f35d3277c2b130064185"
-    },
-    {
-      "sha": "33fc27d96a3c515b817411660daf42c85eb8a1b5",
-      "short": "33fc27d",
-      "message": "fix(core): a cell's layout now says which slots hold references, and the tracer reads it",
-      "author": "Drysius",
-      "date": "2026-10-01T20:02:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/33fc27d96a3c515b817411660daf42c85eb8a1b5"
-    },
-    {
-      "sha": "6955dffc32de095d491995ed93026bd775287c51",
-      "short": "6955dff",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T19:59:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6955dffc32de095d491995ed93026bd775287c51"
-    },
-    {
-      "sha": "d7226622cd153331cbf5f4a7e35924b5e1222774",
-      "short": "d722662",
-      "message": "perf(core): `toString(radix)`, `toFixed` and `toPrecision` write into a buffer on the stack",
-      "author": "Drysius",
-      "date": "2026-10-01T19:21:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7226622cd153331cbf5f4a7e35924b5e1222774"
-    },
-    {
-      "sha": "cd2cbb32ab7e19b8ef12efef18aa845422b27ff5",
-      "short": "cd2cbb3",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T00:12:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd2cbb32ab7e19b8ef12efef18aa845422b27ff5"
-    },
-    {
-      "sha": "9fb3b1c1e595ec20d5ba3ff6c56073c068f31380",
-      "short": "9fb3b1c",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T00:11:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9fb3b1c1e595ec20d5ba3ff6c56073c068f31380"
-    },
-    {
-      "sha": "e38cd1b4e710778c911fb9c344f23d34eb6e026c",
-      "short": "e38cd1b",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T00:11:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e38cd1b4e710778c911fb9c344f23d34eb6e026c"
-    },
-    {
-      "sha": "696ad5c4b4dad1904f477bc59959d8e96ff664b8",
-      "short": "696ad5c",
-      "message": "docs: compiled code already runs on several threads, and this file said it could not",
-      "author": "Drysius",
-      "date": "2026-09-30T23:49:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/696ad5c4b4dad1904f477bc59959d8e96ff664b8"
-    },
-    {
-      "sha": "ac4147522c5cd4f8ed5ecbb85e39ae9c97273791",
-      "short": "ac41475",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-09-30T22:07:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ac4147522c5cd4f8ed5ecbb85e39ae9c97273791"
-    },
-    {
-      "sha": "6f2a99e1a8f1ee69cfbd657fd4e6b660c7a74ec4",
-      "short": "6f2a99e",
-      "message": "docs: raw memory and FFI are not refused, and the paragraph that said so was wrong about the decision",
-      "author": "Drysius",
-      "date": "2026-09-30T21:38:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6f2a99e1a8f1ee69cfbd657fd4e6b660c7a74ec4"
-    },
-    {
-      "sha": "940046cfdf08e2b0c016fc576e384746df38bbc9",
-      "short": "940046c",
-      "message": "docs: the machine-type surface, decided — and the C# measurement that motivates it",
-      "author": "Drysius",
-      "date": "2026-09-30T21:30:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/940046cfdf08e2b0c016fc576e384746df38bbc9"
     }
   ]
 }
