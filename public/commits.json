@@ -1,6 +1,110 @@
 {
-  "total": 6727,
+  "total": 6740,
   "commits": [
+    {
+      "sha": "ddbadbc41c4dacc1236115f9e13c76c16a369de7",
+      "short": "ddbadbc",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T16:52:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ddbadbc41c4dacc1236115f9e13c76c16a369de7"
+    },
+    {
+      "sha": "41eec3d694a7838bf54e37767dcc493dd434368c",
+      "short": "41eec3d",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T16:51:18Z",
+      "url": "https://github.com/UrubuCode/rts/commit/41eec3d694a7838bf54e37767dcc493dd434368c"
+    },
+    {
+      "sha": "cd500720953280e6527e3b250c62a88503527161",
+      "short": "cd50072",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T16:50:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd500720953280e6527e3b250c62a88503527161"
+    },
+    {
+      "sha": "24acca71866623bf195a259c2bcb619bbaa98d23",
+      "short": "24acca7",
+      "message": "feat(std,core): the `WebAssembly` global — modules compile, instantiate and run (#2860)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T16:28:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/24acca71866623bf195a259c2bcb619bbaa98d23"
+    },
+    {
+      "sha": "1608846d3c9b408df40d8ddcc2d8ad97f95ac2ec",
+      "short": "1608846",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T16:02:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1608846d3c9b408df40d8ddcc2d8ad97f95ac2ec"
+    },
+    {
+      "sha": "3a29238912b2421009780d23027189d2c6d5dad2",
+      "short": "3a29238",
+      "message": "feat(core,host): a module runs when something NAMES it, and an import cycle links (#2858)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T15:40:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3a29238912b2421009780d23027189d2c6d5dad2"
+    },
+    {
+      "sha": "227a2aa01bd156a12643a144dc45db99d71f89f3",
+      "short": "227a2aa",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T13:37:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/227a2aa01bd156a12643a144dc45db99d71f89f3"
+    },
+    {
+      "sha": "de1de3eadb0283377d1019b30cf35c80549aa655",
+      "short": "de1de3e",
+      "message": "fix(node): five divergences in `node:events` and `node:stream` (#2857)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T13:11:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/de1de3eadb0283377d1019b30cf35c80549aa655"
+    },
+    {
+      "sha": "189d302fa40cb38598fbadeadc0885b96d8e43a6",
+      "short": "189d302",
+      "message": "feat(host): `require(\"./x.json\")` answers the parsed value (#2855)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T13:11:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/189d302fa40cb38598fbadeadc0885b96d8e43a6"
+    },
+    {
+      "sha": "0e57589a1a8d34ee78414737e3b489e9f4ca3ad1",
+      "short": "0e57589",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T12:41:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0e57589a1a8d34ee78414737e3b489e9f4ca3ad1"
+    },
+    {
+      "sha": "c23c6599f7a1de92df07f4d5f873db6739100751",
+      "short": "c23c659",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T12:40:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c23c6599f7a1de92df07f4d5f873db6739100751"
+    },
+    {
+      "sha": "ce87f40a42ca01d990eb54fe4b34915b22059ac8",
+      "short": "ce87f40",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-02T12:40:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ce87f40a42ca01d990eb54fe4b34915b22059ac8"
+    },
+    {
+      "sha": "9953706d45db4b8febb73fafb54a1e0c55b73dd6",
+      "short": "9953706",
+      "message": "fix(host): `./x` means `x.js` when both `x.js` and `x/` are there (#2854)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T12:19:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9953706d45db4b8febb73fafb54a1e0c55b73dd6"
+    },
     {
       "sha": "0a0c867269f7b78406b3c96c105b4fb62bc60513",
       "short": "0a0c867",
@@ -56,110 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-02T09:30:01Z",
       "url": "https://github.com/UrubuCode/rts/commit/d49ee0e914468a2d3f5d4d83d04792d5e1acdb23"
-    },
-    {
-      "sha": "1bd6e2e33b9d3abeca70d74333cfb8d1d8ae6718",
-      "short": "1bd6e2e",
-      "message": "test(host): the fixture suite runs each file in its own process, and runs again (#2845)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T09:29:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1bd6e2e33b9d3abeca70d74333cfb8d1d8ae6718"
-    },
-    {
-      "sha": "9fbf7296a7b56895d11986ab4c694a83829f81af",
-      "short": "9fbf729",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T23:59:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9fbf7296a7b56895d11986ab4c694a83829f81af"
-    },
-    {
-      "sha": "cc97c33454257468ec14dadba1c14fd9ae133902",
-      "short": "cc97c33",
-      "message": "fix(cli): `rts i` reads a registry packument past `into_string`'s 10 MB cap (#2842)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:31:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cc97c33454257468ec14dadba1c14fd9ae133902"
-    },
-    {
-      "sha": "d6d6a0c29f7b974c65fef8dfd15c04a82b9dd322",
-      "short": "d6d6a0c",
-      "message": "fix(node): `res.write(chunk)` and `res.end(chunk)` do not throw (#2841)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:25:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d6d6a0c29f7b974c65fef8dfd15c04a82b9dd322"
-    },
-    {
-      "sha": "9445ff90ef1a906315478161bfcdabfec7bc3047",
-      "short": "9445ff9",
-      "message": "fix(core): a RegExp pattern with no Rust spelling REFUSES instead of answering (#2839)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:25:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9445ff90ef1a906315478161bfcdabfec7bc3047"
-    },
-    {
-      "sha": "34f225d1b60c1e4268e6410e85add08aca510671",
-      "short": "34f225d",
-      "message": "fix(core): a regex literal is a RegExp wherever it is evaluated (#2838)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:25:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/34f225d1b60c1e4268e6410e85add08aca510671"
-    },
-    {
-      "sha": "6c7390955cc2723b1bb07751b36a1b1e35bd7e4e",
-      "short": "6c73909",
-      "message": "feat(host): a bare specifier names an installed package (#2835)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:25:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6c7390955cc2723b1bb07751b36a1b1e35bd7e4e"
-    },
-    {
-      "sha": "5ee753d908395a423a8def9aab1258739ed61729",
-      "short": "5ee753d",
-      "message": "fix(node): `fetch` reads `Headers.entries()` as the iterator it is (#2834)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-01T23:25:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5ee753d908395a423a8def9aab1258739ed61729"
-    },
-    {
-      "sha": "9eb13a19a4d975921ee7ab2bf439eb19bce3ce12",
-      "short": "9eb13a1",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T23:23:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9eb13a19a4d975921ee7ab2bf439eb19bce3ce12"
-    },
-    {
-      "sha": "40e7a407c2ec63531f90f704b3cd427e8b1f3176",
-      "short": "40e7a40",
-      "message": "chore: ignore .rts-local, the per-developer measurement kit",
-      "author": "Drysius",
-      "date": "2026-10-01T23:01:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40e7a407c2ec63531f90f704b3cd427e8b1f3176"
-    },
-    {
-      "sha": "c92525dc758f678583f6e44e49ea4e9f9d8b9108",
-      "short": "c92525d",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T23:00:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c92525dc758f678583f6e44e49ea4e9f9d8b9108"
-    },
-    {
-      "sha": "3a83e120f4b6fdcf5de139d2b0e7265eb841c82a",
-      "short": "3a83e12",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T22:59:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a83e120f4b6fdcf5de139d2b0e7265eb841c82a"
-    },
-    {
-      "sha": "b751c31eab1fda085603141275168175d5136c3e",
-      "short": "b751c31",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-01T22:58:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b751c31eab1fda085603141275168175d5136c3e"
     }
   ]
 }
