@@ -1,165 +1,165 @@
 {
-  "total": 6761,
+  "total": 6787,
   "commits": [
     {
-      "sha": "9334a84e6c37bd2bb4ac46c4d36f377f638827e4",
-      "short": "9334a84",
-      "message": "fix(codegen,core,node,std): a named ESM import is LIVE, and an unhandled error event throws (#2865)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T21:19:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9334a84e6c37bd2bb4ac46c4d36f377f638827e4"
-    },
-    {
-      "sha": "53400209c44458bd2413648b3e808446aed355f4",
-      "short": "5340020",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-02T20:42:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53400209c44458bd2413648b3e808446aed355f4"
-    },
-    {
-      "sha": "8336359e88ff5ac7ea294ecfff6f466dd88fc479",
-      "short": "8336359",
-      "message": "Merge remote-tracking branch 'origin/main' into string-in-its-own-cell",
+      "sha": "0a945a7d255b36ad28926dfff520560abe66ca03",
+      "short": "0a945a7",
+      "message": "docs(cranelift,core): what size classes would cost, where the constraint lives",
       "author": "Drysius",
-      "date": "2026-10-02T19:47:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8336359e88ff5ac7ea294ecfff6f466dd88fc479"
+      "date": "2026-10-03T03:05:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0a945a7d255b36ad28926dfff520560abe66ca03"
     },
     {
-      "sha": "3a8bf361702584916d62855e5ddbb94787b9bb8f",
-      "short": "3a8bf36",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-02T19:17:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a8bf361702584916d62855e5ddbb94787b9bb8f"
-    },
-    {
-      "sha": "bc64921472875132305438b128b5ad5be10c7de9",
-      "short": "bc64921",
-      "message": "perf(core): split, match and matchAll stop copying the subject four times",
+      "sha": "52762c345163c0ddd9bf40b82650702cf1c28fa0",
+      "short": "52762c3",
+      "message": "Merge remote-tracking branch 'origin/main'",
       "author": "Drysius",
-      "date": "2026-10-02T19:16:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bc64921472875132305438b128b5ad5be10c7de9"
+      "date": "2026-10-03T02:53:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/52762c345163c0ddd9bf40b82650702cf1c28fa0"
     },
     {
-      "sha": "35741b526f1094b03bfab57ad140c24a9dd7ca85",
-      "short": "35741b5",
-      "message": "fix(core,codegen): the abstract typed-array prototype, and a cycle's CURRENT exports (#2864)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T18:53:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/35741b526f1094b03bfab57ad140c24a9dd7ca85"
+      "sha": "7565eebad7a80e75549adbfb5ecd3fe18bc9b033",
+      "short": "7565eeb",
+      "message": "docs(core): the eager `prototype` costs ~260 ns, measured where the decision lives",
+      "author": "Drysius",
+      "date": "2026-10-03T02:53:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7565eebad7a80e75549adbfb5ecd3fe18bc9b033"
     },
     {
-      "sha": "aa121b998fc5dd6fe58b6d1b38dd77311067e61c",
-      "short": "aa121b9",
+      "sha": "d69921b1c3f422021e84059a132e5ca221e4f09b",
+      "short": "d69921b",
+      "message": "perf(core): placing elements in a cell takes one bounds check, not one per element",
+      "author": "Drysius",
+      "date": "2026-10-03T02:50:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d69921b1c3f422021e84059a132e5ca221e4f09b"
+    },
+    {
+      "sha": "b996bcc9899772ac31f6a3bcea59adbaae27cce6",
+      "short": "b996bcc",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T18:22:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aa121b998fc5dd6fe58b6d1b38dd77311067e61c"
+      "date": "2026-10-03T02:25:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b996bcc9899772ac31f6a3bcea59adbaae27cce6"
     },
     {
-      "sha": "5c2c86be7054bdc4fde770972044119539ba2d43",
-      "short": "5c2c86b",
+      "sha": "8efbf9f9fd20366aa243cf96820820ffccea66f9",
+      "short": "8efbf9f",
       "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T18:21:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5c2c86be7054bdc4fde770972044119539ba2d43"
+      "date": "2026-10-03T02:24:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8efbf9f9fd20366aa243cf96820820ffccea66f9"
     },
     {
-      "sha": "5cd25d329980e1ba19798b42b527fc58fa41277a",
-      "short": "5cd25d3",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-02T18:21:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5cd25d329980e1ba19798b42b527fc58fa41277a"
-    },
-    {
-      "sha": "97e960618c98b6f841757cb66e2841b9378622b8",
-      "short": "97e9606",
-      "message": "feat(std,core): wasm calls JavaScript back, and a surrogate class compiles (#2861)",
+      "sha": "3985968d4a82b40020e63ad57a91e572dc8f0bf9",
+      "short": "3985968",
+      "message": "fix(node,core): http over loopback completes, and a host module's default is its module.exports (#2872)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T18:01:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/97e960618c98b6f841757cb66e2841b9378622b8"
+      "date": "2026-10-03T02:03:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3985968d4a82b40020e63ad57a91e572dc8f0bf9"
     },
     {
-      "sha": "ddbadbc41c4dacc1236115f9e13c76c16a369de7",
-      "short": "ddbadbc",
+      "sha": "654d29ce8bc1666f5c5e8eacdc972b82b144d161",
+      "short": "654d29c",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Drysius",
+      "date": "2026-10-03T01:46:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/654d29ce8bc1666f5c5e8eacdc972b82b144d161"
+    },
+    {
+      "sha": "121ed47e71986da812c0694cc94703f3aa9d8961",
+      "short": "121ed47",
+      "message": "perf(core): an array's elements live in its own cell when they fit",
+      "author": "Drysius",
+      "date": "2026-10-03T01:46:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/121ed47e71986da812c0694cc94703f3aa9d8961"
+    },
+    {
+      "sha": "c3a1a79fbece4a0dedd65ef1925f0453c9441ca7",
+      "short": "c3a1a79",
+      "message": "test(core): the probe says which rows it cannot measure, and stops guessing at array cost",
+      "author": "Drysius",
+      "date": "2026-10-03T01:16:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3a1a79fbece4a0dedd65ef1925f0453c9441ca7"
+    },
+    {
+      "sha": "62ebd61dbc51fcef83022f6d1b158d93f5051221",
+      "short": "62ebd61",
+      "message": "refactor(core): an array's elements are borrowed as a slice, not as a Vec",
+      "author": "Drysius",
+      "date": "2026-10-03T01:07:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/62ebd61dbc51fcef83022f6d1b158d93f5051221"
+    },
+    {
+      "sha": "946d573c51b9e6a8501f924ef569c71dbdd621b2",
+      "short": "946d573",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T16:52:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ddbadbc41c4dacc1236115f9e13c76c16a369de7"
+      "date": "2026-10-03T00:48:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/946d573c51b9e6a8501f924ef569c71dbdd621b2"
     },
     {
-      "sha": "41eec3d694a7838bf54e37767dcc493dd434368c",
-      "short": "41eec3d",
+      "sha": "61602625c7a7f4321aef11a490da855143fe8fd8",
+      "short": "6160262",
       "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T16:51:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/41eec3d694a7838bf54e37767dcc493dd434368c"
+      "date": "2026-10-03T00:47:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/61602625c7a7f4321aef11a490da855143fe8fd8"
     },
     {
-      "sha": "cd500720953280e6527e3b250c62a88503527161",
-      "short": "cd50072",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "sha": "2234704925472536b968c328b8f60d21ac9bed86",
+      "short": "2234704",
+      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T16:50:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd500720953280e6527e3b250c62a88503527161"
+      "date": "2026-10-03T00:46:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2234704925472536b968c328b8f60d21ac9bed86"
     },
     {
-      "sha": "24acca71866623bf195a259c2bcb619bbaa98d23",
-      "short": "24acca7",
-      "message": "feat(std,core): the `WebAssembly` global — modules compile, instantiate and run (#2860)",
+      "sha": "4d2fc2c1d274ca41ff6fb83a2375dab518e8636f",
+      "short": "4d2fc2c",
+      "message": "fix(core,node): a socket's events reach a program that only waits (#2869)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T16:28:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/24acca71866623bf195a259c2bcb619bbaa98d23"
+      "date": "2026-10-03T00:24:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4d2fc2c1d274ca41ff6fb83a2375dab518e8636f"
     },
     {
-      "sha": "1608846d3c9b408df40d8ddcc2d8ad97f95ac2ec",
-      "short": "1608846",
+      "sha": "4e546db6bfebffa9a844912936ee27faae66f5fb",
+      "short": "4e546db",
+      "message": "perf(core): spreading into a literal stops building an array to throw away",
+      "author": "Drysius",
+      "date": "2026-10-03T00:04:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4e546db6bfebffa9a844912936ee27faae66f5fb"
+    },
+    {
+      "sha": "6008f935a42f8e449f330699b743610454705a4f",
+      "short": "6008f93",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T16:02:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1608846d3c9b408df40d8ddcc2d8ad97f95ac2ec"
+      "date": "2026-10-03T00:02:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6008f935a42f8e449f330699b743610454705a4f"
     },
     {
-      "sha": "3a29238912b2421009780d23027189d2c6d5dad2",
-      "short": "3a29238",
-      "message": "feat(core,host): a module runs when something NAMES it, and an import cycle links (#2858)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T15:40:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a29238912b2421009780d23027189d2c6d5dad2"
-    },
-    {
-      "sha": "227a2aa01bd156a12643a144dc45db99d71f89f3",
-      "short": "227a2aa",
-      "message": "docs: auto-update benchmark table",
+      "sha": "2bf30bd51bd9d9c768d8942bc4e943a3103e3dba",
+      "short": "2bf30bd",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T13:37:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/227a2aa01bd156a12643a144dc45db99d71f89f3"
+      "date": "2026-10-03T00:01:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2bf30bd51bd9d9c768d8942bc4e943a3103e3dba"
     },
     {
-      "sha": "de1de3eadb0283377d1019b30cf35c80549aa655",
-      "short": "de1de3e",
-      "message": "fix(node): five divergences in `node:events` and `node:stream` (#2857)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T13:11:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de1de3eadb0283377d1019b30cf35c80549aa655"
-    },
-    {
-      "sha": "189d302fa40cb38598fbadeadc0885b96d8e43a6",
-      "short": "189d302",
-      "message": "feat(host): `require(\"./x.json\")` answers the parsed value (#2855)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-02T13:11:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/189d302fa40cb38598fbadeadc0885b96d8e43a6"
-    },
-    {
-      "sha": "0e57589a1a8d34ee78414737e3b489e9f4ca3ad1",
-      "short": "0e57589",
-      "message": "docs: auto-update benchmark table",
+      "sha": "69c5f867b17340ee8354d8433e5df8758d3e7e81",
+      "short": "69c5f86",
+      "message": "docs: auto-update cross-runtime parity badge (85.1%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-02T12:41:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e57589a1a8d34ee78414737e3b489e9f4ca3ad1"
+      "date": "2026-10-03T00:00:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/69c5f867b17340ee8354d8433e5df8758d3e7e81"
+    },
+    {
+      "sha": "3ec24c2b64f1d893711f17e3da00e74d2e28a1a2",
+      "short": "3ec24c2",
+      "message": "fix(node,std,core): owned sockets report, wasm reentrancy is required, and captureStackTrace exists (#2867)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-02T23:37:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3ec24c2b64f1d893711f17e3da00e74d2e28a1a2"
     }
   ]
 }
