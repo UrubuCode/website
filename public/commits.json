@@ -1,6 +1,62 @@
 {
-  "total": 6848,
+  "total": 6866,
   "commits": [
+    {
+      "sha": "d7868ab08b4be1271268d5b4dc4f1f1ad9642734",
+      "short": "d7868ab",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-04T04:40:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d7868ab08b4be1271268d5b4dc4f1f1ad9642734"
+    },
+    {
+      "sha": "0e3116f5d41ff6b10bd0ef3184925debbc894661",
+      "short": "0e3116f",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-04T04:38:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0e3116f5d41ff6b10bd0ef3184925debbc894661"
+    },
+    {
+      "sha": "5f6fd8ac9de1e5c63d9d8c353fd47ec0663f9856",
+      "short": "5f6fd8a",
+      "message": "Merge pull request #2909 from UrubuCode/fix/instruments-that-could-not-report",
+      "author": "Drysius",
+      "date": "2026-10-04T04:06:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5f6fd8ac9de1e5c63d9d8c353fd47ec0663f9856"
+    },
+    {
+      "sha": "729051cd8cc994b96db9fec26c2044b706b6b2fd",
+      "short": "729051c",
+      "message": "Merge origin/main into the performance branch",
+      "author": "Drysius",
+      "date": "2026-10-04T03:58:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/729051cd8cc994b96db9fec26c2044b706b6b2fd"
+    },
+    {
+      "sha": "656d9fd0228041dc7c08a0a71ad1bd1ddb896a32",
+      "short": "656d9fd",
+      "message": "docs: CONTINUAR_RTS.md — where the performance work stands, and what refuted what",
+      "author": "Drysius",
+      "date": "2026-10-04T02:10:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/656d9fd0228041dc7c08a0a71ad1bd1ddb896a32"
+    },
+    {
+      "sha": "d8e9e0213df793336f7abb081fe6e4458b32e19c",
+      "short": "d8e9e02",
+      "message": "perf(core): two caches for text a program spells over and over",
+      "author": "Drysius",
+      "date": "2026-10-04T01:43:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d8e9e0213df793336f7abb081fe6e4458b32e19c"
+    },
+    {
+      "sha": "d5e1e5425eac1b7521962b3ad0c0f2db192ca3ec",
+      "short": "d5e1e54",
+      "message": "perf(codegen,core): new Map() and new Set() without the construction door",
+      "author": "Drysius",
+      "date": "2026-10-04T00:02:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d5e1e5425eac1b7521962b3ad0c0f2db192ca3ec"
+    },
     {
       "sha": "098300b0f4abbc3c20ebfd00edf344d4b24b7c72",
       "short": "098300b",
@@ -32,6 +88,22 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-03T22:43:39Z",
       "url": "https://github.com/UrubuCode/rts/commit/7e2608fcaab09808816cbb1147beaf54f6fcd48f"
+    },
+    {
+      "sha": "0e3069065cd2ee3ed369fee0865970434695a74f",
+      "short": "0e30690",
+      "message": "fix(core): the trace diagnostic survives a bad link, and counts what it named",
+      "author": "Drysius",
+      "date": "2026-10-03T22:26:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0e3069065cd2ee3ed369fee0865970434695a74f"
+    },
+    {
+      "sha": "e65ad7fc3937f53e3c5d104de50bce412b8f58a8",
+      "short": "e65ad7f",
+      "message": "fix(cranelift): a variant missing from RtEntry::ALL fails a test, not codegen",
+      "author": "Drysius",
+      "date": "2026-10-03T22:26:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e65ad7fc3937f53e3c5d104de50bce412b8f58a8"
     },
     {
       "sha": "8d42a2a7891803faae3ac41a90076342c5457eaf",
@@ -88,78 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-03T20:51:49Z",
       "url": "https://github.com/UrubuCode/rts/commit/eaaeb51b051c22e99f6e0507fe3f0f92efa03686"
-    },
-    {
-      "sha": "0c8563fe1a62bba78b756905315078c6e60b3767",
-      "short": "0c8563f",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:51:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c8563fe1a62bba78b756905315078c6e60b3767"
-    },
-    {
-      "sha": "2b6d270343e0210fbd570d55f0e4c3151a850631",
-      "short": "2b6d270",
-      "message": "fix(node): a listening server and a live `setInterval` keep the program running (#2893) (#2898)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T20:31:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2b6d270343e0210fbd570d55f0e4c3151a850631"
-    },
-    {
-      "sha": "bf94733b67be9b607a47f2214780e9dee56d15ca",
-      "short": "bf94733",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:21:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bf94733b67be9b607a47f2214780e9dee56d15ca"
-    },
-    {
-      "sha": "bcd8dbc10c438ea64c3ac4a3bd5f4b02e6a38366",
-      "short": "bcd8dbc",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:20:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bcd8dbc10c438ea64c3ac4a3bd5f4b02e6a38366"
-    },
-    {
-      "sha": "07a30052d6cdbe7ed74a2589ed7ecb9ba3801c43",
-      "short": "07a3005",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:19:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/07a30052d6cdbe7ed74a2589ed7ecb9ba3801c43"
-    },
-    {
-      "sha": "b9c7eede5ab64c28f056e2ef958fd14b6d56d8d9",
-      "short": "b9c7eed",
-      "message": "fix(core): a lookbehind whose content holds a quantifier (#2891) (#2897)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T19:57:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b9c7eede5ab64c28f056e2ef958fd14b6d56d8d9"
-    },
-    {
-      "sha": "0e1994f2686a9e4cfdc4866498c855f6add48e7b",
-      "short": "0e1994f",
-      "message": "fix(core): a `new Function` body that does not parse says WHY (#2892) (#2895)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T19:44:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e1994f2686a9e4cfdc4866498c855f6add48e7b"
-    },
-    {
-      "sha": "9a6fe604d5255a00367574c89bd8673c44ac3efa",
-      "short": "9a6fe60",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T18:43:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9a6fe604d5255a00367574c89bd8673c44ac3efa"
-    },
-    {
-      "sha": "1d070295cc7228cb47221058070ebf156d31118c",
-      "short": "1d07029",
-      "message": "fix(codegen): erase an overload signature, the bodyless declaration the parser gave an empty body (#2890)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T18:19:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1d070295cc7228cb47221058070ebf156d31118c"
     }
   ]
 }
