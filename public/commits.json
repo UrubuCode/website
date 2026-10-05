@@ -1,6 +1,14 @@
 {
-  "total": 6866,
+  "total": 6867,
   "commits": [
+    {
+      "sha": "f5175e62c5af37c97090fb374dc360cae71477e3",
+      "short": "f5175e6",
+      "message": "docs: cross-runtime parity 85% + history snapshot 2026-10-05",
+      "author": "github-actions[bot]",
+      "date": "2026-10-05T10:15:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f5175e62c5af37c97090fb374dc360cae71477e3"
+    },
     {
       "sha": "d7868ab08b4be1271268d5b4dc4f1f1ad9642734",
       "short": "d7868ab",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-03T20:52:43Z",
       "url": "https://github.com/UrubuCode/rts/commit/b926bff520114e797a6097ac19c576bf8ca8ad7f"
-    },
-    {
-      "sha": "eaaeb51b051c22e99f6e0507fe3f0f92efa03686",
-      "short": "eaaeb51",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:51:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eaaeb51b051c22e99f6e0507fe3f0f92efa03686"
     }
   ]
 }
