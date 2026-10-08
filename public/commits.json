@@ -1,6 +1,30 @@
 {
-  "total": 6884,
+  "total": 6887,
   "commits": [
+    {
+      "sha": "c7942607ddc695b6d5dd088d3b712b71b099da2a",
+      "short": "c794260",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T04:55:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7942607ddc695b6d5dd088d3b712b71b099da2a"
+    },
+    {
+      "sha": "722ce4faa24b41e43d2003150ee94e66c768b422",
+      "short": "722ce4f",
+      "message": "Merge branch 'feat/dom-subgrid-sg0': GridTemplate, subgrid parsing, named lines (SG-0)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T04:25:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/722ce4faa24b41e43d2003150ee94e66c768b422"
+    },
+    {
+      "sha": "a9e43aad4a3deb2cddac45d98bdbf6fcf44ffe6c",
+      "short": "a9e43aa",
+      "message": "feat(dom): implement GridTemplate, subgrid parsing, and named line placement (SG-0)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T04:24:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a9e43aad4a3deb2cddac45d98bdbf6fcf44ffe6c"
+    },
     {
       "sha": "9c826131ba2a5e9b92030ceb5f1345386508d7e9",
       "short": "9c82613",
@@ -136,30 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-09-26T19:27:08Z",
       "url": "https://github.com/UrubuCode/rts/commit/babe42814819629fd8feb448b2fd855e83aa5a82"
-    },
-    {
-      "sha": "f5175e62c5af37c97090fb374dc360cae71477e3",
-      "short": "f5175e6",
-      "message": "docs: cross-runtime parity 85% + history snapshot 2026-10-05",
-      "author": "github-actions[bot]",
-      "date": "2026-10-05T10:15:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f5175e62c5af37c97090fb374dc360cae71477e3"
-    },
-    {
-      "sha": "d7868ab08b4be1271268d5b4dc4f1f1ad9642734",
-      "short": "d7868ab",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-04T04:40:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7868ab08b4be1271268d5b4dc4f1f1ad9642734"
-    },
-    {
-      "sha": "0e3116f5d41ff6b10bd0ef3184925debbc894661",
-      "short": "0e3116f",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-04T04:38:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e3116f5d41ff6b10bd0ef3184925debbc894661"
     }
   ]
 }
