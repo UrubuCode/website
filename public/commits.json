@@ -1,6 +1,142 @@
 {
-  "total": 6867,
+  "total": 6884,
   "commits": [
+    {
+      "sha": "9c826131ba2a5e9b92030ceb5f1345386508d7e9",
+      "short": "9c82613",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T02:35:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9c826131ba2a5e9b92030ceb5f1345386508d7e9"
+    },
+    {
+      "sha": "aab7e978345b2ca7be147981887c1c2c70b60257",
+      "short": "aab7e97",
+      "message": "Merge branch 'feat/dom-writing-mode-wm5' into main",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T02:05:14Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aab7e978345b2ca7be147981887c1c2c70b60257"
+    },
+    {
+      "sha": "0244115fc4312a30a926eed863af88347f3619bb",
+      "short": "0244115",
+      "message": "feat(egui): Lot WM-5 - egui paints sideways text through rotation",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T02:04:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0244115fc4312a30a926eed863af88347f3619bb"
+    },
+    {
+      "sha": "7e05c33665073ebc553dc97af1f8952df4966c77",
+      "short": "7e05c33",
+      "message": "Merge branch 'feat/dom-writing-mode-wm4' into main",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T02:00:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7e05c33665073ebc553dc97af1f8952df4966c77"
+    },
+    {
+      "sha": "ff601529bcc14fe0b3bd840a634c2fc9deeb1be4",
+      "short": "ff60152",
+      "message": "feat(dom): Lot WM-4 - flex and grid containers in vertical writing modes",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T01:59:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ff601529bcc14fe0b3bd840a634c2fc9deeb1be4"
+    },
+    {
+      "sha": "c7b67a3eba7a03e7abb0074d0dc9a35ca86b8875",
+      "short": "c7b67a3",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:55:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c7b67a3eba7a03e7abb0074d0dc9a35ca86b8875"
+    },
+    {
+      "sha": "33a4d458c9f17fd85bf3cc173fbe0b4a1be6e6bc",
+      "short": "33a4d45",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:54:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33a4d458c9f17fd85bf3cc173fbe0b4a1be6e6bc"
+    },
+    {
+      "sha": "2459ee998b2cfe8a603b7c3bee76587930999de9",
+      "short": "2459ee9",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:54:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2459ee998b2cfe8a603b7c3bee76587930999de9"
+    },
+    {
+      "sha": "7943f47fb56c848d56d99b14741f152298cda2f3",
+      "short": "7943f47",
+      "message": "feat(dom): Lot WM-3 - positioned boxes and static positions in rotated frames",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T01:23:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7943f47fb56c848d56d99b14741f152298cda2f3"
+    },
+    {
+      "sha": "b859e36ba1e3e1a2694de53b6df86a854c8c5bb8",
+      "short": "b859e36",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:12:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b859e36ba1e3e1a2694de53b6df86a854c8c5bb8"
+    },
+    {
+      "sha": "786388daff2a8f17eab8f180682682a546fc23d4",
+      "short": "786388d",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:12:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/786388daff2a8f17eab8f180682682a546fc23d4"
+    },
+    {
+      "sha": "c398cae15366f68ec1df751f190516872ad0259f",
+      "short": "c398cae",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T01:11:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c398cae15366f68ec1df751f190516872ad0259f"
+    },
+    {
+      "sha": "27f28bea2686cc4174e607611f977683fa57e13f",
+      "short": "27f28be",
+      "message": "Merge branch 'feat/dom-writing-mode-wm2'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T00:39:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27f28bea2686cc4174e607611f977683fa57e13f"
+    },
+    {
+      "sha": "d408f267edee28320c037334b7d8bcf7d863add5",
+      "short": "d408f26",
+      "message": "feat(dom): WM-2 — orthogonal flows (§7.3), nested composition",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-08T00:39:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d408f267edee28320c037334b7d8bcf7d863add5"
+    },
+    {
+      "sha": "83d023472ae97815d3cb9fe52a8d7a0a90aace65",
+      "short": "83d0234",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T00:05:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/83d023472ae97815d3cb9fe52a8d7a0a90aace65"
+    },
+    {
+      "sha": "eb0bf38dfdace87ac162d6dcb97e30a30551eb4a",
+      "short": "eb0bf38",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-08T00:03:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eb0bf38dfdace87ac162d6dcb97e30a30551eb4a"
+    },
+    {
+      "sha": "babe42814819629fd8feb448b2fd855e83aa5a82",
+      "short": "babe428",
+      "message": "feat(dom): WM-1 — the rotated frame for vertical writing modes",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-09-26T19:27:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/babe42814819629fd8feb448b2fd855e83aa5a82"
+    },
     {
       "sha": "f5175e62c5af37c97090fb374dc360cae71477e3",
       "short": "f5175e6",
@@ -24,142 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-04T04:38:59Z",
       "url": "https://github.com/UrubuCode/rts/commit/0e3116f5d41ff6b10bd0ef3184925debbc894661"
-    },
-    {
-      "sha": "5f6fd8ac9de1e5c63d9d8c353fd47ec0663f9856",
-      "short": "5f6fd8a",
-      "message": "Merge pull request #2909 from UrubuCode/fix/instruments-that-could-not-report",
-      "author": "Drysius",
-      "date": "2026-10-04T04:06:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5f6fd8ac9de1e5c63d9d8c353fd47ec0663f9856"
-    },
-    {
-      "sha": "729051cd8cc994b96db9fec26c2044b706b6b2fd",
-      "short": "729051c",
-      "message": "Merge origin/main into the performance branch",
-      "author": "Drysius",
-      "date": "2026-10-04T03:58:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/729051cd8cc994b96db9fec26c2044b706b6b2fd"
-    },
-    {
-      "sha": "656d9fd0228041dc7c08a0a71ad1bd1ddb896a32",
-      "short": "656d9fd",
-      "message": "docs: CONTINUAR_RTS.md — where the performance work stands, and what refuted what",
-      "author": "Drysius",
-      "date": "2026-10-04T02:10:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/656d9fd0228041dc7c08a0a71ad1bd1ddb896a32"
-    },
-    {
-      "sha": "d8e9e0213df793336f7abb081fe6e4458b32e19c",
-      "short": "d8e9e02",
-      "message": "perf(core): two caches for text a program spells over and over",
-      "author": "Drysius",
-      "date": "2026-10-04T01:43:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d8e9e0213df793336f7abb081fe6e4458b32e19c"
-    },
-    {
-      "sha": "d5e1e5425eac1b7521962b3ad0c0f2db192ca3ec",
-      "short": "d5e1e54",
-      "message": "perf(codegen,core): new Map() and new Set() without the construction door",
-      "author": "Drysius",
-      "date": "2026-10-04T00:02:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d5e1e5425eac1b7521962b3ad0c0f2db192ca3ec"
-    },
-    {
-      "sha": "098300b0f4abbc3c20ebfd00edf344d4b24b7c72",
-      "short": "098300b",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T23:53:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/098300b0f4abbc3c20ebfd00edf344d4b24b7c72"
-    },
-    {
-      "sha": "ae2bc0ac93fcdbadf09960754ffde2f605b797de",
-      "short": "ae2bc0a",
-      "message": "ci: an antivirus gate the release cannot get past (#2908)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T23:22:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ae2bc0ac93fcdbadf09960754ffde2f605b797de"
-    },
-    {
-      "sha": "08e185563298de0cb98372ae9c1f11210244f62d",
-      "short": "08e1855",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T23:06:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/08e185563298de0cb98372ae9c1f11210244f62d"
-    },
-    {
-      "sha": "7e2608fcaab09808816cbb1147beaf54f6fcd48f",
-      "short": "7e2608f",
-      "message": "feat(codegen): decorators run, in the legacy design, with the order measured (#2904)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T22:43:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e2608fcaab09808816cbb1147beaf54f6fcd48f"
-    },
-    {
-      "sha": "0e3069065cd2ee3ed369fee0865970434695a74f",
-      "short": "0e30690",
-      "message": "fix(core): the trace diagnostic survives a bad link, and counts what it named",
-      "author": "Drysius",
-      "date": "2026-10-03T22:26:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0e3069065cd2ee3ed369fee0865970434695a74f"
-    },
-    {
-      "sha": "e65ad7fc3937f53e3c5d104de50bce412b8f58a8",
-      "short": "e65ad7f",
-      "message": "fix(cranelift): a variant missing from RtEntry::ALL fails a test, not codegen",
-      "author": "Drysius",
-      "date": "2026-10-03T22:26:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e65ad7fc3937f53e3c5d104de50bce412b8f58a8"
-    },
-    {
-      "sha": "8d42a2a7891803faae3ac41a90076342c5457eaf",
-      "short": "8d42a2a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T22:21:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d42a2a7891803faae3ac41a90076342c5457eaf"
-    },
-    {
-      "sha": "0454936cbd9d0ce2d9221ed0e36aaf6f1540face",
-      "short": "0454936",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T22:20:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0454936cbd9d0ce2d9221ed0e36aaf6f1540face"
-    },
-    {
-      "sha": "6521300ad911132247ab996f7ff96005c75c615b",
-      "short": "6521300",
-      "message": "fix(codegen): an ambient module or namespace is erased whole (#2901) (#2902)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T21:57:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6521300ad911132247ab996f7ff96005c75c615b"
-    },
-    {
-      "sha": "a79dfe14dec204e5e82f4bc1197fd73d7a54a135",
-      "short": "a79dfe1",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T21:38:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a79dfe14dec204e5e82f4bc1197fd73d7a54a135"
-    },
-    {
-      "sha": "0c3f7e469244ce47a5abb0c77c0c583280b50ee7",
-      "short": "0c3f7e4",
-      "message": "fix(core): a lookbehind of unbounded width inside a BRANCH (#2891) (#2900)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-03T21:13:27Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c3f7e469244ce47a5abb0c77c0c583280b50ee7"
-    },
-    {
-      "sha": "b926bff520114e797a6097ac19c576bf8ca8ad7f",
-      "short": "b926bff",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-03T20:52:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b926bff520114e797a6097ac19c576bf8ca8ad7f"
     }
   ]
 }
