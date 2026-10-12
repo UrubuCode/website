@@ -1,6 +1,14 @@
 {
-  "total": 6887,
+  "total": 6888,
   "commits": [
+    {
+      "sha": "84a12932c07f72c2f47d4131bb7428cb63a97208",
+      "short": "84a1293",
+      "message": "docs: cross-runtime parity 85% + history snapshot 2026-10-12",
+      "author": "github-actions[bot]",
+      "date": "2026-10-12T10:33:23Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84a12932c07f72c2f47d4131bb7428cb63a97208"
+    },
     {
       "sha": "c7942607ddc695b6d5dd088d3b712b71b099da2a",
       "short": "c794260",
@@ -152,14 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-08T00:03:10Z",
       "url": "https://github.com/UrubuCode/rts/commit/eb0bf38dfdace87ac162d6dcb97e30a30551eb4a"
-    },
-    {
-      "sha": "babe42814819629fd8feb448b2fd855e83aa5a82",
-      "short": "babe428",
-      "message": "feat(dom): WM-1 — the rotated frame for vertical writing modes",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-09-26T19:27:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/babe42814819629fd8feb448b2fd855e83aa5a82"
     }
   ]
 }
