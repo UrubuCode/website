@@ -1,6 +1,78 @@
 {
-  "total": 6888,
+  "total": 6899,
   "commits": [
+    {
+      "sha": "a2323a04b39239e18f95177fc3cafcbf01dd049d",
+      "short": "a2323a0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T05:46:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a2323a04b39239e18f95177fc3cafcbf01dd049d"
+    },
+    {
+      "sha": "99910d602660c7f07e248f1a918d816747fbc643",
+      "short": "99910d6",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T05:43:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/99910d602660c7f07e248f1a918d816747fbc643"
+    },
+    {
+      "sha": "35d9f533c2803aaac9a2d2f0b3f511ad62fe4bdf",
+      "short": "35d9f53",
+      "message": "docs: update subgrid handoff status to completed",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T05:13:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/35d9f533c2803aaac9a2d2f0b3f511ad62fe4bdf"
+    },
+    {
+      "sha": "8d6b59ca57558610703a9bfda3cdb545494e01cd",
+      "short": "8d6b59c",
+      "message": "merge origin/main into local main",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T05:10:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8d6b59ca57558610703a9bfda3cdb545494e01cd"
+    },
+    {
+      "sha": "6779c561f3e950830fca1c11efa22e7f07143354",
+      "short": "6779c56",
+      "message": "merge origin/main into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T05:10:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6779c561f3e950830fca1c11efa22e7f07143354"
+    },
+    {
+      "sha": "c3a5d60dae97295ab8e96c69c80cb8cfe8f7cb98",
+      "short": "c3a5d60",
+      "message": "test(dom): add test_line_names_009 verifying named span fallback",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T05:08:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3a5d60dae97295ab8e96c69c80cb8cfe8f7cb98"
+    },
+    {
+      "sha": "83bdf4a332128cb75b515a39c3c415ad736c9943",
+      "short": "83bdf4a",
+      "message": "feat(dom): spec fallback to span 1 when named span does not exist in axis",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T05:03:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/83bdf4a332128cb75b515a39c3c415ad736c9943"
+    },
+    {
+      "sha": "0083c5e00423ad466e92a89546a901aae87c58e0",
+      "short": "0083c5e",
+      "message": "feat(dom): support directional named span resolution in grid line placement and abspos",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T04:57:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0083c5e00423ad466e92a89546a901aae87c58e0"
+    },
+    {
+      "sha": "40c974fb28c787d504693eae8c3439736f7af1e3",
+      "short": "40c974f",
+      "message": "feat(dom): spec-compliant grid auto-placement, subgrid abspos cb, and modularization",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T04:39:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/40c974fb28c787d504693eae8c3439736f7af1e3"
+    },
     {
       "sha": "84a12932c07f72c2f47d4131bb7428cb63a97208",
       "short": "84a1293",
@@ -8,6 +80,22 @@
       "author": "github-actions[bot]",
       "date": "2026-10-12T10:33:23Z",
       "url": "https://github.com/UrubuCode/rts/commit/84a12932c07f72c2f47d4131bb7428cb63a97208"
+    },
+    {
+      "sha": "46f0c7cf52b800c49a466f33b5e13c9612df653a",
+      "short": "46f0c7c",
+      "message": "feat(physics): sleep and wake contact islands",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-11T16:27:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/46f0c7cf52b800c49a466f33b5e13c9612df653a"
+    },
+    {
+      "sha": "7a1474fe0e2d0ada2be25077e93c0a167b0cd91f",
+      "short": "7a1474f",
+      "message": "feat(physics): sleep and wake contact islands",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-11T16:27:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7a1474fe0e2d0ada2be25077e93c0a167b0cd91f"
     },
     {
       "sha": "c7942607ddc695b6d5dd088d3b712b71b099da2a",
@@ -72,94 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-08T01:59:37Z",
       "url": "https://github.com/UrubuCode/rts/commit/ff601529bcc14fe0b3bd840a634c2fc9deeb1be4"
-    },
-    {
-      "sha": "c7b67a3eba7a03e7abb0074d0dc9a35ca86b8875",
-      "short": "c7b67a3",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:55:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7b67a3eba7a03e7abb0074d0dc9a35ca86b8875"
-    },
-    {
-      "sha": "33a4d458c9f17fd85bf3cc173fbe0b4a1be6e6bc",
-      "short": "33a4d45",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:54:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/33a4d458c9f17fd85bf3cc173fbe0b4a1be6e6bc"
-    },
-    {
-      "sha": "2459ee998b2cfe8a603b7c3bee76587930999de9",
-      "short": "2459ee9",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:54:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2459ee998b2cfe8a603b7c3bee76587930999de9"
-    },
-    {
-      "sha": "7943f47fb56c848d56d99b14741f152298cda2f3",
-      "short": "7943f47",
-      "message": "feat(dom): Lot WM-3 - positioned boxes and static positions in rotated frames",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T01:23:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7943f47fb56c848d56d99b14741f152298cda2f3"
-    },
-    {
-      "sha": "b859e36ba1e3e1a2694de53b6df86a854c8c5bb8",
-      "short": "b859e36",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:12:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b859e36ba1e3e1a2694de53b6df86a854c8c5bb8"
-    },
-    {
-      "sha": "786388daff2a8f17eab8f180682682a546fc23d4",
-      "short": "786388d",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:12:01Z",
-      "url": "https://github.com/UrubuCode/rts/commit/786388daff2a8f17eab8f180682682a546fc23d4"
-    },
-    {
-      "sha": "c398cae15366f68ec1df751f190516872ad0259f",
-      "short": "c398cae",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T01:11:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c398cae15366f68ec1df751f190516872ad0259f"
-    },
-    {
-      "sha": "27f28bea2686cc4174e607611f977683fa57e13f",
-      "short": "27f28be",
-      "message": "Merge branch 'feat/dom-writing-mode-wm2'",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T00:39:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27f28bea2686cc4174e607611f977683fa57e13f"
-    },
-    {
-      "sha": "d408f267edee28320c037334b7d8bcf7d863add5",
-      "short": "d408f26",
-      "message": "feat(dom): WM-2 — orthogonal flows (§7.3), nested composition",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T00:39:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d408f267edee28320c037334b7d8bcf7d863add5"
-    },
-    {
-      "sha": "83d023472ae97815d3cb9fe52a8d7a0a90aace65",
-      "short": "83d0234",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T00:05:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/83d023472ae97815d3cb9fe52a8d7a0a90aace65"
-    },
-    {
-      "sha": "eb0bf38dfdace87ac162d6dcb97e30a30551eb4a",
-      "short": "eb0bf38",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T00:03:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eb0bf38dfdace87ac162d6dcb97e30a30551eb4a"
     }
   ]
 }
