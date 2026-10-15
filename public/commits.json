@@ -1,165 +1,165 @@
 {
-  "total": 6911,
+  "total": 6937,
   "commits": [
     {
-      "sha": "eade2957559867ff027ef2c2cec0d9154f58c716",
-      "short": "eade295",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-15T15:32:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/eade2957559867ff027ef2c2cec0d9154f58c716"
+      "sha": "6fca3601e47b531ee11a4f776a0abdabf5564c84",
+      "short": "6fca360",
+      "message": "merge: feat/dom-subgrid-sg1 (abspos line coordinate and descendant CB fixes)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T20:17:36Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6fca3601e47b531ee11a4f776a0abdabf5564c84"
     },
     {
-      "sha": "53ad30e44f0e3f091bd814e993f3dd6eb48f007a",
-      "short": "53ad30e",
+      "sha": "15f04e5441ca507f61614aa41816fe1edf8f2641",
+      "short": "15f04e5",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T20:17:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/15f04e5441ca507f61614aa41816fe1edf8f2641"
+    },
+    {
+      "sha": "b4d064ac3eca6a37d4e074013a44ba49b402ca25",
+      "short": "b4d064a",
+      "message": "fix(grid): correct abspos line coordinate calculation and support descendant containing blocks",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T20:17:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b4d064ac3eca6a37d4e074013a44ba49b402ca25"
+    },
+    {
+      "sha": "f056d8622c45201a86b8387f30cca9b6966b63c0",
+      "short": "f056d86",
       "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T14:58:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/53ad30e44f0e3f091bd814e993f3dd6eb48f007a"
+      "date": "2026-10-15T20:15:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f056d8622c45201a86b8387f30cca9b6966b63c0"
     },
     {
-      "sha": "b5ed4b552e4284ae0fa0abdfa3fc21adbfb3f47c",
-      "short": "b5ed4b5",
-      "message": "fix(grid): support orthogonal grid item track sizing and rotated baseline",
+      "sha": "8214901b4e98e2f0d87d186dd0a48033fa7da8a4",
+      "short": "8214901",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T20:15:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8214901b4e98e2f0d87d186dd0a48033fa7da8a4"
+    },
+    {
+      "sha": "8ae000aa3c57895e3bbe62fc2ddf2cf8d656fb1e",
+      "short": "8ae000a",
+      "message": "merge: feat/dom-subgrid-sg1 into main",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T14:56:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b5ed4b552e4284ae0fa0abdfa3fc21adbfb3f47c"
+      "date": "2026-10-15T19:45:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8ae000aa3c57895e3bbe62fc2ddf2cf8d656fb1e"
     },
     {
-      "sha": "84fe2270db5eb3f6db24f35b77f68c576f5f87a0",
-      "short": "84fe227",
-      "message": "fix(grid): do not override indefinite container height with distant ancestor height",
+      "sha": "3412c4e139c2eef937bb2245bb37e8461b2d6196",
+      "short": "3412c4e",
+      "message": "fix(grid): support replaced element sizing, auto track item clamping, and standalone axis ceilings",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T14:24:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84fe2270db5eb3f6db24f35b77f68c576f5f87a0"
+      "date": "2026-10-15T19:44:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3412c4e139c2eef937bb2245bb37e8461b2d6196"
     },
     {
-      "sha": "b03dfbf07f2910f363b5f7b360f2577bb3239cb5",
-      "short": "b03dfbf",
-      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T14:00:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b03dfbf07f2910f363b5f7b360f2577bb3239cb5"
-    },
-    {
-      "sha": "96a6db99803f0a5851805f734a2c7ab26be80799",
-      "short": "96a6db9",
-      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T13:59:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/96a6db99803f0a5851805f734a2c7ab26be80799"
-    },
-    {
-      "sha": "27ce199ab941c6dc40ace4c06e21b3ff27fa5058",
-      "short": "27ce199",
+      "sha": "0c8dded773cb078d041822ae9c3a497a2014e3b1",
+      "short": "0c8dded",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T13:59:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/27ce199ab941c6dc40ace4c06e21b3ff27fa5058"
+      "date": "2026-10-15T19:04:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c8dded773cb078d041822ae9c3a497a2014e3b1"
     },
     {
-      "sha": "0d757ba8b7119d06d8879b1b3d6d68b3cbe6d2ce",
-      "short": "0d757ba",
-      "message": "fix(grid): support automatic minimum size and replaced item alignment/borders in grid tracks",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T13:59:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0d757ba8b7119d06d8879b1b3d6d68b3cbe6d2ce"
-    },
-    {
-      "sha": "4294c3d2a046d8d4ddabf722fb1111db10e0cc45",
-      "short": "4294c3d",
+      "sha": "9498de6e29ee4c2678e1d00a6ac249424bf7ef27",
+      "short": "9498de6",
       "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T13:56:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4294c3d2a046d8d4ddabf722fb1111db10e0cc45"
+      "date": "2026-10-15T19:03:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9498de6e29ee4c2678e1d00a6ac249424bf7ef27"
     },
     {
-      "sha": "02821428978ff8643175aaac10aff39bec91f736",
-      "short": "0282142",
+      "sha": "8a96216cb34b22179bc114262f5e6e7b96d71e69",
+      "short": "8a96216",
       "message": "docs: auto-update cross-runtime parity badge (85%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T13:55:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/02821428978ff8643175aaac10aff39bec91f736"
+      "date": "2026-10-15T19:02:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8a96216cb34b22179bc114262f5e6e7b96d71e69"
     },
     {
-      "sha": "8ab311ee310bcf024469bbed7ac8c2996351ea17",
-      "short": "8ab311e",
-      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts into feat/dom-subgrid-sg1",
+      "sha": "00d1c51992f8fb37e9df246b5cbe711bc4cbb0b0",
+      "short": "00d1c51",
+      "message": "fix(grid): clamp row tracks under definite container height and resolve max-width clamp for intrinsic min-content",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T13:22:03Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8ab311ee310bcf024469bbed7ac8c2996351ea17"
+      "date": "2026-10-15T18:34:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/00d1c51992f8fb37e9df246b5cbe711bc4cbb0b0"
     },
     {
-      "sha": "2e81ab9abaa6959cfe72932b034dc3069005bf72",
-      "short": "2e81ab9",
-      "message": "fix(grid): support subgrid standalone axis span, auto-repeat aspect-ratio min-size, and table height distribution",
+      "sha": "e1534a866649d71ebab5fa58a951fcdc21f08ad4",
+      "short": "e1534a8",
+      "message": "feat(grid): implement CSS Grid 5.4 z-axis item painting order and inline-grid stacking context",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T13:21:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2e81ab9abaa6959cfe72932b034dc3069005bf72"
+      "date": "2026-10-15T17:59:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e1534a866649d71ebab5fa58a951fcdc21f08ad4"
     },
     {
-      "sha": "a2323a04b39239e18f95177fc3cafcbf01dd049d",
-      "short": "a2323a0",
+      "sha": "ebf14b9d8afcf8081f260d4b9d0aa248e0607168",
+      "short": "ebf14b9",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T05:46:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a2323a04b39239e18f95177fc3cafcbf01dd049d"
+      "date": "2026-10-15T17:53:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ebf14b9d8afcf8081f260d4b9d0aa248e0607168"
     },
     {
-      "sha": "99910d602660c7f07e248f1a918d816747fbc643",
-      "short": "99910d6",
+      "sha": "d650dba5020e004832d61091c28b75bc04307a7c",
+      "short": "d650dba",
+      "message": "feat(grid): implement CSS Grid 11.5 intrinsic track sizing distribution and link stylesheet loading",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T17:51:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d650dba5020e004832d61091c28b75bc04307a7c"
+    },
+    {
+      "sha": "d703aeaaaa45c249ec18b9ec21d7b9f53c2b6a11",
+      "short": "d703aea",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T17:51:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d703aeaaaa45c249ec18b9ec21d7b9f53c2b6a11"
+    },
+    {
+      "sha": "2f01011f3d28c433ea82f565c2dda45803b1408d",
+      "short": "2f01011",
       "message": "docs: auto-update cross-runtime parity badge (85%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-15T05:43:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/99910d602660c7f07e248f1a918d816747fbc643"
+      "date": "2026-10-15T17:50:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2f01011f3d28c433ea82f565c2dda45803b1408d"
     },
     {
-      "sha": "35d9f533c2803aaac9a2d2f0b3f511ad62fe4bdf",
-      "short": "35d9f53",
-      "message": "docs: update subgrid handoff status to completed",
+      "sha": "a213c349b5f5754baaf4519d1749dd3168758879",
+      "short": "a213c34",
+      "message": "Merge branch 'feat/dom-subgrid-sg1'",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T05:13:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/35d9f533c2803aaac9a2d2f0b3f511ad62fe4bdf"
+      "date": "2026-10-15T17:17:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a213c349b5f5754baaf4519d1749dd3168758879"
     },
     {
-      "sha": "8d6b59ca57558610703a9bfda3cdb545494e01cd",
-      "short": "8d6b59c",
-      "message": "merge origin/main into local main",
+      "sha": "b524e772c57a64f04f15208c0b83680fe6420ac2",
+      "short": "b524e77",
+      "message": "fix(grid): sort in-flow grid items by order property for auto-placement and painting",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T05:10:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8d6b59ca57558610703a9bfda3cdb545494e01cd"
+      "date": "2026-10-15T17:17:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b524e772c57a64f04f15208c0b83680fe6420ac2"
     },
     {
-      "sha": "6779c561f3e950830fca1c11efa22e7f07143354",
-      "short": "6779c56",
-      "message": "merge origin/main into feat/dom-subgrid-sg1",
+      "sha": "0c563edd4f213660173a9440c346118531c16e0a",
+      "short": "0c563ed",
+      "message": "Merge branch 'feat/dom-subgrid-sg1'",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T05:10:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6779c561f3e950830fca1c11efa22e7f07143354"
+      "date": "2026-10-15T17:07:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c563edd4f213660173a9440c346118531c16e0a"
     },
     {
-      "sha": "c3a5d60dae97295ab8e96c69c80cb8cfe8f7cb98",
-      "short": "c3a5d60",
-      "message": "test(dom): add test_line_names_009 verifying named span fallback",
+      "sha": "e90041ca38a791086ca92d8ff3dc003f233922bb",
+      "short": "e90041c",
+      "message": "fix(layout): treat avail_h as definite inside rotated frames in definite_cb_height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T05:08:36Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c3a5d60dae97295ab8e96c69c80cb8cfe8f7cb98"
-    },
-    {
-      "sha": "83bdf4a332128cb75b515a39c3c415ad736c9943",
-      "short": "83bdf4a",
-      "message": "feat(dom): spec fallback to span 1 when named span does not exist in axis",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T05:03:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/83bdf4a332128cb75b515a39c3c415ad736c9943"
-    },
-    {
-      "sha": "0083c5e00423ad466e92a89546a901aae87c58e0",
-      "short": "0083c5e",
-      "message": "feat(dom): support directional named span resolution in grid line placement and abspos",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T04:57:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0083c5e00423ad466e92a89546a901aae87c58e0"
+      "date": "2026-10-15T17:06:28Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e90041ca38a791086ca92d8ff3dc003f233922bb"
     }
   ]
 }
