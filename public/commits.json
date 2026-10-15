@@ -1,6 +1,102 @@
 {
-  "total": 6899,
+  "total": 6911,
   "commits": [
+    {
+      "sha": "eade2957559867ff027ef2c2cec0d9154f58c716",
+      "short": "eade295",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T15:32:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/eade2957559867ff027ef2c2cec0d9154f58c716"
+    },
+    {
+      "sha": "53ad30e44f0e3f091bd814e993f3dd6eb48f007a",
+      "short": "53ad30e",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T14:58:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/53ad30e44f0e3f091bd814e993f3dd6eb48f007a"
+    },
+    {
+      "sha": "b5ed4b552e4284ae0fa0abdfa3fc21adbfb3f47c",
+      "short": "b5ed4b5",
+      "message": "fix(grid): support orthogonal grid item track sizing and rotated baseline",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T14:56:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b5ed4b552e4284ae0fa0abdfa3fc21adbfb3f47c"
+    },
+    {
+      "sha": "84fe2270db5eb3f6db24f35b77f68c576f5f87a0",
+      "short": "84fe227",
+      "message": "fix(grid): do not override indefinite container height with distant ancestor height",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T14:24:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/84fe2270db5eb3f6db24f35b77f68c576f5f87a0"
+    },
+    {
+      "sha": "b03dfbf07f2910f363b5f7b360f2577bb3239cb5",
+      "short": "b03dfbf",
+      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T14:00:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b03dfbf07f2910f363b5f7b360f2577bb3239cb5"
+    },
+    {
+      "sha": "96a6db99803f0a5851805f734a2c7ab26be80799",
+      "short": "96a6db9",
+      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T13:59:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/96a6db99803f0a5851805f734a2c7ab26be80799"
+    },
+    {
+      "sha": "27ce199ab941c6dc40ace4c06e21b3ff27fa5058",
+      "short": "27ce199",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T13:59:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/27ce199ab941c6dc40ace4c06e21b3ff27fa5058"
+    },
+    {
+      "sha": "0d757ba8b7119d06d8879b1b3d6d68b3cbe6d2ce",
+      "short": "0d757ba",
+      "message": "fix(grid): support automatic minimum size and replaced item alignment/borders in grid tracks",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T13:59:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d757ba8b7119d06d8879b1b3d6d68b3cbe6d2ce"
+    },
+    {
+      "sha": "4294c3d2a046d8d4ddabf722fb1111db10e0cc45",
+      "short": "4294c3d",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T13:56:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4294c3d2a046d8d4ddabf722fb1111db10e0cc45"
+    },
+    {
+      "sha": "02821428978ff8643175aaac10aff39bec91f736",
+      "short": "0282142",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-15T13:55:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/02821428978ff8643175aaac10aff39bec91f736"
+    },
+    {
+      "sha": "8ab311ee310bcf024469bbed7ac8c2996351ea17",
+      "short": "8ab311e",
+      "message": "Merge branch 'main' of https://github.com/UrubuCode/rts into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T13:22:03Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8ab311ee310bcf024469bbed7ac8c2996351ea17"
+    },
+    {
+      "sha": "2e81ab9abaa6959cfe72932b034dc3069005bf72",
+      "short": "2e81ab9",
+      "message": "fix(grid): support subgrid standalone axis span, auto-repeat aspect-ratio min-size, and table height distribution",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-15T13:21:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2e81ab9abaa6959cfe72932b034dc3069005bf72"
+    },
     {
       "sha": "a2323a04b39239e18f95177fc3cafcbf01dd049d",
       "short": "a2323a0",
@@ -64,102 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-15T04:57:31Z",
       "url": "https://github.com/UrubuCode/rts/commit/0083c5e00423ad466e92a89546a901aae87c58e0"
-    },
-    {
-      "sha": "40c974fb28c787d504693eae8c3439736f7af1e3",
-      "short": "40c974f",
-      "message": "feat(dom): spec-compliant grid auto-placement, subgrid abspos cb, and modularization",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T04:39:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/40c974fb28c787d504693eae8c3439736f7af1e3"
-    },
-    {
-      "sha": "84a12932c07f72c2f47d4131bb7428cb63a97208",
-      "short": "84a1293",
-      "message": "docs: cross-runtime parity 85% + history snapshot 2026-10-12",
-      "author": "github-actions[bot]",
-      "date": "2026-10-12T10:33:23Z",
-      "url": "https://github.com/UrubuCode/rts/commit/84a12932c07f72c2f47d4131bb7428cb63a97208"
-    },
-    {
-      "sha": "46f0c7cf52b800c49a466f33b5e13c9612df653a",
-      "short": "46f0c7c",
-      "message": "feat(physics): sleep and wake contact islands",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-11T16:27:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/46f0c7cf52b800c49a466f33b5e13c9612df653a"
-    },
-    {
-      "sha": "7a1474fe0e2d0ada2be25077e93c0a167b0cd91f",
-      "short": "7a1474f",
-      "message": "feat(physics): sleep and wake contact islands",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-11T16:27:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7a1474fe0e2d0ada2be25077e93c0a167b0cd91f"
-    },
-    {
-      "sha": "c7942607ddc695b6d5dd088d3b712b71b099da2a",
-      "short": "c794260",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T04:55:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c7942607ddc695b6d5dd088d3b712b71b099da2a"
-    },
-    {
-      "sha": "722ce4faa24b41e43d2003150ee94e66c768b422",
-      "short": "722ce4f",
-      "message": "Merge branch 'feat/dom-subgrid-sg0': GridTemplate, subgrid parsing, named lines (SG-0)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T04:25:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/722ce4faa24b41e43d2003150ee94e66c768b422"
-    },
-    {
-      "sha": "a9e43aad4a3deb2cddac45d98bdbf6fcf44ffe6c",
-      "short": "a9e43aa",
-      "message": "feat(dom): implement GridTemplate, subgrid parsing, and named line placement (SG-0)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T04:24:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a9e43aad4a3deb2cddac45d98bdbf6fcf44ffe6c"
-    },
-    {
-      "sha": "9c826131ba2a5e9b92030ceb5f1345386508d7e9",
-      "short": "9c82613",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-08T02:35:35Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9c826131ba2a5e9b92030ceb5f1345386508d7e9"
-    },
-    {
-      "sha": "aab7e978345b2ca7be147981887c1c2c70b60257",
-      "short": "aab7e97",
-      "message": "Merge branch 'feat/dom-writing-mode-wm5' into main",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T02:05:14Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aab7e978345b2ca7be147981887c1c2c70b60257"
-    },
-    {
-      "sha": "0244115fc4312a30a926eed863af88347f3619bb",
-      "short": "0244115",
-      "message": "feat(egui): Lot WM-5 - egui paints sideways text through rotation",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T02:04:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0244115fc4312a30a926eed863af88347f3619bb"
-    },
-    {
-      "sha": "7e05c33665073ebc553dc97af1f8952df4966c77",
-      "short": "7e05c33",
-      "message": "Merge branch 'feat/dom-writing-mode-wm4' into main",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T02:00:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7e05c33665073ebc553dc97af1f8952df4966c77"
-    },
-    {
-      "sha": "ff601529bcc14fe0b3bd840a634c2fc9deeb1be4",
-      "short": "ff60152",
-      "message": "feat(dom): Lot WM-4 - flex and grid containers in vertical writing modes",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-08T01:59:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ff601529bcc14fe0b3bd840a634c2fc9deeb1be4"
     }
   ]
 }
