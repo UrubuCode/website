@@ -1,6 +1,38 @@
 {
-  "total": 6957,
+  "total": 6961,
   "commits": [
+    {
+      "sha": "b0de492206bbfc18ae338be03ce88583c54c8b3b",
+      "short": "b0de492",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T03:06:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b0de492206bbfc18ae338be03ce88583c54c8b3b"
+    },
+    {
+      "sha": "bce28400242ed9d19d0e5330f59762d31c5663d5",
+      "short": "bce2840",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T03:05:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bce28400242ed9d19d0e5330f59762d31c5663d5"
+    },
+    {
+      "sha": "771a6ef0ed02b0056d83acbf88541a43a51718cd",
+      "short": "771a6ef",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T03:05:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/771a6ef0ed02b0056d83acbf88541a43a51718cd"
+    },
+    {
+      "sha": "5ec007787368febc9316089c2bfa5dabb677a0f8",
+      "short": "5ec0077",
+      "message": "fix(subgrid): unify orthogonal coordinate reversal and restore ortho marks in track measure",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T02:29:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5ec007787368febc9316089c2bfa5dabb677a0f8"
+    },
     {
       "sha": "462cf837522d1fb73905f44b08ba03ba481ab7ac",
       "short": "462cf83",
@@ -128,38 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-15T21:49:20Z",
       "url": "https://github.com/UrubuCode/rts/commit/773b7d1c2c4a7abd6cd9a0ec0ed33ca0648842a5"
-    },
-    {
-      "sha": "9f16987562da0f5d6eb77f84dc4014ba8caf5290",
-      "short": "9f16987",
-      "message": "fix(grid): support auto lines against container cb for positioned items (018)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T21:34:55Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9f16987562da0f5d6eb77f84dc4014ba8caf5290"
-    },
-    {
-      "sha": "2e790d699d21b544cf121078c54e76a164eb4208",
-      "short": "2e790d6",
-      "message": "merge: origin/main (docs auto-update benchmark table)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T21:26:11Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2e790d699d21b544cf121078c54e76a164eb4208"
-    },
-    {
-      "sha": "2c85f506cc933cc32f6741f48f493e8963fb2c72",
-      "short": "2c85f50",
-      "message": "fix(grid): support negative indices with track shifting and relative abspos CBs",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T21:24:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2c85f506cc933cc32f6741f48f493e8963fb2c72"
-    },
-    {
-      "sha": "6019915dc76627a4ccb1115731daca4c536a448b",
-      "short": "6019915",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-15T20:49:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6019915dc76627a4ccb1115731daca4c536a448b"
     }
   ]
 }
