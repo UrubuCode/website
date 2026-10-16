@@ -1,6 +1,110 @@
 {
-  "total": 6961,
+  "total": 6974,
   "commits": [
+    {
+      "sha": "246eee02cc26d5084dc6fd493ae84432a8a36086",
+      "short": "246eee0",
+      "message": "Merge branch 'feat/dom-subgrid-sg1'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T15:30:19Z",
+      "url": "https://github.com/UrubuCode/rts/commit/246eee02cc26d5084dc6fd493ae84432a8a36086"
+    },
+    {
+      "sha": "90f860278a31a8dc6294e76a36ff5c8e7dff4ac6",
+      "short": "90f8602",
+      "message": "fix(grid): resolve orthogonal-writing-mode-003 and -004 subgrid track orientation and item stretch",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T15:29:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/90f860278a31a8dc6294e76a36ff5c8e7dff4ac6"
+    },
+    {
+      "sha": "6889008f414a312e4df78268127e6366f4d815dd",
+      "short": "6889008",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T15:00:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6889008f414a312e4df78268127e6366f4d815dd"
+    },
+    {
+      "sha": "18ef4d9fb9c5be8c38fa9ee5ecd1dfb65b5e5b4a",
+      "short": "18ef4d9",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T14:59:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/18ef4d9fb9c5be8c38fa9ee5ecd1dfb65b5e5b4a"
+    },
+    {
+      "sha": "a2aacb053f4443524f62d3f1447b5613073139bc",
+      "short": "a2aacb0",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T14:59:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a2aacb053f4443524f62d3f1447b5613073139bc"
+    },
+    {
+      "sha": "2c3a98ff74ab53c93a93a4e1883fd449cef44112",
+      "short": "2c3a98f",
+      "message": "Merge remote-tracking branch 'origin/feat/dom-subgrid-sg1'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T14:29:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2c3a98ff74ab53c93a93a4e1883fd449cef44112"
+    },
+    {
+      "sha": "3edcc173c176cf96e2b6fbfc27153090fbe46fbd",
+      "short": "3edcc17",
+      "message": "fix(grid): support orthogonal subgrid baseline alignment and track spans",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T14:28:37Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3edcc173c176cf96e2b6fbfc27153090fbe46fbd"
+    },
+    {
+      "sha": "099930ea46fd47e99e105e17b15e87fcabe57ee1",
+      "short": "099930e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T13:47:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/099930ea46fd47e99e105e17b15e87fcabe57ee1"
+    },
+    {
+      "sha": "9dd34a6499795c5b0ff3fcfb888c485738f52cb1",
+      "short": "9dd34a6",
+      "message": "fix(grid): preserve subgrid edge margin contribution and definite item sizes in auto tracks",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T13:05:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9dd34a6499795c5b0ff3fcfb888c485738f52cb1"
+    },
+    {
+      "sha": "cda901c1f181c13fa011b20cef7b7a4be6bb5406",
+      "short": "cda901c",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T13:02:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cda901c1f181c13fa011b20cef7b7a4be6bb5406"
+    },
+    {
+      "sha": "d4bc17e195d00c0f86cb80c585c173a29d11988f",
+      "short": "d4bc17e",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T13:01:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d4bc17e195d00c0f86cb80c585c173a29d11988f"
+    },
+    {
+      "sha": "bf477de7993d9102e8cf46ec3e578004fee7445e",
+      "short": "bf477de",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-16T13:01:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bf477de7993d9102e8cf46ec3e578004fee7445e"
+    },
+    {
+      "sha": "dd0b5e22c8999ffc91e9bf8bbee27f7e95852eb0",
+      "short": "dd0b5e2",
+      "message": "fix(subgrid): recognize orthogonal subgrid descendants in rotated frames and pass WPT orthogonal-writing-mode-006",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-16T12:30:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dd0b5e22c8999ffc91e9bf8bbee27f7e95852eb0"
+    },
     {
       "sha": "b0de492206bbfc18ae338be03ce88583c54c8b3b",
       "short": "b0de492",
@@ -56,110 +160,6 @@
       "author": "github-actions[bot]",
       "date": "2026-10-16T01:47:07Z",
       "url": "https://github.com/UrubuCode/rts/commit/80fe290c98bff69a60d2c86c8ba64658aa2da0c1"
-    },
-    {
-      "sha": "1b962bbb562bf3048a681c54d5ed66d70a5645a1",
-      "short": "1b962bb",
-      "message": "feat(subgrid): resolve missing named lines to Auto on abspos items and pass line-names-007",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T01:16:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1b962bbb562bf3048a681c54d5ed66d70a5645a1"
-    },
-    {
-      "sha": "f0293b8784da022a7c5bffd972780ed7ab4396a9",
-      "short": "f0293b8",
-      "message": "feat(subgrid): expand explicit tracks from grid-template-areas and fix abs-pos-001",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T00:57:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f0293b8784da022a7c5bffd972780ed7ab4396a9"
-    },
-    {
-      "sha": "09c9e7f3ad55f8d7997b9f177182a57d4a192b61",
-      "short": "09c9e7f",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-16T00:54:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/09c9e7f3ad55f8d7997b9f177182a57d4a192b61"
-    },
-    {
-      "sha": "3904b8e0b9441509d3250adcd3130165f666ead4",
-      "short": "3904b8e",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-16T00:51:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3904b8e0b9441509d3250adcd3130165f666ead4"
-    },
-    {
-      "sha": "75d5fa4d7d005912a729c83f24d7b7bb2e2c220d",
-      "short": "75d5fa4",
-      "message": "feat(layout): fit-content width, cleared float measure, and grid baseline alignment",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T00:23:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/75d5fa4d7d005912a729c83f24d7b7bb2e2c220d"
-    },
-    {
-      "sha": "d7038794944d4f40aa385bdf7ad1fba0e60acbb7",
-      "short": "d703879",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-15T23:52:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d7038794944d4f40aa385bdf7ad1fba0e60acbb7"
-    },
-    {
-      "sha": "9fb95b436737738aced8f1a2b0ff90a2eeaf0869",
-      "short": "9fb95b4",
-      "message": "fix(grid): advance abspos WPT passes to 130/139 (98.5% static passes)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T23:22:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9fb95b436737738aced8f1a2b0ff90a2eeaf0869"
-    },
-    {
-      "sha": "01c56f401eefbced4db54843bbfa393878318a88",
-      "short": "01c56f4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-15T23:21:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/01c56f401eefbced4db54843bbfa393878318a88"
-    },
-    {
-      "sha": "44e4aa67df7bb14a28e6fd4905087c434aff3d70",
-      "short": "44e4aa6",
-      "message": "fix(grid): mirror cell alignment under RTL and remove overriding static anchors",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T22:50:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/44e4aa67df7bb14a28e6fd4905087c434aff3d70"
-    },
-    {
-      "sha": "de985a57264a1d6cf78b77551a6e55ffe4558716",
-      "short": "de985a5",
-      "message": "fix(grid): non-cb static position alignment and descendant static positioning",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T22:40:28Z",
-      "url": "https://github.com/UrubuCode/rts/commit/de985a57264a1d6cf78b77551a6e55ffe4558716"
-    },
-    {
-      "sha": "1d340c4a79f0411474bdba71a301bd003cffd814",
-      "short": "1d340c4",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-15T22:37:19Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1d340c4a79f0411474bdba71a301bd003cffd814"
-    },
-    {
-      "sha": "94f898fdc0a3b0d387d6132cbeea2a1499371f47",
-      "short": "94f898f",
-      "message": "fix(grid): physical abspos grid cb coordinates in rotated frames and vertical grid static pos",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T22:00:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/94f898fdc0a3b0d387d6132cbeea2a1499371f47"
-    },
-    {
-      "sha": "773b7d1c2c4a7abd6cd9a0ec0ed33ca0648842a5",
-      "short": "773b7d1",
-      "message": "fix(grid): align explicit-line abspos items in grid area cb and handle vertical text min-content",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-15T21:49:20Z",
-      "url": "https://github.com/UrubuCode/rts/commit/773b7d1c2c4a7abd6cd9a0ec0ed33ca0648842a5"
     }
   ]
 }
