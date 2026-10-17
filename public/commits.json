@@ -1,6 +1,142 @@
 {
-  "total": 7022,
+  "total": 7039,
   "commits": [
+    {
+      "sha": "3119c2aadb741bdcf40376a1538f553da88407cc",
+      "short": "3119c2a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T14:17:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3119c2aadb741bdcf40376a1538f553da88407cc"
+    },
+    {
+      "sha": "5119cb01f58e58325866ed74465f9cde333419ae",
+      "short": "5119cb0",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T14:16:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5119cb01f58e58325866ed74465f9cde333419ae"
+    },
+    {
+      "sha": "ca31ed9e8681df5e900f212797ad63d67e983c15",
+      "short": "ca31ed9",
+      "message": "Merge branch 'feat/dom-subgrid-sg1' of https://github.com/UrubuCode/rts",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T13:46:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ca31ed9e8681df5e900f212797ad63d67e983c15"
+    },
+    {
+      "sha": "451b13ee3170364329cb2c1fff63d0d500b1198e",
+      "short": "451b13e",
+      "message": "fix(grid): unify two-phase spanning track distribution and empty track priority",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T13:45:26Z",
+      "url": "https://github.com/UrubuCode/rts/commit/451b13ee3170364329cb2c1fff63d0d500b1198e"
+    },
+    {
+      "sha": "2600f83e21de81cbf9abf93b0bb2493026a4797f",
+      "short": "2600f83",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T12:21:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2600f83e21de81cbf9abf93b0bb2493026a4797f"
+    },
+    {
+      "sha": "ef39eba248c0dab5c9fe050311f9f061a62a00d3",
+      "short": "ef39eba",
+      "message": "fix(grid): correct replaced element min-content aspect ratio under percentage height",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T11:48:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ef39eba248c0dab5c9fe050311f9f061a62a00d3"
+    },
+    {
+      "sha": "b1fe49b901ad1842f37da114c544664836159b28",
+      "short": "b1fe49b",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T11:40:53Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b1fe49b901ad1842f37da114c544664836159b28"
+    },
+    {
+      "sha": "f1f8ba10d2c2a8c5426b3f9c0baee25b48f4beef",
+      "short": "f1f8ba1",
+      "message": "fix(grid): preserve minmax(min, flex) tracks and apply background-size to gradients",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T11:40:00Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f1f8ba10d2c2a8c5426b3f9c0baee25b48f4beef"
+    },
+    {
+      "sha": "264bb2ed7ecf8481c8ec3d1ffd8233ed4e77525f",
+      "short": "264bb2e",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T11:06:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/264bb2ed7ecf8481c8ec3d1ffd8233ed4e77525f"
+    },
+    {
+      "sha": "4bdda42309a77ac98b751c1495c2c8f2e49e320d",
+      "short": "4bdda42",
+      "message": "fix(grid): implement fr restart algorithm and percentage row track resolution under shrinkwrap",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T10:35:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4bdda42309a77ac98b751c1495c2c8f2e49e320d"
+    },
+    {
+      "sha": "1ff5bc0bec5d61189ace3c90076ebb8cf02cb455",
+      "short": "1ff5bc0",
+      "message": "fix(grid): two-pass flexible row sizing for indefinite height and flex factor clamping",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T10:24:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1ff5bc0bec5d61189ace3c90076ebb8cf02cb455"
+    },
+    {
+      "sha": "260bb65136def7a5105eeaf6da3e357a38cea5d1",
+      "short": "260bb65",
+      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T10:05:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/260bb65136def7a5105eeaf6da3e357a38cea5d1"
+    },
+    {
+      "sha": "baafc24df8e5219915ec5edb357cc6a04bf21b77",
+      "short": "baafc24",
+      "message": "fix(grid): support border-inline, track stretch min-size, and column-wrap align-content stretch",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T10:05:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/baafc24df8e5219915ec5edb357cc6a04bf21b77"
+    },
+    {
+      "sha": "4aa6011c723ae240077fd45ba59adebad51fc1f3",
+      "short": "4aa6011",
+      "message": "fix(grid): support border-inline, track stretch min-size, and column-wrap align-content stretch",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T10:05:09Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4aa6011c723ae240077fd45ba59adebad51fc1f3"
+    },
+    {
+      "sha": "b665da2603bff14d19acda204b63ce5721d30dc9",
+      "short": "b665da2",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T10:03:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b665da2603bff14d19acda204b63ce5721d30dc9"
+    },
+    {
+      "sha": "b80390b309cbe1dde6c5e32995cd48660d0099fd",
+      "short": "b80390b",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T10:02:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b80390b309cbe1dde6c5e32995cd48660d0099fd"
+    },
+    {
+      "sha": "d9aa352cb8455e5f44e6df916dec0d12eff441e5",
+      "short": "d9aa352",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T10:02:33Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d9aa352cb8455e5f44e6df916dec0d12eff441e5"
+    },
     {
       "sha": "a4ab253176ea5610b5834791707fbfc6ed2a01fe",
       "short": "a4ab253",
@@ -24,142 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-17T08:41:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/a7abaeeb486b7ff16fd6f37bbf89a282a6409810"
-    },
-    {
-      "sha": "faf6d36a4af9bc499d6e45bac7a6e1366e7950b9",
-      "short": "faf6d36",
-      "message": "fix(grid): support input stretch alignment, baseline fallbacks, and modularize natural sizing",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T08:17:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/faf6d36a4af9bc499d6e45bac7a6e1366e7950b9"
-    },
-    {
-      "sha": "10d58c45a398288d13284c2e629fd8e5124a7c4a",
-      "short": "10d58c4",
-      "message": "fix(grid): support auto margins, replaced element stretching, and Dimension::Auto",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T07:49:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10d58c45a398288d13284c2e629fd8e5124a7c4a"
-    },
-    {
-      "sha": "b0034c84290a9046555ff0c906df86dc9ea23ec9",
-      "short": "b0034c8",
-      "message": "fix(dom): clamp atomic inline line-height to eliminate phantom descent and modularize vertical_align",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T07:24:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b0034c84290a9046555ff0c906df86dc9ea23ec9"
-    },
-    {
-      "sha": "78a71c6bff89e6dc1c26f5c3235ba69188e8563e",
-      "short": "78a71c6",
-      "message": "fix(inline): size inline-block whitespace separator by parent font-size instead of hardcoded 4.45px",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T02:26:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78a71c6bff89e6dc1c26f5c3235ba69188e8563e"
-    },
-    {
-      "sha": "0977d54a1641ad65ab25083260eb77bdbda1cb26",
-      "short": "0977d54",
-      "message": "fix(grid): size tracks created by grid-template-areas with auto-tracks when template-tracks not specified",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T01:59:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0977d54a1641ad65ab25083260eb77bdbda1cb26"
-    },
-    {
-      "sha": "fb910e8e1009442dcf3f02c8d3061d5540a6d707",
-      "short": "fb910e8",
-      "message": "fix(grid,inline): align vertical-align in inline runs, flex parent container height, and rotated frame block sizing",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T01:43:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fb910e8e1009442dcf3f02c8d3061d5540a6d707"
-    },
-    {
-      "sha": "d82445159a4ee533452a8dd7021264efb3abcf9c",
-      "short": "d824451",
-      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T00:54:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d82445159a4ee533452a8dd7021264efb3abcf9c"
-    },
-    {
-      "sha": "90dd961a2ced6f5ba7e75481cdbe9b50fb542cb5",
-      "short": "90dd961",
-      "message": "fix(grid): correct auto track sizing base width and handle background: none cascade reset",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T00:52:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/90dd961a2ced6f5ba7e75481cdbe9b50fb542cb5"
-    },
-    {
-      "sha": "78260f3f48ebaeba9613f613fa4ea2924dec37f8",
-      "short": "78260f3",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T00:12:37Z",
-      "url": "https://github.com/UrubuCode/rts/commit/78260f3f48ebaeba9613f613fa4ea2924dec37f8"
-    },
-    {
-      "sha": "a8a3bd368c6eddc5cd616e7b80f49b8ede7b787b",
-      "short": "a8a3bd3",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T00:11:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a8a3bd368c6eddc5cd616e7b80f49b8ede7b787b"
-    },
-    {
-      "sha": "a4a8aaae4ad132dd98b0721185a6af252ff3b8bf",
-      "short": "a4a8aaa",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-16T23:41:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4a8aaae4ad132dd98b0721185a6af252ff3b8bf"
-    },
-    {
-      "sha": "875dd7cd079d25bec040b98d4ccba035cf67255c",
-      "short": "875dd7c",
-      "message": "fix(grid): clamp automatic minimum size to fixed max track per CSS Grid §6.6",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T23:38:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/875dd7cd079d25bec040b98d4ccba035cf67255c"
-    },
-    {
-      "sha": "f71c55b8e75e2b0f66924774ee6ef185b7337e0c",
-      "short": "f71c55b",
-      "message": "Merge remote-tracking branch 'origin/main' into main",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T23:12:34Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f71c55b8e75e2b0f66924774ee6ef185b7337e0c"
-    },
-    {
-      "sha": "aed38f37e5c800c879d887cfacced1b8d2730714",
-      "short": "aed38f3",
-      "message": "fix(grid): synthesize container baseline and support anonymous grid items",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T23:11:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aed38f37e5c800c879d887cfacced1b8d2730714"
-    },
-    {
-      "sha": "e033f99e57d09195b2e8be65900864c933ac4767",
-      "short": "e033f99",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-16T22:56:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e033f99e57d09195b2e8be65900864c933ac4767"
-    },
-    {
-      "sha": "10821810ccb601af7d31c1fe9ccc4a6af77c27cd",
-      "short": "1082181",
-      "message": "fix(static-position): consider preceding sibling margin in static_position_block",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T22:14:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/10821810ccb601af7d31c1fe9ccc4a6af77c27cd"
-    },
-    {
-      "sha": "3a68a1258000ae686f0d0cc34ee576997d5268ba",
-      "short": "3a68a12",
-      "message": "fix(grid): consider min/max height in ratio_outer_width for replaced elements",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-16T22:00:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a68a1258000ae686f0d0cc34ee576997d5268ba"
     }
   ]
 }
