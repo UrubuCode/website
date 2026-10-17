@@ -1,6 +1,62 @@
 {
-  "total": 7039,
+  "total": 7046,
   "commits": [
+    {
+      "sha": "33fd01a1aff02e152e029f56bf8816a9808cea59",
+      "short": "33fd01a",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T15:59:16Z",
+      "url": "https://github.com/UrubuCode/rts/commit/33fd01a1aff02e152e029f56bf8816a9808cea59"
+    },
+    {
+      "sha": "bff5712b2a58a94e182aa13691289923f9b5a0ac",
+      "short": "bff5712",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T15:28:06Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bff5712b2a58a94e182aa13691289923f9b5a0ac"
+    },
+    {
+      "sha": "ece00365d8ff683d9e5b5c643a3441e35080b63b",
+      "short": "ece0036",
+      "message": "Merge branch 'feat/dom-subgrid-sg1' of https://github.com/UrubuCode/rts",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T15:27:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ece00365d8ff683d9e5b5c643a3441e35080b63b"
+    },
+    {
+      "sha": "498a951c46ff0d0928de746e16f5f228bd406974",
+      "short": "498a951",
+      "message": "fix(grid): resolve baseline sizing alignment and recursive grid container ascent",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T15:27:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/498a951c46ff0d0928de746e16f5f228bd406974"
+    },
+    {
+      "sha": "8950451224ee729282864f5289efa3ae53a0e5fe",
+      "short": "8950451",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-17T15:19:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8950451224ee729282864f5289efa3ae53a0e5fe"
+    },
+    {
+      "sha": "b8598fe32457e61af01768cbad7ed291c16bfcea",
+      "short": "b8598fe",
+      "message": "Merge branch 'feat/dom-subgrid-sg1' into main",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T14:46:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b8598fe32457e61af01768cbad7ed291c16bfcea"
+    },
+    {
+      "sha": "a8642cd0c472c35ae378658570dbe07d97756f60",
+      "short": "a8642cd",
+      "message": "fix(grid): correctly account for single-item tracks in spanning distribution and resolve fit-content overflow",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T14:45:58Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a8642cd0c472c35ae378658570dbe07d97756f60"
+    },
     {
       "sha": "3119c2aadb741bdcf40376a1538f553da88407cc",
       "short": "3119c2a",
@@ -104,62 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-17T10:05:09Z",
       "url": "https://github.com/UrubuCode/rts/commit/baafc24df8e5219915ec5edb357cc6a04bf21b77"
-    },
-    {
-      "sha": "4aa6011c723ae240077fd45ba59adebad51fc1f3",
-      "short": "4aa6011",
-      "message": "fix(grid): support border-inline, track stretch min-size, and column-wrap align-content stretch",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T10:05:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4aa6011c723ae240077fd45ba59adebad51fc1f3"
-    },
-    {
-      "sha": "b665da2603bff14d19acda204b63ce5721d30dc9",
-      "short": "b665da2",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T10:03:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b665da2603bff14d19acda204b63ce5721d30dc9"
-    },
-    {
-      "sha": "b80390b309cbe1dde6c5e32995cd48660d0099fd",
-      "short": "b80390b",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T10:02:50Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b80390b309cbe1dde6c5e32995cd48660d0099fd"
-    },
-    {
-      "sha": "d9aa352cb8455e5f44e6df916dec0d12eff441e5",
-      "short": "d9aa352",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T10:02:33Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d9aa352cb8455e5f44e6df916dec0d12eff441e5"
-    },
-    {
-      "sha": "a4ab253176ea5610b5834791707fbfc6ed2a01fe",
-      "short": "a4ab253",
-      "message": "fix(grid): support cyclic baseline fallback, unconstrained item baseline ascent, and orthogonal justify fallback",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T09:31:18Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a4ab253176ea5610b5834791707fbfc6ed2a01fe"
-    },
-    {
-      "sha": "ef921978f1edbc23075fcbeec9b9375aefff5f42",
-      "short": "ef92197",
-      "message": "fix(grid): resolve indefinite percentage gaps without inflating container intrinsic size",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T09:08:31Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef921978f1edbc23075fcbeec9b9375aefff5f42"
-    },
-    {
-      "sha": "a7abaeeb486b7ff16fd6f37bbf89a282a6409810",
-      "short": "a7abaee",
-      "message": "fix(grid): support stretch content distribution, gap axis resolution, and JustifyContent::Stretch",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T08:41:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a7abaeeb486b7ff16fd6f37bbf89a282a6409810"
     }
   ]
 }
