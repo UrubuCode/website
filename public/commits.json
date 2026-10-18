@@ -1,6 +1,54 @@
 {
-  "total": 7072,
+  "total": 7078,
   "commits": [
+    {
+      "sha": "3636d54b20f9dcadef4a2efe1e0718088e17afed",
+      "short": "3636d54",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-18T03:42:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3636d54b20f9dcadef4a2efe1e0718088e17afed"
+    },
+    {
+      "sha": "93ab154ff9c7336afe00d5993f6571716f83188f",
+      "short": "93ab154",
+      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T03:07:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/93ab154ff9c7336afe00d5993f6571716f83188f"
+    },
+    {
+      "sha": "fe811240253ed6d0318e37cfd94f946cc339746a",
+      "short": "fe81124",
+      "message": "feat(layout): `stretch` as a min/max size resolves to the available extent",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T03:07:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fe811240253ed6d0318e37cfd94f946cc339746a"
+    },
+    {
+      "sha": "dbbc42625fdfb68669cc668120e63996ffe70d3b",
+      "short": "dbbc426",
+      "message": "docs: auto-update cross-runtime parity badge (85%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-18T03:06:22Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dbbc42625fdfb68669cc668120e63996ffe70d3b"
+    },
+    {
+      "sha": "cd92fe2fb29894ed255592da424a131e98a8fc2b",
+      "short": "cd92fe2",
+      "message": "perf(raster): halve the default reftest worker pool",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T02:40:10Z",
+      "url": "https://github.com/UrubuCode/rts/commit/cd92fe2fb29894ed255592da424a131e98a8fc2b"
+    },
+    {
+      "sha": "8c56d98a7300057dd3d72fce4e9916788b58e76e",
+      "short": "8c56d98",
+      "message": "feat(layout): the `stretch` sizing keyword (width/height) fills the container",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T02:33:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c56d98a7300057dd3d72fce4e9916788b58e76e"
+    },
     {
       "sha": "ee2c14e464f9c45de54d3f81c7af610cb8bacc2d",
       "short": "ee2c14e",
@@ -112,54 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-17T23:31:47Z",
       "url": "https://github.com/UrubuCode/rts/commit/8dc43f69e51bef5dda94a81ef67b3d0c0c6f9f00"
-    },
-    {
-      "sha": "7ea178967d73fa6a283a2f03a70c8d55848d05ae",
-      "short": "7ea1789",
-      "message": "fix(layout): aspect-ratio derives a shrink-to-fit box's width from a definite height",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T23:11:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7ea178967d73fa6a283a2f03a70c8d55848d05ae"
-    },
-    {
-      "sha": "d0c8b70c3047cce4075976420932748879ff7ca6",
-      "short": "d0c8b70",
-      "message": "fix(layout): min-height is definite height only in flex/grid, not plain blocks",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T22:46:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/d0c8b70c3047cce4075976420932748879ff7ca6"
-    },
-    {
-      "sha": "4aeca919005365484a1ca2bbdf7adcc15a8f57d9",
-      "short": "4aeca91",
-      "message": "fix(layout): an in-flow block moves with its relative inline ancestor",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T22:22:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4aeca919005365484a1ca2bbdf7adcc15a8f57d9"
-    },
-    {
-      "sha": "e5fa635ce17013532f2ca2a20048b40038c16869",
-      "short": "e5fa635",
-      "message": "feat(flex): honour `safe`/`unsafe` overflow-position on justify/align-content",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T22:00:40Z",
-      "url": "https://github.com/UrubuCode/rts/commit/e5fa635ce17013532f2ca2a20048b40038c16869"
-    },
-    {
-      "sha": "242efe3b107752c835b54079c809c7362678219c",
-      "short": "242efe3",
-      "message": "fix(flex): column-wrap max-content treats an item's % width as content",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T21:39:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/242efe3b107752c835b54079c809c7362678219c"
-    },
-    {
-      "sha": "67bdb7ad5d0e7bad00131a3e66c026a4742b9a68",
-      "short": "67bdb7a",
-      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T21:17:56Z",
-      "url": "https://github.com/UrubuCode/rts/commit/67bdb7ad5d0e7bad00131a3e66c026a4742b9a68"
     }
   ]
 }
