@@ -1,6 +1,150 @@
 {
-  "total": 7150,
+  "total": 7298,
   "commits": [
+    {
+      "sha": "0b623eb34a252e44601c738f3bd32bc6b598c90f",
+      "short": "0b623eb",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-18T18:25:41Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0b623eb34a252e44601c738f3bd32bc6b598c90f"
+    },
+    {
+      "sha": "733a1cf2dc24a8df34acd6f554e81a4253fb2fc2",
+      "short": "733a1cf",
+      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-18T18:14:50Z",
+      "url": "https://github.com/UrubuCode/rts/commit/733a1cf2dc24a8df34acd6f554e81a4253fb2fc2"
+    },
+    {
+      "sha": "c3e77a5c4fe443b896099856150185ffa1f62fba",
+      "short": "c3e77a5",
+      "message": "docs: auto-update cross-runtime parity badge (90%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-18T18:13:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c3e77a5c4fe443b896099856150185ffa1f62fba"
+    },
+    {
+      "sha": "73dad287a6c7f84fd93dc5eb5ec27fc36463d572",
+      "short": "73dad28",
+      "message": "fix(ir): ignore the build-time position cursor in write_cache_key",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T17:33:01Z",
+      "url": "https://github.com/UrubuCode/rts/commit/73dad287a6c7f84fd93dc5eb5ec27fc36463d572"
+    },
+    {
+      "sha": "1405a64a891d21b4909c640df46e32a3ac7e1257",
+      "short": "1405a64",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T17:28:55Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1405a64a891d21b4909c640df46e32a3ac7e1257"
+    },
+    {
+      "sha": "734abfb3d9fe6c679ccd9bbcf8df4b18fdd7ecc7",
+      "short": "734abfb",
+      "message": "merge: source position on captured stack frames",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T17:19:27Z",
+      "url": "https://github.com/UrubuCode/rts/commit/734abfb3d9fe6c679ccd9bbcf8df4b18fdd7ecc7"
+    },
+    {
+      "sha": "4c676bbde9f294e2e92f761c324313bae8ba0ff1",
+      "short": "4c676bb",
+      "message": "merge feat/dom-subgrid-sg1: WhatsApp compiler fixes",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T17:19:20Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4c676bbde9f294e2e92f761c324313bae8ba0ff1"
+    },
+    {
+      "sha": "f0cf3d53a8cc68cf88f2e11bb66f6a49346bab55",
+      "short": "f0cf3d5",
+      "message": "Merge pull request #2914 from UrubuCode/expecific-development",
+      "author": "Drysius",
+      "date": "2026-10-18T17:18:34Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f0cf3d53a8cc68cf88f2e11bb66f6a49346bab55"
+    },
+    {
+      "sha": "567114a42cfbd40468c0220bb13c3d3173d88062",
+      "short": "567114a",
+      "message": "docs(guides,ui): dated staleness banners + structural path fixes (additive)",
+      "author": "Drysius",
+      "date": "2026-10-18T17:12:35Z",
+      "url": "https://github.com/UrubuCode/rts/commit/567114a42cfbd40468c0220bb13c3d3173d88062"
+    },
+    {
+      "sha": "872ba61ec2206a6469c2c39a23e02112bbc6a4a3",
+      "short": "872ba61",
+      "message": "docs(reference/node): dated verified status — many modules now more complete",
+      "author": "Drysius",
+      "date": "2026-10-18T17:10:11Z",
+      "url": "https://github.com/UrubuCode/rts/commit/872ba61ec2206a6469c2c39a23e02112bbc6a4a3"
+    },
+    {
+      "sha": "4db9d36b7303a77a602a1a3467c19f93a20baa5b",
+      "short": "4db9d36",
+      "message": "feat(trace): carry a source position on every captured stack frame",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T17:06:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4db9d36b7303a77a602a1a3467c19f93a20baa5b"
+    },
+    {
+      "sha": "359f8dc69db3e5968eb62d102f4ae32796226502",
+      "short": "359f8dc",
+      "message": "docs(engine): additive status blocks correcting stale perf/capability claims",
+      "author": "Drysius",
+      "date": "2026-10-18T17:05:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/359f8dc69db3e5968eb62d102f4ae32796226502"
+    },
+    {
+      "sha": "dfcda4186dc6bc63db3150704c8f6b04a91da544",
+      "short": "dfcda41",
+      "message": "docs: correct stale perf claims in CLAUDE.md + docs/codegen (additive status blocks)",
+      "author": "Drysius",
+      "date": "2026-10-18T17:01:24Z",
+      "url": "https://github.com/UrubuCode/rts/commit/dfcda4186dc6bc63db3150704c8f6b04a91da544"
+    },
+    {
+      "sha": "9cf306ead07c2d492275340972624450b7f886ab",
+      "short": "9cf306e",
+      "message": "docs: restore docs/ and CLAUDE.md (removed in 6d98751dd)",
+      "author": "Drysius",
+      "date": "2026-10-18T16:52:51Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9cf306ead07c2d492275340972624450b7f886ab"
+    },
+    {
+      "sha": "f2d54057c30074ba68e21f7ec07e8038b90dd4e3",
+      "short": "f2d5405",
+      "message": "Merge remote-tracking branch 'origin/main' into expecific-development",
+      "author": "Drysius",
+      "date": "2026-10-18T16:46:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f2d54057c30074ba68e21f7ec07e8038b90dd4e3"
+    },
+    {
+      "sha": "6498f4728d5becf4e2d1707a9f4d3188693fb3e6",
+      "short": "6498f47",
+      "message": "feat(dom): expose globalThis web globals on the page window (self.crypto, self.fetch, …)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T15:22:44Z",
+      "url": "https://github.com/UrubuCode/rts/commit/6498f4728d5becf4e2d1707a9f4d3188693fb3e6"
+    },
+    {
+      "sha": "f46eec1dfb4803d2810a8809b10b7af2109e6880",
+      "short": "f46eec1",
+      "message": "feat(regex): accept a quantified lookahead in Annex B (/(?=x)?/)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T15:00:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f46eec1dfb4803d2810a8809b10b7af2109e6880"
+    },
+    {
+      "sha": "3a51577c4a8cce2c95a4505482bd695dd63740d0",
+      "short": "3a51577",
+      "message": "fix(lower): order dead and copied blocks so a definition precedes its uses",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T14:13:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/3a51577c4a8cce2c95a4505482bd695dd63740d0"
+    },
     {
       "sha": "381e9c7fafa12f62a679c2d3e8392b9dfd7db130",
       "short": "381e9c7",
@@ -16,150 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-18T13:07:12Z",
       "url": "https://github.com/UrubuCode/rts/commit/f6866d5f52257205e767da6b5b4795b9023b70f7"
-    },
-    {
-      "sha": "970f3bd116593661adb69b4621df667f069c4cdc",
-      "short": "970f3bd",
-      "message": "merge: doc of the WhatsApp frame-transform crash (diagnosis only)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T13:06:07Z",
-      "url": "https://github.com/UrubuCode/rts/commit/970f3bd116593661adb69b4621df667f069c4cdc"
-    },
-    {
-      "sha": "828bdf3b6bc7fa48b63d172da01f549d3692f9e9",
-      "short": "828bdf3",
-      "message": "docs(engine): record the WhatsApp frame-transform crash (invalid SSA, not fixed)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T13:06:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/828bdf3b6bc7fa48b63d172da01f549d3692f9e9"
-    },
-    {
-      "sha": "0d8ca4e1e8d787dd35e2d57340a98ab45546c55d",
-      "short": "0d8ca4e",
-      "message": "merge: grid track with fixed min not grown to content under definite height (grid 734->736)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T12:14:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0d8ca4e1e8d787dd35e2d57340a98ab45546c55d"
-    },
-    {
-      "sha": "49fb027c1cb3e4e23a960a7bfcdc2d0b5892fbae",
-      "short": "49fb027",
-      "message": "fix(layout): a grid track with a fixed min is not grown to content under a definite height",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T12:14:29Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49fb027c1cb3e4e23a960a7bfcdc2d0b5892fbae"
-    },
-    {
-      "sha": "a3acbcd9617850de15883afe59a2a76665395d29",
-      "short": "a3acbcd",
-      "message": "merge: flexible grid track not grown by spanning item under min-content (grid 733->734)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T11:47:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a3acbcd9617850de15883afe59a2a76665395d29"
-    },
-    {
-      "sha": "8e91d4a77b9a86c550b674aeb54ebf8075d5a75c",
-      "short": "8e91d4a",
-      "message": "fix(layout): a flexible grid track is not grown by a spanning item under min-content",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T11:47:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8e91d4a77b9a86c550b674aeb54ebf8075d5a75c"
-    },
-    {
-      "sha": "49f3fcfc455cc76963c5ef51623bcb1ed2f293b7",
-      "short": "49f3fcf",
-      "message": "merge: block transferred intrinsic width sums inline run (flexbox 670->672)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T10:07:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/49f3fcfc455cc76963c5ef51623bcb1ed2f293b7"
-    },
-    {
-      "sha": "5de8a307cdaaee220e4320326141fcf2d2ced530",
-      "short": "5de8a30",
-      "message": "fix(layout): a block's transferred intrinsic width sums its inline run",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T10:07:13Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5de8a307cdaaee220e4320326141fcf2d2ced530"
-    },
-    {
-      "sha": "83b716b7613e7f21cac977ae73d4f776a48ffc06",
-      "short": "83b716b",
-      "message": "merge: centred out-of-flow box stays inside CB (position 91->92)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:41:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/83b716b7613e7f21cac977ae73d4f776a48ffc06"
-    },
-    {
-      "sha": "c72b31bd96d87f8fac5a0b25cc95f83904f9b780",
-      "short": "c72b31b",
-      "message": "fix(layout): a centred out-of-flow box stays inside its containing block",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:41:52Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c72b31bd96d87f8fac5a0b25cc95f83904f9b780"
-    },
-    {
-      "sha": "ed54f7c096c44f21f96647d7dba3e754fcf5a2d1",
-      "short": "ed54f7c",
-      "message": "merge: canvas coerces intrinsic size to aspect-ratio (sizing 329->331)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:25:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ed54f7c096c44f21f96647d7dba3e754fcf5a2d1"
-    },
-    {
-      "sha": "b78a9025acdbd1e5698c4f39605fee8ee72b8351",
-      "short": "b78a902",
-      "message": "feat(layout): a <canvas> coerces its intrinsic size to a declared aspect-ratio",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:25:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b78a9025acdbd1e5698c4f39605fee8ee72b8351"
-    },
-    {
-      "sha": "7dd3a331dee3bebfe147ddb8af2de18868de0d7e",
-      "short": "7dd3a33",
-      "message": "merge: embedded svg viewBox feeds aspect-ratio:auto (sizing 328→329)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:13:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7dd3a331dee3bebfe147ddb8af2de18868de0d7e"
-    },
-    {
-      "sha": "71eb51483c0494e436db53997864e2286886cdb1",
-      "short": "71eb514",
-      "message": "feat(layout): an embedded svg's own viewBox feeds aspect-ratio: auto",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:13:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/71eb51483c0494e436db53997864e2286886cdb1"
-    },
-    {
-      "sha": "8c90ae86f14c67d581cc482cf582f0cec73ccd06",
-      "short": "8c90ae8",
-      "message": "merge: <object> svg data URI renders as replaced svg (sizing 326→328)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:08:25Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c90ae86f14c67d581cc482cf582f0cec73ccd06"
-    },
-    {
-      "sha": "f9f1363fcbf85ac8b92afb29381eb4373693c06a",
-      "short": "f9f1363",
-      "message": "feat(layout): an <object> with an svg data URI renders as a replaced svg",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:08:21Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f9f1363fcbf85ac8b92afb29381eb4373693c06a"
-    },
-    {
-      "sha": "0fa71a4de085074bcaff1d32cb73ba48da9759bc",
-      "short": "0fa71a4",
-      "message": "merge: svg viewBox default object size + max transfer (flexbox 668→670)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:02:05Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0fa71a4de085074bcaff1d32cb73ba48da9759bc"
-    },
-    {
-      "sha": "9979314a5ca03c75b6d61c32c8e5bc6f312a46aa",
-      "short": "9979314",
-      "message": "feat(layout): an svg with a viewBox but no size uses the default object size",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T09:01:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9979314a5ca03c75b6d61c32c8e5bc6f312a46aa"
     }
   ]
 }
