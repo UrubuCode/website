@@ -1,165 +1,165 @@
 {
-  "total": 7078,
+  "total": 7150,
   "commits": [
     {
-      "sha": "3636d54b20f9dcadef4a2efe1e0718088e17afed",
-      "short": "3636d54",
+      "sha": "381e9c7fafa12f62a679c2d3e8392b9dfd7db130",
+      "short": "381e9c7",
       "message": "docs: auto-update benchmark table",
       "author": "github-actions[bot]",
-      "date": "2026-10-18T03:42:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3636d54b20f9dcadef4a2efe1e0718088e17afed"
+      "date": "2026-10-18T13:42:49Z",
+      "url": "https://github.com/UrubuCode/rts/commit/381e9c7fafa12f62a679c2d3e8392b9dfd7db130"
     },
     {
-      "sha": "93ab154ff9c7336afe00d5993f6571716f83188f",
-      "short": "93ab154",
-      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
+      "sha": "f6866d5f52257205e767da6b5b4795b9023b70f7",
+      "short": "f6866d5",
+      "message": "merge origin/main (auto benchmark table) into local main",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T03:07:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/93ab154ff9c7336afe00d5993f6571716f83188f"
+      "date": "2026-10-18T13:07:12Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f6866d5f52257205e767da6b5b4795b9023b70f7"
     },
     {
-      "sha": "fe811240253ed6d0318e37cfd94f946cc339746a",
-      "short": "fe81124",
-      "message": "feat(layout): `stretch` as a min/max size resolves to the available extent",
+      "sha": "970f3bd116593661adb69b4621df667f069c4cdc",
+      "short": "970f3bd",
+      "message": "merge: doc of the WhatsApp frame-transform crash (diagnosis only)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T03:07:08Z",
-      "url": "https://github.com/UrubuCode/rts/commit/fe811240253ed6d0318e37cfd94f946cc339746a"
+      "date": "2026-10-18T13:06:07Z",
+      "url": "https://github.com/UrubuCode/rts/commit/970f3bd116593661adb69b4621df667f069c4cdc"
     },
     {
-      "sha": "dbbc42625fdfb68669cc668120e63996ffe70d3b",
-      "short": "dbbc426",
-      "message": "docs: auto-update cross-runtime parity badge (85%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-18T03:06:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dbbc42625fdfb68669cc668120e63996ffe70d3b"
-    },
-    {
-      "sha": "cd92fe2fb29894ed255592da424a131e98a8fc2b",
-      "short": "cd92fe2",
-      "message": "perf(raster): halve the default reftest worker pool",
+      "sha": "828bdf3b6bc7fa48b63d172da01f549d3692f9e9",
+      "short": "828bdf3",
+      "message": "docs(engine): record the WhatsApp frame-transform crash (invalid SSA, not fixed)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T02:40:10Z",
-      "url": "https://github.com/UrubuCode/rts/commit/cd92fe2fb29894ed255592da424a131e98a8fc2b"
+      "date": "2026-10-18T13:06:02Z",
+      "url": "https://github.com/UrubuCode/rts/commit/828bdf3b6bc7fa48b63d172da01f549d3692f9e9"
     },
     {
-      "sha": "8c56d98a7300057dd3d72fce4e9916788b58e76e",
-      "short": "8c56d98",
-      "message": "feat(layout): the `stretch` sizing keyword (width/height) fills the container",
+      "sha": "0d8ca4e1e8d787dd35e2d57340a98ab45546c55d",
+      "short": "0d8ca4e",
+      "message": "merge: grid track with fixed min not grown to content under definite height (grid 734->736)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T02:33:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8c56d98a7300057dd3d72fce4e9916788b58e76e"
+      "date": "2026-10-18T12:14:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0d8ca4e1e8d787dd35e2d57340a98ab45546c55d"
     },
     {
-      "sha": "ee2c14e464f9c45de54d3f81c7af610cb8bacc2d",
-      "short": "ee2c14e",
-      "message": "fix(layout): a block's auto width comes from aspect-ratio + a definite height",
+      "sha": "49fb027c1cb3e4e23a960a7bfcdc2d0b5892fbae",
+      "short": "49fb027",
+      "message": "fix(layout): a grid track with a fixed min is not grown to content under a definite height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T02:07:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ee2c14e464f9c45de54d3f81c7af610cb8bacc2d"
+      "date": "2026-10-18T12:14:29Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49fb027c1cb3e4e23a960a7bfcdc2d0b5892fbae"
     },
     {
-      "sha": "5d866d5ef81f935419cdaf7550f1a202d659bd85",
-      "short": "5d866d5",
-      "message": "fix(layout): a shrink-to-fit box transfers its width to an aspect-ratio height",
+      "sha": "a3acbcd9617850de15883afe59a2a76665395d29",
+      "short": "a3acbcd",
+      "message": "merge: flexible grid track not grown by spanning item under min-content (grid 733->734)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:56:04Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5d866d5ef81f935419cdaf7550f1a202d659bd85"
+      "date": "2026-10-18T11:47:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/a3acbcd9617850de15883afe59a2a76665395d29"
     },
     {
-      "sha": "aeff01d2e787a1312807a75b328a508a2a2e4d7e",
-      "short": "aeff01d",
-      "message": "fix(layout): a block's aspect-ratio height is floored by its content",
+      "sha": "8e91d4a77b9a86c550b674aeb54ebf8075d5a75c",
+      "short": "8e91d4a",
+      "message": "fix(layout): a flexible grid track is not grown by a spanning item under min-content",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:45:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/aeff01d2e787a1312807a75b328a508a2a2e4d7e"
+      "date": "2026-10-18T11:47:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8e91d4a77b9a86c550b674aeb54ebf8075d5a75c"
     },
     {
-      "sha": "158f20b45a2624c733d9bf2b441d2f675ecee2c9",
-      "short": "158f20b",
-      "message": "fix(layout): CSS aspect-ratio on a replaced element overrides and transfers",
+      "sha": "49f3fcfc455cc76963c5ef51623bcb1ed2f293b7",
+      "short": "49f3fcf",
+      "message": "merge: block transferred intrinsic width sums inline run (flexbox 670->672)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:32:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/158f20b45a2624c733d9bf2b441d2f675ecee2c9"
+      "date": "2026-10-18T10:07:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/49f3fcfc455cc76963c5ef51623bcb1ed2f293b7"
     },
     {
-      "sha": "721d0cae926cc7a5ebd84f76a8d634170fccf956",
-      "short": "721d0ca",
-      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
+      "sha": "5de8a307cdaaee220e4320326141fcf2d2ced530",
+      "short": "5de8a30",
+      "message": "fix(layout): a block's transferred intrinsic width sums its inline run",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:14:43Z",
-      "url": "https://github.com/UrubuCode/rts/commit/721d0cae926cc7a5ebd84f76a8d634170fccf956"
+      "date": "2026-10-18T10:07:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5de8a307cdaaee220e4320326141fcf2d2ced530"
     },
     {
-      "sha": "1e3835cbc75f5cba6eecefeea7e97edeb342adae",
-      "short": "1e3835c",
-      "message": "perf(raster): a POOL of persistent --batch workers, not one serial process",
+      "sha": "83b716b7613e7f21cac977ae73d4f776a48ffc06",
+      "short": "83b716b",
+      "message": "merge: centred out-of-flow box stays inside CB (position 91->92)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:14:42Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1e3835cbc75f5cba6eecefeea7e97edeb342adae"
+      "date": "2026-10-18T09:41:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/83b716b7613e7f21cac977ae73d4f776a48ffc06"
     },
     {
-      "sha": "77323089a35513b2c639f67f7ea0ac51cc619918",
-      "short": "7732308",
-      "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
-      "author": "github-actions[bot]",
-      "date": "2026-10-18T01:11:57Z",
-      "url": "https://github.com/UrubuCode/rts/commit/77323089a35513b2c639f67f7ea0ac51cc619918"
-    },
-    {
-      "sha": "7077c07f1f439416e511fcc307c6d6495cfe5030",
-      "short": "7077c07",
-      "message": "perf(raster): one process for the whole reftest ruler, not one per file",
+      "sha": "c72b31bd96d87f8fac5a0b25cc95f83904f9b780",
+      "short": "c72b31b",
+      "message": "fix(layout): a centred out-of-flow box stays inside its containing block",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T01:10:30Z",
-      "url": "https://github.com/UrubuCode/rts/commit/7077c07f1f439416e511fcc307c6d6495cfe5030"
+      "date": "2026-10-18T09:41:52Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c72b31bd96d87f8fac5a0b25cc95f83904f9b780"
     },
     {
-      "sha": "63f9eb515fd27d4afd3ec8241dc175f411c56b11",
-      "short": "63f9eb5",
-      "message": "chore: remove scratch probe committed by mistake in 0c988104b",
+      "sha": "ed54f7c096c44f21f96647d7dba3e754fcf5a2d1",
+      "short": "ed54f7c",
+      "message": "merge: canvas coerces intrinsic size to aspect-ratio (sizing 329->331)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T00:42:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/63f9eb515fd27d4afd3ec8241dc175f411c56b11"
+      "date": "2026-10-18T09:25:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ed54f7c096c44f21f96647d7dba3e754fcf5a2d1"
     },
     {
-      "sha": "0c988104b8c97ceef80f71e3795b61e4c9649a96",
-      "short": "0c98810",
-      "message": "fix(layout): min/max-height transfers through aspect-ratio to an abspos width",
+      "sha": "b78a9025acdbd1e5698c4f39605fee8ee72b8351",
+      "short": "b78a902",
+      "message": "feat(layout): a <canvas> coerces its intrinsic size to a declared aspect-ratio",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T00:42:17Z",
-      "url": "https://github.com/UrubuCode/rts/commit/0c988104b8c97ceef80f71e3795b61e4c9649a96"
+      "date": "2026-10-18T09:25:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/b78a9025acdbd1e5698c4f39605fee8ee72b8351"
     },
     {
-      "sha": "c523baad1adec4dd280ff45a9965edf3312e3037",
-      "short": "c523baa",
-      "message": "fix(layout): explicit height + aspect-ratio sizes an abspos width over inset stretch",
+      "sha": "7dd3a331dee3bebfe147ddb8af2de18868de0d7e",
+      "short": "7dd3a33",
+      "message": "merge: embedded svg viewBox feeds aspect-ratio:auto (sizing 328→329)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T00:31:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/c523baad1adec4dd280ff45a9965edf3312e3037"
+      "date": "2026-10-18T09:13:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7dd3a331dee3bebfe147ddb8af2de18868de0d7e"
     },
     {
-      "sha": "26c6b8d910ac6c928f8b3ff9b95e3b14a30d4553",
-      "short": "26c6b8d",
-      "message": "fix(layout): out-of-flow aspect-ratio height is floored by its content",
+      "sha": "71eb51483c0494e436db53997864e2286886cdb1",
+      "short": "71eb514",
+      "message": "feat(layout): an embedded svg's own viewBox feeds aspect-ratio: auto",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T00:19:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/26c6b8d910ac6c928f8b3ff9b95e3b14a30d4553"
+      "date": "2026-10-18T09:13:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/71eb51483c0494e436db53997864e2286886cdb1"
     },
     {
-      "sha": "20ad82592c0b396c7206c34259638bc6ef334a8a",
-      "short": "20ad825",
-      "message": "fix(layout): out-of-flow aspect-ratio transfers its width to an auto height",
+      "sha": "8c90ae86f14c67d581cc482cf582f0cec73ccd06",
+      "short": "8c90ae8",
+      "message": "merge: <object> svg data URI renders as replaced svg (sizing 326→328)",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T23:58:54Z",
-      "url": "https://github.com/UrubuCode/rts/commit/20ad82592c0b396c7206c34259638bc6ef334a8a"
+      "date": "2026-10-18T09:08:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8c90ae86f14c67d581cc482cf582f0cec73ccd06"
     },
     {
-      "sha": "8dc43f69e51bef5dda94a81ef67b3d0c0c6f9f00",
-      "short": "8dc43f6",
-      "message": "fix(layout): abspos with both insets of an axis + aspect-ratio sizes correctly",
+      "sha": "f9f1363fcbf85ac8b92afb29381eb4373693c06a",
+      "short": "f9f1363",
+      "message": "feat(layout): an <object> with an svg data URI renders as a replaced svg",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T23:31:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8dc43f69e51bef5dda94a81ef67b3d0c0c6f9f00"
+      "date": "2026-10-18T09:08:21Z",
+      "url": "https://github.com/UrubuCode/rts/commit/f9f1363fcbf85ac8b92afb29381eb4373693c06a"
+    },
+    {
+      "sha": "0fa71a4de085074bcaff1d32cb73ba48da9759bc",
+      "short": "0fa71a4",
+      "message": "merge: svg viewBox default object size + max transfer (flexbox 668→670)",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T09:02:05Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0fa71a4de085074bcaff1d32cb73ba48da9759bc"
+    },
+    {
+      "sha": "9979314a5ca03c75b6d61c32c8e5bc6f312a46aa",
+      "short": "9979314",
+      "message": "feat(layout): an svg with a viewBox but no size uses the default object size",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T09:01:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/9979314a5ca03c75b6d61c32c8e5bc6f312a46aa"
     }
   ]
 }
