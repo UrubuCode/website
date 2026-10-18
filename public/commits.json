@@ -1,165 +1,165 @@
 {
-  "total": 7046,
+  "total": 7072,
   "commits": [
     {
-      "sha": "33fd01a1aff02e152e029f56bf8816a9808cea59",
-      "short": "33fd01a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T15:59:16Z",
-      "url": "https://github.com/UrubuCode/rts/commit/33fd01a1aff02e152e029f56bf8816a9808cea59"
-    },
-    {
-      "sha": "bff5712b2a58a94e182aa13691289923f9b5a0ac",
-      "short": "bff5712",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "ee2c14e464f9c45de54d3f81c7af610cb8bacc2d",
+      "short": "ee2c14e",
+      "message": "fix(layout): a block's auto width comes from aspect-ratio + a definite height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T15:28:06Z",
-      "url": "https://github.com/UrubuCode/rts/commit/bff5712b2a58a94e182aa13691289923f9b5a0ac"
+      "date": "2026-10-18T02:07:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/ee2c14e464f9c45de54d3f81c7af610cb8bacc2d"
     },
     {
-      "sha": "ece00365d8ff683d9e5b5c643a3441e35080b63b",
-      "short": "ece0036",
-      "message": "Merge branch 'feat/dom-subgrid-sg1' of https://github.com/UrubuCode/rts",
+      "sha": "5d866d5ef81f935419cdaf7550f1a202d659bd85",
+      "short": "5d866d5",
+      "message": "fix(layout): a shrink-to-fit box transfers its width to an aspect-ratio height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T15:27:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ece00365d8ff683d9e5b5c643a3441e35080b63b"
+      "date": "2026-10-18T01:56:04Z",
+      "url": "https://github.com/UrubuCode/rts/commit/5d866d5ef81f935419cdaf7550f1a202d659bd85"
     },
     {
-      "sha": "498a951c46ff0d0928de746e16f5f228bd406974",
-      "short": "498a951",
-      "message": "fix(grid): resolve baseline sizing alignment and recursive grid container ascent",
+      "sha": "aeff01d2e787a1312807a75b328a508a2a2e4d7e",
+      "short": "aeff01d",
+      "message": "fix(layout): a block's aspect-ratio height is floored by its content",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T15:27:32Z",
-      "url": "https://github.com/UrubuCode/rts/commit/498a951c46ff0d0928de746e16f5f228bd406974"
+      "date": "2026-10-18T01:45:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/aeff01d2e787a1312807a75b328a508a2a2e4d7e"
     },
     {
-      "sha": "8950451224ee729282864f5289efa3ae53a0e5fe",
-      "short": "8950451",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T15:19:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/8950451224ee729282864f5289efa3ae53a0e5fe"
-    },
-    {
-      "sha": "b8598fe32457e61af01768cbad7ed291c16bfcea",
-      "short": "b8598fe",
-      "message": "Merge branch 'feat/dom-subgrid-sg1' into main",
+      "sha": "158f20b45a2624c733d9bf2b441d2f675ecee2c9",
+      "short": "158f20b",
+      "message": "fix(layout): CSS aspect-ratio on a replaced element overrides and transfers",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T14:46:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b8598fe32457e61af01768cbad7ed291c16bfcea"
+      "date": "2026-10-18T01:32:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/158f20b45a2624c733d9bf2b441d2f675ecee2c9"
     },
     {
-      "sha": "a8642cd0c472c35ae378658570dbe07d97756f60",
-      "short": "a8642cd",
-      "message": "fix(grid): correctly account for single-item tracks in spanning distribution and resolve fit-content overflow",
+      "sha": "721d0cae926cc7a5ebd84f76a8d634170fccf956",
+      "short": "721d0ca",
+      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T14:45:58Z",
-      "url": "https://github.com/UrubuCode/rts/commit/a8642cd0c472c35ae378658570dbe07d97756f60"
+      "date": "2026-10-18T01:14:43Z",
+      "url": "https://github.com/UrubuCode/rts/commit/721d0cae926cc7a5ebd84f76a8d634170fccf956"
     },
     {
-      "sha": "3119c2aadb741bdcf40376a1538f553da88407cc",
-      "short": "3119c2a",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T14:17:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3119c2aadb741bdcf40376a1538f553da88407cc"
+      "sha": "1e3835cbc75f5cba6eecefeea7e97edeb342adae",
+      "short": "1e3835c",
+      "message": "perf(raster): a POOL of persistent --batch workers, not one serial process",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-18T01:14:42Z",
+      "url": "https://github.com/UrubuCode/rts/commit/1e3835cbc75f5cba6eecefeea7e97edeb342adae"
     },
     {
-      "sha": "5119cb01f58e58325866ed74465f9cde333419ae",
-      "short": "5119cb0",
+      "sha": "77323089a35513b2c639f67f7ea0ac51cc619918",
+      "short": "7732308",
       "message": "docs: auto-update CSS/DOM parity badge (99.9%)",
       "author": "github-actions[bot]",
-      "date": "2026-10-17T14:16:38Z",
-      "url": "https://github.com/UrubuCode/rts/commit/5119cb01f58e58325866ed74465f9cde333419ae"
+      "date": "2026-10-18T01:11:57Z",
+      "url": "https://github.com/UrubuCode/rts/commit/77323089a35513b2c639f67f7ea0ac51cc619918"
     },
     {
-      "sha": "ca31ed9e8681df5e900f212797ad63d67e983c15",
-      "short": "ca31ed9",
-      "message": "Merge branch 'feat/dom-subgrid-sg1' of https://github.com/UrubuCode/rts",
+      "sha": "7077c07f1f439416e511fcc307c6d6495cfe5030",
+      "short": "7077c07",
+      "message": "perf(raster): one process for the whole reftest ruler, not one per file",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T13:46:15Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ca31ed9e8681df5e900f212797ad63d67e983c15"
+      "date": "2026-10-18T01:10:30Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7077c07f1f439416e511fcc307c6d6495cfe5030"
     },
     {
-      "sha": "451b13ee3170364329cb2c1fff63d0d500b1198e",
-      "short": "451b13e",
-      "message": "fix(grid): unify two-phase spanning track distribution and empty track priority",
+      "sha": "63f9eb515fd27d4afd3ec8241dc175f411c56b11",
+      "short": "63f9eb5",
+      "message": "chore: remove scratch probe committed by mistake in 0c988104b",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T13:45:26Z",
-      "url": "https://github.com/UrubuCode/rts/commit/451b13ee3170364329cb2c1fff63d0d500b1198e"
+      "date": "2026-10-18T00:42:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/63f9eb515fd27d4afd3ec8241dc175f411c56b11"
     },
     {
-      "sha": "2600f83e21de81cbf9abf93b0bb2493026a4797f",
-      "short": "2600f83",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T12:21:41Z",
-      "url": "https://github.com/UrubuCode/rts/commit/2600f83e21de81cbf9abf93b0bb2493026a4797f"
-    },
-    {
-      "sha": "ef39eba248c0dab5c9fe050311f9f061a62a00d3",
-      "short": "ef39eba",
-      "message": "fix(grid): correct replaced element min-content aspect ratio under percentage height",
+      "sha": "0c988104b8c97ceef80f71e3795b61e4c9649a96",
+      "short": "0c98810",
+      "message": "fix(layout): min/max-height transfers through aspect-ratio to an abspos width",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T11:48:22Z",
-      "url": "https://github.com/UrubuCode/rts/commit/ef39eba248c0dab5c9fe050311f9f061a62a00d3"
+      "date": "2026-10-18T00:42:17Z",
+      "url": "https://github.com/UrubuCode/rts/commit/0c988104b8c97ceef80f71e3795b61e4c9649a96"
     },
     {
-      "sha": "b1fe49b901ad1842f37da114c544664836159b28",
-      "short": "b1fe49b",
-      "message": "Merge remote-tracking branch 'origin/main'",
+      "sha": "c523baad1adec4dd280ff45a9965edf3312e3037",
+      "short": "c523baa",
+      "message": "fix(layout): explicit height + aspect-ratio sizes an abspos width over inset stretch",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T11:40:53Z",
-      "url": "https://github.com/UrubuCode/rts/commit/b1fe49b901ad1842f37da114c544664836159b28"
+      "date": "2026-10-18T00:31:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/c523baad1adec4dd280ff45a9965edf3312e3037"
     },
     {
-      "sha": "f1f8ba10d2c2a8c5426b3f9c0baee25b48f4beef",
-      "short": "f1f8ba1",
-      "message": "fix(grid): preserve minmax(min, flex) tracks and apply background-size to gradients",
+      "sha": "26c6b8d910ac6c928f8b3ff9b95e3b14a30d4553",
+      "short": "26c6b8d",
+      "message": "fix(layout): out-of-flow aspect-ratio height is floored by its content",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T11:40:00Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f1f8ba10d2c2a8c5426b3f9c0baee25b48f4beef"
+      "date": "2026-10-18T00:19:38Z",
+      "url": "https://github.com/UrubuCode/rts/commit/26c6b8d910ac6c928f8b3ff9b95e3b14a30d4553"
     },
     {
-      "sha": "264bb2ed7ecf8481c8ec3d1ffd8233ed4e77525f",
-      "short": "264bb2e",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-17T11:06:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/264bb2ed7ecf8481c8ec3d1ffd8233ed4e77525f"
-    },
-    {
-      "sha": "4bdda42309a77ac98b751c1495c2c8f2e49e320d",
-      "short": "4bdda42",
-      "message": "fix(grid): implement fr restart algorithm and percentage row track resolution under shrinkwrap",
+      "sha": "20ad82592c0b396c7206c34259638bc6ef334a8a",
+      "short": "20ad825",
+      "message": "fix(layout): out-of-flow aspect-ratio transfers its width to an auto height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T10:35:48Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4bdda42309a77ac98b751c1495c2c8f2e49e320d"
+      "date": "2026-10-17T23:58:54Z",
+      "url": "https://github.com/UrubuCode/rts/commit/20ad82592c0b396c7206c34259638bc6ef334a8a"
     },
     {
-      "sha": "1ff5bc0bec5d61189ace3c90076ebb8cf02cb455",
-      "short": "1ff5bc0",
-      "message": "fix(grid): two-pass flexible row sizing for indefinite height and flex factor clamping",
+      "sha": "8dc43f69e51bef5dda94a81ef67b3d0c0c6f9f00",
+      "short": "8dc43f6",
+      "message": "fix(layout): abspos with both insets of an axis + aspect-ratio sizes correctly",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T10:24:59Z",
-      "url": "https://github.com/UrubuCode/rts/commit/1ff5bc0bec5d61189ace3c90076ebb8cf02cb455"
+      "date": "2026-10-17T23:31:47Z",
+      "url": "https://github.com/UrubuCode/rts/commit/8dc43f69e51bef5dda94a81ef67b3d0c0c6f9f00"
     },
     {
-      "sha": "260bb65136def7a5105eeaf6da3e357a38cea5d1",
-      "short": "260bb65",
-      "message": "Merge branch 'main' into feat/dom-subgrid-sg1",
+      "sha": "7ea178967d73fa6a283a2f03a70c8d55848d05ae",
+      "short": "7ea1789",
+      "message": "fix(layout): aspect-ratio derives a shrink-to-fit box's width from a definite height",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T10:05:45Z",
-      "url": "https://github.com/UrubuCode/rts/commit/260bb65136def7a5105eeaf6da3e357a38cea5d1"
+      "date": "2026-10-17T23:11:32Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7ea178967d73fa6a283a2f03a70c8d55848d05ae"
     },
     {
-      "sha": "baafc24df8e5219915ec5edb357cc6a04bf21b77",
-      "short": "baafc24",
-      "message": "fix(grid): support border-inline, track stretch min-size, and column-wrap align-content stretch",
+      "sha": "d0c8b70c3047cce4075976420932748879ff7ca6",
+      "short": "d0c8b70",
+      "message": "fix(layout): min-height is definite height only in flex/grid, not plain blocks",
       "author": "Marcos Brendon De Paula",
-      "date": "2026-10-17T10:05:09Z",
-      "url": "https://github.com/UrubuCode/rts/commit/baafc24df8e5219915ec5edb357cc6a04bf21b77"
+      "date": "2026-10-17T22:46:46Z",
+      "url": "https://github.com/UrubuCode/rts/commit/d0c8b70c3047cce4075976420932748879ff7ca6"
+    },
+    {
+      "sha": "4aeca919005365484a1ca2bbdf7adcc15a8f57d9",
+      "short": "4aeca91",
+      "message": "fix(layout): an in-flow block moves with its relative inline ancestor",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T22:22:25Z",
+      "url": "https://github.com/UrubuCode/rts/commit/4aeca919005365484a1ca2bbdf7adcc15a8f57d9"
+    },
+    {
+      "sha": "e5fa635ce17013532f2ca2a20048b40038c16869",
+      "short": "e5fa635",
+      "message": "feat(flex): honour `safe`/`unsafe` overflow-position on justify/align-content",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T22:00:40Z",
+      "url": "https://github.com/UrubuCode/rts/commit/e5fa635ce17013532f2ca2a20048b40038c16869"
+    },
+    {
+      "sha": "242efe3b107752c835b54079c809c7362678219c",
+      "short": "242efe3",
+      "message": "fix(flex): column-wrap max-content treats an item's % width as content",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T21:39:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/242efe3b107752c835b54079c809c7362678219c"
+    },
+    {
+      "sha": "67bdb7ad5d0e7bad00131a3e66c026a4742b9a68",
+      "short": "67bdb7a",
+      "message": "Merge remote-tracking branch 'origin/main' into feat/dom-subgrid-sg1",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-17T21:17:56Z",
+      "url": "https://github.com/UrubuCode/rts/commit/67bdb7ad5d0e7bad00131a3e66c026a4742b9a68"
     }
   ]
 }
