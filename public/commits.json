@@ -1,6 +1,22 @@
 {
-  "total": 7298,
+  "total": 7300,
   "commits": [
+    {
+      "sha": "fbaeef09fef2b82c58caca7dee848c5788a4843f",
+      "short": "fbaeef0",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-19T08:44:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/fbaeef09fef2b82c58caca7dee848c5788a4843f"
+    },
+    {
+      "sha": "266cff69a0e1fbc5c3c1c86768123f82c631f835",
+      "short": "266cff6",
+      "message": "docs: cross-runtime parity 90% + history snapshot 2026-10-19",
+      "author": "github-actions[bot]",
+      "date": "2026-10-19T08:42:13Z",
+      "url": "https://github.com/UrubuCode/rts/commit/266cff69a0e1fbc5c3c1c86768123f82c631f835"
+    },
     {
       "sha": "0b623eb34a252e44601c738f3bd32bc6b598c90f",
       "short": "0b623eb",
@@ -144,22 +160,6 @@
       "author": "Marcos Brendon De Paula",
       "date": "2026-10-18T14:13:47Z",
       "url": "https://github.com/UrubuCode/rts/commit/3a51577c4a8cce2c95a4505482bd695dd63740d0"
-    },
-    {
-      "sha": "381e9c7fafa12f62a679c2d3e8392b9dfd7db130",
-      "short": "381e9c7",
-      "message": "docs: auto-update benchmark table",
-      "author": "github-actions[bot]",
-      "date": "2026-10-18T13:42:49Z",
-      "url": "https://github.com/UrubuCode/rts/commit/381e9c7fafa12f62a679c2d3e8392b9dfd7db130"
-    },
-    {
-      "sha": "f6866d5f52257205e767da6b5b4795b9023b70f7",
-      "short": "f6866d5",
-      "message": "merge origin/main (auto benchmark table) into local main",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T13:07:12Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f6866d5f52257205e767da6b5b4795b9023b70f7"
     }
   ]
 }
