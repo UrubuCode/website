@@ -1,6 +1,46 @@
 {
-  "total": 7300,
+  "total": 7305,
   "commits": [
+    {
+      "sha": "06afc28a02b384a5d9954d0d3ca769da0b0ce05b",
+      "short": "06afc28",
+      "message": "docs: auto-update benchmark table",
+      "author": "github-actions[bot]",
+      "date": "2026-10-24T14:47:39Z",
+      "url": "https://github.com/UrubuCode/rts/commit/06afc28a02b384a5d9954d0d3ca769da0b0ce05b"
+    },
+    {
+      "sha": "2d934f84693303853e486c48341cef46abe6052e",
+      "short": "2d934f8",
+      "message": "docs: auto-update cross-runtime parity badge (90%)",
+      "author": "github-actions[bot]",
+      "date": "2026-10-24T14:42:59Z",
+      "url": "https://github.com/UrubuCode/rts/commit/2d934f84693303853e486c48341cef46abe6052e"
+    },
+    {
+      "sha": "bc3e93cce6f242ed8f20b27b7bdb2a54b128a7f8",
+      "short": "bc3e93c",
+      "message": "Merge pull request #2918 from UrubuCode/ccr-c0b9806e-wzrnjy",
+      "author": "Marcos Brendon De Paula",
+      "date": "2026-10-24T14:14:48Z",
+      "url": "https://github.com/UrubuCode/rts/commit/bc3e93cce6f242ed8f20b27b7bdb2a54b128a7f8"
+    },
+    {
+      "sha": "404e4a42c59c996ccc3cdd5874e82223628c73e7",
+      "short": "404e4a4",
+      "message": "test(dom): the WPT corpus is one question, and a missing one SKIPS",
+      "author": "Claude",
+      "date": "2026-10-24T13:32:31Z",
+      "url": "https://github.com/UrubuCode/rts/commit/404e4a42c59c996ccc3cdd5874e82223628c73e7"
+    },
+    {
+      "sha": "631fe42b04f75ca7cbcb553eb2be3a9922fbd2ae",
+      "short": "631fe42",
+      "message": "fix(layout): an inline's border edge is not content for the line-edge trim",
+      "author": "Claude",
+      "date": "2026-10-24T13:11:15Z",
+      "url": "https://github.com/UrubuCode/rts/commit/631fe42b04f75ca7cbcb553eb2be3a9922fbd2ae"
+    },
     {
       "sha": "fbaeef09fef2b82c58caca7dee848c5788a4843f",
       "short": "fbaeef0",
@@ -120,46 +160,6 @@
       "author": "Drysius",
       "date": "2026-10-18T17:01:24Z",
       "url": "https://github.com/UrubuCode/rts/commit/dfcda4186dc6bc63db3150704c8f6b04a91da544"
-    },
-    {
-      "sha": "9cf306ead07c2d492275340972624450b7f886ab",
-      "short": "9cf306e",
-      "message": "docs: restore docs/ and CLAUDE.md (removed in 6d98751dd)",
-      "author": "Drysius",
-      "date": "2026-10-18T16:52:51Z",
-      "url": "https://github.com/UrubuCode/rts/commit/9cf306ead07c2d492275340972624450b7f886ab"
-    },
-    {
-      "sha": "f2d54057c30074ba68e21f7ec07e8038b90dd4e3",
-      "short": "f2d5405",
-      "message": "Merge remote-tracking branch 'origin/main' into expecific-development",
-      "author": "Drysius",
-      "date": "2026-10-18T16:46:02Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f2d54057c30074ba68e21f7ec07e8038b90dd4e3"
-    },
-    {
-      "sha": "6498f4728d5becf4e2d1707a9f4d3188693fb3e6",
-      "short": "6498f47",
-      "message": "feat(dom): expose globalThis web globals on the page window (self.crypto, self.fetch, …)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T15:22:44Z",
-      "url": "https://github.com/UrubuCode/rts/commit/6498f4728d5becf4e2d1707a9f4d3188693fb3e6"
-    },
-    {
-      "sha": "f46eec1dfb4803d2810a8809b10b7af2109e6880",
-      "short": "f46eec1",
-      "message": "feat(regex): accept a quantified lookahead in Annex B (/(?=x)?/)",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T15:00:46Z",
-      "url": "https://github.com/UrubuCode/rts/commit/f46eec1dfb4803d2810a8809b10b7af2109e6880"
-    },
-    {
-      "sha": "3a51577c4a8cce2c95a4505482bd695dd63740d0",
-      "short": "3a51577",
-      "message": "fix(lower): order dead and copied blocks so a definition precedes its uses",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T14:13:47Z",
-      "url": "https://github.com/UrubuCode/rts/commit/3a51577c4a8cce2c95a4505482bd695dd63740d0"
     }
   ]
 }
