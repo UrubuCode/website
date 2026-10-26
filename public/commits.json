@@ -1,6 +1,14 @@
 {
-  "total": 7305,
+  "total": 7306,
   "commits": [
+    {
+      "sha": "7b2c06b3667e06db1676a919a8b080fc917ca419",
+      "short": "7b2c06b",
+      "message": "docs: cross-runtime parity 90% + history snapshot 2026-10-26",
+      "author": "github-actions[bot]",
+      "date": "2026-10-26T08:53:08Z",
+      "url": "https://github.com/UrubuCode/rts/commit/7b2c06b3667e06db1676a919a8b080fc917ca419"
+    },
     {
       "sha": "06afc28a02b384a5d9954d0d3ca769da0b0ce05b",
       "short": "06afc28",
@@ -152,14 +160,6 @@
       "author": "Drysius",
       "date": "2026-10-18T17:05:40Z",
       "url": "https://github.com/UrubuCode/rts/commit/359f8dc69db3e5968eb62d102f4ae32796226502"
-    },
-    {
-      "sha": "dfcda4186dc6bc63db3150704c8f6b04a91da544",
-      "short": "dfcda41",
-      "message": "docs: correct stale perf claims in CLAUDE.md + docs/codegen (additive status blocks)",
-      "author": "Drysius",
-      "date": "2026-10-18T17:01:24Z",
-      "url": "https://github.com/UrubuCode/rts/commit/dfcda4186dc6bc63db3150704c8f6b04a91da544"
     }
   ]
 }
