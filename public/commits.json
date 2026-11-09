@@ -1,6 +1,14 @@
 {
-  "total": 7307,
+  "total": 7308,
   "commits": [
+    {
+      "sha": "217e0612f094c41fd04c339d4e1c4a5c35bd25a8",
+      "short": "217e061",
+      "message": "docs: cross-runtime parity 90% + history snapshot 2026-11-09",
+      "author": "github-actions[bot]",
+      "date": "2026-11-09T11:06:45Z",
+      "url": "https://github.com/UrubuCode/rts/commit/217e0612f094c41fd04c339d4e1c4a5c35bd25a8"
+    },
     {
       "sha": "db7dbde439c7f4f46a63013605c71797cd379329",
       "short": "db7dbde",
@@ -152,14 +160,6 @@
       "author": "Drysius",
       "date": "2026-10-18T17:10:11Z",
       "url": "https://github.com/UrubuCode/rts/commit/872ba61ec2206a6469c2c39a23e02112bbc6a4a3"
-    },
-    {
-      "sha": "4db9d36b7303a77a602a1a3467c19f93a20baa5b",
-      "short": "4db9d36",
-      "message": "feat(trace): carry a source position on every captured stack frame",
-      "author": "Marcos Brendon De Paula",
-      "date": "2026-10-18T17:06:39Z",
-      "url": "https://github.com/UrubuCode/rts/commit/4db9d36b7303a77a602a1a3467c19f93a20baa5b"
     }
   ]
 }
